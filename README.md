@@ -4,7 +4,7 @@ Publish-ready HTML for the FBS ranking model and 2016–2025 week-by-week AP com
 
 ## Contents
 
-- `index.html` — overview and decade headline metrics
+- `index.html` — current-season rankings board (latest year in `data/`)
 - `method.html` — in-depth algorithm documentation
 - `comparisons.html` — index of seasons
 - `seasons/YYYY.html` — full weekly Model vs AP for that year

@@ -3,7 +3,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Overview · CFB Rankings</title>
+  <title>2025 CFB Rankings</title>
+  <meta name="description" content="2025 college football rankings from an iterative opponent-adjusted model. Final postseason Top 25 with records and movement from the previous week." />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
@@ -11,7 +12,7 @@
 <header class="site">
   <div class="wrap">
     <a class="brand" href="index.html">CFB Rankings</a>
-    <a href="index.html">Overview</a>
+    <a href="index.html" aria-current="page">2025 CFB Rankings</a>
     <a href="method.html">Method</a>
     <a href="comparisons.html">Seasons</a>
   </div>
@@ -19,102 +20,80 @@
 
 <main class="wrap">
 
-<h1>FBS rankings — iterative opponent-adjusted model</h1>
-<p class="lede">A fully algorithmic college football ranking system for FBS, designed to
-track late-season Associated Press Top 25 agreement while remaining transparent and
-reproducible. Game results are re-valued each week as opponent strength estimates converge.</p>
-
-<div class="cards">
-  <div class="card">
-    <div class="k">Final #1 match rate</div>
-    <div class="v">10/10</div>
-    <div class="s">2016–2025 final model #1 = final AP #1</div>
+<div class="board-head">
+  <div>
+    <p class="board-kicker">College Football Rankings</p>
+    <h1>2025 CFB Rankings</h1>
+    <p class="board-meta">Final (postseason) · ranked by the opponent-adjusted model · 934 games</p>
   </div>
-  <div class="card">
-    <div class="k">Mean final Spearman ρ</div>
-    <div class="v">0.839</div>
-    <div class="s">vs AP Top 25 (final / postseason)</div>
-  </div>
-  <div class="card">
-    <div class="k">Mean final overlap</div>
-    <div class="v">21.4</div>
-    <div class="s">teams shared in both Top 25s</div>
-  </div>
-  <div class="card">
-    <div class="k">Mean weekly ρ</div>
-    <div class="v">0.610</div>
-    <div class="s">average of per-season weekly means</div>
-  </div>
+  <p class="board-aside">
+    <a href="seasons/2025.html">Full 2025 weeks</a><br>
+    <a href="method.html">How rankings are calculated</a>
+  </p>
 </div>
 
-<div class="ok-note">
-  <strong>Start here:</strong>
-  <a href="method.html">Method document</a> (how the algorithm works) ·
-  <a href="comparisons.html">Season comparisons</a> (week-by-week Model vs AP for 2016–2025).
+<div class="rank-panel">
+  <table class="rank-board">
+    <caption class="sr-only">2025 final postseason model Top 25. Movement is versus Week 16, the end of the regular season.</caption>
+    <thead>
+      <tr>
+        <th class="num">Rk</th>
+        <th class="trend">±</th>
+        <th>Team</th>
+        <th>Record</th>
+        <th class="num">Score</th>
+        <th class="num">AP</th>
+      </tr>
+    </thead>
+    <tbody>
+<tr class="rk top"><td class="num rank-num">1</td><td class="trend"><span class="mv mv-same" title="Unchanged from 1">—</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/84.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>Indiana Hoosiers</span></div></td><td class="rec">16-0</td><td class="num score">104.87</td><td class="num ap">1</td></tr>
+<tr class="rk top"><td class="num rank-num">2</td><td class="trend"><span class="mv mv-up" title="Up 7 from 9">▲ 7</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>Miami Hurricanes</span></div></td><td class="rec">13-3</td><td class="num score">90.55</td><td class="num ap">2</td></tr>
+<tr class="rk top"><td class="num rank-num">3</td><td class="trend"><span class="mv mv-up" title="Up 7 from 10">▲ 7</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>Oregon Ducks</span></div></td><td class="rec">13-2</td><td class="num score">88.17</td><td class="num ap">4</td></tr>
+<tr class="rk top"><td class="num rank-num">4</td><td class="trend"><span class="mv mv-dn" title="Down 2 from 2">▼ 2</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>Texas Tech Red Raiders</span></div></td><td class="rec">12-2</td><td class="num score">85.13</td><td class="num ap">7</td></tr>
+<tr class="rk top"><td class="num rank-num">5</td><td class="trend"><span class="mv mv-dn" title="Down 2 from 3">▼ 2</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/61.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>Georgia Bulldogs</span></div></td><td class="rec">12-2</td><td class="num score">82.94</td><td class="num ap">6</td></tr>
+<tr class="rk"><td class="num rank-num">6</td><td class="trend"><span class="mv mv-dn" title="Down 2 from 4">▼ 2</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/194.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>Ohio State Buckeyes</span></div></td><td class="rec">12-2</td><td class="num score">81.99</td><td class="num ap">5</td></tr>
+<tr class="rk"><td class="num rank-num">7</td><td class="trend"><span class="mv mv-same" title="Unchanged from 7">—</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/145.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>Ole Miss Rebels</span></div></td><td class="rec">13-2</td><td class="num score">81.98</td><td class="num ap">3</td></tr>
+<tr class="rk"><td class="num rank-num">8</td><td class="trend"><span class="mv mv-up" title="Up 3 from 11">▲ 3</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/251.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>Texas Longhorns</span></div></td><td class="rec">10-3</td><td class="num score">77.93</td><td class="num ap">12</td></tr>
+<tr class="rk"><td class="num rank-num">9</td><td class="trend"><span class="mv mv-dn" title="Down 1 from 8">▼ 1</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/252.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>BYU Cougars</span></div></td><td class="rec">12-2</td><td class="num score">77.04</td><td class="num ap">11</td></tr>
+<tr class="rk"><td class="num rank-num">10</td><td class="trend"><span class="mv mv-dn" title="Down 4 from 6">▼ 4</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/87.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>Notre Dame Fighting Irish</span></div></td><td class="rec">10-2</td><td class="num score">76.96</td><td class="num ap">10</td></tr>
+<tr class="rk"><td class="num rank-num">11</td><td class="trend"><span class="mv mv-up" title="Up 1 from 12">▲ 1</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/333.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>Alabama Crimson Tide</span></div></td><td class="rec">11-4</td><td class="num score">75.54</td><td class="num ap">9</td></tr>
+<tr class="rk"><td class="num rank-num">12</td><td class="trend"><span class="mv mv-dn" title="Down 7 from 5">▼ 7</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/245.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>Texas A&amp;M Aggies</span></div></td><td class="rec">11-2</td><td class="num score">72.11</td><td class="num ap">8</td></tr>
+<tr class="rk"><td class="num rank-num">13</td><td class="trend"><span class="mv mv-up" title="Up 4 from 17">▲ 4</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/258.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>Virginia Cavaliers</span></div></td><td class="rec">11-3</td><td class="num score">70.66</td><td class="num ap">16</td></tr>
+<tr class="rk"><td class="num rank-num">14</td><td class="trend"><span class="mv mv-same" title="Unchanged from 14">—</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2655.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>Tulane Green Wave</span></div></td><td class="rec">11-3</td><td class="num score">70.35</td><td class="num ap">18</td></tr>
+<tr class="rk"><td class="num rank-num">15</td><td class="trend"><span class="mv mv-up" title="Up 6 from 21">▲ 6</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>SMU Mustangs</span></div></td><td class="rec">9-4</td><td class="num score">69.76</td><td class="num ap">—</td></tr>
+<tr class="rk"><td class="num rank-num">16</td><td class="trend"><span class="mv mv-dn" title="Down 1 from 15">▼ 1</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/254.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>Utah Utes</span></div></td><td class="rec">11-2</td><td class="num score">69.48</td><td class="num ap">14</td></tr>
+<tr class="rk"><td class="num rank-num">17</td><td class="trend"><span class="mv mv-dn" title="Down 4 from 13">▼ 4</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/201.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>Oklahoma Sooners</span></div></td><td class="rec">10-3</td><td class="num score">69.31</td><td class="num ap">13</td></tr>
+<tr class="rk"><td class="num rank-num">18</td><td class="trend"><span class="mv mv-dn" title="Down 2 from 16">▼ 2</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/30.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>USC Trojans</span></div></td><td class="rec">9-4</td><td class="num score">68.37</td><td class="num ap">20</td></tr>
+<tr class="rk"><td class="num rank-num">19</td><td class="trend"><span class="mv mv-nr" title="Not in the previous Top 25">NR</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>TCU Horned Frogs</span></div></td><td class="rec">9-4</td><td class="num score">67.86</td><td class="num ap">25</td></tr>
+<tr class="rk"><td class="num rank-num">20</td><td class="trend"><span class="mv mv-nr" title="Not in the previous Top 25">NR</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/152.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>NC State Wolfpack</span></div></td><td class="rec">8-5</td><td class="num score">67.72</td><td class="num ap">—</td></tr>
+<tr class="rk"><td class="num rank-num">21</td><td class="trend"><span class="mv mv-nr" title="Not in the previous Top 25">NR</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/249.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>North Texas Mean Green</span></div></td><td class="rec">12-2</td><td class="num score">67.61</td><td class="num ap">24</td></tr>
+<tr class="rk"><td class="num rank-num">22</td><td class="trend"><span class="mv mv-nr" title="Not in the previous Top 25">NR</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/97.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>Louisville Cardinals</span></div></td><td class="rec">9-4</td><td class="num score">66.70</td><td class="num ap">—</td></tr>
+<tr class="rk"><td class="num rank-num">23</td><td class="trend"><span class="mv mv-nr" title="Not in the previous Top 25">NR</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/150.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>Duke Blue Devils</span></div></td><td class="rec">9-5</td><td class="num score">66.62</td><td class="num ap">—</td></tr>
+<tr class="rk"><td class="num rank-num">24</td><td class="trend"><span class="mv mv-same" title="Unchanged from 24">—</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/248.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>Houston Cougars</span></div></td><td class="rec">10-3</td><td class="num score">66.39</td><td class="num ap">22</td></tr>
+<tr class="rk"><td class="num rank-num">25</td><td class="trend"><span class="mv mv-nr" title="Not in the previous Top 25">NR</span></td><td class="team"><div class="team-cell"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png" alt="" width="36" height="36" loading="lazy" onerror="this.remove()"><span>Iowa Hawkeyes</span></div></td><td class="rec">9-4</td><td class="num score">66.28</td><td class="num ap">17</td></tr>
+    </tbody>
+  </table>
 </div>
 
-<h2>What you will find</h2>
-<ul class="tight">
-  <li>In-depth description of iterative game points, opponent-adjusted O/D, SOS, and current weights</li>
-  <li>For each of 10 seasons: every week’s Top 25 side-by-side with AP, overlap, Spearman ρ, and largest disagreements</li>
-  <li>Downloadable JSON/CSV under <code>data/</code> for further analysis</li>
-</ul>
+<p class="rank-legend">
+  <span class="mv mv-up">▲</span> moved up
+  <span class="mv mv-dn">▼</span> moved down
+  <span class="mv mv-same">—</span> unchanged
+  <span class="mv mv-nr">NR</span> not in the previous Top 25.
+  Movement is from Week 16 (end of the regular season) to this final postseason ranking.
+  Score is the model rating. AP is the Associated Press rank for the same week.
+</p>
 
-<h2>Seasons</h2>
-<div class="season-grid">
-<a class="season-card" href="seasons/2016.html">
-              <strong>2016</strong>
-              <span class="muted">Final ρ 0.820 · ov 22/25</span><br>
-              <span>✓ Clemson Tigers</span>
-            </a><a class="season-card" href="seasons/2017.html">
-              <strong>2017</strong>
-              <span class="muted">Final ρ 0.942 · ov 22/25</span><br>
-              <span>✓ Alabama Crimson Tide</span>
-            </a><a class="season-card" href="seasons/2018.html">
-              <strong>2018</strong>
-              <span class="muted">Final ρ 0.785 · ov 21/25</span><br>
-              <span>✓ Clemson Tigers</span>
-            </a><a class="season-card" href="seasons/2019.html">
-              <strong>2019</strong>
-              <span class="muted">Final ρ 0.918 · ov 24/25</span><br>
-              <span>✓ LSU Tigers</span>
-            </a><a class="season-card" href="seasons/2020.html">
-              <strong>2020</strong>
-              <span class="muted">Final ρ 0.585 · ov 21/25</span><br>
-              <span>✓ Alabama Crimson Tide</span>
-            </a><a class="season-card" href="seasons/2021.html">
-              <strong>2021</strong>
-              <span class="muted">Final ρ 0.766 · ov 20/25</span><br>
-              <span>✓ Georgia Bulldogs</span>
-            </a><a class="season-card" href="seasons/2022.html">
-              <strong>2022</strong>
-              <span class="muted">Final ρ 0.927 · ov 22/25</span><br>
-              <span>✓ Georgia Bulldogs</span>
-            </a><a class="season-card" href="seasons/2023.html">
-              <strong>2023</strong>
-              <span class="muted">Final ρ 0.919 · ov 22/25</span><br>
-              <span>✓ Michigan Wolverines</span>
-            </a><a class="season-card" href="seasons/2024.html">
-              <strong>2024</strong>
-              <span class="muted">Final ρ 0.843 · ov 19/25</span><br>
-              <span>✓ Ohio State Buckeyes</span>
-            </a><a class="season-card" href="seasons/2025.html">
-              <strong>2025</strong>
-              <span class="muted">Final ρ 0.880 · ov 21/25</span><br>
-              <span>✓ Indiana Hoosiers</span>
-            </a>
-</div>
-
-<h2>Honesty notes</h2>
-<ul class="tight">
-  <li>Rankings are computed from cached ESPN game and poll data — nothing is fabricated.</li>
-  <li>Early weeks are noisier; late-season agreement was the tuning target.</li>
-  <li>2020 is a partial/COVID season with thinner stats coverage.</li>
-</ul>
+<p class="rank-links">
+  <a href="seasons/2025.html">2025 week-by-week vs AP</a>
+  · <a href="comparisons.html">Season archives, 2016–2025</a>
+  · <a href="method.html">Methodology</a>
+  · <a href="data/2025/weeks/final.json">final.json</a>
+</p>
 
 <footer class="site">
-  <p>FBS college football rankings — iterative opponent-adjusted model vs Associated Press Top 25.
-  Data via ESPN public APIs. Generated 2026-10-06. Not affiliated with the AP or ESPN.</p>
+  <p>FBS college football rankings — iterative opponent-adjusted model.
+  Data via ESPN public APIs. Not affiliated with the AP or ESPN.</p>
 </footer>
 </main>
 </body>

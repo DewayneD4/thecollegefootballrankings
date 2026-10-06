@@ -31,10 +31,18 @@ header.site {
   padding: 1rem 0;
   border-bottom: 4px solid var(--accent);
 }
-header.site .wrap { padding-top: 0.5rem; padding-bottom: 0.5rem; }
-header.site a { color: #fff; text-decoration: none; margin-right: 1.1rem; font-weight: 600; }
+header.site .wrap {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem 1.15rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+header.site a { color: #fff; text-decoration: none; font-weight: 600; }
 header.site a:hover { text-decoration: underline; }
-header.site .brand { font-size: 1.15rem; letter-spacing: 0.02em; margin-right: 1.5rem; }
+header.site a[aria-current="page"] { box-shadow: inset 0 -2px 0 #fff; }
+header.site .brand { font-size: 1.15rem; letter-spacing: 0.02em; margin-right: 0.35rem; }
 h1, h2, h3 { font-family: var(--serif); line-height: 1.25; }
 h1 { font-size: 2.1rem; margin: 0.4rem 0 0.8rem; }
 h2 { font-size: 1.55rem; margin-top: 2rem; border-bottom: 1px solid var(--border); padding-bottom: 0.35rem; }
@@ -146,3 +154,89 @@ footer.site {
 .badge.no { background: #fdeceb; color: var(--accent); }
 .match-y { color: var(--good); font-weight: 700; }
 .match-n { color: var(--accent); font-weight: 700; }
+
+.board-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 1rem 2rem;
+  margin: 0.15rem 0 1.1rem;
+}
+.board-kicker {
+  margin: 0 0 0.2rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.board-head h1 { margin: 0; font-size: 2.35rem; letter-spacing: -0.02em; }
+.board-meta { margin: 0.4rem 0 0; color: var(--muted); }
+.board-aside { margin: 0; text-align: right; font-size: 0.95rem; line-height: 1.7; }
+.rank-panel {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 10px 28px rgba(30, 58, 95, 0.07);
+}
+.rank-board { border: 0; border-radius: 0; margin: 0; }
+.rank-board th {
+  background: var(--accent2);
+  color: #fff;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  padding: 0.7rem 0.85rem;
+  border-bottom: 0;
+}
+.rank-board td {
+  padding: 0.72rem 0.85rem;
+  vertical-align: middle;
+  border-bottom: 1px solid #ece8e1;
+}
+.rank-board tbody tr:last-child td { border-bottom: none; }
+.rank-board tbody tr:hover td { background: #f3f6fb; }
+.rank-board tr.top td.rank-num { box-shadow: inset 3px 0 0 var(--accent); }
+.rank-num {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 1.35rem;
+  color: var(--accent2);
+  width: 3.2rem;
+}
+.rank-board th.trend, .rank-board td.trend { width: 4.2rem; text-align: left; }
+.rank-board td.rec { color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.rank-board td.score { font-weight: 700; color: var(--ink); }
+.rank-board td.ap { color: var(--muted); }
+.team-cell { display: flex; align-items: center; gap: 0.75rem; font-weight: 700; }
+.team-cell img { width: 36px; height: 36px; object-fit: contain; flex: none; }
+.mv { font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.mv-up { color: var(--good); }
+.mv-dn { color: #b42318; }
+.mv-same { color: #8a8680; font-weight: 600; }
+.mv-nr { color: var(--good); font-size: 0.78rem; letter-spacing: 0.04em; }
+.rank-legend { color: var(--muted); font-size: 0.92rem; margin: 0.9rem 0 0.4rem; }
+.rank-legend .mv { margin: 0 0.15rem 0 0.55rem; }
+.rank-legend .mv:first-child { margin-left: 0; }
+.rank-links { margin-top: 0.35rem; }
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+@media (max-width: 720px) {
+  .board-head { flex-direction: column; align-items: flex-start; }
+  .board-aside { text-align: left; }
+  .board-head h1 { font-size: 1.85rem; }
+  .rank-board td.score, .rank-board th:nth-child(5),
+  .rank-board td.ap, .rank-board th:nth-child(6) { display: none; }
+  .rank-board td, .rank-board th { padding: 0.65rem 0.55rem; }
+  .team-cell { gap: 0.5rem; }
+  .team-cell img { width: 28px; height: 28px; }
+}
