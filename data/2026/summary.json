@@ -1,0 +1,64 @@
+{
+  "season": 2026,
+  "latest_week": 5,
+  "label": "2026 Week 5",
+  "ap_week": 6,
+  "n_games": 390,
+  "overlap_top25": 22,
+  "spearman_ap25": 0.5892307692307692,
+  "model_1": "Alabama Crimson Tide",
+  "ap_1": "Texas",
+  "weeks": [
+    {
+      "week": 1,
+      "label": "2026 Week 1",
+      "overlap_top25": 12,
+      "spearman_ap25": 0.12692307692307694,
+      "model_1": "USC Trojans",
+      "ap_1": "Texas",
+      "ap_week": 6,
+      "n_games": 99
+    },
+    {
+      "week": 2,
+      "label": "2026 Week 2",
+      "overlap_top25": 13,
+      "spearman_ap25": 0.048461538461538466,
+      "model_1": "USC Trojans",
+      "ap_1": "Texas",
+      "ap_week": 6,
+      "n_games": 185
+    },
+    {
+      "week": 3,
+      "label": "2026 Week 3",
+      "overlap_top25": 16,
+      "spearman_ap25": 0.35307692307692307,
+      "model_1": "Alabama Crimson Tide",
+      "ap_1": "Texas",
+      "ap_week": 6,
+      "n_games": 260
+    },
+    {
+      "week": 4,
+      "label": "2026 Week 4",
+      "overlap_top25": 19,
+      "spearman_ap25": 0.4238461538461538,
+      "model_1": "Texas Longhorns",
+      "ap_1": "Texas",
+      "ap_week": 6,
+      "n_games": 331
+    },
+    {
+      "week": 5,
+      "label": "2026 Week 5",
+      "overlap_top25": 22,
+      "spearman_ap25": 0.5892307692307692,
+      "model_1": "Alabama Crimson Tide",
+      "ap_1": "Texas",
+      "ap_week": 6,
+      "n_games": 390
+    }
+  ],
+  "updated": "2026-10-06"
+}

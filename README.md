@@ -1,10 +1,28 @@
+# The College Football Rankings — static site
+
+Home (`index.html`) shows **current 2026** model Top 25.
+
+Nav brand: **2026 CFB Rankings**.
+
+## Deploy
+
+Publish this folder to GitHub Pages / Netlify / S3 / Squarespace file host.
+Zip handoff: `../output/cfb-rankings-site.zip`.
+
+## Refresh current week
+
+```bash
+cd /workspace/cfb-rankings
+.venv/bin/python update_2026_site.py
+```
+
 # CFB Rankings — static site
 
 Publish-ready HTML for the FBS ranking model and 2016–2025 week-by-week AP comparisons.
 
 ## Contents
 
-- `index.html` — current-season rankings board (latest year in `data/`)
+- `index.html` — overview and decade headline metrics
 - `method.html` — in-depth algorithm documentation
 - `comparisons.html` — index of seasons
 - `seasons/YYYY.html` — full weekly Model vs AP for that year
