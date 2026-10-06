@@ -1,8 +1,9 @@
 season,week,phase,n_games,overlap_top25,spearman_ap25,model_1,ap_1,has_ap
-2023,1,regular,94,10,0.14615384615384616,Auburn Tigers,Georgia Bulldogs,True
-2023,2,regular,179,15,0.21923076923076923,UCLA Bruins,Georgia Bulldogs,True
-2023,3,regular,254,20,-0.11153846153846154,Texas Longhorns,Georgia Bulldogs,True
-2023,4,regular,321,18,0.42769230769230765,Texas Longhorns,Georgia Bulldogs,True
+2023,0,preseason,0,25,1.0,Georgia Bulldogs,Georgia Bulldogs,True
+2023,1,regular,94,10,0.1461538461538461,Auburn Tigers,Georgia Bulldogs,True
+2023,2,regular,179,15,0.2192307692307692,UCLA Bruins,Georgia Bulldogs,True
+2023,3,regular,254,20,-0.1115384615384615,Texas Longhorns,Georgia Bulldogs,True
+2023,4,regular,321,18,0.4276923076923076,Texas Longhorns,Georgia Bulldogs,True
 2023,5,regular,380,20,0.6215384615384615,Texas Longhorns,Georgia Bulldogs,True
 2023,6,regular,431,21,0.6215384615384615,Oklahoma Sooners,Georgia Bulldogs,True
 2023,7,regular,486,19,0.763608400353531,Oklahoma Sooners,Georgia Bulldogs,True

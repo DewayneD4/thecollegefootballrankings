@@ -488,16 +488,6 @@
       "model_rank": 27
     },
     {
-      "team": "NC State Wolfpack",
-      "ap_rank": 14,
-      "model_rank": 31
-    },
-    {
-      "team": "South Florida Bulls",
-      "ap_rank": 17,
-      "model_rank": 42
-    },
-    {
       "team": "West Virginia Mountaineers",
       "ap_rank": 22,
       "model_rank": 45
@@ -506,6 +496,16 @@
       "team": "LSU Tigers",
       "ap_rank": 23,
       "model_rank": 32
+    },
+    {
+      "team": "South Florida Bulls",
+      "ap_rank": 17,
+      "model_rank": 42
+    },
+    {
+      "team": "NC State Wolfpack",
+      "ap_rank": 14,
+      "model_rank": 31
     }
   ]
 }

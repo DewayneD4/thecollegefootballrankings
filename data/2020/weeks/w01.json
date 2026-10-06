@@ -563,19 +563,74 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Oklahoma Sooners",
-      "ap_rank": 5,
-      "model_rank": 40
+      "team": "Clemson Tigers",
+      "ap_rank": 1,
+      "model_rank": 37
     },
     {
-      "team": "Ohio State Buckeyes",
-      "ap_rank": 2,
-      "model_rank": 33
+      "team": "Auburn Tigers",
+      "ap_rank": 11,
+      "model_rank": 71
+    },
+    {
+      "team": "LSU Tigers",
+      "ap_rank": 6,
+      "model_rank": 79
+    },
+    {
+      "team": "Michigan Wolverines",
+      "ap_rank": 16,
+      "model_rank": 57
+    },
+    {
+      "team": "Oregon Ducks",
+      "ap_rank": 9,
+      "model_rank": 36
+    },
+    {
+      "team": "Penn State Nittany Lions",
+      "ap_rank": 7,
+      "model_rank": 87
+    },
+    {
+      "team": "Wisconsin Badgers",
+      "ap_rank": 12,
+      "model_rank": 100
+    },
+    {
+      "team": "Minnesota Golden Gophers",
+      "ap_rank": 19,
+      "model_rank": 75
     },
     {
       "team": "USC Trojans",
       "ap_rank": 17,
       "model_rank": 78
+    },
+    {
+      "team": "Georgia Bulldogs",
+      "ap_rank": 4,
+      "model_rank": 52
+    },
+    {
+      "team": "Iowa State Cyclones",
+      "ap_rank": 23,
+      "model_rank": 41
+    },
+    {
+      "team": "Tennessee Volunteers",
+      "ap_rank": 25,
+      "model_rank": 93
+    },
+    {
+      "team": "Iowa Hawkeyes",
+      "ap_rank": 24,
+      "model_rank": 84
+    },
+    {
+      "team": "Texas Longhorns",
+      "ap_rank": 14,
+      "model_rank": 49
     },
     {
       "team": "Texas A&M Aggies",
@@ -588,79 +643,24 @@
       "model_rank": 80
     },
     {
-      "team": "Michigan Wolverines",
-      "ap_rank": 16,
-      "model_rank": 57
-    },
-    {
-      "team": "Wisconsin Badgers",
-      "ap_rank": 12,
-      "model_rank": 100
-    },
-    {
-      "team": "Iowa Hawkeyes",
-      "ap_rank": 24,
-      "model_rank": 84
-    },
-    {
-      "team": "Penn State Nittany Lions",
-      "ap_rank": 7,
-      "model_rank": 87
-    },
-    {
       "team": "Utah Utes",
       "ap_rank": 22,
       "model_rank": 56
     },
     {
-      "team": "Tennessee Volunteers",
-      "ap_rank": 25,
-      "model_rank": 93
+      "team": "Oklahoma Sooners",
+      "ap_rank": 5,
+      "model_rank": 40
     },
     {
-      "team": "Minnesota Golden Gophers",
-      "ap_rank": 19,
-      "model_rank": 75
-    },
-    {
-      "team": "LSU Tigers",
-      "ap_rank": 6,
-      "model_rank": 79
-    },
-    {
-      "team": "Oregon Ducks",
-      "ap_rank": 9,
-      "model_rank": 36
-    },
-    {
-      "team": "Clemson Tigers",
-      "ap_rank": 1,
-      "model_rank": 37
+      "team": "Ohio State Buckeyes",
+      "ap_rank": 2,
+      "model_rank": 33
     },
     {
       "team": "Notre Dame Fighting Irish",
       "ap_rank": 10,
       "model_rank": 44
-    },
-    {
-      "team": "Texas Longhorns",
-      "ap_rank": 14,
-      "model_rank": 49
-    },
-    {
-      "team": "Iowa State Cyclones",
-      "ap_rank": 23,
-      "model_rank": 41
-    },
-    {
-      "team": "Auburn Tigers",
-      "ap_rank": 11,
-      "model_rank": 71
-    },
-    {
-      "team": "Georgia Bulldogs",
-      "ap_rank": 4,
-      "model_rank": 52
     },
     {
       "team": "Florida Gators",

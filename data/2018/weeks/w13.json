@@ -488,19 +488,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Utah State Aggies",
-      "ap_rank": 14,
-      "model_rank": 38
-    },
-    {
       "team": "West Virginia Mountaineers",
       "ap_rank": 12,
       "model_rank": 26
-    },
-    {
-      "team": "Syracuse Orange",
-      "ap_rank": 19,
-      "model_rank": 30
     },
     {
       "team": "Iowa State Cyclones",
@@ -508,14 +498,24 @@
       "model_rank": 35
     },
     {
-      "team": "Army Black Knights",
-      "ap_rank": 23,
-      "model_rank": 29
-    },
-    {
       "team": "Pittsburgh Panthers",
       "ap_rank": 24,
       "model_rank": 28
+    },
+    {
+      "team": "Syracuse Orange",
+      "ap_rank": 19,
+      "model_rank": 30
+    },
+    {
+      "team": "Utah State Aggies",
+      "ap_rank": 14,
+      "model_rank": 38
+    },
+    {
+      "team": "Army Black Knights",
+      "ap_rank": 23,
+      "model_rank": 29
     }
   ]
 }

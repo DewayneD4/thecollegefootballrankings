@@ -473,11 +473,6 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Tulane Green Wave",
-      "ap_rank": 18,
-      "model_rank": 32
-    },
-    {
       "team": "Tennessee Volunteers",
       "ap_rank": 25,
       "model_rank": 29
@@ -486,6 +481,11 @@
       "team": "Toledo Rockets",
       "ap_rank": 23,
       "model_rank": 27
+    },
+    {
+      "team": "Tulane Green Wave",
+      "ap_rank": 18,
+      "model_rank": 32
     }
   ]
 }

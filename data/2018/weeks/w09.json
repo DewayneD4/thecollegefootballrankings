@@ -493,14 +493,29 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Texas A&M Aggies",
-      "ap_rank": 16,
-      "model_rank": 26
+      "team": "South Florida Bulls",
+      "ap_rank": 21,
+      "model_rank": 57
+    },
+    {
+      "team": "Oregon Ducks",
+      "ap_rank": 19,
+      "model_rank": 48
     },
     {
       "team": "Wisconsin Badgers",
       "ap_rank": 20,
       "model_rank": 43
+    },
+    {
+      "team": "UCF Knights",
+      "ap_rank": 10,
+      "model_rank": 33
+    },
+    {
+      "team": "Texas A&M Aggies",
+      "ap_rank": 16,
+      "model_rank": 26
     },
     {
       "team": "NC State Wolfpack",
@@ -511,21 +526,6 @@
       "team": "Appalachian State Mountaineers",
       "ap_rank": 25,
       "model_rank": 65
-    },
-    {
-      "team": "South Florida Bulls",
-      "ap_rank": 21,
-      "model_rank": 57
-    },
-    {
-      "team": "UCF Knights",
-      "ap_rank": 10,
-      "model_rank": 33
-    },
-    {
-      "team": "Oregon Ducks",
-      "ap_rank": 19,
-      "model_rank": 48
     }
   ]
 }

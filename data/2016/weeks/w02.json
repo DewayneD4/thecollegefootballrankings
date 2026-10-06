@@ -518,9 +518,39 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Oklahoma Sooners",
-      "ap_rank": 14,
-      "model_rank": 56
+      "team": "Stanford Cardinal",
+      "ap_rank": 7,
+      "model_rank": 54
+    },
+    {
+      "team": "Miami Hurricanes",
+      "ap_rank": 25,
+      "model_rank": 30
+    },
+    {
+      "team": "LSU Tigers",
+      "ap_rank": 21,
+      "model_rank": 65
+    },
+    {
+      "team": "Oregon Ducks",
+      "ap_rank": 24,
+      "model_rank": 51
+    },
+    {
+      "team": "Ole Miss Rebels",
+      "ap_rank": 19,
+      "model_rank": 70
+    },
+    {
+      "team": "Florida State Seminoles",
+      "ap_rank": 3,
+      "model_rank": 27
+    },
+    {
+      "team": "Iowa Hawkeyes",
+      "ap_rank": 16,
+      "model_rank": 36
     },
     {
       "team": "Michigan State Spartans",
@@ -533,39 +563,9 @@
       "model_rank": 79
     },
     {
-      "team": "Iowa Hawkeyes",
-      "ap_rank": 16,
-      "model_rank": 36
-    },
-    {
-      "team": "Stanford Cardinal",
-      "ap_rank": 7,
-      "model_rank": 54
-    },
-    {
-      "team": "Florida State Seminoles",
-      "ap_rank": 3,
-      "model_rank": 27
-    },
-    {
-      "team": "Miami Hurricanes",
-      "ap_rank": 25,
-      "model_rank": 30
-    },
-    {
-      "team": "TCU Horned Frogs",
-      "ap_rank": 15,
-      "model_rank": 83
-    },
-    {
-      "team": "Ole Miss Rebels",
-      "ap_rank": 19,
-      "model_rank": 70
-    },
-    {
-      "team": "LSU Tigers",
-      "ap_rank": 21,
-      "model_rank": 65
+      "team": "Oklahoma Sooners",
+      "ap_rank": 14,
+      "model_rank": 56
     },
     {
       "team": "Notre Dame Fighting Irish",
@@ -573,9 +573,9 @@
       "model_rank": 48
     },
     {
-      "team": "Oregon Ducks",
-      "ap_rank": 24,
-      "model_rank": 51
+      "team": "TCU Horned Frogs",
+      "ap_rank": 15,
+      "model_rank": 83
     }
   ]
 }

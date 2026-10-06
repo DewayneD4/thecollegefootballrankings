@@ -530,39 +530,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Oklahoma Sooners",
-      "ap_rank": 4,
-      "model_rank": 33
-    },
-    {
-      "team": "Washington State Cougars",
-      "ap_rank": 22,
-      "model_rank": 51
-    },
-    {
-      "team": "Texas A&M Aggies",
-      "ap_rank": 12,
-      "model_rank": 50
-    },
-    {
       "team": "Stanford Cardinal",
       "ap_rank": 23,
       "model_rank": 57
-    },
-    {
-      "team": "UCF Knights",
-      "ap_rank": 18,
-      "model_rank": 37
-    },
-    {
-      "team": "Syracuse Orange",
-      "ap_rank": 21,
-      "model_rank": 63
-    },
-    {
-      "team": "Washington Huskies",
-      "ap_rank": 14,
-      "model_rank": 80
     },
     {
       "team": "Nebraska Cornhuskers",
@@ -575,14 +545,14 @@
       "model_rank": 36
     },
     {
-      "team": "Notre Dame Fighting Irish",
-      "ap_rank": 8,
-      "model_rank": 31
+      "team": "UCF Knights",
+      "ap_rank": 18,
+      "model_rank": 37
     },
     {
-      "team": "Texas Longhorns",
-      "ap_rank": 9,
-      "model_rank": 53
+      "team": "Georgia Bulldogs",
+      "ap_rank": 3,
+      "model_rank": 26
     },
     {
       "team": "Iowa State Cyclones",
@@ -590,9 +560,39 @@
       "model_rank": 81
     },
     {
-      "team": "Georgia Bulldogs",
-      "ap_rank": 3,
-      "model_rank": 26
+      "team": "Washington Huskies",
+      "ap_rank": 14,
+      "model_rank": 80
+    },
+    {
+      "team": "Washington State Cougars",
+      "ap_rank": 22,
+      "model_rank": 51
+    },
+    {
+      "team": "Texas Longhorns",
+      "ap_rank": 9,
+      "model_rank": 53
+    },
+    {
+      "team": "Texas A&M Aggies",
+      "ap_rank": 12,
+      "model_rank": 50
+    },
+    {
+      "team": "Oklahoma Sooners",
+      "ap_rank": 4,
+      "model_rank": 33
+    },
+    {
+      "team": "Syracuse Orange",
+      "ap_rank": 21,
+      "model_rank": 63
+    },
+    {
+      "team": "Notre Dame Fighting Irish",
+      "ap_rank": 8,
+      "model_rank": 31
     },
     {
       "team": "Florida Gators",

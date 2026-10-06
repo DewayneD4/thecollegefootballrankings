@@ -498,29 +498,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "NC State Wolfpack",
-      "ap_rank": 22,
-      "model_rank": 39
-    },
-    {
       "team": "Fresno State Bulldogs",
       "ap_rank": 16,
       "model_rank": 33
-    },
-    {
-      "team": "Utah State Aggies",
-      "ap_rank": 14,
-      "model_rank": 31
-    },
-    {
-      "team": "Syracuse Orange",
-      "ap_rank": 13,
-      "model_rank": 35
-    },
-    {
-      "team": "Cincinnati Bearcats",
-      "ap_rank": 25,
-      "model_rank": 30
     },
     {
       "team": "Boston College Eagles",
@@ -528,14 +508,34 @@
       "model_rank": 41
     },
     {
+      "team": "Iowa State Cyclones",
+      "ap_rank": 23,
+      "model_rank": 27
+    },
+    {
       "team": "Texas Longhorns",
       "ap_rank": 15,
       "model_rank": 26
     },
     {
-      "team": "Iowa State Cyclones",
-      "ap_rank": 23,
-      "model_rank": 27
+      "team": "Cincinnati Bearcats",
+      "ap_rank": 25,
+      "model_rank": 30
+    },
+    {
+      "team": "NC State Wolfpack",
+      "ap_rank": 22,
+      "model_rank": 39
+    },
+    {
+      "team": "Syracuse Orange",
+      "ap_rank": 13,
+      "model_rank": 35
+    },
+    {
+      "team": "Utah State Aggies",
+      "ap_rank": 14,
+      "model_rank": 31
     }
   ]
 }

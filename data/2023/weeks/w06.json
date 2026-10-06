@@ -488,14 +488,14 @@
       "model_rank": 39
     },
     {
-      "team": "Missouri Tigers",
-      "ap_rank": 21,
-      "model_rank": 30
-    },
-    {
       "team": "Kentucky Wildcats",
       "ap_rank": 20,
       "model_rank": 32
+    },
+    {
+      "team": "Missouri Tigers",
+      "ap_rank": 21,
+      "model_rank": 30
     }
   ]
 }

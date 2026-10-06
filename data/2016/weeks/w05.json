@@ -488,14 +488,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Michigan State Spartans",
-      "ap_rank": 17,
-      "model_rank": 65
-    },
-    {
-      "team": "Utah Utes",
-      "ap_rank": 18,
-      "model_rank": 37
+      "team": "Arkansas Razorbacks",
+      "ap_rank": 20,
+      "model_rank": 28
     },
     {
       "team": "San Diego State Aztecs",
@@ -503,19 +498,24 @@
       "model_rank": 60
     },
     {
-      "team": "Arkansas Razorbacks",
-      "ap_rank": 20,
-      "model_rank": 28
-    },
-    {
-      "team": "TCU Horned Frogs",
-      "ap_rank": 21,
-      "model_rank": 70
+      "team": "Michigan State Spartans",
+      "ap_rank": 17,
+      "model_rank": 65
     },
     {
       "team": "Texas Longhorns",
       "ap_rank": 22,
       "model_rank": 74
+    },
+    {
+      "team": "Utah Utes",
+      "ap_rank": 18,
+      "model_rank": 37
+    },
+    {
+      "team": "TCU Horned Frogs",
+      "ap_rank": 21,
+      "model_rank": 70
     }
   ]
 }

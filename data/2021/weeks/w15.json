@@ -493,29 +493,14 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Texas A&M Aggies",
-      "ap_rank": 23,
-      "model_rank": 33
-    },
-    {
-      "team": "NC State Wolfpack",
-      "ap_rank": 18,
-      "model_rank": 38
+      "team": "Clemson Tigers",
+      "ap_rank": 19,
+      "model_rank": 31
     },
     {
       "team": "Wake Forest Demon Deacons",
       "ap_rank": 20,
       "model_rank": 28
-    },
-    {
-      "team": "UTSA Roadrunners",
-      "ap_rank": 24,
-      "model_rank": 30
-    },
-    {
-      "team": "Clemson Tigers",
-      "ap_rank": 19,
-      "model_rank": 31
     },
     {
       "team": "Houston Cougars",
@@ -526,6 +511,21 @@
       "team": "Kentucky Wildcats",
       "ap_rank": 25,
       "model_rank": 35
+    },
+    {
+      "team": "NC State Wolfpack",
+      "ap_rank": 18,
+      "model_rank": 38
+    },
+    {
+      "team": "Texas A&M Aggies",
+      "ap_rank": 23,
+      "model_rank": 33
+    },
+    {
+      "team": "UTSA Roadrunners",
+      "ap_rank": 24,
+      "model_rank": 30
     }
   ]
 }

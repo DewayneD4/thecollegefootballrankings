@@ -493,9 +493,14 @@
   ],
   "ap_only_top25": [
     {
-      "team": "BYU Cougars",
-      "ap_rank": 20,
-      "model_rank": 42
+      "team": "Miami Hurricanes",
+      "ap_rank": 16,
+      "model_rank": 26
+    },
+    {
+      "team": "Oregon Ducks",
+      "ap_rank": 19,
+      "model_rank": 32
     },
     {
       "team": "Wisconsin Badgers",
@@ -508,24 +513,19 @@
       "model_rank": 44
     },
     {
+      "team": "California Golden Bears",
+      "ap_rank": 24,
+      "model_rank": 48
+    },
+    {
       "team": "Mississippi State Bulldogs",
       "ap_rank": 23,
       "model_rank": 51
     },
     {
-      "team": "Miami Hurricanes",
-      "ap_rank": 16,
-      "model_rank": 26
-    },
-    {
-      "team": "Oregon Ducks",
-      "ap_rank": 19,
-      "model_rank": 32
-    },
-    {
-      "team": "California Golden Bears",
-      "ap_rank": 24,
-      "model_rank": 48
+      "team": "BYU Cougars",
+      "ap_rank": 20,
+      "model_rank": 42
     }
   ]
 }

@@ -513,44 +513,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Washington State Cougars",
-      "ap_rank": 20,
-      "model_rank": 40
-    },
-    {
-      "team": "USC Trojans",
-      "ap_rank": 24,
-      "model_rank": 41
-    },
-    {
-      "team": "Texas A&M Aggies",
-      "ap_rank": 16,
-      "model_rank": 54
-    },
-    {
-      "team": "Michigan State Spartans",
-      "ap_rank": 18,
-      "model_rank": 26
-    },
-    {
       "team": "Michigan Wolverines",
       "ap_rank": 10,
       "model_rank": 35
-    },
-    {
-      "team": "Penn State Nittany Lions",
-      "ap_rank": 13,
-      "model_rank": 30
-    },
-    {
-      "team": "Boise State Broncos",
-      "ap_rank": 22,
-      "model_rank": 29
-    },
-    {
-      "team": "Washington Huskies",
-      "ap_rank": 23,
-      "model_rank": 34
     },
     {
       "team": "Oregon Ducks",
@@ -558,9 +523,44 @@
       "model_rank": 48
     },
     {
+      "team": "Penn State Nittany Lions",
+      "ap_rank": 13,
+      "model_rank": 30
+    },
+    {
+      "team": "USC Trojans",
+      "ap_rank": 24,
+      "model_rank": 41
+    },
+    {
+      "team": "Washington Huskies",
+      "ap_rank": 23,
+      "model_rank": 34
+    },
+    {
+      "team": "Boise State Broncos",
+      "ap_rank": 22,
+      "model_rank": 29
+    },
+    {
+      "team": "Washington State Cougars",
+      "ap_rank": 20,
+      "model_rank": 40
+    },
+    {
       "team": "Texas Longhorns",
       "ap_rank": 12,
       "model_rank": 33
+    },
+    {
+      "team": "Michigan State Spartans",
+      "ap_rank": 18,
+      "model_rank": 26
+    },
+    {
+      "team": "Texas A&M Aggies",
+      "ap_rank": 16,
+      "model_rank": 54
     },
     {
       "team": "Maryland Terrapins",

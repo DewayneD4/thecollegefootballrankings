@@ -468,14 +468,14 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Navy Midshipmen",
-      "ap_rank": 21,
-      "model_rank": 29
-    },
-    {
       "team": "Indiana Hoosiers",
       "ap_rank": 24,
       "model_rank": 51
+    },
+    {
+      "team": "Navy Midshipmen",
+      "ap_rank": 21,
+      "model_rank": 29
     }
   ]
 }

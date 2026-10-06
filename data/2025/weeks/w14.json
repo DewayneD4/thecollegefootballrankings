@@ -488,9 +488,9 @@
       "model_rank": 27
     },
     {
-      "team": "Tennessee Volunteers",
-      "ap_rank": 18,
-      "model_rank": 39
+      "team": "Georgia Tech Yellow Jackets",
+      "ap_rank": 23,
+      "model_rank": 26
     },
     {
       "team": "James Madison Dukes",
@@ -498,14 +498,14 @@
       "model_rank": 29
     },
     {
+      "team": "Tennessee Volunteers",
+      "ap_rank": 18,
+      "model_rank": 39
+    },
+    {
       "team": "Pittsburgh Panthers",
       "ap_rank": 24,
       "model_rank": 30
-    },
-    {
-      "team": "Georgia Tech Yellow Jackets",
-      "ap_rank": 23,
-      "model_rank": 26
     }
   ]
 }

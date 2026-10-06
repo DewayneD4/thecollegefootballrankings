@@ -503,19 +503,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Oklahoma Sooners",
-      "ap_rank": 6,
-      "model_rank": 29
-    },
-    {
-      "team": "Oklahoma State Cowboys",
-      "ap_rank": 9,
-      "model_rank": 50
-    },
-    {
-      "team": "Utah Utes",
-      "ap_rank": 13,
-      "model_rank": 52
+      "team": "Miami Hurricanes",
+      "ap_rank": 25,
+      "model_rank": 63
     },
     {
       "team": "Arkansas Razorbacks",
@@ -528,11 +518,6 @@
       "model_rank": 26
     },
     {
-      "team": "Miami Hurricanes",
-      "ap_rank": 25,
-      "model_rank": 63
-    },
-    {
       "team": "Texas Longhorns",
       "ap_rank": 22,
       "model_rank": 43
@@ -541,6 +526,21 @@
       "team": "Pittsburgh Panthers",
       "ap_rank": 24,
       "model_rank": 37
+    },
+    {
+      "team": "Oklahoma State Cowboys",
+      "ap_rank": 9,
+      "model_rank": 50
+    },
+    {
+      "team": "Utah Utes",
+      "ap_rank": 13,
+      "model_rank": 52
+    },
+    {
+      "team": "Oklahoma Sooners",
+      "ap_rank": 6,
+      "model_rank": 29
     },
     {
       "team": "Florida Gators",

@@ -483,16 +483,6 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Missouri Tigers",
-      "ap_rank": 25,
-      "model_rank": 30
-    },
-    {
-      "team": "Colorado Buffaloes",
-      "ap_rank": 23,
-      "model_rank": 27
-    },
-    {
       "team": "Clemson Tigers",
       "ap_rank": 11,
       "model_rank": 32
@@ -506,6 +496,16 @@
       "team": "Illinois Fighting Illini",
       "ap_rank": 24,
       "model_rank": 36
+    },
+    {
+      "team": "Colorado Buffaloes",
+      "ap_rank": 23,
+      "model_rank": 27
+    },
+    {
+      "team": "Missouri Tigers",
+      "ap_rank": 25,
+      "model_rank": 30
     }
   ]
 }

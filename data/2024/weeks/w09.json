@@ -473,11 +473,6 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Navy Midshipmen",
-      "ap_rank": 24,
-      "model_rank": 44
-    },
-    {
       "team": "Army Black Knights",
       "ap_rank": 23,
       "model_rank": 33
@@ -486,6 +481,11 @@
       "team": "Illinois Fighting Illini",
       "ap_rank": 20,
       "model_rank": 26
+    },
+    {
+      "team": "Navy Midshipmen",
+      "ap_rank": 24,
+      "model_rank": 44
     }
   ]
 }

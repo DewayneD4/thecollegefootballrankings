@@ -488,14 +488,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "BYU Cougars",
-      "ap_rank": 16,
-      "model_rank": 40
-    },
-    {
-      "team": "Utah Utes",
-      "ap_rank": 11,
-      "model_rank": 34
+      "team": "LSU Tigers",
+      "ap_rank": 25,
+      "model_rank": 26
     },
     {
       "team": "Washington Huskies",
@@ -503,19 +498,24 @@
       "model_rank": 57
     },
     {
+      "team": "Kentucky Wildcats",
+      "ap_rank": 13,
+      "model_rank": 31
+    },
+    {
       "team": "Cincinnati Bearcats",
       "ap_rank": 24,
       "model_rank": 37
     },
     {
-      "team": "LSU Tigers",
-      "ap_rank": 25,
-      "model_rank": 26
+      "team": "Utah Utes",
+      "ap_rank": 11,
+      "model_rank": 34
     },
     {
-      "team": "Kentucky Wildcats",
-      "ap_rank": 13,
-      "model_rank": 31
+      "team": "BYU Cougars",
+      "ap_rank": 16,
+      "model_rank": 40
     }
   ]
 }

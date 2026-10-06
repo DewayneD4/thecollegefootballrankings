@@ -485,14 +485,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Michigan State Spartans",
-      "ap_rank": 25,
-      "model_rank": 26
-    },
-    {
-      "team": "Texas A&M Aggies",
-      "ap_rank": 25,
-      "model_rank": 58
+      "team": "UCF Knights",
+      "ap_rank": 18,
+      "model_rank": 35
     },
     {
       "team": "Iowa Hawkeyes",
@@ -500,14 +495,19 @@
       "model_rank": 33
     },
     {
+      "team": "Michigan State Spartans",
+      "ap_rank": 25,
+      "model_rank": 26
+    },
+    {
       "team": "Utah Utes",
       "ap_rank": 17,
       "model_rank": 36
     },
     {
-      "team": "UCF Knights",
-      "ap_rank": 18,
-      "model_rank": 35
+      "team": "Texas A&M Aggies",
+      "ap_rank": 25,
+      "model_rank": 58
     }
   ]
 }

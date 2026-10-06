@@ -503,9 +503,29 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Ohio State Buckeyes",
-      "ap_rank": 5,
-      "model_rank": 73
+      "team": "Michigan Wolverines",
+      "ap_rank": 18,
+      "model_rank": 57
+    },
+    {
+      "team": "Oregon Ducks",
+      "ap_rank": 13,
+      "model_rank": 74
+    },
+    {
+      "team": "Penn State Nittany Lions",
+      "ap_rank": 8,
+      "model_rank": 109
+    },
+    {
+      "team": "Wisconsin Badgers",
+      "ap_rank": 14,
+      "model_rank": 91
+    },
+    {
+      "team": "Minnesota Golden Gophers",
+      "ap_rank": 21,
+      "model_rank": 118
     },
     {
       "team": "USC Trojans",
@@ -518,29 +538,9 @@
       "model_rank": 27
     },
     {
-      "team": "Michigan Wolverines",
-      "ap_rank": 18,
-      "model_rank": 57
-    },
-    {
-      "team": "Wisconsin Badgers",
-      "ap_rank": 14,
-      "model_rank": 91
-    },
-    {
-      "team": "Penn State Nittany Lions",
-      "ap_rank": 8,
-      "model_rank": 109
-    },
-    {
-      "team": "Minnesota Golden Gophers",
-      "ap_rank": 21,
-      "model_rank": 118
-    },
-    {
-      "team": "Oregon Ducks",
-      "ap_rank": 13,
-      "model_rank": 74
+      "team": "Ohio State Buckeyes",
+      "ap_rank": 5,
+      "model_rank": 73
     },
     {
       "team": "Florida Gators",

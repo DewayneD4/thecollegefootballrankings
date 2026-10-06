@@ -489,21 +489,6 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Memphis Tigers",
-      "ap_rank": 24,
-      "model_rank": 37
-    },
-    {
-      "team": "Missouri Tigers",
-      "ap_rank": 22,
-      "model_rank": 26
-    },
-    {
-      "team": "Colorado Buffaloes",
-      "ap_rank": 25,
-      "model_rank": 29
-    },
-    {
       "team": "Clemson Tigers",
       "ap_rank": 14,
       "model_rank": 30
@@ -517,6 +502,21 @@
       "team": "Army Black Knights",
       "ap_rank": 21,
       "model_rank": 33
+    },
+    {
+      "team": "Memphis Tigers",
+      "ap_rank": 24,
+      "model_rank": 37
+    },
+    {
+      "team": "Colorado Buffaloes",
+      "ap_rank": 25,
+      "model_rank": 29
+    },
+    {
+      "team": "Missouri Tigers",
+      "ap_rank": 22,
+      "model_rank": 26
     }
   ]
 }

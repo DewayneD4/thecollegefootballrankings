@@ -518,19 +518,14 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Oklahoma Sooners",
-      "ap_rank": 18,
-      "model_rank": 111
+      "team": "Auburn Tigers",
+      "ap_rank": 7,
+      "model_rank": 51
     },
     {
-      "team": "Ohio State Buckeyes",
-      "ap_rank": 6,
-      "model_rank": 60
-    },
-    {
-      "team": "Texas A&M Aggies",
-      "ap_rank": 13,
-      "model_rank": 112
+      "team": "LSU Tigers",
+      "ap_rank": 20,
+      "model_rank": 55
     },
     {
       "team": "Michigan Wolverines",
@@ -538,14 +533,19 @@
       "model_rank": 79
     },
     {
-      "team": "Wisconsin Badgers",
-      "ap_rank": 19,
-      "model_rank": 96
+      "team": "Oregon Ducks",
+      "ap_rank": 14,
+      "model_rank": 65
     },
     {
       "team": "Penn State Nittany Lions",
       "ap_rank": 10,
       "model_rank": 90
+    },
+    {
+      "team": "Wisconsin Badgers",
+      "ap_rank": 19,
+      "model_rank": 96
     },
     {
       "team": "Tennessee Volunteers",
@@ -558,24 +558,24 @@
       "model_rank": 37
     },
     {
-      "team": "LSU Tigers",
-      "ap_rank": 20,
-      "model_rank": 55
+      "team": "Texas A&M Aggies",
+      "ap_rank": 13,
+      "model_rank": 112
     },
     {
-      "team": "Oregon Ducks",
-      "ap_rank": 14,
-      "model_rank": 65
+      "team": "Oklahoma Sooners",
+      "ap_rank": 18,
+      "model_rank": 111
+    },
+    {
+      "team": "Ohio State Buckeyes",
+      "ap_rank": 6,
+      "model_rank": 60
     },
     {
       "team": "Notre Dame Fighting Irish",
       "ap_rank": 5,
       "model_rank": 26
-    },
-    {
-      "team": "Auburn Tigers",
-      "ap_rank": 7,
-      "model_rank": 51
     }
   ]
 }

@@ -468,14 +468,14 @@
   ],
   "ap_only_top25": [
     {
-      "team": "USC Trojans",
-      "ap_rank": 25,
-      "model_rank": 26
-    },
-    {
       "team": "Virginia Tech Hokies",
       "ap_rank": 23,
       "model_rank": 32
+    },
+    {
+      "team": "USC Trojans",
+      "ap_rank": 25,
+      "model_rank": 26
     }
   ]
 }

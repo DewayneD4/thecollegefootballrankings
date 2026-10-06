@@ -533,14 +533,19 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Oklahoma Sooners",
-      "ap_rank": 20,
-      "model_rank": 50
+      "team": "Clemson Tigers",
+      "ap_rank": 9,
+      "model_rank": 101
     },
     {
-      "team": "Texas A&M Aggies",
-      "ap_rank": 23,
-      "model_rank": 37
+      "team": "Kansas State Wildcats",
+      "ap_rank": 16,
+      "model_rank": 60
+    },
+    {
+      "team": "LSU Tigers",
+      "ap_rank": 5,
+      "model_rank": 97
     },
     {
       "team": "Michigan Wolverines",
@@ -548,9 +553,9 @@
       "model_rank": 29
     },
     {
-      "team": "Alabama Crimson Tide",
-      "ap_rank": 4,
-      "model_rank": 39
+      "team": "Oregon Ducks",
+      "ap_rank": 15,
+      "model_rank": 45
     },
     {
       "team": "Wisconsin Badgers",
@@ -558,14 +563,39 @@
       "model_rank": 31
     },
     {
+      "team": "Georgia Bulldogs",
+      "ap_rank": 1,
+      "model_rank": 55
+    },
+    {
+      "team": "Ole Miss Rebels",
+      "ap_rank": 22,
+      "model_rank": 51
+    },
+    {
       "team": "Iowa Hawkeyes",
       "ap_rank": 25,
       "model_rank": 38
     },
     {
-      "team": "Kansas State Wildcats",
-      "ap_rank": 16,
-      "model_rank": 60
+      "team": "Texas Longhorns",
+      "ap_rank": 11,
+      "model_rank": 30
+    },
+    {
+      "team": "Alabama Crimson Tide",
+      "ap_rank": 4,
+      "model_rank": 39
+    },
+    {
+      "team": "Texas A&M Aggies",
+      "ap_rank": 23,
+      "model_rank": 37
+    },
+    {
+      "team": "Oklahoma Sooners",
+      "ap_rank": 20,
+      "model_rank": 50
     },
     {
       "team": "Tulane Green Wave",
@@ -576,36 +606,6 @@
       "team": "TCU Horned Frogs",
       "ap_rank": 17,
       "model_rank": 96
-    },
-    {
-      "team": "LSU Tigers",
-      "ap_rank": 5,
-      "model_rank": 97
-    },
-    {
-      "team": "Oregon Ducks",
-      "ap_rank": 15,
-      "model_rank": 45
-    },
-    {
-      "team": "Clemson Tigers",
-      "ap_rank": 9,
-      "model_rank": 101
-    },
-    {
-      "team": "Texas Longhorns",
-      "ap_rank": 11,
-      "model_rank": 30
-    },
-    {
-      "team": "Ole Miss Rebels",
-      "ap_rank": 22,
-      "model_rank": 51
-    },
-    {
-      "team": "Georgia Bulldogs",
-      "ap_rank": 1,
-      "model_rank": 55
     }
   ]
 }

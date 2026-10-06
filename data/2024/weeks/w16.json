@@ -483,16 +483,6 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Memphis Tigers",
-      "ap_rank": 25,
-      "model_rank": 40
-    },
-    {
-      "team": "Missouri Tigers",
-      "ap_rank": 23,
-      "model_rank": 26
-    },
-    {
       "team": "UNLV Rebels",
       "ap_rank": 24,
       "model_rank": 31
@@ -503,9 +493,19 @@
       "model_rank": 28
     },
     {
+      "team": "Memphis Tigers",
+      "ap_rank": 25,
+      "model_rank": 40
+    },
+    {
       "team": "Illinois Fighting Illini",
       "ap_rank": 21,
       "model_rank": 27
+    },
+    {
+      "team": "Missouri Tigers",
+      "ap_rank": 23,
+      "model_rank": 26
     }
   ]
 }

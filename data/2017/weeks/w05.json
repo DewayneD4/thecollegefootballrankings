@@ -493,14 +493,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Utah Utes",
-      "ap_rank": 20,
-      "model_rank": 37
-    },
-    {
-      "team": "South Florida Bulls",
-      "ap_rank": 18,
-      "model_rank": 29
+      "team": "Virginia Tech Hokies",
+      "ap_rank": 12,
+      "model_rank": 28
     },
     {
       "team": "West Virginia Mountaineers",
@@ -508,24 +503,29 @@
       "model_rank": 51
     },
     {
-      "team": "Mississippi State Bulldogs",
-      "ap_rank": 24,
-      "model_rank": 43
-    },
-    {
-      "team": "Virginia Tech Hokies",
-      "ap_rank": 12,
-      "model_rank": 28
-    },
-    {
       "team": "LSU Tigers",
       "ap_rank": 25,
       "model_rank": 63
     },
     {
+      "team": "South Florida Bulls",
+      "ap_rank": 18,
+      "model_rank": 29
+    },
+    {
       "team": "Louisville Cardinals",
       "ap_rank": 17,
       "model_rank": 30
+    },
+    {
+      "team": "Mississippi State Bulldogs",
+      "ap_rank": 24,
+      "model_rank": 43
+    },
+    {
+      "team": "Utah Utes",
+      "ap_rank": 20,
+      "model_rank": 37
     }
   ]
 }

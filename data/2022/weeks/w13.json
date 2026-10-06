@@ -483,24 +483,24 @@
   ],
   "ap_only_top25": [
     {
-      "team": "UCF Knights",
-      "ap_rank": 25,
-      "model_rank": 29
-    },
-    {
       "team": "Oregon State Beavers",
       "ap_rank": 22,
       "model_rank": 27
     },
     {
-      "team": "Cincinnati Bearcats",
-      "ap_rank": 21,
-      "model_rank": 44
+      "team": "UCF Knights",
+      "ap_rank": 25,
+      "model_rank": 29
     },
     {
       "team": "North Carolina Tar Heels",
       "ap_rank": 18,
       "model_rank": 28
+    },
+    {
+      "team": "Cincinnati Bearcats",
+      "ap_rank": 21,
+      "model_rank": 44
     },
     {
       "team": "Coastal Carolina Chanticleers",

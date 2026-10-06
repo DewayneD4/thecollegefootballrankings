@@ -493,29 +493,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Iowa Hawkeyes",
-      "ap_rank": 24,
-      "model_rank": 40
-    },
-    {
-      "team": "Tennessee Volunteers",
-      "ap_rank": 23,
-      "model_rank": 45
-    },
-    {
-      "team": "Florida Gators",
-      "ap_rank": 25,
-      "model_rank": 35
-    },
-    {
       "team": "Oregon State Beavers",
       "ap_rank": 14,
       "model_rank": 37
-    },
-    {
-      "team": "LSU Tigers",
-      "ap_rank": 12,
-      "model_rank": 29
     },
     {
       "team": "UCLA Bruins",
@@ -523,9 +503,29 @@
       "model_rank": 32
     },
     {
+      "team": "LSU Tigers",
+      "ap_rank": 12,
+      "model_rank": 29
+    },
+    {
       "team": "Georgia Bulldogs",
       "ap_rank": 1,
       "model_rank": 27
+    },
+    {
+      "team": "Tennessee Volunteers",
+      "ap_rank": 23,
+      "model_rank": 45
+    },
+    {
+      "team": "Iowa Hawkeyes",
+      "ap_rank": 24,
+      "model_rank": 40
+    },
+    {
+      "team": "Florida Gators",
+      "ap_rank": 25,
+      "model_rank": 35
     }
   ]
 }

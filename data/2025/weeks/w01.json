@@ -15,7 +15,7 @@
       "id": "2305",
       "team": "Kansas Jayhawks",
       "record": "2-0",
-      "score": 85.72,
+      "score": 85.7,
       "ap_rank": null
     },
     {
@@ -31,7 +31,7 @@
       "id": "66",
       "team": "Iowa State Cyclones",
       "record": "2-0",
-      "score": 78.87,
+      "score": 78.78,
       "ap_rank": null
     },
     {
@@ -39,7 +39,7 @@
       "id": "99",
       "team": "LSU Tigers",
       "record": "1-0",
-      "score": 75.55,
+      "score": 75.4,
       "ap_rank": null
     },
     {
@@ -47,7 +47,7 @@
       "id": "2",
       "team": "Auburn Tigers",
       "record": "1-0",
-      "score": 74.41,
+      "score": 74.4,
       "ap_rank": null
     },
     {
@@ -55,7 +55,7 @@
       "id": "254",
       "team": "Utah Utes",
       "record": "1-0",
-      "score": 73.58,
+      "score": 73.57,
       "ap_rank": null
     },
     {
@@ -63,7 +63,7 @@
       "id": "59",
       "team": "Georgia Tech Yellow Jackets",
       "record": "1-0",
-      "score": 72.84,
+      "score": 72.83,
       "ap_rank": null
     },
     {
@@ -79,7 +79,7 @@
       "id": "2628",
       "team": "TCU Horned Frogs",
       "record": "1-0",
-      "score": 71.46,
+      "score": 71.45,
       "ap_rank": null
     },
     {
@@ -87,7 +87,7 @@
       "id": "2579",
       "team": "South Carolina Gamecocks",
       "record": "1-0",
-      "score": 70.56,
+      "score": 70.54,
       "ap_rank": null
     },
     {
@@ -95,11 +95,19 @@
       "id": "194",
       "team": "Ohio State Buckeyes",
       "record": "1-0",
-      "score": 70.21,
+      "score": 70.28,
       "ap_rank": null
     },
     {
       "rank": 12,
+      "id": "2633",
+      "team": "Tennessee Volunteers",
+      "record": "1-0",
+      "score": 69.84,
+      "ap_rank": null
+    },
+    {
+      "rank": 13,
       "id": "158",
       "team": "Nebraska Cornhuskers",
       "record": "1-0",
@@ -107,19 +115,11 @@
       "ap_rank": null
     },
     {
-      "rank": 13,
-      "id": "2633",
-      "team": "Tennessee Volunteers",
-      "record": "1-0",
-      "score": 69.37,
-      "ap_rank": null
-    },
-    {
       "rank": 14,
       "id": "25",
       "team": "California Golden Bears",
       "record": "1-0",
-      "score": 69.24,
+      "score": 69.23,
       "ap_rank": null
     },
     {
@@ -127,7 +127,7 @@
       "id": "52",
       "team": "Florida State Seminoles",
       "record": "1-0",
-      "score": 68.17,
+      "score": 68.15,
       "ap_rank": null
     },
     {
@@ -135,19 +135,11 @@
       "id": "130",
       "team": "Michigan Wolverines",
       "record": "1-0",
-      "score": 67.6,
+      "score": 67.59,
       "ap_rank": null
     },
     {
       "rank": 17,
-      "id": "245",
-      "team": "Texas A&M Aggies",
-      "record": "1-0",
-      "score": 67.25,
-      "ap_rank": null
-    },
-    {
-      "rank": 18,
       "id": "218",
       "team": "Temple Owls",
       "record": "1-0",
@@ -155,11 +147,19 @@
       "ap_rank": null
     },
     {
+      "rank": 18,
+      "id": "245",
+      "team": "Texas A&M Aggies",
+      "record": "1-0",
+      "score": 67.09,
+      "ap_rank": null
+    },
+    {
       "rank": 19,
       "id": "213",
       "team": "Penn State Nittany Lions",
       "record": "1-0",
-      "score": 66.95,
+      "score": 66.88,
       "ap_rank": null
     },
     {
@@ -175,7 +175,7 @@
       "id": "84",
       "team": "Indiana Hoosiers",
       "record": "1-0",
-      "score": 66.63,
+      "score": 66.71,
       "ap_rank": null
     },
     {
@@ -183,7 +183,7 @@
       "id": "2390",
       "team": "Miami Hurricanes",
       "record": "1-0",
-      "score": 66.47,
+      "score": 66.53,
       "ap_rank": null
     },
     {
@@ -191,7 +191,7 @@
       "id": "61",
       "team": "Georgia Bulldogs",
       "record": "1-0",
-      "score": 66.14,
+      "score": 66.21,
       "ap_rank": null
     },
     {

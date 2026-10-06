@@ -473,9 +473,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Iowa Hawkeyes",
-      "ap_rank": 19,
-      "model_rank": 26
+      "team": "Wake Forest Demon Deacons",
+      "ap_rank": 23,
+      "model_rank": 29
     },
     {
       "team": "San Diego State Aztecs",
@@ -483,9 +483,9 @@
       "model_rank": 31
     },
     {
-      "team": "Wake Forest Demon Deacons",
-      "ap_rank": 23,
-      "model_rank": 29
+      "team": "Iowa Hawkeyes",
+      "ap_rank": 19,
+      "model_rank": 26
     }
   ]
 }

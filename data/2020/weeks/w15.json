@@ -493,14 +493,19 @@
   ],
   "ap_only_top25": [
     {
+      "team": "Indiana Hoosiers",
+      "ap_rank": 8,
+      "model_rank": 33
+    },
+    {
+      "team": "Wisconsin Badgers",
+      "ap_rank": 25,
+      "model_rank": 58
+    },
+    {
       "team": "USC Trojans",
       "ap_rank": 16,
       "model_rank": 40
-    },
-    {
-      "team": "Buffalo Bulls",
-      "ap_rank": 24,
-      "model_rank": 49
     },
     {
       "team": "Iowa Hawkeyes",
@@ -508,9 +513,9 @@
       "model_rank": 34
     },
     {
-      "team": "Wisconsin Badgers",
-      "ap_rank": 25,
-      "model_rank": 58
+      "team": "Buffalo Bulls",
+      "ap_rank": 24,
+      "model_rank": 49
     },
     {
       "team": "Colorado Buffaloes",
@@ -521,11 +526,6 @@
       "team": "Northwestern Wildcats",
       "ap_rank": 15,
       "model_rank": 26
-    },
-    {
-      "team": "Indiana Hoosiers",
-      "ap_rank": 8,
-      "model_rank": 33
     }
   ]
 }

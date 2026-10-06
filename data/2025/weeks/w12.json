@@ -483,9 +483,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Tennessee Volunteers",
-      "ap_rank": 21,
-      "model_rank": 31
+      "team": "South Florida Bulls",
+      "ap_rank": 25,
+      "model_rank": 32
     },
     {
       "team": "James Madison Dukes",
@@ -493,9 +493,9 @@
       "model_rank": 26
     },
     {
-      "team": "South Florida Bulls",
-      "ap_rank": 25,
-      "model_rank": 32
+      "team": "Tennessee Volunteers",
+      "ap_rank": 21,
+      "model_rank": 31
     },
     {
       "team": "Cincinnati Bearcats",

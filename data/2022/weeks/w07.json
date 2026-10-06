@@ -478,9 +478,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Kansas Jayhawks",
-      "ap_rank": 19,
-      "model_rank": 26
+      "team": "Oregon Ducks",
+      "ap_rank": 12,
+      "model_rank": 30
     },
     {
       "team": "James Madison Dukes",
@@ -493,9 +493,9 @@
       "model_rank": 46
     },
     {
-      "team": "Oregon Ducks",
-      "ap_rank": 12,
-      "model_rank": 30
+      "team": "Kansas Jayhawks",
+      "ap_rank": 19,
+      "model_rank": 26
     }
   ]
 }

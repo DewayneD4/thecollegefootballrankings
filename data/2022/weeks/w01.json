@@ -548,6 +548,81 @@
   ],
   "ap_only_top25": [
     {
+      "team": "Miami Hurricanes",
+      "ap_rank": 16,
+      "model_rank": 50
+    },
+    {
+      "team": "Wake Forest Demon Deacons",
+      "ap_rank": 22,
+      "model_rank": 60
+    },
+    {
+      "team": "Michigan Wolverines",
+      "ap_rank": 8,
+      "model_rank": 32
+    },
+    {
+      "team": "Baylor Bears",
+      "ap_rank": 10,
+      "model_rank": 49
+    },
+    {
+      "team": "Oregon Ducks",
+      "ap_rank": 11,
+      "model_rank": 121
+    },
+    {
+      "team": "Wisconsin Badgers",
+      "ap_rank": 18,
+      "model_rank": 52
+    },
+    {
+      "team": "USC Trojans",
+      "ap_rank": 14,
+      "model_rank": 46
+    },
+    {
+      "team": "Arkansas Razorbacks",
+      "ap_rank": 19,
+      "model_rank": 27
+    },
+    {
+      "team": "Michigan State Spartans",
+      "ap_rank": 15,
+      "model_rank": 28
+    },
+    {
+      "team": "Kentucky Wildcats",
+      "ap_rank": 20,
+      "model_rank": 26
+    },
+    {
+      "team": "Cincinnati Bearcats",
+      "ap_rank": 23,
+      "model_rank": 92
+    },
+    {
+      "team": "Pittsburgh Panthers",
+      "ap_rank": 17,
+      "model_rank": 31
+    },
+    {
+      "team": "Texas A&M Aggies",
+      "ap_rank": 6,
+      "model_rank": 54
+    },
+    {
+      "team": "Utah Utes",
+      "ap_rank": 7,
+      "model_rank": 88
+    },
+    {
+      "team": "Oklahoma State Cowboys",
+      "ap_rank": 12,
+      "model_rank": 47
+    },
+    {
       "team": "Oklahoma Sooners",
       "ap_rank": 9,
       "model_rank": 48
@@ -558,84 +633,9 @@
       "model_rank": 30
     },
     {
-      "team": "USC Trojans",
-      "ap_rank": 14,
-      "model_rank": 46
-    },
-    {
-      "team": "Texas A&M Aggies",
-      "ap_rank": 6,
-      "model_rank": 54
-    },
-    {
-      "team": "Oklahoma State Cowboys",
-      "ap_rank": 12,
-      "model_rank": 47
-    },
-    {
-      "team": "Michigan Wolverines",
-      "ap_rank": 8,
-      "model_rank": 32
-    },
-    {
-      "team": "Michigan State Spartans",
-      "ap_rank": 15,
-      "model_rank": 28
-    },
-    {
-      "team": "Wisconsin Badgers",
-      "ap_rank": 18,
-      "model_rank": 52
-    },
-    {
-      "team": "Utah Utes",
-      "ap_rank": 7,
-      "model_rank": 88
-    },
-    {
-      "team": "Wake Forest Demon Deacons",
-      "ap_rank": 22,
-      "model_rank": 60
-    },
-    {
-      "team": "Arkansas Razorbacks",
-      "ap_rank": 19,
-      "model_rank": 27
-    },
-    {
-      "team": "Miami Hurricanes",
-      "ap_rank": 16,
-      "model_rank": 50
-    },
-    {
-      "team": "Cincinnati Bearcats",
-      "ap_rank": 23,
-      "model_rank": 92
-    },
-    {
-      "team": "Oregon Ducks",
-      "ap_rank": 11,
-      "model_rank": 121
-    },
-    {
       "team": "Notre Dame Fighting Irish",
       "ap_rank": 5,
       "model_rank": 97
-    },
-    {
-      "team": "Pittsburgh Panthers",
-      "ap_rank": 17,
-      "model_rank": 31
-    },
-    {
-      "team": "Baylor Bears",
-      "ap_rank": 10,
-      "model_rank": 49
-    },
-    {
-      "team": "Kentucky Wildcats",
-      "ap_rank": 20,
-      "model_rank": 26
     }
   ]
 }

@@ -1,5 +1,6 @@
 season,week,phase,n_games,overlap_top25,spearman_ap25,model_1,ap_1,has_ap
-2017,1,regular,91,12,0.22923076923076924,Colorado Buffaloes,Alabama Crimson Tide,True
+2017,0,preseason,0,25,1.0,Alabama Crimson Tide,Alabama Crimson Tide,True
+2017,1,regular,91,12,0.2292307692307692,Colorado Buffaloes,Alabama Crimson Tide,True
 2017,2,regular,162,12,0.5292307692307692,Oklahoma Sooners,Alabama Crimson Tide,True
 2017,3,regular,227,14,0.6038461538461538,Clemson Tigers,Alabama Crimson Tide,True
 2017,4,regular,286,16,0.5946153846153845,Michigan Wolverines,Alabama Crimson Tide,True
@@ -14,4 +15,4 @@ season,week,phase,n_games,overlap_top25,spearman_ap25,model_1,ap_1,has_ap
 2017,13,regular,817,22,0.8492307692307692,Clemson Tigers,Alabama Crimson Tide,True
 2017,14,regular,833,21,0.8799999999999999,Clemson Tigers,Clemson Tigers,True
 2017,15,end_regular,834,22,0.8976923076923078,Clemson Tigers,Clemson Tigers,True
-2017,16,final_postseason,874,22,0.9423076923076923,Alabama Crimson Tide,Alabama Crimson Tide,True
+2017,16,final_postseason,874,22,0.9423076923076924,Alabama Crimson Tide,Alabama Crimson Tide,True

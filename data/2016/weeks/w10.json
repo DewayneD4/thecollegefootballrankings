@@ -478,11 +478,6 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Oklahoma Sooners",
-      "ap_rank": 12,
-      "model_rank": 32
-    },
-    {
       "team": "West Virginia Mountaineers",
       "ap_rank": 14,
       "model_rank": 28
@@ -496,6 +491,11 @@
       "team": "Baylor Bears",
       "ap_rank": 13,
       "model_rank": 59
+    },
+    {
+      "team": "Oklahoma Sooners",
+      "ap_rank": 12,
+      "model_rank": 32
     }
   ]
 }

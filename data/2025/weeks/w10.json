@@ -15,7 +15,7 @@
       "id": "84",
       "team": "Indiana Hoosiers",
       "record": "9-0",
-      "score": 88.04,
+      "score": 88.05,
       "ap_rank": 2
     },
     {
@@ -23,7 +23,7 @@
       "id": "194",
       "team": "Ohio State Buckeyes",
       "record": "8-0",
-      "score": 85.4,
+      "score": 85.41,
       "ap_rank": 1
     },
     {
@@ -39,7 +39,7 @@
       "id": "245",
       "team": "Texas A&M Aggies",
       "record": "8-0",
-      "score": 83.2,
+      "score": 83.19,
       "ap_rank": 3
     },
     {
@@ -47,7 +47,7 @@
       "id": "252",
       "team": "BYU Cougars",
       "record": "8-0",
-      "score": 82.85,
+      "score": 82.89,
       "ap_rank": 10
     },
     {
@@ -55,7 +55,7 @@
       "id": "2641",
       "team": "Texas Tech Red Raiders",
       "record": "8-1",
-      "score": 82.39,
+      "score": 82.38,
       "ap_rank": 13
     },
     {
@@ -63,7 +63,7 @@
       "id": "251",
       "team": "Texas Longhorns",
       "record": "7-2",
-      "score": 78.09,
+      "score": 78.06,
       "ap_rank": 20
     },
     {
@@ -79,7 +79,7 @@
       "id": "145",
       "team": "Ole Miss Rebels",
       "record": "8-1",
-      "score": 76.94,
+      "score": 76.95,
       "ap_rank": 7
     },
     {
@@ -87,7 +87,7 @@
       "id": "97",
       "team": "Louisville Cardinals",
       "record": "7-1",
-      "score": 75.11,
+      "score": 75.1,
       "ap_rank": 16
     },
     {
@@ -119,7 +119,7 @@
       "id": "2390",
       "team": "Miami Hurricanes",
       "record": "6-2",
-      "score": 73.28,
+      "score": 73.27,
       "ap_rank": 10
     },
     {
@@ -127,7 +127,7 @@
       "id": "201",
       "team": "Oklahoma Sooners",
       "record": "7-2",
-      "score": 72.81,
+      "score": 72.83,
       "ap_rank": 18
     },
     {
@@ -143,7 +143,7 @@
       "id": "59",
       "team": "Georgia Tech Yellow Jackets",
       "record": "8-1",
-      "score": 69.9,
+      "score": 69.89,
       "ap_rank": 8
     },
     {
@@ -159,7 +159,7 @@
       "id": "238",
       "team": "Vanderbilt Commodores",
       "record": "7-2",
-      "score": 68.33,
+      "score": 68.32,
       "ap_rank": 9
     },
     {
@@ -167,7 +167,7 @@
       "id": "130",
       "team": "Michigan Wolverines",
       "record": "7-2",
-      "score": 67.48,
+      "score": 67.47,
       "ap_rank": 21
     },
     {
@@ -199,7 +199,7 @@
       "id": "2483",
       "team": "Oregon Ducks",
       "record": "7-1",
-      "score": 66.62,
+      "score": 66.61,
       "ap_rank": 6
     },
     {
@@ -478,14 +478,14 @@
       "model_rank": 28
     },
     {
-      "team": "Missouri Tigers",
-      "ap_rank": 19,
-      "model_rank": 34
-    },
-    {
       "team": "Cincinnati Bearcats",
       "ap_rank": 17,
       "model_rank": 29
+    },
+    {
+      "team": "Missouri Tigers",
+      "ap_rank": 19,
+      "model_rank": 34
     }
   ]
 }

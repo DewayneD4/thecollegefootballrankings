@@ -473,11 +473,6 @@
   ],
   "ap_only_top25": [
     {
-      "team": "UTSA Roadrunners",
-      "ap_rank": 22,
-      "model_rank": 30
-    },
-    {
       "team": "Oregon State Beavers",
       "ap_rank": 17,
       "model_rank": 27
@@ -486,6 +481,11 @@
       "team": "Oregon Ducks",
       "ap_rank": 15,
       "model_rank": 26
+    },
+    {
+      "team": "UTSA Roadrunners",
+      "ap_rank": 22,
+      "model_rank": 30
     }
   ]
 }

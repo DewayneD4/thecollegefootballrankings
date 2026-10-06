@@ -548,6 +548,71 @@
   ],
   "ap_only_top25": [
     {
+      "team": "Stanford Cardinal",
+      "ap_rank": 8,
+      "model_rank": 30
+    },
+    {
+      "team": "UCLA Bruins",
+      "ap_rank": 16,
+      "model_rank": 93
+    },
+    {
+      "team": "LSU Tigers",
+      "ap_rank": 5,
+      "model_rank": 87
+    },
+    {
+      "team": "Michigan Wolverines",
+      "ap_rank": 7,
+      "model_rank": 40
+    },
+    {
+      "team": "Baylor Bears",
+      "ap_rank": 23,
+      "model_rank": 49
+    },
+    {
+      "team": "Oregon Ducks",
+      "ap_rank": 24,
+      "model_rank": 71
+    },
+    {
+      "team": "USC Trojans",
+      "ap_rank": 20,
+      "model_rank": 121
+    },
+    {
+      "team": "Tennessee Volunteers",
+      "ap_rank": 9,
+      "model_rank": 33
+    },
+    {
+      "team": "Louisville Cardinals",
+      "ap_rank": 19,
+      "model_rank": 35
+    },
+    {
+      "team": "Ole Miss Rebels",
+      "ap_rank": 11,
+      "model_rank": 100
+    },
+    {
+      "team": "Michigan State Spartans",
+      "ap_rank": 12,
+      "model_rank": 68
+    },
+    {
+      "team": "North Carolina Tar Heels",
+      "ap_rank": 22,
+      "model_rank": 89
+    },
+    {
+      "team": "Oklahoma State Cowboys",
+      "ap_rank": 21,
+      "model_rank": 43
+    },
+    {
       "team": "Oklahoma Sooners",
       "ap_rank": 3,
       "model_rank": 94
@@ -558,79 +623,14 @@
       "model_rank": 37
     },
     {
-      "team": "USC Trojans",
-      "ap_rank": 20,
-      "model_rank": 121
-    },
-    {
-      "team": "Michigan State Spartans",
-      "ap_rank": 12,
-      "model_rank": 68
-    },
-    {
-      "team": "Oklahoma State Cowboys",
-      "ap_rank": 21,
-      "model_rank": 43
-    },
-    {
-      "team": "Michigan Wolverines",
-      "ap_rank": 7,
-      "model_rank": 40
-    },
-    {
-      "team": "Stanford Cardinal",
-      "ap_rank": 8,
-      "model_rank": 30
-    },
-    {
-      "team": "Tennessee Volunteers",
-      "ap_rank": 9,
-      "model_rank": 33
-    },
-    {
-      "team": "TCU Horned Frogs",
-      "ap_rank": 13,
-      "model_rank": 75
-    },
-    {
-      "team": "LSU Tigers",
-      "ap_rank": 5,
-      "model_rank": 87
-    },
-    {
-      "team": "Ole Miss Rebels",
-      "ap_rank": 11,
-      "model_rank": 100
-    },
-    {
       "team": "Notre Dame Fighting Irish",
       "ap_rank": 10,
       "model_rank": 108
     },
     {
-      "team": "Oregon Ducks",
-      "ap_rank": 24,
-      "model_rank": 71
-    },
-    {
-      "team": "UCLA Bruins",
-      "ap_rank": 16,
-      "model_rank": 93
-    },
-    {
-      "team": "Louisville Cardinals",
-      "ap_rank": 19,
-      "model_rank": 35
-    },
-    {
-      "team": "North Carolina Tar Heels",
-      "ap_rank": 22,
-      "model_rank": 89
-    },
-    {
-      "team": "Baylor Bears",
-      "ap_rank": 23,
-      "model_rank": 49
+      "team": "TCU Horned Frogs",
+      "ap_rank": 13,
+      "model_rank": 75
     },
     {
       "team": "Florida Gators",

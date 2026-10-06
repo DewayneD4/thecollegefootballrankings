@@ -31,7 +31,7 @@
       "id": "245",
       "team": "Texas A&M Aggies",
       "record": "9-0",
-      "score": 86.69,
+      "score": 86.68,
       "ap_rank": 3
     },
     {
@@ -47,7 +47,7 @@
       "id": "333",
       "team": "Alabama Crimson Tide",
       "record": "8-1",
-      "score": 84.16,
+      "score": 84.17,
       "ap_rank": 4
     },
     {
@@ -55,7 +55,7 @@
       "id": "252",
       "team": "BYU Cougars",
       "record": "8-1",
-      "score": 79.81,
+      "score": 79.82,
       "ap_rank": 8
     },
     {
@@ -63,7 +63,7 @@
       "id": "61",
       "team": "Georgia Bulldogs",
       "record": "8-1",
-      "score": 79.35,
+      "score": 79.36,
       "ap_rank": 5
     },
     {
@@ -79,7 +79,7 @@
       "id": "251",
       "team": "Texas Longhorns",
       "record": "7-2",
-      "score": 76.18,
+      "score": 76.16,
       "ap_rank": 13
     },
     {
@@ -135,7 +135,7 @@
       "id": "201",
       "team": "Oklahoma Sooners",
       "record": "7-2",
-      "score": 70.44,
+      "score": 70.45,
       "ap_rank": 11
     },
     {
@@ -191,7 +191,7 @@
       "id": "130",
       "team": "Michigan Wolverines",
       "record": "7-2",
-      "score": 66.56,
+      "score": 66.55,
       "ap_rank": 21
     },
     {
@@ -199,7 +199,7 @@
       "id": "66",
       "team": "Iowa State Cyclones",
       "record": "6-4",
-      "score": 66.5,
+      "score": 66.49,
       "ap_rank": null
     },
     {
@@ -483,11 +483,6 @@
       "model_rank": 34
     },
     {
-      "team": "Missouri Tigers",
-      "ap_rank": 19,
-      "model_rank": 40
-    },
-    {
       "team": "Washington Huskies",
       "ap_rank": 24,
       "model_rank": 39
@@ -496,6 +491,11 @@
       "team": "Cincinnati Bearcats",
       "ap_rank": 25,
       "model_rank": 28
+    },
+    {
+      "team": "Missouri Tigers",
+      "ap_rank": 19,
+      "model_rank": 40
     }
   ]
 }

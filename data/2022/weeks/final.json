@@ -474,9 +474,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "South Carolina Gamecocks",
-      "ap_rank": 23,
-      "model_rank": 26
+      "team": "Fresno State Bulldogs",
+      "ap_rank": 24,
+      "model_rank": 39
     },
     {
       "team": "UCLA Bruins",
@@ -484,9 +484,9 @@
       "model_rank": 32
     },
     {
-      "team": "Fresno State Bulldogs",
-      "ap_rank": 24,
-      "model_rank": 39
+      "team": "South Carolina Gamecocks",
+      "ap_rank": 23,
+      "model_rank": 26
     }
   ]
 }

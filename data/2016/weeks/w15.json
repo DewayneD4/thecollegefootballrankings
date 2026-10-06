@@ -493,14 +493,14 @@
       "model_rank": 27
     },
     {
-      "team": "Iowa Hawkeyes",
-      "ap_rank": 21,
-      "model_rank": 26
-    },
-    {
       "team": "West Virginia Mountaineers",
       "ap_rank": 14,
       "model_rank": 36
+    },
+    {
+      "team": "LSU Tigers",
+      "ap_rank": 19,
+      "model_rank": 29
     },
     {
       "team": "Nebraska Cornhuskers",
@@ -508,9 +508,9 @@
       "model_rank": 32
     },
     {
-      "team": "LSU Tigers",
-      "ap_rank": 19,
-      "model_rank": 29
+      "team": "Iowa Hawkeyes",
+      "ap_rank": 21,
+      "model_rank": 26
     },
     {
       "team": "Pittsburgh Panthers",

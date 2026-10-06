@@ -468,14 +468,14 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Tulane Green Wave",
-      "ap_rank": 20,
-      "model_rank": 34
-    },
-    {
       "team": "Tennessee Volunteers",
       "ap_rank": 14,
       "model_rank": 29
+    },
+    {
+      "team": "Tulane Green Wave",
+      "ap_rank": 20,
+      "model_rank": 34
     }
   ]
 }

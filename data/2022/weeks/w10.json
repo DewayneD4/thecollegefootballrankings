@@ -488,24 +488,19 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Oklahoma State Cowboys",
-      "ap_rank": 18,
-      "model_rank": 26
-    },
-    {
       "team": "Wake Forest Demon Deacons",
       "ap_rank": 20,
       "model_rank": 30
     },
     {
-      "team": "UCF Knights",
-      "ap_rank": 25,
-      "model_rank": 32
-    },
-    {
       "team": "Oregon State Beavers",
       "ap_rank": 24,
       "model_rank": 40
+    },
+    {
+      "team": "UCF Knights",
+      "ap_rank": 25,
+      "model_rank": 32
     },
     {
       "team": "Liberty Flames",
@@ -516,6 +511,11 @@
       "team": "Illinois Fighting Illini",
       "ap_rank": 14,
       "model_rank": 29
+    },
+    {
+      "team": "Oklahoma State Cowboys",
+      "ap_rank": 18,
+      "model_rank": 26
     }
   ]
 }

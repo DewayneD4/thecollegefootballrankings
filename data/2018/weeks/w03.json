@@ -518,54 +518,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "USC Trojans",
-      "ap_rank": 22,
-      "model_rank": 69
-    },
-    {
-      "team": "Michigan State Spartans",
-      "ap_rank": 25,
-      "model_rank": 54
-    },
-    {
-      "team": "Michigan Wolverines",
-      "ap_rank": 19,
-      "model_rank": 39
-    },
-    {
-      "team": "Wisconsin Badgers",
-      "ap_rank": 6,
-      "model_rank": 34
-    },
-    {
-      "team": "Arizona State Sun Devils",
-      "ap_rank": 23,
-      "model_rank": 46
-    },
-    {
-      "team": "UCF Knights",
-      "ap_rank": 18,
-      "model_rank": 57
-    },
-    {
-      "team": "Boise State Broncos",
-      "ap_rank": 17,
-      "model_rank": 31
-    },
-    {
-      "team": "Washington Huskies",
-      "ap_rank": 10,
-      "model_rank": 44
-    },
-    {
       "team": "Miami Hurricanes",
       "ap_rank": 21,
       "model_rank": 42
-    },
-    {
-      "team": "TCU Horned Frogs",
-      "ap_rank": 15,
-      "model_rank": 49
     },
     {
       "team": "Virginia Tech Hokies",
@@ -573,9 +528,54 @@
       "model_rank": 45
     },
     {
+      "team": "Michigan Wolverines",
+      "ap_rank": 19,
+      "model_rank": 39
+    },
+    {
       "team": "Oregon Ducks",
       "ap_rank": 20,
       "model_rank": 47
+    },
+    {
+      "team": "Wisconsin Badgers",
+      "ap_rank": 6,
+      "model_rank": 34
+    },
+    {
+      "team": "UCF Knights",
+      "ap_rank": 18,
+      "model_rank": 57
+    },
+    {
+      "team": "USC Trojans",
+      "ap_rank": 22,
+      "model_rank": 69
+    },
+    {
+      "team": "Washington Huskies",
+      "ap_rank": 10,
+      "model_rank": 44
+    },
+    {
+      "team": "Boise State Broncos",
+      "ap_rank": 17,
+      "model_rank": 31
+    },
+    {
+      "team": "Michigan State Spartans",
+      "ap_rank": 25,
+      "model_rank": 54
+    },
+    {
+      "team": "Arizona State Sun Devils",
+      "ap_rank": 23,
+      "model_rank": 46
+    },
+    {
+      "team": "TCU Horned Frogs",
+      "ap_rank": 15,
+      "model_rank": 49
     }
   ]
 }

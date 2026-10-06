@@ -483,9 +483,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Oklahoma Sooners",
-      "ap_rank": 18,
-      "model_rank": 37
+      "team": "Clemson Tigers",
+      "ap_rank": 10,
+      "model_rank": 27
     },
     {
       "team": "Michigan Wolverines",
@@ -493,19 +493,19 @@
       "model_rank": 34
     },
     {
+      "team": "Illinois Fighting Illini",
+      "ap_rank": 23,
+      "model_rank": 26
+    },
+    {
       "team": "Utah Utes",
       "ap_rank": 16,
       "model_rank": 55
     },
     {
-      "team": "Clemson Tigers",
-      "ap_rank": 10,
-      "model_rank": 27
-    },
-    {
-      "team": "Illinois Fighting Illini",
-      "ap_rank": 23,
-      "model_rank": 26
+      "team": "Oklahoma Sooners",
+      "ap_rank": 18,
+      "model_rank": 37
     }
   ]
 }

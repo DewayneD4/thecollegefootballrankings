@@ -478,14 +478,14 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Arizona State Sun Devils",
-      "ap_rank": 24,
-      "model_rank": 34
-    },
-    {
       "team": "Wake Forest Demon Deacons",
       "ap_rank": 25,
       "model_rank": 31
+    },
+    {
+      "team": "Iowa State Cyclones",
+      "ap_rank": 23,
+      "model_rank": 32
     },
     {
       "team": "Boise State Broncos",
@@ -493,9 +493,9 @@
       "model_rank": 26
     },
     {
-      "team": "Iowa State Cyclones",
-      "ap_rank": 23,
-      "model_rank": 32
+      "team": "Arizona State Sun Devils",
+      "ap_rank": 24,
+      "model_rank": 34
     }
   ]
 }

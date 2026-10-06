@@ -483,19 +483,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Alabama Crimson Tide",
-      "ap_rank": 10,
-      "model_rank": 35
-    },
-    {
       "team": "Kansas State Wildcats",
       "ap_rank": 15,
       "model_rank": 53
-    },
-    {
-      "team": "Tennessee Volunteers",
-      "ap_rank": 11,
-      "model_rank": 60
     },
     {
       "team": "LSU Tigers",
@@ -506,6 +496,16 @@
       "team": "Georgia Bulldogs",
       "ap_rank": 1,
       "model_rank": 31
+    },
+    {
+      "team": "Tennessee Volunteers",
+      "ap_rank": 11,
+      "model_rank": 60
+    },
+    {
+      "team": "Alabama Crimson Tide",
+      "ap_rank": 10,
+      "model_rank": 35
     }
   ]
 }

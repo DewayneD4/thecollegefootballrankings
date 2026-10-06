@@ -488,24 +488,14 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Oklahoma State Cowboys",
-      "ap_rank": 25,
-      "model_rank": 40
-    },
-    {
-      "team": "UCF Knights",
-      "ap_rank": 12,
-      "model_rank": 34
-    },
-    {
-      "team": "Colorado Buffaloes",
-      "ap_rank": 21,
-      "model_rank": 32
-    },
-    {
       "team": "Virginia Tech Hokies",
       "ap_rank": 24,
       "model_rank": 31
+    },
+    {
+      "team": "Auburn Tigers",
+      "ap_rank": 8,
+      "model_rank": 30
     },
     {
       "team": "Oregon Ducks",
@@ -513,9 +503,19 @@
       "model_rank": 53
     },
     {
-      "team": "Auburn Tigers",
-      "ap_rank": 8,
-      "model_rank": 30
+      "team": "UCF Knights",
+      "ap_rank": 12,
+      "model_rank": 34
+    },
+    {
+      "team": "Oklahoma State Cowboys",
+      "ap_rank": 25,
+      "model_rank": 40
+    },
+    {
+      "team": "Colorado Buffaloes",
+      "ap_rank": 21,
+      "model_rank": 32
     }
   ]
 }

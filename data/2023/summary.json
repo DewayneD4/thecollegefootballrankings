@@ -17,6 +17,17 @@
   "number_one_match": true,
   "weeks": [
     {
+      "week": 0,
+      "phase": "preseason",
+      "label": "Preseason (Coaches Poll)",
+      "file": "weeks/w00_preseason.json",
+      "has_ap": true,
+      "overlap_top25": 25,
+      "spearman_ap25": 1.0,
+      "model_1": "Georgia Bulldogs",
+      "ap_1": "Georgia Bulldogs"
+    },
+    {
       "week": 1,
       "phase": "regular",
       "label": "Week 1",
@@ -192,5 +203,6 @@
       "model_1": "Michigan Wolverines",
       "ap_1": "Michigan Wolverines"
     }
-  ]
+  ],
+  "preseason_source": "AFCA Coaches Poll (Week 1 / opening poll \u2014 ESPN preseason unavailable)"
 }

@@ -474,9 +474,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Utah Utes",
-      "ap_rank": 23,
-      "model_rank": 42
+      "team": "Auburn Tigers",
+      "ap_rank": 24,
+      "model_rank": 28
     },
     {
       "team": "South Florida Bulls",
@@ -484,9 +484,9 @@
       "model_rank": 34
     },
     {
-      "team": "Auburn Tigers",
-      "ap_rank": 24,
-      "model_rank": 28
+      "team": "Utah Utes",
+      "ap_rank": 23,
+      "model_rank": 42
     }
   ]
 }

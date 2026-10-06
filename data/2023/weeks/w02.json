@@ -508,19 +508,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Texas A&M Aggies",
-      "ap_rank": 23,
-      "model_rank": 41
-    },
-    {
-      "team": "Alabama Crimson Tide",
-      "ap_rank": 3,
-      "model_rank": 61
-    },
-    {
-      "team": "Wisconsin Badgers",
-      "ap_rank": 19,
-      "model_rank": 62
+      "team": "Clemson Tigers",
+      "ap_rank": 25,
+      "model_rank": 86
     },
     {
       "team": "Kansas State Wildcats",
@@ -528,24 +518,14 @@
       "model_rank": 34
     },
     {
-      "team": "Tulane Green Wave",
-      "ap_rank": 24,
-      "model_rank": 67
-    },
-    {
-      "team": "Tennessee Volunteers",
-      "ap_rank": 9,
-      "model_rank": 40
-    },
-    {
       "team": "LSU Tigers",
       "ap_rank": 14,
       "model_rank": 77
     },
     {
-      "team": "Clemson Tigers",
-      "ap_rank": 25,
-      "model_rank": 86
+      "team": "Wisconsin Badgers",
+      "ap_rank": 19,
+      "model_rank": 62
     },
     {
       "team": "Georgia Bulldogs",
@@ -553,9 +533,29 @@
       "model_rank": 45
     },
     {
+      "team": "Tennessee Volunteers",
+      "ap_rank": 9,
+      "model_rank": 40
+    },
+    {
+      "team": "Alabama Crimson Tide",
+      "ap_rank": 3,
+      "model_rank": 61
+    },
+    {
       "team": "Duke Blue Devils",
       "ap_rank": 21,
       "model_rank": 28
+    },
+    {
+      "team": "Texas A&M Aggies",
+      "ap_rank": 23,
+      "model_rank": 41
+    },
+    {
+      "team": "Tulane Green Wave",
+      "ap_rank": 24,
+      "model_rank": 67
     }
   ]
 }

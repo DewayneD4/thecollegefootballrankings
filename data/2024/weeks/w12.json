@@ -478,16 +478,6 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Tulane Green Wave",
-      "ap_rank": 25,
-      "model_rank": 26
-    },
-    {
-      "team": "Missouri Tigers",
-      "ap_rank": 24,
-      "model_rank": 29
-    },
-    {
       "team": "Army Black Knights",
       "ap_rank": 16,
       "model_rank": 31
@@ -496,6 +486,16 @@
       "team": "Washington State Cougars",
       "ap_rank": 19,
       "model_rank": 28
+    },
+    {
+      "team": "Tulane Green Wave",
+      "ap_rank": 25,
+      "model_rank": 26
+    },
+    {
+      "team": "Missouri Tigers",
+      "ap_rank": 24,
+      "model_rank": 29
     }
   ]
 }

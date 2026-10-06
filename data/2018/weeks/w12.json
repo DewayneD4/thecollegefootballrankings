@@ -493,19 +493,14 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Utah Utes",
-      "ap_rank": 21,
-      "model_rank": 31
+      "team": "Boston College Eagles",
+      "ap_rank": 22,
+      "model_rank": 47
     },
     {
-      "team": "Utah State Aggies",
-      "ap_rank": 14,
-      "model_rank": 29
-    },
-    {
-      "team": "Syracuse Orange",
-      "ap_rank": 12,
-      "model_rank": 44
+      "team": "Iowa State Cyclones",
+      "ap_rank": 18,
+      "model_rank": 30
     },
     {
       "team": "Washington Huskies",
@@ -518,14 +513,19 @@
       "model_rank": 37
     },
     {
-      "team": "Boston College Eagles",
-      "ap_rank": 22,
-      "model_rank": 47
+      "team": "Utah Utes",
+      "ap_rank": 21,
+      "model_rank": 31
     },
     {
-      "team": "Iowa State Cyclones",
-      "ap_rank": 18,
-      "model_rank": 30
+      "team": "Syracuse Orange",
+      "ap_rank": 12,
+      "model_rank": 44
+    },
+    {
+      "team": "Utah State Aggies",
+      "ap_rank": 14,
+      "model_rank": 29
     }
   ]
 }

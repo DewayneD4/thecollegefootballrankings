@@ -533,19 +533,24 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Oklahoma Sooners",
-      "ap_rank": 7,
-      "model_rank": 40
+      "team": "Miami Hurricanes",
+      "ap_rank": 8,
+      "model_rank": 94
     },
     {
-      "team": "Ohio State Buckeyes",
-      "ap_rank": 5,
-      "model_rank": 38
+      "team": "Clemson Tigers",
+      "ap_rank": 2,
+      "model_rank": 50
     },
     {
       "team": "Michigan Wolverines",
       "ap_rank": 14,
       "model_rank": 85
+    },
+    {
+      "team": "Oregon Ducks",
+      "ap_rank": 24,
+      "model_rank": 36
     },
     {
       "team": "Wisconsin Badgers",
@@ -558,6 +563,16 @@
       "model_rank": 35
     },
     {
+      "team": "Georgia Bulldogs",
+      "ap_rank": 3,
+      "model_rank": 46
+    },
+    {
+      "team": "Washington Huskies",
+      "ap_rank": 6,
+      "model_rank": 86
+    },
+    {
       "team": "Florida State Seminoles",
       "ap_rank": 19,
       "model_rank": 109
@@ -568,29 +583,19 @@
       "model_rank": 44
     },
     {
-      "team": "Washington Huskies",
-      "ap_rank": 6,
-      "model_rank": 86
+      "team": "Texas Longhorns",
+      "ap_rank": 23,
+      "model_rank": 90
     },
     {
-      "team": "Miami Hurricanes",
-      "ap_rank": 8,
-      "model_rank": 94
+      "team": "Oklahoma Sooners",
+      "ap_rank": 7,
+      "model_rank": 40
     },
     {
-      "team": "TCU Horned Frogs",
-      "ap_rank": 16,
-      "model_rank": 56
-    },
-    {
-      "team": "Oregon Ducks",
-      "ap_rank": 24,
-      "model_rank": 36
-    },
-    {
-      "team": "Clemson Tigers",
-      "ap_rank": 2,
-      "model_rank": 50
+      "team": "Ohio State Buckeyes",
+      "ap_rank": 5,
+      "model_rank": 38
     },
     {
       "team": "Notre Dame Fighting Irish",
@@ -598,14 +603,9 @@
       "model_rank": 34
     },
     {
-      "team": "Texas Longhorns",
-      "ap_rank": 23,
-      "model_rank": 90
-    },
-    {
-      "team": "Georgia Bulldogs",
-      "ap_rank": 3,
-      "model_rank": 46
+      "team": "TCU Horned Frogs",
+      "ap_rank": 16,
+      "model_rank": 56
     }
   ]
 }

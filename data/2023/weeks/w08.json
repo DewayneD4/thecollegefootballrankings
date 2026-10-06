@@ -478,16 +478,6 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Air Force Falcons",
-      "ap_rank": 22,
-      "model_rank": 28
-    },
-    {
-      "team": "Tulane Green Wave",
-      "ap_rank": 23,
-      "model_rank": 33
-    },
-    {
       "team": "Tennessee Volunteers",
       "ap_rank": 17,
       "model_rank": 30
@@ -496,6 +486,16 @@
       "team": "Duke Blue Devils",
       "ap_rank": 16,
       "model_rank": 29
+    },
+    {
+      "team": "Tulane Green Wave",
+      "ap_rank": 23,
+      "model_rank": 33
+    },
+    {
+      "team": "Air Force Falcons",
+      "ap_rank": 22,
+      "model_rank": 28
     }
   ]
 }

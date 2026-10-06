@@ -478,14 +478,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Texas A&M Aggies",
-      "ap_rank": 24,
-      "model_rank": 63
-    },
-    {
-      "team": "Iowa Hawkeyes",
-      "ap_rank": 17,
-      "model_rank": 28
+      "team": "Wake Forest Demon Deacons",
+      "ap_rank": 19,
+      "model_rank": 31
     },
     {
       "team": "Virginia Cavaliers",
@@ -493,9 +488,14 @@
       "model_rank": 29
     },
     {
-      "team": "Wake Forest Demon Deacons",
-      "ap_rank": 19,
-      "model_rank": 31
+      "team": "Iowa Hawkeyes",
+      "ap_rank": 17,
+      "model_rank": 28
+    },
+    {
+      "team": "Texas A&M Aggies",
+      "ap_rank": 24,
+      "model_rank": 63
     }
   ]
 }

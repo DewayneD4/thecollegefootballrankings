@@ -483,9 +483,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Tennessee Volunteers",
-      "ap_rank": 20,
-      "model_rank": 29
+      "team": "Georgia Tech Yellow Jackets",
+      "ap_rank": 15,
+      "model_rank": 26
     },
     {
       "team": "James Madison Dukes",
@@ -493,9 +493,9 @@
       "model_rank": 27
     },
     {
-      "team": "Missouri Tigers",
-      "ap_rank": 23,
-      "model_rank": 38
+      "team": "Tennessee Volunteers",
+      "ap_rank": 20,
+      "model_rank": 29
     },
     {
       "team": "Houston Cougars",
@@ -503,9 +503,9 @@
       "model_rank": 30
     },
     {
-      "team": "Georgia Tech Yellow Jackets",
-      "ap_rank": 15,
-      "model_rank": 26
+      "team": "Missouri Tigers",
+      "ap_rank": 23,
+      "model_rank": 38
     }
   ]
 }

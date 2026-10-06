@@ -1,9 +1,10 @@
 season,week,phase,n_games,overlap_top25,spearman_ap25,model_1,ap_1,has_ap
+2024,0,preseason,0,25,1.0,Georgia Bulldogs,Georgia Bulldogs,True
 2024,1,regular,100,7,0.2823076923076923,SMU Mustangs,Georgia Bulldogs,True
 2024,2,regular,178,10,0.5569230769230769,Syracuse Orange,Georgia Bulldogs,True
 2024,3,regular,241,14,0.5876923076923077,Alabama Crimson Tide,Georgia Bulldogs,True
 2024,4,regular,305,16,0.5253846153846153,Texas Longhorns,Texas Longhorns,True
-2024,5,regular,360,18,0.44846153846153847,BYU Cougars,Texas Longhorns,True
+2024,5,regular,360,18,0.4484615384615384,BYU Cougars,Texas Longhorns,True
 2024,6,regular,409,17,0.4455462537335249,Alabama Crimson Tide,Alabama Crimson Tide,True
 2024,7,regular,461,20,0.5647740825672745,Texas Longhorns,Texas Longhorns,True
 2024,8,midseason,520,21,0.6776923076923077,Alabama Crimson Tide,Texas Longhorns,True

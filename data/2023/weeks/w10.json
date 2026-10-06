@@ -473,9 +473,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Air Force Falcons",
-      "ap_rank": 17,
-      "model_rank": 38
+      "team": "UCLA Bruins",
+      "ap_rank": 20,
+      "model_rank": 36
     },
     {
       "team": "Tulane Green Wave",
@@ -483,9 +483,9 @@
       "model_rank": 32
     },
     {
-      "team": "UCLA Bruins",
-      "ap_rank": 20,
-      "model_rank": 36
+      "team": "Air Force Falcons",
+      "ap_rank": 17,
+      "model_rank": 38
     }
   ]
 }

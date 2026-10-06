@@ -518,39 +518,14 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Oklahoma Sooners",
-      "ap_rank": 4,
-      "model_rank": 26
-    },
-    {
-      "team": "Washington State Cougars",
-      "ap_rank": 23,
-      "model_rank": 44
-    },
-    {
-      "team": "Texas A&M Aggies",
-      "ap_rank": 12,
-      "model_rank": 37
-    },
-    {
-      "team": "Penn State Nittany Lions",
-      "ap_rank": 15,
-      "model_rank": 46
-    },
-    {
       "team": "Stanford Cardinal",
       "ap_rank": 25,
       "model_rank": 28
     },
     {
-      "team": "UCF Knights",
-      "ap_rank": 17,
-      "model_rank": 48
-    },
-    {
-      "team": "Washington Huskies",
-      "ap_rank": 13,
-      "model_rank": 56
+      "team": "Clemson Tigers",
+      "ap_rank": 1,
+      "model_rank": 40
     },
     {
       "team": "LSU Tigers",
@@ -563,9 +538,29 @@
       "model_rank": 88
     },
     {
-      "team": "Clemson Tigers",
-      "ap_rank": 1,
-      "model_rank": 40
+      "team": "Penn State Nittany Lions",
+      "ap_rank": 15,
+      "model_rank": 46
+    },
+    {
+      "team": "UCF Knights",
+      "ap_rank": 17,
+      "model_rank": 48
+    },
+    {
+      "team": "Iowa State Cyclones",
+      "ap_rank": 21,
+      "model_rank": 74
+    },
+    {
+      "team": "Washington Huskies",
+      "ap_rank": 13,
+      "model_rank": 56
+    },
+    {
+      "team": "Washington State Cougars",
+      "ap_rank": 23,
+      "model_rank": 44
     },
     {
       "team": "Texas Longhorns",
@@ -573,9 +568,14 @@
       "model_rank": 32
     },
     {
-      "team": "Iowa State Cyclones",
-      "ap_rank": 21,
-      "model_rank": 74
+      "team": "Texas A&M Aggies",
+      "ap_rank": 12,
+      "model_rank": 37
+    },
+    {
+      "team": "Oklahoma Sooners",
+      "ap_rank": 4,
+      "model_rank": 26
     }
   ]
 }

@@ -483,16 +483,6 @@
   ],
   "ap_only_top25": [
     {
-      "team": "NC State Wolfpack",
-      "ap_rank": 18,
-      "model_rank": 44
-    },
-    {
-      "team": "UTSA Roadrunners",
-      "ap_rank": 24,
-      "model_rank": 26
-    },
-    {
       "team": "SMU Mustangs",
       "ap_rank": 21,
       "model_rank": 37
@@ -503,9 +493,19 @@
       "model_rank": 29
     },
     {
+      "team": "NC State Wolfpack",
+      "ap_rank": 18,
+      "model_rank": 44
+    },
+    {
       "team": "Coastal Carolina Chanticleers",
       "ap_rank": 14,
       "model_rank": 53
+    },
+    {
+      "team": "UTSA Roadrunners",
+      "ap_rank": 24,
+      "model_rank": 26
     }
   ]
 }

@@ -474,6 +474,11 @@
   ],
   "ap_only_top25": [
     {
+      "team": "Clemson Tigers",
+      "ap_rank": 20,
+      "model_rank": 28
+    },
+    {
       "team": "Iowa Hawkeyes",
       "ap_rank": 24,
       "model_rank": 29
@@ -482,11 +487,6 @@
       "team": "Kansas Jayhawks",
       "ap_rank": 23,
       "model_rank": 27
-    },
-    {
-      "team": "Clemson Tigers",
-      "ap_rank": 20,
-      "model_rank": 28
     }
   ]
 }

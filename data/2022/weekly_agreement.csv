@@ -1,7 +1,8 @@
 season,week,phase,n_games,overlap_top25,spearman_ap25,model_1,ap_1,has_ap
-2022,1,regular,94,7,0.01769230769230769,Indiana Hoosiers,Alabama Crimson Tide,True
-2022,2,regular,176,13,-0.15384615384615383,Mississippi State Bulldogs,Alabama Crimson Tide,True
-2022,3,regular,248,12,0.24230769230769234,Florida State Seminoles,Georgia Bulldogs,True
+2022,0,preseason,0,25,1.0,Alabama Crimson Tide,Alabama Crimson Tide,True
+2022,1,regular,94,7,0.0176923076923076,Indiana Hoosiers,Alabama Crimson Tide,True
+2022,2,regular,176,13,-0.1538461538461538,Mississippi State Bulldogs,Alabama Crimson Tide,True
+2022,3,regular,248,12,0.2423076923076923,Florida State Seminoles,Georgia Bulldogs,True
 2022,4,regular,314,16,0.5892307692307692,Georgia Bulldogs,Georgia Bulldogs,True
 2022,5,regular,377,16,0.6169230769230769,Alabama Crimson Tide,Georgia Bulldogs,True
 2022,6,regular,434,19,0.6538461538461537,Georgia Bulldogs,Alabama Crimson Tide,True

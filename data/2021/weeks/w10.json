@@ -498,14 +498,14 @@
       "model_rank": 34
     },
     {
-      "team": "Coastal Carolina Chanticleers",
-      "ap_rank": 21,
-      "model_rank": 46
-    },
-    {
       "team": "Kentucky Wildcats",
       "ap_rank": 18,
       "model_rank": 41
+    },
+    {
+      "team": "Coastal Carolina Chanticleers",
+      "ap_rank": 21,
+      "model_rank": 46
     }
   ]
 }

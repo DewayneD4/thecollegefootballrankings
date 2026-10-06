@@ -533,6 +533,51 @@
   ],
   "ap_only_top25": [
     {
+      "team": "Miami Hurricanes",
+      "ap_rank": 22,
+      "model_rank": 58
+    },
+    {
+      "team": "Clemson Tigers",
+      "ap_rank": 6,
+      "model_rank": 76
+    },
+    {
+      "team": "Auburn Tigers",
+      "ap_rank": 25,
+      "model_rank": 45
+    },
+    {
+      "team": "Wisconsin Badgers",
+      "ap_rank": 18,
+      "model_rank": 50
+    },
+    {
+      "team": "USC Trojans",
+      "ap_rank": 14,
+      "model_rank": 68
+    },
+    {
+      "team": "Iowa State Cyclones",
+      "ap_rank": 9,
+      "model_rank": 78
+    },
+    {
+      "team": "Texas Longhorns",
+      "ap_rank": 15,
+      "model_rank": 60
+    },
+    {
+      "team": "Cincinnati Bearcats",
+      "ap_rank": 7,
+      "model_rank": 61
+    },
+    {
+      "team": "Utah Utes",
+      "ap_rank": 21,
+      "model_rank": 84
+    },
+    {
       "team": "Oklahoma Sooners",
       "ap_rank": 4,
       "model_rank": 26
@@ -543,39 +588,9 @@
       "model_rank": 27
     },
     {
-      "team": "USC Trojans",
-      "ap_rank": 14,
-      "model_rank": 68
-    },
-    {
-      "team": "Wisconsin Badgers",
-      "ap_rank": 18,
-      "model_rank": 50
-    },
-    {
-      "team": "Utah Utes",
-      "ap_rank": 21,
-      "model_rank": 84
-    },
-    {
-      "team": "Arizona State Sun Devils",
-      "ap_rank": 23,
-      "model_rank": 55
-    },
-    {
-      "team": "Miami Hurricanes",
-      "ap_rank": 22,
-      "model_rank": 58
-    },
-    {
-      "team": "Cincinnati Bearcats",
-      "ap_rank": 7,
-      "model_rank": 61
-    },
-    {
-      "team": "Clemson Tigers",
-      "ap_rank": 6,
-      "model_rank": 76
+      "team": "Coastal Carolina Chanticleers",
+      "ap_rank": 17,
+      "model_rank": 46
     },
     {
       "team": "Notre Dame Fighting Irish",
@@ -583,29 +598,14 @@
       "model_rank": 32
     },
     {
-      "team": "Texas Longhorns",
-      "ap_rank": 15,
-      "model_rank": 60
-    },
-    {
-      "team": "Iowa State Cyclones",
-      "ap_rank": 9,
-      "model_rank": 78
+      "team": "Arizona State Sun Devils",
+      "ap_rank": 23,
+      "model_rank": 55
     },
     {
       "team": "North Carolina Tar Heels",
       "ap_rank": 24,
       "model_rank": 67
-    },
-    {
-      "team": "Auburn Tigers",
-      "ap_rank": 25,
-      "model_rank": 45
-    },
-    {
-      "team": "Coastal Carolina Chanticleers",
-      "ap_rank": 17,
-      "model_rank": 46
     }
   ]
 }

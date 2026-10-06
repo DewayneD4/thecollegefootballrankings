@@ -1,4 +1,5 @@
 season,week,phase,n_games,overlap_top25,spearman_ap25,model_1,ap_1,has_ap
+2018,0,preseason,0,25,1.0,Alabama Crimson Tide,Alabama Crimson Tide,True
 2018,1,regular,88,10,-0.1776923076923077,Washington State Cougars,Alabama Crimson Tide,True
 2018,2,regular,166,12,0.6676923076923077,Duke Blue Devils,Alabama Crimson Tide,True
 2018,3,regular,232,13,0.6823076923076923,Duke Blue Devils,Alabama Crimson Tide,True

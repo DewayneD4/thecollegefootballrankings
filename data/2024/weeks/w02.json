@@ -533,24 +533,29 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Oklahoma Sooners",
-      "ap_rank": 15,
-      "model_rank": 37
+      "team": "Clemson Tigers",
+      "ap_rank": 25,
+      "model_rank": 65
     },
     {
-      "team": "Ohio State Buckeyes",
-      "ap_rank": 2,
-      "model_rank": 36
-    },
-    {
-      "team": "Oklahoma State Cowboys",
-      "ap_rank": 16,
-      "model_rank": 32
+      "team": "LSU Tigers",
+      "ap_rank": 18,
+      "model_rank": 73
     },
     {
       "team": "Michigan Wolverines",
       "ap_rank": 10,
       "model_rank": 60
+    },
+    {
+      "team": "Louisville Cardinals",
+      "ap_rank": 22,
+      "model_rank": 44
+    },
+    {
+      "team": "Ole Miss Rebels",
+      "ap_rank": 6,
+      "model_rank": 35
     },
     {
       "team": "Iowa Hawkeyes",
@@ -563,14 +568,34 @@
       "model_rank": 34
     },
     {
-      "team": "Kansas Jayhawks",
-      "ap_rank": 19,
-      "model_rank": 74
+      "team": "Oklahoma State Cowboys",
+      "ap_rank": 16,
+      "model_rank": 32
     },
     {
       "team": "NC State Wolfpack",
       "ap_rank": 24,
       "model_rank": 95
+    },
+    {
+      "team": "Oklahoma Sooners",
+      "ap_rank": 15,
+      "model_rank": 37
+    },
+    {
+      "team": "Ohio State Buckeyes",
+      "ap_rank": 2,
+      "model_rank": 36
+    },
+    {
+      "team": "Notre Dame Fighting Irish",
+      "ap_rank": 5,
+      "model_rank": 54
+    },
+    {
+      "team": "Kansas Jayhawks",
+      "ap_rank": 19,
+      "model_rank": 74
     },
     {
       "team": "Missouri Tigers",
@@ -581,31 +606,6 @@
       "team": "Arizona Wildcats",
       "ap_rank": 20,
       "model_rank": 63
-    },
-    {
-      "team": "Ole Miss Rebels",
-      "ap_rank": 6,
-      "model_rank": 35
-    },
-    {
-      "team": "LSU Tigers",
-      "ap_rank": 18,
-      "model_rank": 73
-    },
-    {
-      "team": "Notre Dame Fighting Irish",
-      "ap_rank": 5,
-      "model_rank": 54
-    },
-    {
-      "team": "Clemson Tigers",
-      "ap_rank": 25,
-      "model_rank": 65
-    },
-    {
-      "team": "Louisville Cardinals",
-      "ap_rank": 22,
-      "model_rank": 44
     }
   ]
 }

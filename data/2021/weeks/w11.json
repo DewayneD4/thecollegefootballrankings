@@ -483,9 +483,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "NC State Wolfpack",
-      "ap_rank": 21,
-      "model_rank": 33
+      "team": "Auburn Tigers",
+      "ap_rank": 16,
+      "model_rank": 32
     },
     {
       "team": "Louisiana Ragin' Cajuns",
@@ -493,14 +493,14 @@
       "model_rank": 27
     },
     {
-      "team": "Auburn Tigers",
-      "ap_rank": 16,
-      "model_rank": 32
-    },
-    {
       "team": "Houston Cougars",
       "ap_rank": 17,
       "model_rank": 31
+    },
+    {
+      "team": "NC State Wolfpack",
+      "ap_rank": 21,
+      "model_rank": 33
     },
     {
       "team": "Coastal Carolina Chanticleers",

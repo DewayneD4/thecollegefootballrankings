@@ -523,49 +523,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Oklahoma Sooners",
-      "ap_rank": 7,
-      "model_rank": 39
-    },
-    {
-      "team": "Washington State Cougars",
-      "ap_rank": 24,
-      "model_rank": 53
-    },
-    {
-      "team": "Oklahoma State Cowboys",
-      "ap_rank": 10,
-      "model_rank": 34
-    },
-    {
-      "team": "Wisconsin Badgers",
-      "ap_rank": 9,
-      "model_rank": 29
-    },
-    {
-      "team": "Penn State Nittany Lions",
-      "ap_rank": 6,
-      "model_rank": 36
-    },
-    {
       "team": "Stanford Cardinal",
       "ap_rank": 14,
       "model_rank": 27
-    },
-    {
-      "team": "Kansas State Wildcats",
-      "ap_rank": 20,
-      "model_rank": 63
-    },
-    {
-      "team": "West Virginia Mountaineers",
-      "ap_rank": 22,
-      "model_rank": 91
-    },
-    {
-      "team": "Florida State Seminoles",
-      "ap_rank": 3,
-      "model_rank": 101
     },
     {
       "team": "Miami Hurricanes",
@@ -578,9 +538,49 @@
       "model_rank": 40
     },
     {
+      "team": "West Virginia Mountaineers",
+      "ap_rank": 22,
+      "model_rank": 91
+    },
+    {
+      "team": "Kansas State Wildcats",
+      "ap_rank": 20,
+      "model_rank": 63
+    },
+    {
+      "team": "Penn State Nittany Lions",
+      "ap_rank": 6,
+      "model_rank": 36
+    },
+    {
+      "team": "Wisconsin Badgers",
+      "ap_rank": 9,
+      "model_rank": 29
+    },
+    {
+      "team": "Florida State Seminoles",
+      "ap_rank": 3,
+      "model_rank": 101
+    },
+    {
+      "team": "Washington State Cougars",
+      "ap_rank": 24,
+      "model_rank": 53
+    },
+    {
       "team": "Texas Longhorns",
       "ap_rank": 23,
       "model_rank": 105
+    },
+    {
+      "team": "Oklahoma State Cowboys",
+      "ap_rank": 10,
+      "model_rank": 34
+    },
+    {
+      "team": "Oklahoma Sooners",
+      "ap_rank": 7,
+      "model_rank": 39
     },
     {
       "team": "Florida Gators",

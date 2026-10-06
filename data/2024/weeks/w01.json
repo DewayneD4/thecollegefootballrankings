@@ -548,9 +548,59 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Oklahoma Sooners",
-      "ap_rank": 16,
-      "model_rank": 33
+      "team": "Clemson Tigers",
+      "ap_rank": 14,
+      "model_rank": 113
+    },
+    {
+      "team": "Kansas State Wildcats",
+      "ap_rank": 18,
+      "model_rank": 59
+    },
+    {
+      "team": "LSU Tigers",
+      "ap_rank": 13,
+      "model_rank": 100
+    },
+    {
+      "team": "Oregon Ducks",
+      "ap_rank": 3,
+      "model_rank": 68
+    },
+    {
+      "team": "Tennessee Volunteers",
+      "ap_rank": 15,
+      "model_rank": 42
+    },
+    {
+      "team": "Ole Miss Rebels",
+      "ap_rank": 6,
+      "model_rank": 38
+    },
+    {
+      "team": "Florida State Seminoles",
+      "ap_rank": 10,
+      "model_rank": 127
+    },
+    {
+      "team": "Iowa Hawkeyes",
+      "ap_rank": 25,
+      "model_rank": 45
+    },
+    {
+      "team": "Texas Longhorns",
+      "ap_rank": 4,
+      "model_rank": 32
+    },
+    {
+      "team": "Alabama Crimson Tide",
+      "ap_rank": 5,
+      "model_rank": 37
+    },
+    {
+      "team": "Utah Utes",
+      "ap_rank": 12,
+      "model_rank": 54
     },
     {
       "team": "Oklahoma State Cowboys",
@@ -563,29 +613,9 @@
       "model_rank": 105
     },
     {
-      "team": "Alabama Crimson Tide",
-      "ap_rank": 5,
-      "model_rank": 37
-    },
-    {
-      "team": "Iowa Hawkeyes",
-      "ap_rank": 25,
-      "model_rank": 45
-    },
-    {
-      "team": "Utah Utes",
-      "ap_rank": 12,
-      "model_rank": 54
-    },
-    {
-      "team": "Kansas State Wildcats",
-      "ap_rank": 18,
-      "model_rank": 59
-    },
-    {
-      "team": "Kansas Jayhawks",
-      "ap_rank": 22,
-      "model_rank": 52
+      "team": "Oklahoma Sooners",
+      "ap_rank": 16,
+      "model_rank": 33
     },
     {
       "team": "NC State Wolfpack",
@@ -593,9 +623,9 @@
       "model_rank": 71
     },
     {
-      "team": "Tennessee Volunteers",
-      "ap_rank": 15,
-      "model_rank": 42
+      "team": "Kansas Jayhawks",
+      "ap_rank": 22,
+      "model_rank": 52
     },
     {
       "team": "Missouri Tigers",
@@ -603,39 +633,9 @@
       "model_rank": 46
     },
     {
-      "team": "Florida State Seminoles",
-      "ap_rank": 10,
-      "model_rank": 127
-    },
-    {
       "team": "Arizona Wildcats",
       "ap_rank": 21,
       "model_rank": 53
-    },
-    {
-      "team": "Ole Miss Rebels",
-      "ap_rank": 6,
-      "model_rank": 38
-    },
-    {
-      "team": "Oregon Ducks",
-      "ap_rank": 3,
-      "model_rank": 68
-    },
-    {
-      "team": "LSU Tigers",
-      "ap_rank": 13,
-      "model_rank": 100
-    },
-    {
-      "team": "Texas Longhorns",
-      "ap_rank": 4,
-      "model_rank": 32
-    },
-    {
-      "team": "Clemson Tigers",
-      "ap_rank": 14,
-      "model_rank": 113
     }
   ]
 }

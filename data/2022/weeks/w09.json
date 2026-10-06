@@ -473,11 +473,6 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Cincinnati Bearcats",
-      "ap_rank": 20,
-      "model_rank": 43
-    },
-    {
       "team": "South Carolina Gamecocks",
       "ap_rank": 25,
       "model_rank": 45
@@ -486,6 +481,11 @@
       "team": "Kentucky Wildcats",
       "ap_rank": 19,
       "model_rank": 40
+    },
+    {
+      "team": "Cincinnati Bearcats",
+      "ap_rank": 20,
+      "model_rank": 43
     }
   ]
 }

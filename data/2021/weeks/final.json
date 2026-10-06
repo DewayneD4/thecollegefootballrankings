@@ -484,16 +484,6 @@
   ],
   "ap_only_top25": [
     {
-      "team": "BYU Cougars",
-      "ap_rank": 19,
-      "model_rank": 27
-    },
-    {
-      "team": "NC State Wolfpack",
-      "ap_rank": 20,
-      "model_rank": 38
-    },
-    {
       "team": "Wake Forest Demon Deacons",
       "ap_rank": 15,
       "model_rank": 26
@@ -507,6 +497,16 @@
       "team": "Houston Cougars",
       "ap_rank": 17,
       "model_rank": 28
+    },
+    {
+      "team": "NC State Wolfpack",
+      "ap_rank": 20,
+      "model_rank": 38
+    },
+    {
+      "team": "BYU Cougars",
+      "ap_rank": 19,
+      "model_rank": 27
     }
   ]
 }

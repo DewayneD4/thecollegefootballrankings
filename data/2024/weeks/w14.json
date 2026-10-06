@@ -483,11 +483,6 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Tulane Green Wave",
-      "ap_rank": 18,
-      "model_rank": 31
-    },
-    {
       "team": "Clemson Tigers",
       "ap_rank": 12,
       "model_rank": 27
@@ -506,6 +501,11 @@
       "team": "Illinois Fighting Illini",
       "ap_rank": 22,
       "model_rank": 26
+    },
+    {
+      "team": "Tulane Green Wave",
+      "ap_rank": 18,
+      "model_rank": 31
     }
   ]
 }

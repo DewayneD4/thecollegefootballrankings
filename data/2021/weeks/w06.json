@@ -483,9 +483,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "NC State Wolfpack",
-      "ap_rank": 23,
-      "model_rank": 37
+      "team": "Auburn Tigers",
+      "ap_rank": 18,
+      "model_rank": 34
     },
     {
       "team": "San Diego State Aztecs",
@@ -498,9 +498,9 @@
       "model_rank": 27
     },
     {
-      "team": "Auburn Tigers",
-      "ap_rank": 18,
-      "model_rank": 34
+      "team": "NC State Wolfpack",
+      "ap_rank": 23,
+      "model_rank": 37
     },
     {
       "team": "Coastal Carolina Chanticleers",

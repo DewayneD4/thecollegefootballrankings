@@ -483,14 +483,14 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Kansas Jayhawks",
-      "ap_rank": 24,
-      "model_rank": 29
-    },
-    {
       "team": "Fresno State Bulldogs",
       "ap_rank": 25,
       "model_rank": 35
+    },
+    {
+      "team": "LSU Tigers",
+      "ap_rank": 13,
+      "model_rank": 43
     },
     {
       "team": "Tennessee Volunteers",
@@ -498,14 +498,14 @@
       "model_rank": 38
     },
     {
+      "team": "Kansas Jayhawks",
+      "ap_rank": 24,
+      "model_rank": 29
+    },
+    {
       "team": "Florida Gators",
       "ap_rank": 22,
       "model_rank": 45
-    },
-    {
-      "team": "LSU Tigers",
-      "ap_rank": 13,
-      "model_rank": 43
     }
   ]
 }

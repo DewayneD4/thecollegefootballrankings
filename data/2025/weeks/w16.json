@@ -483,11 +483,6 @@
       "model_rank": 29
     },
     {
-      "team": "Missouri Tigers",
-      "ap_rank": 25,
-      "model_rank": 44
-    },
-    {
       "team": "Navy Midshipmen",
       "ap_rank": 22,
       "model_rank": 35
@@ -496,6 +491,11 @@
       "team": "North Texas Mean Green",
       "ap_rank": 23,
       "model_rank": 26
+    },
+    {
+      "team": "Missouri Tigers",
+      "ap_rank": 25,
+      "model_rank": 44
     }
   ]
 }

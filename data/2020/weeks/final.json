@@ -479,14 +479,14 @@
   ],
   "ap_only_top25": [
     {
+      "team": "Indiana Hoosiers",
+      "ap_rank": 12,
+      "model_rank": 35
+    },
+    {
       "team": "USC Trojans",
       "ap_rank": 21,
       "model_rank": 50
-    },
-    {
-      "team": "Buffalo Bulls",
-      "ap_rank": 25,
-      "model_rank": 30
     },
     {
       "team": "Iowa Hawkeyes",
@@ -494,9 +494,9 @@
       "model_rank": 32
     },
     {
-      "team": "Indiana Hoosiers",
-      "ap_rank": 12,
-      "model_rank": 35
+      "team": "Buffalo Bulls",
+      "ap_rank": 25,
+      "model_rank": 30
     }
   ]
 }

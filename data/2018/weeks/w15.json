@@ -483,14 +483,14 @@
       "model_rank": 27
     },
     {
-      "team": "Syracuse Orange",
-      "ap_rank": 17,
-      "model_rank": 26
-    },
-    {
       "team": "Iowa State Cyclones",
       "ap_rank": 25,
       "model_rank": 39
+    },
+    {
+      "team": "Syracuse Orange",
+      "ap_rank": 17,
+      "model_rank": 26
     },
     {
       "team": "Army Black Knights",

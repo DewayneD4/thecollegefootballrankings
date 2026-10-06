@@ -483,21 +483,6 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Utah Utes",
-      "ap_rank": 11,
-      "model_rank": 32
-    },
-    {
-      "team": "San Diego State Aztecs",
-      "ap_rank": 24,
-      "model_rank": 47
-    },
-    {
-      "team": "Troy Trojans",
-      "ap_rank": 25,
-      "model_rank": 45
-    },
-    {
       "team": "West Virginia Mountaineers",
       "ap_rank": 10,
       "model_rank": 37
@@ -506,6 +491,21 @@
       "team": "LSU Tigers",
       "ap_rank": 16,
       "model_rank": 26
+    },
+    {
+      "team": "San Diego State Aztecs",
+      "ap_rank": 24,
+      "model_rank": 47
+    },
+    {
+      "team": "Utah Utes",
+      "ap_rank": 11,
+      "model_rank": 32
+    },
+    {
+      "team": "Troy Trojans",
+      "ap_rank": 25,
+      "model_rank": 45
     }
   ]
 }

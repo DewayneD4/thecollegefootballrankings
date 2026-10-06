@@ -488,16 +488,6 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Kansas Jayhawks",
-      "ap_rank": 23,
-      "model_rank": 37
-    },
-    {
-      "team": "Tennessee Volunteers",
-      "ap_rank": 19,
-      "model_rank": 27
-    },
-    {
       "team": "Miami Hurricanes",
       "ap_rank": 25,
       "model_rank": 26
@@ -508,14 +498,24 @@
       "model_rank": 33
     },
     {
-      "team": "Kentucky Wildcats",
-      "ap_rank": 24,
-      "model_rank": 42
+      "team": "Tennessee Volunteers",
+      "ap_rank": 19,
+      "model_rank": 27
     },
     {
       "team": "Washington State Cougars",
       "ap_rank": 19,
       "model_rank": 28
+    },
+    {
+      "team": "Kentucky Wildcats",
+      "ap_rank": 24,
+      "model_rank": 42
+    },
+    {
+      "team": "Kansas Jayhawks",
+      "ap_rank": 23,
+      "model_rank": 37
     }
   ]
 }

@@ -503,34 +503,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Oklahoma Sooners",
-      "ap_rank": 18,
-      "model_rank": 37
-    },
-    {
-      "team": "Texas A&M Aggies",
-      "ap_rank": 17,
-      "model_rank": 42
-    },
-    {
-      "team": "BYU Cougars",
-      "ap_rank": 19,
-      "model_rank": 33
-    },
-    {
-      "team": "Utah Utes",
-      "ap_rank": 12,
-      "model_rank": 34
-    },
-    {
-      "team": "Arkansas Razorbacks",
-      "ap_rank": 20,
-      "model_rank": 47
-    },
-    {
-      "team": "Washington Huskies",
-      "ap_rank": 15,
-      "model_rank": 41
+      "team": "Baylor Bears",
+      "ap_rank": 16,
+      "model_rank": 40
     },
     {
       "team": "Minnesota Golden Gophers",
@@ -538,14 +513,39 @@
       "model_rank": 49
     },
     {
+      "team": "Washington Huskies",
+      "ap_rank": 15,
+      "model_rank": 41
+    },
+    {
+      "team": "Arkansas Razorbacks",
+      "ap_rank": 20,
+      "model_rank": 47
+    },
+    {
       "team": "Pittsburgh Panthers",
       "ap_rank": 24,
       "model_rank": 52
     },
     {
-      "team": "Baylor Bears",
-      "ap_rank": 16,
-      "model_rank": 40
+      "team": "Utah Utes",
+      "ap_rank": 12,
+      "model_rank": 34
+    },
+    {
+      "team": "Texas A&M Aggies",
+      "ap_rank": 17,
+      "model_rank": 42
+    },
+    {
+      "team": "Oklahoma Sooners",
+      "ap_rank": 18,
+      "model_rank": 37
+    },
+    {
+      "team": "BYU Cougars",
+      "ap_rank": 19,
+      "model_rank": 33
     }
   ]
 }

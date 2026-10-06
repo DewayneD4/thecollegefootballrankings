@@ -474,9 +474,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Memphis Tigers",
-      "ap_rank": 25,
-      "model_rank": 35
+      "team": "LSU Tigers",
+      "ap_rank": 18,
+      "model_rank": 38
     },
     {
       "team": "South Florida Bulls",
@@ -484,9 +484,9 @@
       "model_rank": 45
     },
     {
-      "team": "LSU Tigers",
-      "ap_rank": 18,
-      "model_rank": 38
+      "team": "Memphis Tigers",
+      "ap_rank": 25,
+      "model_rank": 35
     }
   ]
 }

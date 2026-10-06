@@ -483,16 +483,6 @@
   ],
   "ap_only_top25": [
     {
-      "team": "UCF Knights",
-      "ap_rank": 22,
-      "model_rank": 29
-    },
-    {
-      "team": "UTSA Roadrunners",
-      "ap_rank": 23,
-      "model_rank": 30
-    },
-    {
       "team": "Oregon State Beavers",
       "ap_rank": 16,
       "model_rank": 27
@@ -503,9 +493,19 @@
       "model_rank": 26
     },
     {
+      "team": "UCF Knights",
+      "ap_rank": 22,
+      "model_rank": 29
+    },
+    {
       "team": "North Carolina Tar Heels",
       "ap_rank": 24,
       "model_rank": 28
+    },
+    {
+      "team": "UTSA Roadrunners",
+      "ap_rank": 23,
+      "model_rank": 30
     }
   ]
 }

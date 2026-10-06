@@ -473,6 +473,11 @@
   ],
   "ap_only_top25": [
     {
+      "team": "West Virginia Mountaineers",
+      "ap_rank": 23,
+      "model_rank": 37
+    },
+    {
       "team": "Michigan Wolverines",
       "ap_rank": 19,
       "model_rank": 27
@@ -481,11 +486,6 @@
       "team": "South Florida Bulls",
       "ap_rank": 16,
       "model_rank": 29
-    },
-    {
-      "team": "West Virginia Mountaineers",
-      "ap_rank": 23,
-      "model_rank": 37
     }
   ]
 }

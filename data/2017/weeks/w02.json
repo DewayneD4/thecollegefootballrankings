@@ -528,36 +528,6 @@
       "model_rank": 41
     },
     {
-      "team": "Kansas State Wildcats",
-      "ap_rank": 19,
-      "model_rank": 46
-    },
-    {
-      "team": "Tennessee Volunteers",
-      "ap_rank": 25,
-      "model_rank": 33
-    },
-    {
-      "team": "Florida Gators",
-      "ap_rank": 22,
-      "model_rank": 72
-    },
-    {
-      "team": "South Florida Bulls",
-      "ap_rank": 21,
-      "model_rank": 45
-    },
-    {
-      "team": "Florida State Seminoles",
-      "ap_rank": 10,
-      "model_rank": 80
-    },
-    {
-      "team": "Washington Huskies",
-      "ap_rank": 7,
-      "model_rank": 27
-    },
-    {
       "team": "Miami Hurricanes",
       "ap_rank": 16,
       "model_rank": 70
@@ -568,9 +538,44 @@
       "model_rank": 28
     },
     {
+      "team": "Auburn Tigers",
+      "ap_rank": 13,
+      "model_rank": 54
+    },
+    {
+      "team": "Kansas State Wildcats",
+      "ap_rank": 19,
+      "model_rank": 46
+    },
+    {
       "team": "LSU Tigers",
       "ap_rank": 12,
       "model_rank": 37
+    },
+    {
+      "team": "South Florida Bulls",
+      "ap_rank": 21,
+      "model_rank": 45
+    },
+    {
+      "team": "Tennessee Volunteers",
+      "ap_rank": 25,
+      "model_rank": 33
+    },
+    {
+      "team": "Washington Huskies",
+      "ap_rank": 7,
+      "model_rank": 27
+    },
+    {
+      "team": "Florida State Seminoles",
+      "ap_rank": 10,
+      "model_rank": 80
+    },
+    {
+      "team": "Washington State Cougars",
+      "ap_rank": 20,
+      "model_rank": 32
     },
     {
       "team": "Notre Dame Fighting Irish",
@@ -578,14 +583,9 @@
       "model_rank": 57
     },
     {
-      "team": "Auburn Tigers",
-      "ap_rank": 13,
-      "model_rank": 54
-    },
-    {
-      "team": "Washington State Cougars",
-      "ap_rank": 20,
-      "model_rank": 32
+      "team": "Florida Gators",
+      "ap_rank": 22,
+      "model_rank": 72
     }
   ]
 }

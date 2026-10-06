@@ -518,14 +518,9 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Oklahoma Sooners",
-      "ap_rank": 7,
-      "model_rank": 28
-    },
-    {
-      "team": "Texas A&M Aggies",
-      "ap_rank": 6,
-      "model_rank": 77
+      "team": "Miami Hurricanes",
+      "ap_rank": 15,
+      "model_rank": 32
     },
     {
       "team": "Michigan Wolverines",
@@ -533,29 +528,19 @@
       "model_rank": 44
     },
     {
+      "team": "Baylor Bears",
+      "ap_rank": 9,
+      "model_rank": 70
+    },
+    {
       "team": "Wisconsin Badgers",
       "ap_rank": 19,
       "model_rank": 85
     },
     {
-      "team": "Utah Utes",
-      "ap_rank": 13,
-      "model_rank": 75
-    },
-    {
-      "team": "Miami Hurricanes",
-      "ap_rank": 15,
-      "model_rank": 32
-    },
-    {
       "team": "Ole Miss Rebels",
       "ap_rank": 22,
       "model_rank": 27
-    },
-    {
-      "team": "Notre Dame Fighting Irish",
-      "ap_rank": 8,
-      "model_rank": 105
     },
     {
       "team": "Houston Cougars",
@@ -568,9 +553,24 @@
       "model_rank": 59
     },
     {
-      "team": "Baylor Bears",
-      "ap_rank": 9,
-      "model_rank": 70
+      "team": "Texas A&M Aggies",
+      "ap_rank": 6,
+      "model_rank": 77
+    },
+    {
+      "team": "Utah Utes",
+      "ap_rank": 13,
+      "model_rank": 75
+    },
+    {
+      "team": "Oklahoma Sooners",
+      "ap_rank": 7,
+      "model_rank": 28
+    },
+    {
+      "team": "Notre Dame Fighting Irish",
+      "ap_rank": 8,
+      "model_rank": 105
     },
     {
       "team": "Florida Gators",

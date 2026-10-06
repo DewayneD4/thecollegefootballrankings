@@ -493,31 +493,6 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Oklahoma State Cowboys",
-      "ap_rank": 20,
-      "model_rank": 47
-    },
-    {
-      "team": "Texas A&M Aggies",
-      "ap_rank": 24,
-      "model_rank": 28
-    },
-    {
-      "team": "Utah Utes",
-      "ap_rank": 10,
-      "model_rank": 35
-    },
-    {
-      "team": "Boise State Broncos",
-      "ap_rank": 25,
-      "model_rank": 26
-    },
-    {
-      "team": "Ole Miss Rebels",
-      "ap_rank": 6,
-      "model_rank": 32
-    },
-    {
       "team": "Clemson Tigers",
       "ap_rank": 17,
       "model_rank": 41
@@ -526,6 +501,31 @@
       "team": "Louisville Cardinals",
       "ap_rank": 15,
       "model_rank": 42
+    },
+    {
+      "team": "Ole Miss Rebels",
+      "ap_rank": 6,
+      "model_rank": 32
+    },
+    {
+      "team": "Boise State Broncos",
+      "ap_rank": 25,
+      "model_rank": 26
+    },
+    {
+      "team": "Utah Utes",
+      "ap_rank": 10,
+      "model_rank": 35
+    },
+    {
+      "team": "Oklahoma State Cowboys",
+      "ap_rank": 20,
+      "model_rank": 47
+    },
+    {
+      "team": "Texas A&M Aggies",
+      "ap_rank": 24,
+      "model_rank": 28
     }
   ]
 }

@@ -488,6 +488,11 @@
       "model_rank": 48
     },
     {
+      "team": "Oregon Ducks",
+      "ap_rank": 12,
+      "model_rank": 45
+    },
+    {
       "team": "UCF Knights",
       "ap_rank": 10,
       "model_rank": 29
@@ -501,11 +506,6 @@
       "team": "Cincinnati Bearcats",
       "ap_rank": 20,
       "model_rank": 44
-    },
-    {
-      "team": "Oregon Ducks",
-      "ap_rank": 12,
-      "model_rank": 45
     }
   ]
 }

@@ -483,6 +483,16 @@
   ],
   "ap_only_top25": [
     {
+      "team": "Virginia Tech Hokies",
+      "ap_rank": 15,
+      "model_rank": 29
+    },
+    {
+      "team": "Auburn Tigers",
+      "ap_rank": 10,
+      "model_rank": 30
+    },
+    {
       "team": "Texas Tech Red Raiders",
       "ap_rank": 24,
       "model_rank": 27
@@ -496,16 +506,6 @@
       "team": "Navy Midshipmen",
       "ap_rank": 25,
       "model_rank": 36
-    },
-    {
-      "team": "Virginia Tech Hokies",
-      "ap_rank": 15,
-      "model_rank": 29
-    },
-    {
-      "team": "Auburn Tigers",
-      "ap_rank": 10,
-      "model_rank": 30
     }
   ]
 }

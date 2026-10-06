@@ -478,24 +478,24 @@
   ],
   "ap_only_top25": [
     {
-      "team": "Oklahoma Sooners",
-      "ap_rank": 16,
-      "model_rank": 38
-    },
-    {
       "team": "West Virginia Mountaineers",
       "ap_rank": 10,
       "model_rank": 30
     },
     {
-      "team": "Navy Midshipmen",
-      "ap_rank": 22,
-      "model_rank": 45
-    },
-    {
       "team": "LSU Tigers",
       "ap_rank": 19,
       "model_rank": 34
+    },
+    {
+      "team": "Oklahoma Sooners",
+      "ap_rank": 16,
+      "model_rank": 38
+    },
+    {
+      "team": "Navy Midshipmen",
+      "ap_rank": 22,
+      "model_rank": 45
     }
   ]
 }

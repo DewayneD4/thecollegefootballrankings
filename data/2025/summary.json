@@ -3,11 +3,11 @@
   "regular_through": 16,
   "n_regular_games": 888,
   "n_postseason_games": 46,
-  "n_weeks": 17,
-  "n_weeks_with_ap": 16,
-  "mean_overlap": 19.5625,
-  "mean_spearman": 0.5625653248719791,
-  "median_spearman": 0.7419230769230769,
+  "n_weeks": 18,
+  "n_weeks_with_ap": 17,
+  "mean_overlap": 19.823529411764707,
+  "mean_spearman": 0.5888850116442155,
+  "median_spearman": 0.763076923076923,
   "end_reg_overlap": 21,
   "end_reg_spearman": 0.9284615384615384,
   "final_overlap": 21,
@@ -16,6 +16,17 @@
   "ap_1": "Indiana Hoosiers",
   "number_one_match": true,
   "weeks": [
+    {
+      "week": 0,
+      "phase": "preseason",
+      "label": "Preseason (Coaches Poll)",
+      "file": "weeks/w00_preseason.json",
+      "has_ap": true,
+      "overlap_top25": 25,
+      "spearman_ap25": 1.0,
+      "model_1": "Texas Longhorns",
+      "ap_1": "Texas Longhorns"
+    },
     {
       "week": 1,
       "phase": "regular",
@@ -34,7 +45,7 @@
       "file": "weeks/w02.json",
       "has_ap": true,
       "overlap_top25": 11,
-      "spearman_ap25": -0.08461538461538462,
+      "spearman_ap25": -0.09999999999999999,
       "model_1": "Ole Miss Rebels",
       "ap_1": "Ohio State Buckeyes"
     },
@@ -45,7 +56,7 @@
       "file": "weeks/w03.json",
       "has_ap": true,
       "overlap_top25": 16,
-      "spearman_ap25": 0.006923076923076924,
+      "spearman_ap25": 0.014615384615384615,
       "model_1": "Ole Miss Rebels",
       "ap_1": "Ohio State Buckeyes"
     },
@@ -55,7 +66,7 @@
       "label": "Week 4",
       "file": "weeks/w04.json",
       "has_ap": true,
-      "overlap_top25": 19,
+      "overlap_top25": 18,
       "spearman_ap25": -0.20230769230769227,
       "model_1": "Oklahoma Sooners",
       "ap_1": "Ohio State Buckeyes"
@@ -67,7 +78,7 @@
       "file": "weeks/w05.json",
       "has_ap": true,
       "overlap_top25": 20,
-      "spearman_ap25": 0.02846153846153846,
+      "spearman_ap25": 0.02692307692307692,
       "model_1": "Indiana Hoosiers",
       "ap_1": "Ohio State Buckeyes"
     },
@@ -78,7 +89,7 @@
       "file": "weeks/w06.json",
       "has_ap": true,
       "overlap_top25": 21,
-      "spearman_ap25": 0.42153846153846153,
+      "spearman_ap25": 0.4230769230769231,
       "model_1": "Indiana Hoosiers",
       "ap_1": "Ohio State Buckeyes"
     },
@@ -89,7 +100,7 @@
       "file": "weeks/w07.json",
       "has_ap": true,
       "overlap_top25": 19,
-      "spearman_ap25": 0.6823076923076923,
+      "spearman_ap25": 0.6876923076923077,
       "model_1": "Indiana Hoosiers",
       "ap_1": "Ohio State Buckeyes"
     },
@@ -100,7 +111,7 @@
       "file": "weeks/w08.json",
       "has_ap": true,
       "overlap_top25": 21,
-      "spearman_ap25": 0.726153846153846,
+      "spearman_ap25": 0.733076923076923,
       "model_1": "Indiana Hoosiers",
       "ap_1": "Ohio State Buckeyes"
     },
@@ -111,7 +122,7 @@
       "file": "weeks/w09.json",
       "has_ap": true,
       "overlap_top25": 20,
-      "spearman_ap25": 0.7576923076923077,
+      "spearman_ap25": 0.763076923076923,
       "model_1": "Alabama Crimson Tide",
       "ap_1": "Ohio State Buckeyes"
     },
@@ -203,5 +214,6 @@
       "model_1": "Indiana Hoosiers",
       "ap_1": "Indiana Hoosiers"
     }
-  ]
+  ],
+  "preseason_source": "AFCA Coaches Poll (preseason)"
 }

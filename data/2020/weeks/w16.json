@@ -483,14 +483,14 @@
   ],
   "ap_only_top25": [
     {
+      "team": "Indiana Hoosiers",
+      "ap_rank": 7,
+      "model_rank": 30
+    },
+    {
       "team": "USC Trojans",
       "ap_rank": 13,
       "model_rank": 45
-    },
-    {
-      "team": "Buffalo Bulls",
-      "ap_rank": 23,
-      "model_rank": 51
     },
     {
       "team": "Iowa Hawkeyes",
@@ -498,14 +498,14 @@
       "model_rank": 34
     },
     {
+      "team": "Buffalo Bulls",
+      "ap_rank": 23,
+      "model_rank": 51
+    },
+    {
       "team": "Northwestern Wildcats",
       "ap_rank": 15,
       "model_rank": 26
-    },
-    {
-      "team": "Indiana Hoosiers",
-      "ap_rank": 7,
-      "model_rank": 30
     }
   ]
 }
