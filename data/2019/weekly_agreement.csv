@@ -1,0 +1,18 @@
+season,week,phase,n_games,overlap_top25,spearman_ap25,model_1,ap_1,has_ap
+2019,1,regular,85,13,0.12307692307692307,Georgia Bulldogs,Clemson Tigers,True
+2019,2,regular,159,12,0.3884424744752757,Auburn Tigers,Clemson Tigers,True
+2019,3,regular,227,14,0.5953846153846154,Florida Gators,Clemson Tigers,True
+2019,4,regular,285,16,0.41738796694386954,Auburn Tigers,Clemson Tigers,True
+2019,5,regular,340,19,0.6415384615384615,Auburn Tigers,Clemson Tigers,True
+2019,6,regular,388,21,0.726619945651374,Ohio State Buckeyes,Alabama Crimson Tide,True
+2019,7,regular,441,21,0.7828428688762901,Ohio State Buckeyes,Alabama Crimson Tide,True
+2019,8,midseason,503,23,0.7784615384615384,Ohio State Buckeyes,Alabama Crimson Tide,True
+2019,9,regular,558,21,0.8146153846153847,Ohio State Buckeyes,Alabama Crimson Tide,True
+2019,10,regular,606,22,0.8084615384615383,Ohio State Buckeyes,LSU Tigers,True
+2019,11,regular,654,21,0.8607692307692307,LSU Tigers,LSU Tigers,True
+2019,12,regular,709,23,0.8746153846153846,LSU Tigers,LSU Tigers,True
+2019,13,regular,773,22,0.9038461538461539,Ohio State Buckeyes,LSU Tigers,True
+2019,14,regular,837,23,0.7376923076923076,Ohio State Buckeyes,LSU Tigers,True
+2019,15,regular,847,22,0.7946153846153846,Ohio State Buckeyes,LSU Tigers,True
+2019,16,end_regular,848,23,0.8459319256309394,Ohio State Buckeyes,LSU Tigers,True
+2019,17,final_postseason,888,24,0.9176923076923077,LSU Tigers,LSU Tigers,True

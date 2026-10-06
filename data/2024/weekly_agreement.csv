@@ -1,0 +1,18 @@
+season,week,phase,n_games,overlap_top25,spearman_ap25,model_1,ap_1,has_ap
+2024,1,regular,100,7,0.2823076923076923,SMU Mustangs,Georgia Bulldogs,True
+2024,2,regular,178,10,0.5569230769230769,Syracuse Orange,Georgia Bulldogs,True
+2024,3,regular,241,14,0.5876923076923077,Alabama Crimson Tide,Georgia Bulldogs,True
+2024,4,regular,305,16,0.5253846153846153,Texas Longhorns,Texas Longhorns,True
+2024,5,regular,360,18,0.44846153846153847,BYU Cougars,Texas Longhorns,True
+2024,6,regular,409,17,0.4455462537335249,Alabama Crimson Tide,Alabama Crimson Tide,True
+2024,7,regular,461,20,0.5647740825672745,Texas Longhorns,Texas Longhorns,True
+2024,8,midseason,520,21,0.6776923076923077,Alabama Crimson Tide,Texas Longhorns,True
+2024,9,regular,577,22,0.6492307692307692,Notre Dame Fighting Irish,Oregon Ducks,True
+2024,10,regular,626,20,0.6682054364806466,Oregon Ducks,Oregon Ducks,True
+2024,11,regular,676,22,0.7192307692307691,Alabama Crimson Tide,Oregon Ducks,True
+2024,12,regular,731,21,0.7069230769230769,Alabama Crimson Tide,Oregon Ducks,True
+2024,13,regular,796,20,0.7484615384615385,Oregon Ducks,Oregon Ducks,True
+2024,14,regular,863,20,0.7007692307692307,Oregon Ducks,Oregon Ducks,True
+2024,15,regular,872,20,0.7853846153846153,Georgia Bulldogs,Oregon Ducks,True
+2024,16,end_regular,873,20,0.7976923076923076,Georgia Bulldogs,Oregon Ducks,True
+2024,17,final_postseason,919,19,0.8430769230769231,Ohio State Buckeyes,Ohio State Buckeyes,True

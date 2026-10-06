@@ -1,0 +1,17 @@
+season,week,phase,n_games,overlap_top25,spearman_ap25,model_1,ap_1,has_ap
+2018,1,regular,88,10,-0.1776923076923077,Washington State Cougars,Alabama Crimson Tide,True
+2018,2,regular,166,12,0.6676923076923077,Duke Blue Devils,Alabama Crimson Tide,True
+2018,3,regular,232,13,0.6823076923076923,Duke Blue Devils,Alabama Crimson Tide,True
+2018,4,regular,294,13,0.6543566191442601,Alabama Crimson Tide,Alabama Crimson Tide,True
+2018,5,regular,352,18,0.7015384615384616,LSU Tigers,Alabama Crimson Tide,True
+2018,6,regular,408,19,0.6715384615384616,Notre Dame Fighting Irish,Alabama Crimson Tide,True
+2018,7,regular,463,18,0.6607692307692308,Alabama Crimson Tide,Alabama Crimson Tide,True
+2018,8,midseason,518,20,0.7530769230769231,Alabama Crimson Tide,Alabama Crimson Tide,True
+2018,9,regular,574,18,0.8276923076923076,Alabama Crimson Tide,Alabama Crimson Tide,True
+2018,10,regular,636,16,0.8853846153846154,Alabama Crimson Tide,Alabama Crimson Tide,True
+2018,11,regular,698,17,0.76,Alabama Crimson Tide,Alabama Crimson Tide,True
+2018,12,regular,764,18,0.6776923076923077,Alabama Crimson Tide,Alabama Crimson Tide,True
+2018,13,regular,828,19,0.6962877605238745,Alabama Crimson Tide,Alabama Crimson Tide,True
+2018,14,regular,844,21,0.7447586212012272,Alabama Crimson Tide,Alabama Crimson Tide,True
+2018,15,end_regular,845,21,0.7546153846153847,Alabama Crimson Tide,Alabama Crimson Tide,True
+2018,16,final_postseason,884,21,0.7847663157285659,Clemson Tigers,Clemson Tigers,True

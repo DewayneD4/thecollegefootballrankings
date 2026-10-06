@@ -1,0 +1,17 @@
+season,week,phase,n_games,overlap_top25,spearman_ap25,model_1,ap_1,has_ap
+2023,1,regular,94,10,0.14615384615384616,Auburn Tigers,Georgia Bulldogs,True
+2023,2,regular,179,15,0.21923076923076923,UCLA Bruins,Georgia Bulldogs,True
+2023,3,regular,254,20,-0.11153846153846154,Texas Longhorns,Georgia Bulldogs,True
+2023,4,regular,321,18,0.42769230769230765,Texas Longhorns,Georgia Bulldogs,True
+2023,5,regular,380,20,0.6215384615384615,Texas Longhorns,Georgia Bulldogs,True
+2023,6,regular,431,21,0.6215384615384615,Oklahoma Sooners,Georgia Bulldogs,True
+2023,7,regular,486,19,0.763608400353531,Oklahoma Sooners,Georgia Bulldogs,True
+2023,8,midseason,540,21,0.7038461538461539,Michigan Wolverines,Georgia Bulldogs,True
+2023,9,regular,594,20,0.7723076923076923,Ohio State Buckeyes,Georgia Bulldogs,True
+2023,10,regular,659,22,0.8115384615384615,Texas Longhorns,Georgia Bulldogs,True
+2023,11,regular,724,23,0.7561538461538462,Texas Longhorns,Georgia Bulldogs,True
+2023,12,regular,792,22,0.7530769230769231,Texas Longhorns,Georgia Bulldogs,True
+2023,13,regular,857,22,0.8453846153846154,Texas Longhorns,Georgia Bulldogs,True
+2023,14,regular,867,23,0.8209271165513528,Texas Longhorns,Georgia Bulldogs,True
+2023,15,end_regular,868,23,0.87,Texas Longhorns,Michigan Wolverines,True
+2023,16,final_postseason,911,22,0.9190229060174234,Michigan Wolverines,Michigan Wolverines,True

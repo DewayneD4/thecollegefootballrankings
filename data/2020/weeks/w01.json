@@ -1,0 +1,671 @@
+{
+  "season": 2020,
+  "week": 1,
+  "phase": "regular",
+  "label": "Week 1",
+  "n_games": 9,
+  "has_ap": true,
+  "overlap_top25": 4,
+  "spearman_ap25": 0.21461538461538462,
+  "model_1": "SMU Mustangs",
+  "ap_1": "Clemson Tigers",
+  "model_top25": [
+    {
+      "rank": 1,
+      "id": "2567",
+      "team": "SMU Mustangs",
+      "record": "1-0",
+      "score": 71.89,
+      "ap_rank": null
+    },
+    {
+      "rank": 2,
+      "id": "6",
+      "team": "South Alabama Jaguars",
+      "record": "1-0",
+      "score": 71.18,
+      "ap_rank": null
+    },
+    {
+      "rank": 3,
+      "id": "252",
+      "team": "BYU Cougars",
+      "record": "1-0",
+      "score": 68.02,
+      "ap_rank": null
+    },
+    {
+      "rank": 4,
+      "id": "235",
+      "team": "Memphis Tigers",
+      "record": "1-0",
+      "score": 64.53,
+      "ap_rank": null
+    },
+    {
+      "rank": 5,
+      "id": "349",
+      "team": "Army Black Knights",
+      "record": "1-0",
+      "score": 63.88,
+      "ap_rank": null
+    },
+    {
+      "rank": 6,
+      "id": "276",
+      "team": "Marshall Thundering Herd",
+      "record": "1-0",
+      "score": 51.7,
+      "ap_rank": null
+    },
+    {
+      "rank": 7,
+      "id": "249",
+      "team": "North Texas Mean Green",
+      "record": "1-0",
+      "score": 48.62,
+      "ap_rank": null
+    },
+    {
+      "rank": 8,
+      "id": "2335",
+      "team": "Liberty Flames",
+      "record": "0-0",
+      "score": 48.34,
+      "ap_rank": null
+    },
+    {
+      "rank": 9,
+      "id": "113",
+      "team": "Massachusetts Minutemen",
+      "record": "0-0",
+      "score": 47.99,
+      "ap_rank": null
+    },
+    {
+      "rank": 10,
+      "id": "166",
+      "team": "New Mexico State Aggies",
+      "record": "0-0",
+      "score": 47.62,
+      "ap_rank": null
+    },
+    {
+      "rank": 11,
+      "id": "2132",
+      "team": "Cincinnati Bearcats",
+      "record": "0-0",
+      "score": 47.02,
+      "ap_rank": 20
+    },
+    {
+      "rank": 12,
+      "id": "2116",
+      "team": "UCF Knights",
+      "record": "0-0",
+      "score": 47.01,
+      "ap_rank": 21
+    },
+    {
+      "rank": 13,
+      "id": "248",
+      "team": "Houston Cougars",
+      "record": "0-0",
+      "score": 46.91,
+      "ap_rank": null
+    },
+    {
+      "rank": 14,
+      "id": "2655",
+      "team": "Tulane Green Wave",
+      "record": "0-0",
+      "score": 46.89,
+      "ap_rank": null
+    },
+    {
+      "rank": 15,
+      "id": "202",
+      "team": "Tulsa Golden Hurricane",
+      "record": "0-0",
+      "score": 46.88,
+      "ap_rank": null
+    },
+    {
+      "rank": 16,
+      "id": "151",
+      "team": "East Carolina Pirates",
+      "record": "0-0",
+      "score": 46.87,
+      "ap_rank": null
+    },
+    {
+      "rank": 17,
+      "id": "58",
+      "team": "South Florida Bulls",
+      "record": "0-0",
+      "score": 46.81,
+      "ap_rank": null
+    },
+    {
+      "rank": 18,
+      "id": "218",
+      "team": "Temple Owls",
+      "record": "0-0",
+      "score": 46.78,
+      "ap_rank": null
+    },
+    {
+      "rank": 19,
+      "id": "324",
+      "team": "Coastal Carolina Chanticleers",
+      "record": "0-0",
+      "score": 46.71,
+      "ap_rank": null
+    },
+    {
+      "rank": 20,
+      "id": "309",
+      "team": "Louisiana Ragin' Cajuns",
+      "record": "0-0",
+      "score": 46.67,
+      "ap_rank": null
+    },
+    {
+      "rank": 21,
+      "id": "2084",
+      "team": "Buffalo Bulls",
+      "record": "0-0",
+      "score": 46.64,
+      "ap_rank": null
+    },
+    {
+      "rank": 22,
+      "id": "2026",
+      "team": "Appalachian State Mountaineers",
+      "record": "0-0",
+      "score": 46.64,
+      "ap_rank": null
+    },
+    {
+      "rank": 23,
+      "id": "290",
+      "team": "Georgia Southern Eagles",
+      "record": "0-0",
+      "score": 46.62,
+      "ap_rank": null
+    },
+    {
+      "rank": 24,
+      "id": "333",
+      "team": "Alabama Crimson Tide",
+      "record": "0-0",
+      "score": 46.62,
+      "ap_rank": 3
+    },
+    {
+      "rank": 25,
+      "id": "153",
+      "team": "North Carolina Tar Heels",
+      "record": "0-0",
+      "score": 46.6,
+      "ap_rank": 18
+    }
+  ],
+  "ap_top25": [
+    {
+      "rank": 1,
+      "id": "228",
+      "team": "Clemson Tigers",
+      "record": "0-0",
+      "model_rank": 37
+    },
+    {
+      "rank": 2,
+      "id": "194",
+      "team": "Ohio State Buckeyes",
+      "record": "0-0",
+      "model_rank": 33
+    },
+    {
+      "rank": 3,
+      "id": "333",
+      "team": "Alabama Crimson Tide",
+      "record": "0-0",
+      "model_rank": 24
+    },
+    {
+      "rank": 4,
+      "id": "61",
+      "team": "Georgia Bulldogs",
+      "record": "0-0",
+      "model_rank": 52
+    },
+    {
+      "rank": 5,
+      "id": "201",
+      "team": "Oklahoma Sooners",
+      "record": "0-0",
+      "model_rank": 40
+    },
+    {
+      "rank": 6,
+      "id": "99",
+      "team": "LSU Tigers",
+      "record": "0-0",
+      "model_rank": 79
+    },
+    {
+      "rank": 7,
+      "id": "213",
+      "team": "Penn State Nittany Lions",
+      "record": "0-0",
+      "model_rank": 87
+    },
+    {
+      "rank": 8,
+      "id": "57",
+      "team": "Florida Gators",
+      "record": "0-0",
+      "model_rank": 30
+    },
+    {
+      "rank": 9,
+      "id": "2483",
+      "team": "Oregon Ducks",
+      "record": "0-0",
+      "model_rank": 36
+    },
+    {
+      "rank": 10,
+      "id": "87",
+      "team": "Notre Dame Fighting Irish",
+      "record": "0-0",
+      "model_rank": 44
+    },
+    {
+      "rank": 11,
+      "id": "2",
+      "team": "Auburn Tigers",
+      "record": "0-0",
+      "model_rank": 71
+    },
+    {
+      "rank": 12,
+      "id": "275",
+      "team": "Wisconsin Badgers",
+      "record": "0-0",
+      "model_rank": 100
+    },
+    {
+      "rank": 13,
+      "id": "245",
+      "team": "Texas A&M Aggies",
+      "record": "0-0",
+      "model_rank": 42
+    },
+    {
+      "rank": 14,
+      "id": "251",
+      "team": "Texas Longhorns",
+      "record": "0-0",
+      "model_rank": 49
+    },
+    {
+      "rank": 15,
+      "id": "197",
+      "team": "Oklahoma State Cowboys",
+      "record": "0-0",
+      "model_rank": 80
+    },
+    {
+      "rank": 16,
+      "id": "130",
+      "team": "Michigan Wolverines",
+      "record": "0-0",
+      "model_rank": 57
+    },
+    {
+      "rank": 17,
+      "id": "30",
+      "team": "USC Trojans",
+      "record": "0-0",
+      "model_rank": 78
+    },
+    {
+      "rank": 18,
+      "id": "153",
+      "team": "North Carolina Tar Heels",
+      "record": "0-0",
+      "model_rank": 25
+    },
+    {
+      "rank": 19,
+      "id": "135",
+      "team": "Minnesota Golden Gophers",
+      "record": "0-0",
+      "model_rank": 75
+    },
+    {
+      "rank": 20,
+      "id": "2132",
+      "team": "Cincinnati Bearcats",
+      "record": "0-0",
+      "model_rank": 11
+    },
+    {
+      "rank": 21,
+      "id": "2116",
+      "team": "UCF Knights",
+      "record": "0-0",
+      "model_rank": 12
+    },
+    {
+      "rank": 22,
+      "id": "254",
+      "team": "Utah Utes",
+      "record": "0-0",
+      "model_rank": 56
+    },
+    {
+      "rank": 23,
+      "id": "66",
+      "team": "Iowa State Cyclones",
+      "record": "0-0",
+      "model_rank": 41
+    },
+    {
+      "rank": 24,
+      "id": "2294",
+      "team": "Iowa Hawkeyes",
+      "record": "0-0",
+      "model_rank": 84
+    },
+    {
+      "rank": 25,
+      "id": "2633",
+      "team": "Tennessee Volunteers",
+      "record": "0-0",
+      "model_rank": 93
+    }
+  ],
+  "disagreements": [
+    {
+      "team": "Wisconsin Badgers",
+      "team_id": "275",
+      "ap_rank": 12,
+      "model_rank": 100,
+      "delta": 88,
+      "record": "0-0"
+    },
+    {
+      "team": "Penn State Nittany Lions",
+      "team_id": "213",
+      "ap_rank": 7,
+      "model_rank": 87,
+      "delta": 80,
+      "record": "0-0"
+    },
+    {
+      "team": "LSU Tigers",
+      "team_id": "99",
+      "ap_rank": 6,
+      "model_rank": 79,
+      "delta": 73,
+      "record": "0-0"
+    },
+    {
+      "team": "Tennessee Volunteers",
+      "team_id": "2633",
+      "ap_rank": 25,
+      "model_rank": 93,
+      "delta": 68,
+      "record": "0-0"
+    },
+    {
+      "team": "Oklahoma State Cowboys",
+      "team_id": "197",
+      "ap_rank": 15,
+      "model_rank": 80,
+      "delta": 65,
+      "record": "0-0"
+    },
+    {
+      "team": "USC Trojans",
+      "team_id": "30",
+      "ap_rank": 17,
+      "model_rank": 78,
+      "delta": 61,
+      "record": "0-0"
+    },
+    {
+      "team": "Auburn Tigers",
+      "team_id": "2",
+      "ap_rank": 11,
+      "model_rank": 71,
+      "delta": 60,
+      "record": "0-0"
+    },
+    {
+      "team": "Iowa Hawkeyes",
+      "team_id": "2294",
+      "ap_rank": 24,
+      "model_rank": 84,
+      "delta": 60,
+      "record": "0-0"
+    }
+  ],
+  "model_only_top25": [
+    {
+      "team": "SMU Mustangs",
+      "model_rank": 1,
+      "record": "1-0"
+    },
+    {
+      "team": "South Alabama Jaguars",
+      "model_rank": 2,
+      "record": "1-0"
+    },
+    {
+      "team": "BYU Cougars",
+      "model_rank": 3,
+      "record": "1-0"
+    },
+    {
+      "team": "Memphis Tigers",
+      "model_rank": 4,
+      "record": "1-0"
+    },
+    {
+      "team": "Army Black Knights",
+      "model_rank": 5,
+      "record": "1-0"
+    },
+    {
+      "team": "Marshall Thundering Herd",
+      "model_rank": 6,
+      "record": "1-0"
+    },
+    {
+      "team": "North Texas Mean Green",
+      "model_rank": 7,
+      "record": "1-0"
+    },
+    {
+      "team": "Liberty Flames",
+      "model_rank": 8,
+      "record": "0-0"
+    },
+    {
+      "team": "Massachusetts Minutemen",
+      "model_rank": 9,
+      "record": "0-0"
+    },
+    {
+      "team": "New Mexico State Aggies",
+      "model_rank": 10,
+      "record": "0-0"
+    },
+    {
+      "team": "Houston Cougars",
+      "model_rank": 13,
+      "record": "0-0"
+    },
+    {
+      "team": "Tulane Green Wave",
+      "model_rank": 14,
+      "record": "0-0"
+    },
+    {
+      "team": "Tulsa Golden Hurricane",
+      "model_rank": 15,
+      "record": "0-0"
+    },
+    {
+      "team": "East Carolina Pirates",
+      "model_rank": 16,
+      "record": "0-0"
+    },
+    {
+      "team": "South Florida Bulls",
+      "model_rank": 17,
+      "record": "0-0"
+    },
+    {
+      "team": "Temple Owls",
+      "model_rank": 18,
+      "record": "0-0"
+    },
+    {
+      "team": "Coastal Carolina Chanticleers",
+      "model_rank": 19,
+      "record": "0-0"
+    },
+    {
+      "team": "Louisiana Ragin' Cajuns",
+      "model_rank": 20,
+      "record": "0-0"
+    },
+    {
+      "team": "Buffalo Bulls",
+      "model_rank": 21,
+      "record": "0-0"
+    },
+    {
+      "team": "Appalachian State Mountaineers",
+      "model_rank": 22,
+      "record": "0-0"
+    },
+    {
+      "team": "Georgia Southern Eagles",
+      "model_rank": 23,
+      "record": "0-0"
+    }
+  ],
+  "ap_only_top25": [
+    {
+      "team": "Oklahoma Sooners",
+      "ap_rank": 5,
+      "model_rank": 40
+    },
+    {
+      "team": "Ohio State Buckeyes",
+      "ap_rank": 2,
+      "model_rank": 33
+    },
+    {
+      "team": "USC Trojans",
+      "ap_rank": 17,
+      "model_rank": 78
+    },
+    {
+      "team": "Texas A&M Aggies",
+      "ap_rank": 13,
+      "model_rank": 42
+    },
+    {
+      "team": "Oklahoma State Cowboys",
+      "ap_rank": 15,
+      "model_rank": 80
+    },
+    {
+      "team": "Michigan Wolverines",
+      "ap_rank": 16,
+      "model_rank": 57
+    },
+    {
+      "team": "Wisconsin Badgers",
+      "ap_rank": 12,
+      "model_rank": 100
+    },
+    {
+      "team": "Iowa Hawkeyes",
+      "ap_rank": 24,
+      "model_rank": 84
+    },
+    {
+      "team": "Penn State Nittany Lions",
+      "ap_rank": 7,
+      "model_rank": 87
+    },
+    {
+      "team": "Utah Utes",
+      "ap_rank": 22,
+      "model_rank": 56
+    },
+    {
+      "team": "Tennessee Volunteers",
+      "ap_rank": 25,
+      "model_rank": 93
+    },
+    {
+      "team": "Minnesota Golden Gophers",
+      "ap_rank": 19,
+      "model_rank": 75
+    },
+    {
+      "team": "LSU Tigers",
+      "ap_rank": 6,
+      "model_rank": 79
+    },
+    {
+      "team": "Oregon Ducks",
+      "ap_rank": 9,
+      "model_rank": 36
+    },
+    {
+      "team": "Clemson Tigers",
+      "ap_rank": 1,
+      "model_rank": 37
+    },
+    {
+      "team": "Notre Dame Fighting Irish",
+      "ap_rank": 10,
+      "model_rank": 44
+    },
+    {
+      "team": "Texas Longhorns",
+      "ap_rank": 14,
+      "model_rank": 49
+    },
+    {
+      "team": "Iowa State Cyclones",
+      "ap_rank": 23,
+      "model_rank": 41
+    },
+    {
+      "team": "Auburn Tigers",
+      "ap_rank": 11,
+      "model_rank": 71
+    },
+    {
+      "team": "Georgia Bulldogs",
+      "ap_rank": 4,
+      "model_rank": 52
+    },
+    {
+      "team": "Florida Gators",
+      "ap_rank": 8,
+      "model_rank": 30
+    }
+  ]
+}

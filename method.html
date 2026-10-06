@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Method · CFB Rankings</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<header class="site">
+  <div class="wrap">
+    <a class="brand" href="index.html">CFB Rankings</a>
+    <a href="index.html">Overview</a>
+    <a href="method.html">Method</a>
+    <a href="comparisons.html">Seasons</a>
+  </div>
+</header>
+
+<main class="wrap">
+
+<h1>How the ranking algorithm works</h1>
+<p class="lede">An in-depth, code-faithful description of the FBS ranking system: iterative
+game points, opponent-adjusted offense/defense, schedule strength, and how weekly
+revaluation works. Weights below match the current late-season-tuned <code>config.yaml</code>.</p>
+
+<h2>1. Motivation and design goals</h2>
+<p>Human polls (AP, Coaches) blend résumé, eye test, and narrative. This model aims to be
+<strong>comparable to those polls late in the season</strong> while remaining fully
+algorithmic and reproducible. Design priorities:</p>
+<ul class="tight">
+  <li><strong>Opponent quality matters</strong> — a win over a strong team should be worth more than a win over a weak one, and that value should update as the season clarifies who is actually strong.</li>
+  <li><strong>Efficiency is schedule-aware</strong> — scoring and stopping points only look impressive relative to the defenses/offenses faced.</li>
+  <li><strong>Cupcakes and blowouts are discounted</strong> — FCS wins and huge margins cannot dominate the ranking.</li>
+  <li><strong>Late-season agreement with AP</strong> was used to fine-tune weights (2016–2025), without inventing games or poll results.</li>
+</ul>
+
+<h2>2. Data sources</h2>
+<p>All inputs come from <strong>ESPN public APIs</strong> (site + core), cached under
+<code>data/{year}/</code>:</p>
+<ul class="tight">
+  <li>FBS team list and conference membership</li>
+  <li>Weekly scoreboards (regular season + postseason bowls / playoff)</li>
+  <li>Team season statistics (points, yards, etc.) when the endpoint exists</li>
+  <li>AP Top 25 (and Coaches when available) for comparison — not used as model inputs except the <em>preseason</em> AP prior</li>
+</ul>
+<p>No CollegeFootballData API key is required. If ESPN lacks team-stats for a season/team
+(notably parts of <strong>2020</strong>), the model falls back to empty YPP metrics and
+game-derived scoring averages.</p>
+
+<h2>3. Weekly snapshot and retroactive revaluation</h2>
+<p>For any week <em>W</em>, the model uses <strong>only games completed through week W</strong>
+(plus postseason games for the final ranking). It then runs an iterative fixed-point
+procedure: opponent strengths are re-estimated until ratings stabilize. That means a Week 3
+win over a team that later proves elite is re-valued upward as the season progresses — the
+same game contributes more once the opponent’s rating rises.</p>
+<div class="eq">
+Through week W:<br>
+&nbsp;&nbsp;Games = { g | week(g) ≤ W } &nbsp;(final: also postseason)<br>
+&nbsp;&nbsp;Repeat until max |r<sub>new</sub> − r<sub>old</sub>| &lt; 1e-06:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1. Normalize current ratings → z-scores r̂<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2. Score every game using opponents’ <em>current</em> r̂<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3. Recompute opponent-adjusted O/D using current r̂<br>
+&nbsp;&nbsp;&nbsp;&nbsp;4. Blend components → new rating; damp with λ = 0.82
+</div>
+<p>Iteration cap: <strong>100</strong>. Damping prevents oscillation.</p>
+
+<h2>4. Iterative game points</h2>
+<p>Each decided FBS-involved game adds points to the winner and (negative) points to the loser.
+Base values from config:</p>
+<ul class="tight">
+  <li>Win base = <strong>32.0</strong></li>
+  <li>Loss base = <strong>-12.0</strong></li>
+</ul>
+<p>Opponent multiplier (centered near 1.0):</p>
+<div class="eq">
+opp_factor(r_opp) = 0.45 + 1.1 · σ( opp_strength_scale · r_opp )<br>
+&nbsp;&nbsp;where σ is the logistic sigmoid, opp_strength_scale = 1.15
+</div>
+<p>Additional multipliers:</p>
+<ul class="tight">
+  <li><strong>Margin of victory</strong> — capped at 24 points; weight 0.3 so blowouts help but do not explode rankings.</li>
+  <li><strong>Home / away</strong> — small location bumps on the multiplier; home advantage also shifts the opponent’s perceived rating by home_adv/10 (home_adv = 2.5).</li>
+  <li><strong>FCS</strong> — wins vs FCS × 0.15; losses vs FCS × 1.85.</li>
+  <li><strong>Quality win bonus</strong> — extra points when beating an FBS foe at/above the 75% rating percentile (bonus base 10.0).</li>
+  <li><strong>T25 win boost (wins only)</strong> — if the opponent’s <em>current model rank</em> is in the top 25, multiply <em>win</em> points by a linear factor from 1+0.18 at #1 down to 1+0.01 at #25. Losses are never scaled up by this factor.</li>
+  <li><strong>Quality-loss discount</strong> — when losing to a Top-25 or top-quartile foe, multiply the (negative) loss points by 0.7 so tough losses hurt less than ugly losses.</li>
+</ul>
+
+<h2>5. Opponent-adjusted offense and defense</h2>
+<p>For each team-game observation, points scored/allowed are compared to both league averages
+and the opponent’s season averages, then scaled by opponent unit quality:</p>
+<div class="eq">
+off_base = w<sub>L</sub>·(pts − league_PPG) + w<sub>O</sub>·(pts − opp_PAPG)<br>
+off_val&nbsp; = off_base · clip(1 + k·opp_def_z, 0.35, 2.0)<br>
+<br>
+def_base = w<sub>L</sub>·(league_PAPG − allowed) + w<sub>O</sub>·(opp_PPG − allowed)<br>
+def_val&nbsp; = def_base · clip(1 + k·opp_off_z, 0.35, 2.0)<br>
+<br>
+w<sub>L</sub> = 0.45, w<sub>O</sub> = 0.55, k = 0.35
+</div>
+<p>Opponent unit z blends season PPG/PAPG z-scores with the opponent’s <em>current</em>
+overall rating (rating_blend = 0.4). FCS opponents use fixed weak unit z
+(-1.0 / -1.0) and inflated/deflated average lines.</p>
+
+<h3>Schedule-weighted season O/D</h3>
+<p>Game O/D values are aggregated with weights that favor tougher opposing units:</p>
+<div class="eq">
+weight(opp_z) = max( floor, (1 + softplus(opp_z))<sup>exp</sup> )<br>
+floor = 0.12, exp = 1.3<br>
+<br>
+season_off = weighted_mean(off_val) · (1 + od_sos_weight · mean_opp_def_z)<br>
+od_sos_weight = 0.22
+</div>
+<p>Offense then mixes a small raw YPP z-score (weight 0.12). Defense is
+the z-score of schedule-adjusted defensive values. Soft schedules cannot pad O/D ranks the
+way they can pad raw scoring averages.</p>
+
+<h2>6. Strength of schedule, record, H2H, preseason</h2>
+<ul class="tight">
+  <li><strong>SOS</strong> — mean of opponents’ ratings faced, blended with conference-mean rating:
+    (1 − α)·opp_mean + α·conf_mean, α = conference_blend = <strong>0.45</strong>.
+    SOS block weight in final blend: <strong>0.17</strong>.</li>
+  <li><strong>Record blend</strong> — z-score of 1.0·W + (-0.9)·L, weight <strong>0.07</strong>.</li>
+  <li><strong>Head-to-head</strong> — after ratings converge, if two FBS teams are within
+    10.0 score points and have played, the winner gets a small bump
+    (3.0).</li>
+  <li><strong>Preseason prior</strong> — preseason AP ranks seed a decaying prior:
+    decay = max(0, 1 − week / 12), scaled by weight 14.0
+    (relative to a baseline of 12). Material early; near zero late.</li>
+</ul>
+
+<h2>7. Final score blend (current weights)</h2>
+<p>Component z-scores are blended into a rating, then mapped to a display score
+≈ 50 + 15·z(rating) (+ H2H):</p>
+<table>
+  <thead><tr><th>Block</th><th class="num">Weight</th><th>Notes</th></tr></thead>
+  <tbody>
+    <tr><td>Game points (iterative)</td><td class="num">0.55</td><td>Residual so weights sum to 1.0 among GP+Eff+SOS+Record</td></tr>
+    <tr><td>Efficiency (off + def)</td><td class="num">0.21</td><td>Split evenly across O and D</td></tr>
+    <tr><td>SOS (conf-blended)</td><td class="num">0.17</td><td></td></tr>
+    <tr><td>Record</td><td class="num">0.07</td><td></td></tr>
+    <tr><td>Preseason prior</td><td class="num">0.05×prior</td><td>Additive; decays by week</td></tr>
+  </tbody>
+</table>
+
+<h2>8. Tuning history (brief)</h2>
+<ol>
+  <li><strong>Levers 1–4</strong> — raised SOS/conference role, stronger preseason prior through midseason,
+    softened quality losses, tightened FCS cupcake wins. Snapshot: <code>config_before_levers_1_4.yaml</code>.</li>
+  <li><strong>Late-season tune (2016–2025)</strong> — optimized final + end-regular AP Spearman/overlap
+    (train 2016–19 + 2021–23; holdout 2024–25), protecting a high final #1 match rate.
+    Snapshot before: <code>config_before_late_tune.yaml</code>. Details in
+    <code>output/decade/late_tune_results.md</code>.</li>
+</ol>
+<p>Weights were kept modest to reduce single-year overfitting. Early-season agreement was
+<strong>not</strong> the optimization target.</p>
+
+<h2>9. Limitations</h2>
+<ul class="tight">
+  <li><strong>Early season noise</strong> — few games, large prior influence, volatile opponent estimates. Week 1–4 Spearman vs AP can be low or negative even when late-season agreement is strong.</li>
+  <li><strong>2020</strong> — pandemic schedules and missing ESPN team-stats; treat midseason metrics with caution.</li>
+  <li><strong>Poll ≠ algorithm</strong> — AP voters weigh narrative, “looked good,” and conference reputation. Systematic disagreements (model higher on tough-schedule teams, lower on soft undefeateds) are expected, not bugs.</li>
+  <li><strong>No injury / market / advanced tracking inputs</strong> — only box scores, standings-derived averages, and preseason AP.</li>
+  <li><strong>FCS and G5/P4</strong> — handled via multipliers and SOS, not a separate power-conference prior.</li>
+</ul>
+
+<footer class="site">
+  <p>FBS college football rankings — iterative opponent-adjusted model vs Associated Press Top 25.
+  Data via ESPN public APIs. Generated 2026-10-06. Not affiliated with the AP or ESPN.</p>
+</footer>
+</main>
+</body>
+</html>

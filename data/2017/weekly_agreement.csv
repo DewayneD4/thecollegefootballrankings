@@ -1,0 +1,17 @@
+season,week,phase,n_games,overlap_top25,spearman_ap25,model_1,ap_1,has_ap
+2017,1,regular,91,12,0.22923076923076924,Colorado Buffaloes,Alabama Crimson Tide,True
+2017,2,regular,162,12,0.5292307692307692,Oklahoma Sooners,Alabama Crimson Tide,True
+2017,3,regular,227,14,0.6038461538461538,Clemson Tigers,Alabama Crimson Tide,True
+2017,4,regular,286,16,0.5946153846153845,Michigan Wolverines,Alabama Crimson Tide,True
+2017,5,regular,340,18,0.7938461538461539,Clemson Tigers,Alabama Crimson Tide,True
+2017,6,regular,398,19,0.6470475211056117,Clemson Tigers,Alabama Crimson Tide,True
+2017,7,regular,457,20,0.6553846153846155,Alabama Crimson Tide,Alabama Crimson Tide,True
+2017,8,midseason,513,22,0.7882285200626626,Alabama Crimson Tide,Alabama Crimson Tide,True
+2017,9,regular,569,20,0.696923076923077,Notre Dame Fighting Irish,Alabama Crimson Tide,True
+2017,10,regular,630,19,0.7300000000000001,Georgia Bulldogs,Alabama Crimson Tide,True
+2017,11,regular,690,21,0.8023076923076922,Oklahoma Sooners,Alabama Crimson Tide,True
+2017,12,regular,755,21,0.9292307692307692,Wisconsin Badgers,Alabama Crimson Tide,True
+2017,13,regular,817,22,0.8492307692307692,Clemson Tigers,Alabama Crimson Tide,True
+2017,14,regular,833,21,0.8799999999999999,Clemson Tigers,Clemson Tigers,True
+2017,15,end_regular,834,22,0.8976923076923078,Clemson Tigers,Clemson Tigers,True
+2017,16,final_postseason,874,22,0.9423076923076923,Alabama Crimson Tide,Alabama Crimson Tide,True
