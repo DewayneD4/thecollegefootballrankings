@@ -161,7 +161,15 @@ way they can pad raw scoring averages.</p>
 <p>Weights were kept modest to reduce single-year overfitting. Early-season agreement was
 <strong>not</strong> the optimization target.</p>
 
-<h2>9. Biggest Win (site display)</h2>
+<h2>9. Preseason = Coaches Poll</h2>
+<p>The <strong>preseason</strong> board (before any games) sets model ranks <strong>1–25 exactly
+equal to the AFCA Coaches Poll</strong>. Remaining FBS teams keep the underlying model’s
+relative order from rank 26. <strong>After Week 1 games are played</strong> (and for every
+later week), the full iterative algorithm runs; it is <em>seeded</em> with the Coaches
+preseason poll as a decaying prior (falls back to AP if Coaches is unavailable). The
+post–Week-1 board is <strong>not</strong> forced to match any poll.</p>
+
+<h2>10. Biggest Win (site display)</h2>
 <p>On the current-season Top 25, <strong>Biggest Win</strong> is the win against the
 <strong>highest-quality opponent</strong> through the ranking week, measured by that opponent’s
 <strong>final converged model rank</strong> on the same board (rank 1 = best). Ties break to the
@@ -169,7 +177,7 @@ higher model <em>game_points</em> for that game, then the later week. This prefe
 (e.g. Ohio State over a blowout of a weaker FBS foe), not margin. FCS / non-FBS foes sort last.
 Label format: <code>vs #12 Opponent, 24-23 (Wk 2)</code>.</p>
 
-<h2>10. Limitations</h2>
+<h2>11. Limitations</h2>
 <ul class="tight">
   <li><strong>Early season noise</strong> — few games, large prior influence, volatile opponent estimates. Week 1–4 Spearman vs AP can be low or negative even when late-season agreement is strong.</li>
   <li><strong>2020</strong> — pandemic schedules and missing ESPN team-stats; treat midseason metrics with caution.</li>
