@@ -1,29 +1,29 @@
 rank,team,record,score,ap_rank,prev_rank,move,move_label,biggest_win,biggest_win_game_points,id
-1,Alabama Crimson Tide,3-0,89.43,6,5,4,↑4,"@ Kentucky Wildcats, 45-17 (Wk 2)",74.58,333
-2,Ole Miss Rebels,3-0,85.42,9,18,16,↑16,"vs LSU Tigers, 32-24 (Wk 3)",59.5,145
-3,USC Trojans,4-0,83.14,19,1,-2,↓2,"vs Fresno State Bulldogs, 39-0 (Wk 1)",38.92,30
-4,Mississippi State Bulldogs,3-0,83.05,17,7,3,↑3,"@ Minnesota Golden Gophers, 38-13 (Wk 2)",48.56,344
-5,Notre Dame Fighting Irish,3-0,81.7,3,8,3,↑3,"vs Wisconsin Badgers (N), 41-13 (Wk 1)",40.68,87
-6,Texas Longhorns,3-0,79.6,1,10,4,↑4,"vs UTSA Roadrunners, 30-6 (Wk 3)",35.27,251
-7,Miami Hurricanes,3-0,78.49,4,14,7,↑7,"@ Wake Forest Demon Deacons, 33-20 (Wk 3)",61.16,2390
-8,Florida Gators,3-0,78.33,16,29,21,↑21,"@ Auburn Tigers, 44-39 (Wk 3)",60.0,57
-9,Virginia Tech Hokies,3-0,74.61,,35,26,↑26,"@ Maryland Terrapins, 35-26 (Wk 3)",62.72,259
-10,UCLA Bruins,3-0,74.44,21,2,-8,↓8,"@ California Golden Bears, 45-24 (Wk 1)",48.35,26
-11,Duke Blue Devils,3-0,73.65,,4,-7,↓7,"@ Illinois Fighting Illini, 31-27 (Wk 2)",41.42,150
-12,Penn State Nittany Lions,3-0,72.31,,6,-6,↓6,"vs Marshall Thundering Herd, 45-0 (Wk 1)",35.33,213
-13,Michigan Wolverines,3-0,72.22,,11,-2,↓2,"vs Oklahoma Sooners, 17-10 (Wk 2)",39.83,130
-14,Pittsburgh Panthers,3-0,71.84,25,19,5,↑5,"vs UCF Knights, 12-7 (Wk 2)",34.15,221
-15,BYU Cougars,3-0,70.33,8,37,22,↑22,"@ Colorado State Rams, 41-23 (Wk 3)",41.79,252
-16,LSU Tigers,2-1,69.94,10,3,-13,↓13,"vs Clemson Tigers, 51-10 (Wk 1)",40.98,99
-17,Missouri Tigers,3-0,68.81,14,21,4,↑4,"@ Kansas Jayhawks, 38-21 (Wk 2)",36.89,142
-18,Kentucky Wildcats,2-1,68.63,,83,65,↑65,"@ Texas A&M Aggies, 31-21 (Wk 3)",64.05,96
-19,North Dakota State Bison,4-0,67.8,,22,3,↑3,"@ Air Force Falcons, 38-32 (Wk 2)",34.18,2449
-20,Tennessee Volunteers,3-0,67.7,15,30,10,↑10,"@ Georgia Tech Yellow Jackets, 45-24 (Wk 2)",37.09,2633
-21,Georgia Bulldogs,3-0,67.04,2,45,24,↑24,"@ Arkansas Razorbacks, 45-17 (Wk 3)",40.19,61
-22,West Virginia Mountaineers,3-0,66.05,,43,21,↑21,"vs Virginia Cavaliers (N), 38-27 (Wk 3)",39.45,277
-23,Texas Tech Red Raiders,3-0,65.76,11,46,23,↑23,"@ Oregon State Beavers, 35-24 (Wk 2)",32.2,2641
-24,Tulsa Golden Hurricane,3-0,65.73,,15,-9,↓9,"vs Oklahoma State Cowboys, 24-10 (Wk 1)",38.83,202
-25,Maryland Terrapins,2-1,64.5,,16,-9,↓9,"@ UConn Huskies, 38-14 (Wk 2)",52.3,120
+1,Alabama Crimson Tide,3-0,89.43,6,5,4,↑4,"@ #18 Kentucky Wildcats, 45-17 (Wk 2)",74.58,333
+2,Ole Miss Rebels,3-0,85.42,9,18,16,↑16,"vs #16 LSU Tigers, 32-24 (Wk 3)",59.5,145
+3,USC Trojans,4-0,83.14,19,1,-2,↓2,"vs #58 Fresno State Bulldogs, 39-0 (Wk 1)",38.92,30
+4,Mississippi State Bulldogs,3-0,83.05,17,7,3,↑3,"@ #54 South Carolina Gamecocks, 41-34 (Wk 3)",43.37,344
+5,Notre Dame Fighting Irish,3-0,81.7,3,8,3,↑3,"vs #44 Michigan State Spartans, 27-10 (Wk 3)",40.42,87
+6,Texas Longhorns,3-0,79.6,1,10,4,↑4,"vs #39 Ohio State Buckeyes, 24-23 (Wk 2)",34.47,251
+7,Miami Hurricanes,3-0,78.49,4,14,7,↑7,"@ #40 Wake Forest Demon Deacons, 33-20 (Wk 3)",61.16,2390
+8,Florida Gators,3-0,78.33,16,29,21,↑21,"@ #26 Auburn Tigers, 44-39 (Wk 3)",60.0,57
+9,Virginia Tech Hokies,3-0,74.61,,35,26,↑26,"@ #25 Maryland Terrapins, 35-26 (Wk 3)",62.72,259
+10,UCLA Bruins,3-0,74.44,21,2,-8,↓8,"@ #60 California Golden Bears, 45-24 (Wk 1)",48.35,26
+11,Duke Blue Devils,3-0,73.65,,4,-7,↓7,"@ #56 Illinois Fighting Illini, 31-27 (Wk 2)",41.42,150
+12,Penn State Nittany Lions,3-0,72.31,,6,-6,↓6,"vs #64 Marshall Thundering Herd, 45-0 (Wk 1)",35.33,213
+13,Michigan Wolverines,3-0,72.22,,11,-2,↓2,"vs #29 Oklahoma Sooners, 17-10 (Wk 2)",39.83,130
+14,Pittsburgh Panthers,3-0,71.84,25,19,5,↑5,"vs #46 UCF Knights, 12-7 (Wk 2)",34.15,221
+15,BYU Cougars,3-0,70.33,8,37,22,↑22,"vs #65 Arizona Wildcats, 28-17 (Wk 2)",31.93,252
+16,LSU Tigers,2-1,69.94,10,3,-13,↓13,"vs #45 Clemson Tigers, 51-10 (Wk 1)",40.98,99
+17,Missouri Tigers,3-0,68.81,14,21,4,↑4,"vs #76 Troy Trojans, 27-17 (Wk 3)",29.59,142
+18,Kentucky Wildcats,2-1,68.63,,83,65,↑65,"@ #28 Texas A&M Aggies, 31-21 (Wk 3)",64.05,96
+19,North Dakota State Bison,4-0,67.8,,22,3,↑3,"@ #89 Air Force Falcons, 38-32 (Wk 2)",34.18,2449
+20,Tennessee Volunteers,3-0,67.7,15,30,10,↑10,"@ #103 Georgia Tech Yellow Jackets, 45-24 (Wk 2)",37.09,2633
+21,Georgia Bulldogs,3-0,67.04,2,45,24,↑24,"@ #93 Arkansas Razorbacks, 45-17 (Wk 3)",40.19,61
+22,West Virginia Mountaineers,3-0,66.05,,43,21,↑21,"vs #52 Virginia Cavaliers (N), 38-27 (Wk 3)",39.45,277
+23,Texas Tech Red Raiders,3-0,65.76,11,46,23,↑23,"vs #55 Houston Cougars, 28-26 (Wk 3)",31.33,2641
+24,Tulsa Golden Hurricane,3-0,65.73,,15,-9,↓9,"vs #38 Oklahoma State Cowboys, 24-10 (Wk 1)",38.83,202
+25,Maryland Terrapins,2-1,64.5,,16,-9,↓9,"@ #51 UConn Huskies, 38-14 (Wk 2)",52.3,120
 26,Auburn Tigers,2-1,63.77,,12,-14,↓14,,,2
 27,Vanderbilt Commodores,3-0,63.61,,42,15,↑15,,,238
 28,Texas A&M Aggies,2-1,63.41,,9,-19,↓19,,,245

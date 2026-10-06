@@ -23,7 +23,7 @@
       "move": 4,
       "move_label": "\u21914",
       "move_dir": "up",
-      "biggest_win": "@ Kentucky Wildcats, 45-17 (Wk 2)",
+      "biggest_win": "@ #18 Kentucky Wildcats, 45-17 (Wk 2)",
       "biggest_win_game_points": 74.58,
       "biggest_win_detail": {
         "opponent": "Kentucky Wildcats",
@@ -36,7 +36,7 @@
         "game_points": 74.58,
         "opp_model_rank": 18,
         "notes": "road win; quality win; T25 #22 \u00d71.03",
-        "label": "@ Kentucky Wildcats, 45-17 (Wk 2)"
+        "label": "@ #18 Kentucky Wildcats, 45-17 (Wk 2)"
       }
     },
     {
@@ -50,7 +50,7 @@
       "move": 16,
       "move_label": "\u219116",
       "move_dir": "up",
-      "biggest_win": "vs LSU Tigers, 32-24 (Wk 3)",
+      "biggest_win": "vs #16 LSU Tigers, 32-24 (Wk 3)",
       "biggest_win_game_points": 59.5,
       "biggest_win_detail": {
         "opponent": "LSU Tigers",
@@ -63,7 +63,7 @@
         "game_points": 59.5,
         "opp_model_rank": 16,
         "notes": "quality win; T25 #16 \u00d71.07",
-        "label": "vs LSU Tigers, 32-24 (Wk 3)"
+        "label": "vs #16 LSU Tigers, 32-24 (Wk 3)"
       }
     },
     {
@@ -77,7 +77,7 @@
       "move": -2,
       "move_label": "\u21932",
       "move_dir": "down",
-      "biggest_win": "vs Fresno State Bulldogs, 39-0 (Wk 1)",
+      "biggest_win": "vs #58 Fresno State Bulldogs, 39-0 (Wk 1)",
       "biggest_win_game_points": 38.92,
       "biggest_win_detail": {
         "opponent": "Fresno State Bulldogs",
@@ -90,7 +90,7 @@
         "game_points": 38.92,
         "opp_model_rank": 58,
         "notes": "",
-        "label": "vs Fresno State Bulldogs, 39-0 (Wk 1)"
+        "label": "vs #58 Fresno State Bulldogs, 39-0 (Wk 1)"
       }
     },
     {
@@ -104,20 +104,20 @@
       "move": 3,
       "move_label": "\u21913",
       "move_dir": "up",
-      "biggest_win": "@ Minnesota Golden Gophers, 38-13 (Wk 2)",
-      "biggest_win_game_points": 48.56,
+      "biggest_win": "@ #54 South Carolina Gamecocks, 41-34 (Wk 3)",
+      "biggest_win_game_points": 43.37,
       "biggest_win_detail": {
-        "opponent": "Minnesota Golden Gophers",
-        "opp_id": "135",
+        "opponent": "South Carolina Gamecocks",
+        "opp_id": "2579",
         "location": "A",
-        "score": "38-13",
-        "us": 38,
-        "them": 13,
-        "week": 2,
-        "game_points": 48.56,
-        "opp_model_rank": 63,
+        "score": "41-34",
+        "us": 41,
+        "them": 34,
+        "week": 3,
+        "game_points": 43.37,
+        "opp_model_rank": 54,
         "notes": "road win",
-        "label": "@ Minnesota Golden Gophers, 38-13 (Wk 2)"
+        "label": "@ #54 South Carolina Gamecocks, 41-34 (Wk 3)"
       }
     },
     {
@@ -131,20 +131,20 @@
       "move": 3,
       "move_label": "\u21913",
       "move_dir": "up",
-      "biggest_win": "vs Wisconsin Badgers (N), 41-13 (Wk 1)",
-      "biggest_win_game_points": 40.68,
+      "biggest_win": "vs #44 Michigan State Spartans, 27-10 (Wk 3)",
+      "biggest_win_game_points": 40.42,
       "biggest_win_detail": {
-        "opponent": "Wisconsin Badgers",
-        "opp_id": "275",
-        "location": "N",
-        "score": "41-13",
-        "us": 41,
-        "them": 13,
-        "week": 1,
-        "game_points": 40.68,
-        "opp_model_rank": 67,
+        "opponent": "Michigan State Spartans",
+        "opp_id": "127",
+        "location": "H",
+        "score": "27-10",
+        "us": 27,
+        "them": 10,
+        "week": 3,
+        "game_points": 40.42,
+        "opp_model_rank": 44,
         "notes": "",
-        "label": "vs Wisconsin Badgers (N), 41-13 (Wk 1)"
+        "label": "vs #44 Michigan State Spartans, 27-10 (Wk 3)"
       }
     },
     {
@@ -158,20 +158,20 @@
       "move": 4,
       "move_label": "\u21914",
       "move_dir": "up",
-      "biggest_win": "vs UTSA Roadrunners, 30-6 (Wk 3)",
-      "biggest_win_game_points": 35.27,
+      "biggest_win": "vs #39 Ohio State Buckeyes, 24-23 (Wk 2)",
+      "biggest_win_game_points": 34.47,
       "biggest_win_detail": {
-        "opponent": "UTSA Roadrunners",
-        "opp_id": "2636",
+        "opponent": "Ohio State Buckeyes",
+        "opp_id": "194",
         "location": "H",
-        "score": "30-6",
-        "us": 30,
-        "them": 6,
-        "week": 3,
-        "game_points": 35.27,
-        "opp_model_rank": 73,
+        "score": "24-23",
+        "us": 24,
+        "them": 23,
+        "week": 2,
+        "game_points": 34.47,
+        "opp_model_rank": 39,
         "notes": "",
-        "label": "vs UTSA Roadrunners, 30-6 (Wk 3)"
+        "label": "vs #39 Ohio State Buckeyes, 24-23 (Wk 2)"
       }
     },
     {
@@ -185,7 +185,7 @@
       "move": 7,
       "move_label": "\u21917",
       "move_dir": "up",
-      "biggest_win": "@ Wake Forest Demon Deacons, 33-20 (Wk 3)",
+      "biggest_win": "@ #40 Wake Forest Demon Deacons, 33-20 (Wk 3)",
       "biggest_win_game_points": 61.16,
       "biggest_win_detail": {
         "opponent": "Wake Forest Demon Deacons",
@@ -198,7 +198,7 @@
         "game_points": 61.16,
         "opp_model_rank": 40,
         "notes": "road win; quality win",
-        "label": "@ Wake Forest Demon Deacons, 33-20 (Wk 3)"
+        "label": "@ #40 Wake Forest Demon Deacons, 33-20 (Wk 3)"
       }
     },
     {
@@ -212,7 +212,7 @@
       "move": 21,
       "move_label": "\u219121",
       "move_dir": "up",
-      "biggest_win": "@ Auburn Tigers, 44-39 (Wk 3)",
+      "biggest_win": "@ #26 Auburn Tigers, 44-39 (Wk 3)",
       "biggest_win_game_points": 60.0,
       "biggest_win_detail": {
         "opponent": "Auburn Tigers",
@@ -225,7 +225,7 @@
         "game_points": 60.0,
         "opp_model_rank": 26,
         "notes": "road win; quality win",
-        "label": "@ Auburn Tigers, 44-39 (Wk 3)"
+        "label": "@ #26 Auburn Tigers, 44-39 (Wk 3)"
       }
     },
     {
@@ -239,7 +239,7 @@
       "move": 26,
       "move_label": "\u219126",
       "move_dir": "up",
-      "biggest_win": "@ Maryland Terrapins, 35-26 (Wk 3)",
+      "biggest_win": "@ #25 Maryland Terrapins, 35-26 (Wk 3)",
       "biggest_win_game_points": 62.72,
       "biggest_win_detail": {
         "opponent": "Maryland Terrapins",
@@ -252,7 +252,7 @@
         "game_points": 62.72,
         "opp_model_rank": 25,
         "notes": "road win; quality win",
-        "label": "@ Maryland Terrapins, 35-26 (Wk 3)"
+        "label": "@ #25 Maryland Terrapins, 35-26 (Wk 3)"
       }
     },
     {
@@ -266,7 +266,7 @@
       "move": -8,
       "move_label": "\u21938",
       "move_dir": "down",
-      "biggest_win": "@ California Golden Bears, 45-24 (Wk 1)",
+      "biggest_win": "@ #60 California Golden Bears, 45-24 (Wk 1)",
       "biggest_win_game_points": 48.35,
       "biggest_win_detail": {
         "opponent": "California Golden Bears",
@@ -279,7 +279,7 @@
         "game_points": 48.35,
         "opp_model_rank": 60,
         "notes": "road win",
-        "label": "@ California Golden Bears, 45-24 (Wk 1)"
+        "label": "@ #60 California Golden Bears, 45-24 (Wk 1)"
       }
     },
     {
@@ -293,7 +293,7 @@
       "move": -7,
       "move_label": "\u21937",
       "move_dir": "down",
-      "biggest_win": "@ Illinois Fighting Illini, 31-27 (Wk 2)",
+      "biggest_win": "@ #56 Illinois Fighting Illini, 31-27 (Wk 2)",
       "biggest_win_game_points": 41.42,
       "biggest_win_detail": {
         "opponent": "Illinois Fighting Illini",
@@ -306,7 +306,7 @@
         "game_points": 41.42,
         "opp_model_rank": 56,
         "notes": "road win",
-        "label": "@ Illinois Fighting Illini, 31-27 (Wk 2)"
+        "label": "@ #56 Illinois Fighting Illini, 31-27 (Wk 2)"
       }
     },
     {
@@ -320,7 +320,7 @@
       "move": -6,
       "move_label": "\u21936",
       "move_dir": "down",
-      "biggest_win": "vs Marshall Thundering Herd, 45-0 (Wk 1)",
+      "biggest_win": "vs #64 Marshall Thundering Herd, 45-0 (Wk 1)",
       "biggest_win_game_points": 35.33,
       "biggest_win_detail": {
         "opponent": "Marshall Thundering Herd",
@@ -333,7 +333,7 @@
         "game_points": 35.33,
         "opp_model_rank": 64,
         "notes": "",
-        "label": "vs Marshall Thundering Herd, 45-0 (Wk 1)"
+        "label": "vs #64 Marshall Thundering Herd, 45-0 (Wk 1)"
       }
     },
     {
@@ -347,7 +347,7 @@
       "move": -2,
       "move_label": "\u21932",
       "move_dir": "down",
-      "biggest_win": "vs Oklahoma Sooners, 17-10 (Wk 2)",
+      "biggest_win": "vs #29 Oklahoma Sooners, 17-10 (Wk 2)",
       "biggest_win_game_points": 39.83,
       "biggest_win_detail": {
         "opponent": "Oklahoma Sooners",
@@ -360,7 +360,7 @@
         "game_points": 39.83,
         "opp_model_rank": 29,
         "notes": "",
-        "label": "vs Oklahoma Sooners, 17-10 (Wk 2)"
+        "label": "vs #29 Oklahoma Sooners, 17-10 (Wk 2)"
       }
     },
     {
@@ -374,7 +374,7 @@
       "move": 5,
       "move_label": "\u21915",
       "move_dir": "up",
-      "biggest_win": "vs UCF Knights, 12-7 (Wk 2)",
+      "biggest_win": "vs #46 UCF Knights, 12-7 (Wk 2)",
       "biggest_win_game_points": 34.15,
       "biggest_win_detail": {
         "opponent": "UCF Knights",
@@ -387,7 +387,7 @@
         "game_points": 34.15,
         "opp_model_rank": 46,
         "notes": "",
-        "label": "vs UCF Knights, 12-7 (Wk 2)"
+        "label": "vs #46 UCF Knights, 12-7 (Wk 2)"
       }
     },
     {
@@ -401,20 +401,20 @@
       "move": 22,
       "move_label": "\u219122",
       "move_dir": "up",
-      "biggest_win": "@ Colorado State Rams, 41-23 (Wk 3)",
-      "biggest_win_game_points": 41.79,
+      "biggest_win": "vs #65 Arizona Wildcats, 28-17 (Wk 2)",
+      "biggest_win_game_points": 31.93,
       "biggest_win_detail": {
-        "opponent": "Colorado State Rams",
-        "opp_id": "36",
-        "location": "A",
-        "score": "41-23",
-        "us": 41,
-        "them": 23,
-        "week": 3,
-        "game_points": 41.79,
-        "opp_model_rank": 81,
-        "notes": "road win",
-        "label": "@ Colorado State Rams, 41-23 (Wk 3)"
+        "opponent": "Arizona Wildcats",
+        "opp_id": "12",
+        "location": "H",
+        "score": "28-17",
+        "us": 28,
+        "them": 17,
+        "week": 2,
+        "game_points": 31.93,
+        "opp_model_rank": 65,
+        "notes": "",
+        "label": "vs #65 Arizona Wildcats, 28-17 (Wk 2)"
       }
     },
     {
@@ -428,7 +428,7 @@
       "move": -13,
       "move_label": "\u219313",
       "move_dir": "down",
-      "biggest_win": "vs Clemson Tigers, 51-10 (Wk 1)",
+      "biggest_win": "vs #45 Clemson Tigers, 51-10 (Wk 1)",
       "biggest_win_game_points": 40.98,
       "biggest_win_detail": {
         "opponent": "Clemson Tigers",
@@ -441,7 +441,7 @@
         "game_points": 40.98,
         "opp_model_rank": 45,
         "notes": "",
-        "label": "vs Clemson Tigers, 51-10 (Wk 1)"
+        "label": "vs #45 Clemson Tigers, 51-10 (Wk 1)"
       }
     },
     {
@@ -455,20 +455,20 @@
       "move": 4,
       "move_label": "\u21914",
       "move_dir": "up",
-      "biggest_win": "@ Kansas Jayhawks, 38-21 (Wk 2)",
-      "biggest_win_game_points": 36.89,
+      "biggest_win": "vs #76 Troy Trojans, 27-17 (Wk 3)",
+      "biggest_win_game_points": 29.59,
       "biggest_win_detail": {
-        "opponent": "Kansas Jayhawks",
-        "opp_id": "2305",
-        "location": "A",
-        "score": "38-21",
-        "us": 38,
-        "them": 21,
-        "week": 2,
-        "game_points": 36.89,
-        "opp_model_rank": 98,
-        "notes": "road win",
-        "label": "@ Kansas Jayhawks, 38-21 (Wk 2)"
+        "opponent": "Troy Trojans",
+        "opp_id": "2653",
+        "location": "H",
+        "score": "27-17",
+        "us": 27,
+        "them": 17,
+        "week": 3,
+        "game_points": 29.59,
+        "opp_model_rank": 76,
+        "notes": "",
+        "label": "vs #76 Troy Trojans, 27-17 (Wk 3)"
       }
     },
     {
@@ -482,7 +482,7 @@
       "move": 65,
       "move_label": "\u219165",
       "move_dir": "up",
-      "biggest_win": "@ Texas A&M Aggies, 31-21 (Wk 3)",
+      "biggest_win": "@ #28 Texas A&M Aggies, 31-21 (Wk 3)",
       "biggest_win_game_points": 64.05,
       "biggest_win_detail": {
         "opponent": "Texas A&M Aggies",
@@ -495,7 +495,7 @@
         "game_points": 64.05,
         "opp_model_rank": 28,
         "notes": "road win; quality win; T25 #25 \u00d71.01",
-        "label": "@ Texas A&M Aggies, 31-21 (Wk 3)"
+        "label": "@ #28 Texas A&M Aggies, 31-21 (Wk 3)"
       }
     },
     {
@@ -509,7 +509,7 @@
       "move": 3,
       "move_label": "\u21913",
       "move_dir": "up",
-      "biggest_win": "@ Air Force Falcons, 38-32 (Wk 2)",
+      "biggest_win": "@ #89 Air Force Falcons, 38-32 (Wk 2)",
       "biggest_win_game_points": 34.18,
       "biggest_win_detail": {
         "opponent": "Air Force Falcons",
@@ -522,7 +522,7 @@
         "game_points": 34.18,
         "opp_model_rank": 89,
         "notes": "road win",
-        "label": "@ Air Force Falcons, 38-32 (Wk 2)"
+        "label": "@ #89 Air Force Falcons, 38-32 (Wk 2)"
       }
     },
     {
@@ -536,7 +536,7 @@
       "move": 10,
       "move_label": "\u219110",
       "move_dir": "up",
-      "biggest_win": "@ Georgia Tech Yellow Jackets, 45-24 (Wk 2)",
+      "biggest_win": "@ #103 Georgia Tech Yellow Jackets, 45-24 (Wk 2)",
       "biggest_win_game_points": 37.09,
       "biggest_win_detail": {
         "opponent": "Georgia Tech Yellow Jackets",
@@ -549,7 +549,7 @@
         "game_points": 37.09,
         "opp_model_rank": 103,
         "notes": "road win",
-        "label": "@ Georgia Tech Yellow Jackets, 45-24 (Wk 2)"
+        "label": "@ #103 Georgia Tech Yellow Jackets, 45-24 (Wk 2)"
       }
     },
     {
@@ -563,7 +563,7 @@
       "move": 24,
       "move_label": "\u219124",
       "move_dir": "up",
-      "biggest_win": "@ Arkansas Razorbacks, 45-17 (Wk 3)",
+      "biggest_win": "@ #93 Arkansas Razorbacks, 45-17 (Wk 3)",
       "biggest_win_game_points": 40.19,
       "biggest_win_detail": {
         "opponent": "Arkansas Razorbacks",
@@ -576,7 +576,7 @@
         "game_points": 40.19,
         "opp_model_rank": 93,
         "notes": "road win",
-        "label": "@ Arkansas Razorbacks, 45-17 (Wk 3)"
+        "label": "@ #93 Arkansas Razorbacks, 45-17 (Wk 3)"
       }
     },
     {
@@ -590,7 +590,7 @@
       "move": 21,
       "move_label": "\u219121",
       "move_dir": "up",
-      "biggest_win": "vs Virginia Cavaliers (N), 38-27 (Wk 3)",
+      "biggest_win": "vs #52 Virginia Cavaliers (N), 38-27 (Wk 3)",
       "biggest_win_game_points": 39.45,
       "biggest_win_detail": {
         "opponent": "Virginia Cavaliers",
@@ -603,7 +603,7 @@
         "game_points": 39.45,
         "opp_model_rank": 52,
         "notes": "",
-        "label": "vs Virginia Cavaliers (N), 38-27 (Wk 3)"
+        "label": "vs #52 Virginia Cavaliers (N), 38-27 (Wk 3)"
       }
     },
     {
@@ -617,20 +617,20 @@
       "move": 23,
       "move_label": "\u219123",
       "move_dir": "up",
-      "biggest_win": "@ Oregon State Beavers, 35-24 (Wk 2)",
-      "biggest_win_game_points": 32.2,
+      "biggest_win": "vs #55 Houston Cougars, 28-26 (Wk 3)",
+      "biggest_win_game_points": 31.33,
       "biggest_win_detail": {
-        "opponent": "Oregon State Beavers",
-        "opp_id": "204",
-        "location": "A",
-        "score": "35-24",
-        "us": 35,
-        "them": 24,
-        "week": 2,
-        "game_points": 32.2,
-        "opp_model_rank": 108,
-        "notes": "road win",
-        "label": "@ Oregon State Beavers, 35-24 (Wk 2)"
+        "opponent": "Houston Cougars",
+        "opp_id": "248",
+        "location": "H",
+        "score": "28-26",
+        "us": 28,
+        "them": 26,
+        "week": 3,
+        "game_points": 31.33,
+        "opp_model_rank": 55,
+        "notes": "",
+        "label": "vs #55 Houston Cougars, 28-26 (Wk 3)"
       }
     },
     {
@@ -644,7 +644,7 @@
       "move": -9,
       "move_label": "\u21939",
       "move_dir": "down",
-      "biggest_win": "vs Oklahoma State Cowboys, 24-10 (Wk 1)",
+      "biggest_win": "vs #38 Oklahoma State Cowboys, 24-10 (Wk 1)",
       "biggest_win_game_points": 38.83,
       "biggest_win_detail": {
         "opponent": "Oklahoma State Cowboys",
@@ -657,7 +657,7 @@
         "game_points": 38.83,
         "opp_model_rank": 38,
         "notes": "",
-        "label": "vs Oklahoma State Cowboys, 24-10 (Wk 1)"
+        "label": "vs #38 Oklahoma State Cowboys, 24-10 (Wk 1)"
       }
     },
     {
@@ -671,7 +671,7 @@
       "move": -9,
       "move_label": "\u21939",
       "move_dir": "down",
-      "biggest_win": "@ UConn Huskies, 38-14 (Wk 2)",
+      "biggest_win": "@ #51 UConn Huskies, 38-14 (Wk 2)",
       "biggest_win_game_points": 52.3,
       "biggest_win_detail": {
         "opponent": "UConn Huskies",
@@ -684,7 +684,7 @@
         "game_points": 52.3,
         "opp_model_rank": 51,
         "notes": "road win",
-        "label": "@ UConn Huskies, 38-14 (Wk 2)"
+        "label": "@ #51 UConn Huskies, 38-14 (Wk 2)"
       }
     }
   ],
@@ -700,7 +700,7 @@
       "move": 4,
       "move_label": "\u21914",
       "move_dir": "up",
-      "biggest_win": "@ Kentucky Wildcats, 45-17 (Wk 2)",
+      "biggest_win": "@ #18 Kentucky Wildcats, 45-17 (Wk 2)",
       "biggest_win_game_points": 74.58
     },
     {
@@ -714,7 +714,7 @@
       "move": 16,
       "move_label": "\u219116",
       "move_dir": "up",
-      "biggest_win": "vs LSU Tigers, 32-24 (Wk 3)",
+      "biggest_win": "vs #16 LSU Tigers, 32-24 (Wk 3)",
       "biggest_win_game_points": 59.5
     },
     {
@@ -728,7 +728,7 @@
       "move": -2,
       "move_label": "\u21932",
       "move_dir": "down",
-      "biggest_win": "vs Fresno State Bulldogs, 39-0 (Wk 1)",
+      "biggest_win": "vs #58 Fresno State Bulldogs, 39-0 (Wk 1)",
       "biggest_win_game_points": 38.92
     },
     {
@@ -742,8 +742,8 @@
       "move": 3,
       "move_label": "\u21913",
       "move_dir": "up",
-      "biggest_win": "@ Minnesota Golden Gophers, 38-13 (Wk 2)",
-      "biggest_win_game_points": 48.56
+      "biggest_win": "@ #54 South Carolina Gamecocks, 41-34 (Wk 3)",
+      "biggest_win_game_points": 43.37
     },
     {
       "rank": 5,
@@ -756,8 +756,8 @@
       "move": 3,
       "move_label": "\u21913",
       "move_dir": "up",
-      "biggest_win": "vs Wisconsin Badgers (N), 41-13 (Wk 1)",
-      "biggest_win_game_points": 40.68
+      "biggest_win": "vs #44 Michigan State Spartans, 27-10 (Wk 3)",
+      "biggest_win_game_points": 40.42
     },
     {
       "rank": 6,
@@ -770,8 +770,8 @@
       "move": 4,
       "move_label": "\u21914",
       "move_dir": "up",
-      "biggest_win": "vs UTSA Roadrunners, 30-6 (Wk 3)",
-      "biggest_win_game_points": 35.27
+      "biggest_win": "vs #39 Ohio State Buckeyes, 24-23 (Wk 2)",
+      "biggest_win_game_points": 34.47
     },
     {
       "rank": 7,
@@ -784,7 +784,7 @@
       "move": 7,
       "move_label": "\u21917",
       "move_dir": "up",
-      "biggest_win": "@ Wake Forest Demon Deacons, 33-20 (Wk 3)",
+      "biggest_win": "@ #40 Wake Forest Demon Deacons, 33-20 (Wk 3)",
       "biggest_win_game_points": 61.16
     },
     {
@@ -798,7 +798,7 @@
       "move": 21,
       "move_label": "\u219121",
       "move_dir": "up",
-      "biggest_win": "@ Auburn Tigers, 44-39 (Wk 3)",
+      "biggest_win": "@ #26 Auburn Tigers, 44-39 (Wk 3)",
       "biggest_win_game_points": 60.0
     },
     {
@@ -812,7 +812,7 @@
       "move": 26,
       "move_label": "\u219126",
       "move_dir": "up",
-      "biggest_win": "@ Maryland Terrapins, 35-26 (Wk 3)",
+      "biggest_win": "@ #25 Maryland Terrapins, 35-26 (Wk 3)",
       "biggest_win_game_points": 62.72
     },
     {
@@ -826,7 +826,7 @@
       "move": -8,
       "move_label": "\u21938",
       "move_dir": "down",
-      "biggest_win": "@ California Golden Bears, 45-24 (Wk 1)",
+      "biggest_win": "@ #60 California Golden Bears, 45-24 (Wk 1)",
       "biggest_win_game_points": 48.35
     },
     {
@@ -840,7 +840,7 @@
       "move": -7,
       "move_label": "\u21937",
       "move_dir": "down",
-      "biggest_win": "@ Illinois Fighting Illini, 31-27 (Wk 2)",
+      "biggest_win": "@ #56 Illinois Fighting Illini, 31-27 (Wk 2)",
       "biggest_win_game_points": 41.42
     },
     {
@@ -854,7 +854,7 @@
       "move": -6,
       "move_label": "\u21936",
       "move_dir": "down",
-      "biggest_win": "vs Marshall Thundering Herd, 45-0 (Wk 1)",
+      "biggest_win": "vs #64 Marshall Thundering Herd, 45-0 (Wk 1)",
       "biggest_win_game_points": 35.33
     },
     {
@@ -868,7 +868,7 @@
       "move": -2,
       "move_label": "\u21932",
       "move_dir": "down",
-      "biggest_win": "vs Oklahoma Sooners, 17-10 (Wk 2)",
+      "biggest_win": "vs #29 Oklahoma Sooners, 17-10 (Wk 2)",
       "biggest_win_game_points": 39.83
     },
     {
@@ -882,7 +882,7 @@
       "move": 5,
       "move_label": "\u21915",
       "move_dir": "up",
-      "biggest_win": "vs UCF Knights, 12-7 (Wk 2)",
+      "biggest_win": "vs #46 UCF Knights, 12-7 (Wk 2)",
       "biggest_win_game_points": 34.15
     },
     {
@@ -896,8 +896,8 @@
       "move": 22,
       "move_label": "\u219122",
       "move_dir": "up",
-      "biggest_win": "@ Colorado State Rams, 41-23 (Wk 3)",
-      "biggest_win_game_points": 41.79
+      "biggest_win": "vs #65 Arizona Wildcats, 28-17 (Wk 2)",
+      "biggest_win_game_points": 31.93
     },
     {
       "rank": 16,
@@ -910,7 +910,7 @@
       "move": -13,
       "move_label": "\u219313",
       "move_dir": "down",
-      "biggest_win": "vs Clemson Tigers, 51-10 (Wk 1)",
+      "biggest_win": "vs #45 Clemson Tigers, 51-10 (Wk 1)",
       "biggest_win_game_points": 40.98
     },
     {
@@ -924,8 +924,8 @@
       "move": 4,
       "move_label": "\u21914",
       "move_dir": "up",
-      "biggest_win": "@ Kansas Jayhawks, 38-21 (Wk 2)",
-      "biggest_win_game_points": 36.89
+      "biggest_win": "vs #76 Troy Trojans, 27-17 (Wk 3)",
+      "biggest_win_game_points": 29.59
     },
     {
       "rank": 18,
@@ -938,7 +938,7 @@
       "move": 65,
       "move_label": "\u219165",
       "move_dir": "up",
-      "biggest_win": "@ Texas A&M Aggies, 31-21 (Wk 3)",
+      "biggest_win": "@ #28 Texas A&M Aggies, 31-21 (Wk 3)",
       "biggest_win_game_points": 64.05
     },
     {
@@ -952,7 +952,7 @@
       "move": 3,
       "move_label": "\u21913",
       "move_dir": "up",
-      "biggest_win": "@ Air Force Falcons, 38-32 (Wk 2)",
+      "biggest_win": "@ #89 Air Force Falcons, 38-32 (Wk 2)",
       "biggest_win_game_points": 34.18
     },
     {
@@ -966,7 +966,7 @@
       "move": 10,
       "move_label": "\u219110",
       "move_dir": "up",
-      "biggest_win": "@ Georgia Tech Yellow Jackets, 45-24 (Wk 2)",
+      "biggest_win": "@ #103 Georgia Tech Yellow Jackets, 45-24 (Wk 2)",
       "biggest_win_game_points": 37.09
     },
     {
@@ -980,7 +980,7 @@
       "move": 24,
       "move_label": "\u219124",
       "move_dir": "up",
-      "biggest_win": "@ Arkansas Razorbacks, 45-17 (Wk 3)",
+      "biggest_win": "@ #93 Arkansas Razorbacks, 45-17 (Wk 3)",
       "biggest_win_game_points": 40.19
     },
     {
@@ -994,7 +994,7 @@
       "move": 21,
       "move_label": "\u219121",
       "move_dir": "up",
-      "biggest_win": "vs Virginia Cavaliers (N), 38-27 (Wk 3)",
+      "biggest_win": "vs #52 Virginia Cavaliers (N), 38-27 (Wk 3)",
       "biggest_win_game_points": 39.45
     },
     {
@@ -1008,8 +1008,8 @@
       "move": 23,
       "move_label": "\u219123",
       "move_dir": "up",
-      "biggest_win": "@ Oregon State Beavers, 35-24 (Wk 2)",
-      "biggest_win_game_points": 32.2
+      "biggest_win": "vs #55 Houston Cougars, 28-26 (Wk 3)",
+      "biggest_win_game_points": 31.33
     },
     {
       "rank": 24,
@@ -1022,7 +1022,7 @@
       "move": -9,
       "move_label": "\u21939",
       "move_dir": "down",
-      "biggest_win": "vs Oklahoma State Cowboys, 24-10 (Wk 1)",
+      "biggest_win": "vs #38 Oklahoma State Cowboys, 24-10 (Wk 1)",
       "biggest_win_game_points": 38.83
     },
     {
@@ -1036,7 +1036,7 @@
       "move": -9,
       "move_label": "\u21939",
       "move_dir": "down",
-      "biggest_win": "@ UConn Huskies, 38-14 (Wk 2)",
+      "biggest_win": "@ #51 UConn Huskies, 38-14 (Wk 2)",
       "biggest_win_game_points": 52.3
     },
     {

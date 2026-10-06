@@ -1,29 +1,29 @@
 rank,team,record,score,ap_rank,prev_rank,move,move_label,biggest_win,biggest_win_game_points,id
-1,USC Trojans,3-0,89.36,19,1,0,—,"vs San José State Spartans, 42-26 (Wk 1)",35.03,30
-2,UCLA Bruins,2-0,83.16,21,5,3,↑3,"@ California Golden Bears, 45-24 (Wk 1)",52.94,26
-3,LSU Tigers,2-0,80.67,10,13,10,↑10,"vs Clemson Tigers, 51-10 (Wk 1)",35.25,99
-4,Duke Blue Devils,2-0,79.37,,32,28,↑28,"@ Illinois Fighting Illini, 31-27 (Wk 2)",44.1,150
-5,Alabama Crimson Tide,2-0,77.26,6,14,9,↑9,"@ Kentucky Wildcats, 45-17 (Wk 2)",42.5,333
-6,Penn State Nittany Lions,2-0,76.05,,19,13,↑13,"@ Temple Owls, 27-9 (Wk 2)",37.44,213
-7,Mississippi State Bulldogs,2-0,75.81,17,34,27,↑27,"@ Minnesota Golden Gophers, 38-13 (Wk 2)",43.54,344
-8,Notre Dame Fighting Irish,2-0,75.21,3,6,-2,↓2,"vs Wisconsin Badgers (N), 41-13 (Wk 1)",36.38,87
-9,Texas A&M Aggies,2-0,74.26,,27,18,↑18,"vs Arizona State Sun Devils, 48-20 (Wk 2)",31.86,245
-10,Texas Longhorns,2-0,73.84,1,28,18,↑18,"vs Ohio State Buckeyes, 24-23 (Wk 2)",35.17,251
-11,Michigan Wolverines,2-0,72.89,,37,26,↑26,"vs Oklahoma Sooners, 17-10 (Wk 2)",35.05,130
-12,Auburn Tigers,2-0,72.86,,16,4,↑4,"vs Baylor Bears (N), 17-16 (Wk 1)",29.8,2
-13,Wake Forest Demon Deacons,2-0,72.35,,31,18,↑18,"@ Purdue Boilermakers, 38-36 (Wk 2)",35.45,154
-14,Miami Hurricanes,2-0,72.13,4,4,-10,↓10,"@ Stanford Cardinal, 45-6 (Wk 1)",45.67,2390
-15,Tulsa Golden Hurricane,2-0,71.62,,33,18,↑18,"vs Oklahoma State Cowboys, 24-10 (Wk 1)",40.62,202
-16,Maryland Terrapins,2-0,70.77,,48,32,↑32,"@ UConn Huskies, 38-14 (Wk 2)",43.53,120
-17,South Florida Bulls,2-0,70.42,,44,27,↑27,"@ Army Black Knights, 28-24 (Wk 2)",34.49,58
-18,Ole Miss Rebels,2-0,70.3,9,11,-7,↓7,"vs Louisville Cardinals (N), 41-38 (Wk 1)",31.41,145
-19,Pittsburgh Panthers,2-0,70.1,25,41,22,↑22,"vs UCF Knights, 12-7 (Wk 2)",28.3,221
-20,Indiana Hoosiers,2-0,69.57,7,12,-8,↓8,"vs North Texas Mean Green, 52-16 (Wk 1)",36.91,84
-21,Missouri Tigers,2-0,68.33,14,61,40,↑40,"@ Kansas Jayhawks, 38-21 (Wk 2)",39.18,142
-22,North Dakota State Bison,3-0,68.26,,8,-14,↓14,"@ Air Force Falcons, 38-32 (Wk 2)",33.86,2449
-23,Michigan State Spartans,2-0,68.13,,29,6,↑6,"vs Eastern Michigan Eagles, 35-7 (Wk 2)",26.34,127
-24,SMU Mustangs,2-0,67.18,24,3,-21,↓21,"@ Florida State Seminoles, 27-24 (Wk 1)",40.27,2567
-25,Virginia Cavaliers,2-0,65.82,,20,-5,↓5,"vs NC State Wolfpack, 34-8 (Wk 1)",33.04,258
+1,USC Trojans,3-0,89.36,19,1,0,—,"vs #60 San José State Spartans, 42-26 (Wk 1)",35.03,30
+2,UCLA Bruins,2-0,83.16,21,5,3,↑3,"@ #48 California Golden Bears, 45-24 (Wk 1)",52.94,26
+3,LSU Tigers,2-0,80.67,10,13,10,↑10,"vs #65 Clemson Tigers, 51-10 (Wk 1)",35.25,99
+4,Duke Blue Devils,2-0,79.37,,32,28,↑28,"@ #47 Illinois Fighting Illini, 31-27 (Wk 2)",44.1,150
+5,Alabama Crimson Tide,2-0,77.26,6,14,9,↑9,"@ #83 Kentucky Wildcats, 45-17 (Wk 2)",42.5,333
+6,Penn State Nittany Lions,2-0,76.05,,19,13,↑13,"vs #89 Marshall Thundering Herd, 45-0 (Wk 1)",30.05,213
+7,Mississippi State Bulldogs,2-0,75.81,17,34,27,↑27,"@ #76 Minnesota Golden Gophers, 38-13 (Wk 2)",43.54,344
+8,Notre Dame Fighting Irish,2-0,75.21,3,6,-2,↓2,"vs #79 Wisconsin Badgers (N), 41-13 (Wk 1)",36.38,87
+9,Texas A&M Aggies,2-0,74.26,,27,18,↑18,"vs #82 Arizona State Sun Devils, 48-20 (Wk 2)",31.86,245
+10,Texas Longhorns,2-0,73.84,1,28,18,↑18,"vs #39 Ohio State Buckeyes, 24-23 (Wk 2)",35.17,251
+11,Michigan Wolverines,2-0,72.89,,37,26,↑26,"vs #51 Oklahoma Sooners, 17-10 (Wk 2)",35.05,130
+12,Auburn Tigers,2-0,72.86,,16,4,↑4,"vs #71 Baylor Bears (N), 17-16 (Wk 1)",29.8,2
+13,Wake Forest Demon Deacons,2-0,72.35,,31,18,↑18,"@ #70 Purdue Boilermakers, 38-36 (Wk 2)",35.45,154
+14,Miami Hurricanes,2-0,72.13,4,4,-10,↓10,"@ #68 Stanford Cardinal, 45-6 (Wk 1)",45.67,2390
+15,Tulsa Golden Hurricane,2-0,71.62,,33,18,↑18,"vs #33 Oklahoma State Cowboys, 24-10 (Wk 1)",40.62,202
+16,Maryland Terrapins,2-0,70.77,,48,32,↑32,"@ #77 UConn Huskies, 38-14 (Wk 2)",43.53,120
+17,South Florida Bulls,2-0,70.42,,44,27,↑27,"vs #78 Florida International Panthers, 19-9 (Wk 1)",28.24,58
+18,Ole Miss Rebels,2-0,70.3,9,11,-7,↓7,"vs #66 Louisville Cardinals (N), 41-38 (Wk 1)",31.41,145
+19,Pittsburgh Panthers,2-0,70.1,25,41,22,↑22,"vs #67 UCF Knights, 12-7 (Wk 2)",28.3,221
+20,Indiana Hoosiers,2-0,69.57,7,12,-8,↓8,"vs #61 North Texas Mean Green, 52-16 (Wk 1)",36.91,84
+21,Missouri Tigers,2-0,68.33,14,61,40,↑40,"@ #85 Kansas Jayhawks, 38-21 (Wk 2)",39.18,142
+22,North Dakota State Bison,3-0,68.26,,8,-14,↓14,"@ #91 Air Force Falcons, 38-32 (Wk 2)",33.86,2449
+23,Michigan State Spartans,2-0,68.13,,29,6,↑6,"vs #93 Toledo Rockets, 30-20 (Wk 1)",26.23,127
+24,SMU Mustangs,2-0,67.18,24,3,-21,↓21,"@ #59 Florida State Seminoles, 27-24 (Wk 1)",40.27,2567
+25,Virginia Cavaliers,2-0,65.82,,20,-5,↓5,"vs #72 NC State Wolfpack, 34-8 (Wk 1)",33.04,258
 26,Nebraska Cornhuskers,2-0,64.5,,25,-1,↓1,,,158
 27,Oregon Ducks,1-1,64.18,13,15,-12,↓12,,,2483
 28,Iowa Hawkeyes,2-0,64.01,20,18,-10,↓10,,,2294

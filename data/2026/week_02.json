@@ -23,7 +23,7 @@
       "move": 0,
       "move_label": "\u2014",
       "move_dir": "same",
-      "biggest_win": "vs San Jos\u00e9 State Spartans, 42-26 (Wk 1)",
+      "biggest_win": "vs #60 San Jos\u00e9 State Spartans, 42-26 (Wk 1)",
       "biggest_win_game_points": 35.03,
       "biggest_win_detail": {
         "opponent": "San Jos\u00e9 State Spartans",
@@ -36,7 +36,7 @@
         "game_points": 35.03,
         "opp_model_rank": 60,
         "notes": "",
-        "label": "vs San Jos\u00e9 State Spartans, 42-26 (Wk 1)"
+        "label": "vs #60 San Jos\u00e9 State Spartans, 42-26 (Wk 1)"
       }
     },
     {
@@ -50,7 +50,7 @@
       "move": 3,
       "move_label": "\u21913",
       "move_dir": "up",
-      "biggest_win": "@ California Golden Bears, 45-24 (Wk 1)",
+      "biggest_win": "@ #48 California Golden Bears, 45-24 (Wk 1)",
       "biggest_win_game_points": 52.94,
       "biggest_win_detail": {
         "opponent": "California Golden Bears",
@@ -63,7 +63,7 @@
         "game_points": 52.94,
         "opp_model_rank": 48,
         "notes": "road win",
-        "label": "@ California Golden Bears, 45-24 (Wk 1)"
+        "label": "@ #48 California Golden Bears, 45-24 (Wk 1)"
       }
     },
     {
@@ -77,7 +77,7 @@
       "move": 10,
       "move_label": "\u219110",
       "move_dir": "up",
-      "biggest_win": "vs Clemson Tigers, 51-10 (Wk 1)",
+      "biggest_win": "vs #65 Clemson Tigers, 51-10 (Wk 1)",
       "biggest_win_game_points": 35.25,
       "biggest_win_detail": {
         "opponent": "Clemson Tigers",
@@ -90,7 +90,7 @@
         "game_points": 35.25,
         "opp_model_rank": 65,
         "notes": "",
-        "label": "vs Clemson Tigers, 51-10 (Wk 1)"
+        "label": "vs #65 Clemson Tigers, 51-10 (Wk 1)"
       }
     },
     {
@@ -104,7 +104,7 @@
       "move": 28,
       "move_label": "\u219128",
       "move_dir": "up",
-      "biggest_win": "@ Illinois Fighting Illini, 31-27 (Wk 2)",
+      "biggest_win": "@ #47 Illinois Fighting Illini, 31-27 (Wk 2)",
       "biggest_win_game_points": 44.1,
       "biggest_win_detail": {
         "opponent": "Illinois Fighting Illini",
@@ -117,7 +117,7 @@
         "game_points": 44.1,
         "opp_model_rank": 47,
         "notes": "road win",
-        "label": "@ Illinois Fighting Illini, 31-27 (Wk 2)"
+        "label": "@ #47 Illinois Fighting Illini, 31-27 (Wk 2)"
       }
     },
     {
@@ -131,7 +131,7 @@
       "move": 9,
       "move_label": "\u21919",
       "move_dir": "up",
-      "biggest_win": "@ Kentucky Wildcats, 45-17 (Wk 2)",
+      "biggest_win": "@ #83 Kentucky Wildcats, 45-17 (Wk 2)",
       "biggest_win_game_points": 42.5,
       "biggest_win_detail": {
         "opponent": "Kentucky Wildcats",
@@ -144,7 +144,7 @@
         "game_points": 42.5,
         "opp_model_rank": 83,
         "notes": "road win",
-        "label": "@ Kentucky Wildcats, 45-17 (Wk 2)"
+        "label": "@ #83 Kentucky Wildcats, 45-17 (Wk 2)"
       }
     },
     {
@@ -158,20 +158,20 @@
       "move": 13,
       "move_label": "\u219113",
       "move_dir": "up",
-      "biggest_win": "@ Temple Owls, 27-9 (Wk 2)",
-      "biggest_win_game_points": 37.44,
+      "biggest_win": "vs #89 Marshall Thundering Herd, 45-0 (Wk 1)",
+      "biggest_win_game_points": 30.05,
       "biggest_win_detail": {
-        "opponent": "Temple Owls",
-        "opp_id": "218",
-        "location": "A",
-        "score": "27-9",
-        "us": 27,
-        "them": 9,
-        "week": 2,
-        "game_points": 37.44,
-        "opp_model_rank": 97,
-        "notes": "road win",
-        "label": "@ Temple Owls, 27-9 (Wk 2)"
+        "opponent": "Marshall Thundering Herd",
+        "opp_id": "276",
+        "location": "H",
+        "score": "45-0",
+        "us": 45,
+        "them": 0,
+        "week": 1,
+        "game_points": 30.05,
+        "opp_model_rank": 89,
+        "notes": "",
+        "label": "vs #89 Marshall Thundering Herd, 45-0 (Wk 1)"
       }
     },
     {
@@ -185,7 +185,7 @@
       "move": 27,
       "move_label": "\u219127",
       "move_dir": "up",
-      "biggest_win": "@ Minnesota Golden Gophers, 38-13 (Wk 2)",
+      "biggest_win": "@ #76 Minnesota Golden Gophers, 38-13 (Wk 2)",
       "biggest_win_game_points": 43.54,
       "biggest_win_detail": {
         "opponent": "Minnesota Golden Gophers",
@@ -198,7 +198,7 @@
         "game_points": 43.54,
         "opp_model_rank": 76,
         "notes": "road win",
-        "label": "@ Minnesota Golden Gophers, 38-13 (Wk 2)"
+        "label": "@ #76 Minnesota Golden Gophers, 38-13 (Wk 2)"
       }
     },
     {
@@ -212,7 +212,7 @@
       "move": -2,
       "move_label": "\u21932",
       "move_dir": "down",
-      "biggest_win": "vs Wisconsin Badgers (N), 41-13 (Wk 1)",
+      "biggest_win": "vs #79 Wisconsin Badgers (N), 41-13 (Wk 1)",
       "biggest_win_game_points": 36.38,
       "biggest_win_detail": {
         "opponent": "Wisconsin Badgers",
@@ -225,7 +225,7 @@
         "game_points": 36.38,
         "opp_model_rank": 79,
         "notes": "",
-        "label": "vs Wisconsin Badgers (N), 41-13 (Wk 1)"
+        "label": "vs #79 Wisconsin Badgers (N), 41-13 (Wk 1)"
       }
     },
     {
@@ -239,7 +239,7 @@
       "move": 18,
       "move_label": "\u219118",
       "move_dir": "up",
-      "biggest_win": "vs Arizona State Sun Devils, 48-20 (Wk 2)",
+      "biggest_win": "vs #82 Arizona State Sun Devils, 48-20 (Wk 2)",
       "biggest_win_game_points": 31.86,
       "biggest_win_detail": {
         "opponent": "Arizona State Sun Devils",
@@ -252,7 +252,7 @@
         "game_points": 31.86,
         "opp_model_rank": 82,
         "notes": "",
-        "label": "vs Arizona State Sun Devils, 48-20 (Wk 2)"
+        "label": "vs #82 Arizona State Sun Devils, 48-20 (Wk 2)"
       }
     },
     {
@@ -266,7 +266,7 @@
       "move": 18,
       "move_label": "\u219118",
       "move_dir": "up",
-      "biggest_win": "vs Ohio State Buckeyes, 24-23 (Wk 2)",
+      "biggest_win": "vs #39 Ohio State Buckeyes, 24-23 (Wk 2)",
       "biggest_win_game_points": 35.17,
       "biggest_win_detail": {
         "opponent": "Ohio State Buckeyes",
@@ -279,7 +279,7 @@
         "game_points": 35.17,
         "opp_model_rank": 39,
         "notes": "",
-        "label": "vs Ohio State Buckeyes, 24-23 (Wk 2)"
+        "label": "vs #39 Ohio State Buckeyes, 24-23 (Wk 2)"
       }
     },
     {
@@ -293,7 +293,7 @@
       "move": 26,
       "move_label": "\u219126",
       "move_dir": "up",
-      "biggest_win": "vs Oklahoma Sooners, 17-10 (Wk 2)",
+      "biggest_win": "vs #51 Oklahoma Sooners, 17-10 (Wk 2)",
       "biggest_win_game_points": 35.05,
       "biggest_win_detail": {
         "opponent": "Oklahoma Sooners",
@@ -306,7 +306,7 @@
         "game_points": 35.05,
         "opp_model_rank": 51,
         "notes": "",
-        "label": "vs Oklahoma Sooners, 17-10 (Wk 2)"
+        "label": "vs #51 Oklahoma Sooners, 17-10 (Wk 2)"
       }
     },
     {
@@ -320,7 +320,7 @@
       "move": 4,
       "move_label": "\u21914",
       "move_dir": "up",
-      "biggest_win": "vs Baylor Bears (N), 17-16 (Wk 1)",
+      "biggest_win": "vs #71 Baylor Bears (N), 17-16 (Wk 1)",
       "biggest_win_game_points": 29.8,
       "biggest_win_detail": {
         "opponent": "Baylor Bears",
@@ -333,7 +333,7 @@
         "game_points": 29.8,
         "opp_model_rank": 71,
         "notes": "",
-        "label": "vs Baylor Bears (N), 17-16 (Wk 1)"
+        "label": "vs #71 Baylor Bears (N), 17-16 (Wk 1)"
       }
     },
     {
@@ -347,7 +347,7 @@
       "move": 18,
       "move_label": "\u219118",
       "move_dir": "up",
-      "biggest_win": "@ Purdue Boilermakers, 38-36 (Wk 2)",
+      "biggest_win": "@ #70 Purdue Boilermakers, 38-36 (Wk 2)",
       "biggest_win_game_points": 35.45,
       "biggest_win_detail": {
         "opponent": "Purdue Boilermakers",
@@ -360,7 +360,7 @@
         "game_points": 35.45,
         "opp_model_rank": 70,
         "notes": "road win",
-        "label": "@ Purdue Boilermakers, 38-36 (Wk 2)"
+        "label": "@ #70 Purdue Boilermakers, 38-36 (Wk 2)"
       }
     },
     {
@@ -374,7 +374,7 @@
       "move": -10,
       "move_label": "\u219310",
       "move_dir": "down",
-      "biggest_win": "@ Stanford Cardinal, 45-6 (Wk 1)",
+      "biggest_win": "@ #68 Stanford Cardinal, 45-6 (Wk 1)",
       "biggest_win_game_points": 45.67,
       "biggest_win_detail": {
         "opponent": "Stanford Cardinal",
@@ -387,7 +387,7 @@
         "game_points": 45.67,
         "opp_model_rank": 68,
         "notes": "road win",
-        "label": "@ Stanford Cardinal, 45-6 (Wk 1)"
+        "label": "@ #68 Stanford Cardinal, 45-6 (Wk 1)"
       }
     },
     {
@@ -401,7 +401,7 @@
       "move": 18,
       "move_label": "\u219118",
       "move_dir": "up",
-      "biggest_win": "vs Oklahoma State Cowboys, 24-10 (Wk 1)",
+      "biggest_win": "vs #33 Oklahoma State Cowboys, 24-10 (Wk 1)",
       "biggest_win_game_points": 40.62,
       "biggest_win_detail": {
         "opponent": "Oklahoma State Cowboys",
@@ -414,7 +414,7 @@
         "game_points": 40.62,
         "opp_model_rank": 33,
         "notes": "",
-        "label": "vs Oklahoma State Cowboys, 24-10 (Wk 1)"
+        "label": "vs #33 Oklahoma State Cowboys, 24-10 (Wk 1)"
       }
     },
     {
@@ -428,7 +428,7 @@
       "move": 32,
       "move_label": "\u219132",
       "move_dir": "up",
-      "biggest_win": "@ UConn Huskies, 38-14 (Wk 2)",
+      "biggest_win": "@ #77 UConn Huskies, 38-14 (Wk 2)",
       "biggest_win_game_points": 43.53,
       "biggest_win_detail": {
         "opponent": "UConn Huskies",
@@ -441,7 +441,7 @@
         "game_points": 43.53,
         "opp_model_rank": 77,
         "notes": "road win",
-        "label": "@ UConn Huskies, 38-14 (Wk 2)"
+        "label": "@ #77 UConn Huskies, 38-14 (Wk 2)"
       }
     },
     {
@@ -455,20 +455,20 @@
       "move": 27,
       "move_label": "\u219127",
       "move_dir": "up",
-      "biggest_win": "@ Army Black Knights, 28-24 (Wk 2)",
-      "biggest_win_game_points": 34.49,
+      "biggest_win": "vs #78 Florida International Panthers, 19-9 (Wk 1)",
+      "biggest_win_game_points": 28.24,
       "biggest_win_detail": {
-        "opponent": "Army Black Knights",
-        "opp_id": "349",
-        "location": "A",
-        "score": "28-24",
-        "us": 28,
-        "them": 24,
-        "week": 2,
-        "game_points": 34.49,
-        "opp_model_rank": 81,
-        "notes": "road win",
-        "label": "@ Army Black Knights, 28-24 (Wk 2)"
+        "opponent": "Florida International Panthers",
+        "opp_id": "2229",
+        "location": "H",
+        "score": "19-9",
+        "us": 19,
+        "them": 9,
+        "week": 1,
+        "game_points": 28.24,
+        "opp_model_rank": 78,
+        "notes": "",
+        "label": "vs #78 Florida International Panthers, 19-9 (Wk 1)"
       }
     },
     {
@@ -482,7 +482,7 @@
       "move": -7,
       "move_label": "\u21937",
       "move_dir": "down",
-      "biggest_win": "vs Louisville Cardinals (N), 41-38 (Wk 1)",
+      "biggest_win": "vs #66 Louisville Cardinals (N), 41-38 (Wk 1)",
       "biggest_win_game_points": 31.41,
       "biggest_win_detail": {
         "opponent": "Louisville Cardinals",
@@ -495,7 +495,7 @@
         "game_points": 31.41,
         "opp_model_rank": 66,
         "notes": "",
-        "label": "vs Louisville Cardinals (N), 41-38 (Wk 1)"
+        "label": "vs #66 Louisville Cardinals (N), 41-38 (Wk 1)"
       }
     },
     {
@@ -509,7 +509,7 @@
       "move": 22,
       "move_label": "\u219122",
       "move_dir": "up",
-      "biggest_win": "vs UCF Knights, 12-7 (Wk 2)",
+      "biggest_win": "vs #67 UCF Knights, 12-7 (Wk 2)",
       "biggest_win_game_points": 28.3,
       "biggest_win_detail": {
         "opponent": "UCF Knights",
@@ -522,7 +522,7 @@
         "game_points": 28.3,
         "opp_model_rank": 67,
         "notes": "",
-        "label": "vs UCF Knights, 12-7 (Wk 2)"
+        "label": "vs #67 UCF Knights, 12-7 (Wk 2)"
       }
     },
     {
@@ -536,7 +536,7 @@
       "move": -8,
       "move_label": "\u21938",
       "move_dir": "down",
-      "biggest_win": "vs North Texas Mean Green, 52-16 (Wk 1)",
+      "biggest_win": "vs #61 North Texas Mean Green, 52-16 (Wk 1)",
       "biggest_win_game_points": 36.91,
       "biggest_win_detail": {
         "opponent": "North Texas Mean Green",
@@ -549,7 +549,7 @@
         "game_points": 36.91,
         "opp_model_rank": 61,
         "notes": "",
-        "label": "vs North Texas Mean Green, 52-16 (Wk 1)"
+        "label": "vs #61 North Texas Mean Green, 52-16 (Wk 1)"
       }
     },
     {
@@ -563,7 +563,7 @@
       "move": 40,
       "move_label": "\u219140",
       "move_dir": "up",
-      "biggest_win": "@ Kansas Jayhawks, 38-21 (Wk 2)",
+      "biggest_win": "@ #85 Kansas Jayhawks, 38-21 (Wk 2)",
       "biggest_win_game_points": 39.18,
       "biggest_win_detail": {
         "opponent": "Kansas Jayhawks",
@@ -576,7 +576,7 @@
         "game_points": 39.18,
         "opp_model_rank": 85,
         "notes": "road win",
-        "label": "@ Kansas Jayhawks, 38-21 (Wk 2)"
+        "label": "@ #85 Kansas Jayhawks, 38-21 (Wk 2)"
       }
     },
     {
@@ -590,7 +590,7 @@
       "move": -14,
       "move_label": "\u219314",
       "move_dir": "down",
-      "biggest_win": "@ Air Force Falcons, 38-32 (Wk 2)",
+      "biggest_win": "@ #91 Air Force Falcons, 38-32 (Wk 2)",
       "biggest_win_game_points": 33.86,
       "biggest_win_detail": {
         "opponent": "Air Force Falcons",
@@ -603,7 +603,7 @@
         "game_points": 33.86,
         "opp_model_rank": 91,
         "notes": "road win",
-        "label": "@ Air Force Falcons, 38-32 (Wk 2)"
+        "label": "@ #91 Air Force Falcons, 38-32 (Wk 2)"
       }
     },
     {
@@ -617,20 +617,20 @@
       "move": 6,
       "move_label": "\u21916",
       "move_dir": "up",
-      "biggest_win": "vs Eastern Michigan Eagles, 35-7 (Wk 2)",
-      "biggest_win_game_points": 26.34,
+      "biggest_win": "vs #93 Toledo Rockets, 30-20 (Wk 1)",
+      "biggest_win_game_points": 26.23,
       "biggest_win_detail": {
-        "opponent": "Eastern Michigan Eagles",
-        "opp_id": "2199",
+        "opponent": "Toledo Rockets",
+        "opp_id": "2649",
         "location": "H",
-        "score": "35-7",
-        "us": 35,
-        "them": 7,
-        "week": 2,
-        "game_points": 26.34,
-        "opp_model_rank": 112,
+        "score": "30-20",
+        "us": 30,
+        "them": 20,
+        "week": 1,
+        "game_points": 26.23,
+        "opp_model_rank": 93,
         "notes": "",
-        "label": "vs Eastern Michigan Eagles, 35-7 (Wk 2)"
+        "label": "vs #93 Toledo Rockets, 30-20 (Wk 1)"
       }
     },
     {
@@ -644,7 +644,7 @@
       "move": -21,
       "move_label": "\u219321",
       "move_dir": "down",
-      "biggest_win": "@ Florida State Seminoles, 27-24 (Wk 1)",
+      "biggest_win": "@ #59 Florida State Seminoles, 27-24 (Wk 1)",
       "biggest_win_game_points": 40.27,
       "biggest_win_detail": {
         "opponent": "Florida State Seminoles",
@@ -657,7 +657,7 @@
         "game_points": 40.27,
         "opp_model_rank": 59,
         "notes": "road win",
-        "label": "@ Florida State Seminoles, 27-24 (Wk 1)"
+        "label": "@ #59 Florida State Seminoles, 27-24 (Wk 1)"
       }
     },
     {
@@ -671,7 +671,7 @@
       "move": -5,
       "move_label": "\u21935",
       "move_dir": "down",
-      "biggest_win": "vs NC State Wolfpack, 34-8 (Wk 1)",
+      "biggest_win": "vs #72 NC State Wolfpack, 34-8 (Wk 1)",
       "biggest_win_game_points": 33.04,
       "biggest_win_detail": {
         "opponent": "NC State Wolfpack",
@@ -684,7 +684,7 @@
         "game_points": 33.04,
         "opp_model_rank": 72,
         "notes": "",
-        "label": "vs NC State Wolfpack, 34-8 (Wk 1)"
+        "label": "vs #72 NC State Wolfpack, 34-8 (Wk 1)"
       }
     }
   ],
@@ -700,7 +700,7 @@
       "move": 0,
       "move_label": "\u2014",
       "move_dir": "same",
-      "biggest_win": "vs San Jos\u00e9 State Spartans, 42-26 (Wk 1)",
+      "biggest_win": "vs #60 San Jos\u00e9 State Spartans, 42-26 (Wk 1)",
       "biggest_win_game_points": 35.03
     },
     {
@@ -714,7 +714,7 @@
       "move": 3,
       "move_label": "\u21913",
       "move_dir": "up",
-      "biggest_win": "@ California Golden Bears, 45-24 (Wk 1)",
+      "biggest_win": "@ #48 California Golden Bears, 45-24 (Wk 1)",
       "biggest_win_game_points": 52.94
     },
     {
@@ -728,7 +728,7 @@
       "move": 10,
       "move_label": "\u219110",
       "move_dir": "up",
-      "biggest_win": "vs Clemson Tigers, 51-10 (Wk 1)",
+      "biggest_win": "vs #65 Clemson Tigers, 51-10 (Wk 1)",
       "biggest_win_game_points": 35.25
     },
     {
@@ -742,7 +742,7 @@
       "move": 28,
       "move_label": "\u219128",
       "move_dir": "up",
-      "biggest_win": "@ Illinois Fighting Illini, 31-27 (Wk 2)",
+      "biggest_win": "@ #47 Illinois Fighting Illini, 31-27 (Wk 2)",
       "biggest_win_game_points": 44.1
     },
     {
@@ -756,7 +756,7 @@
       "move": 9,
       "move_label": "\u21919",
       "move_dir": "up",
-      "biggest_win": "@ Kentucky Wildcats, 45-17 (Wk 2)",
+      "biggest_win": "@ #83 Kentucky Wildcats, 45-17 (Wk 2)",
       "biggest_win_game_points": 42.5
     },
     {
@@ -770,8 +770,8 @@
       "move": 13,
       "move_label": "\u219113",
       "move_dir": "up",
-      "biggest_win": "@ Temple Owls, 27-9 (Wk 2)",
-      "biggest_win_game_points": 37.44
+      "biggest_win": "vs #89 Marshall Thundering Herd, 45-0 (Wk 1)",
+      "biggest_win_game_points": 30.05
     },
     {
       "rank": 7,
@@ -784,7 +784,7 @@
       "move": 27,
       "move_label": "\u219127",
       "move_dir": "up",
-      "biggest_win": "@ Minnesota Golden Gophers, 38-13 (Wk 2)",
+      "biggest_win": "@ #76 Minnesota Golden Gophers, 38-13 (Wk 2)",
       "biggest_win_game_points": 43.54
     },
     {
@@ -798,7 +798,7 @@
       "move": -2,
       "move_label": "\u21932",
       "move_dir": "down",
-      "biggest_win": "vs Wisconsin Badgers (N), 41-13 (Wk 1)",
+      "biggest_win": "vs #79 Wisconsin Badgers (N), 41-13 (Wk 1)",
       "biggest_win_game_points": 36.38
     },
     {
@@ -812,7 +812,7 @@
       "move": 18,
       "move_label": "\u219118",
       "move_dir": "up",
-      "biggest_win": "vs Arizona State Sun Devils, 48-20 (Wk 2)",
+      "biggest_win": "vs #82 Arizona State Sun Devils, 48-20 (Wk 2)",
       "biggest_win_game_points": 31.86
     },
     {
@@ -826,7 +826,7 @@
       "move": 18,
       "move_label": "\u219118",
       "move_dir": "up",
-      "biggest_win": "vs Ohio State Buckeyes, 24-23 (Wk 2)",
+      "biggest_win": "vs #39 Ohio State Buckeyes, 24-23 (Wk 2)",
       "biggest_win_game_points": 35.17
     },
     {
@@ -840,7 +840,7 @@
       "move": 26,
       "move_label": "\u219126",
       "move_dir": "up",
-      "biggest_win": "vs Oklahoma Sooners, 17-10 (Wk 2)",
+      "biggest_win": "vs #51 Oklahoma Sooners, 17-10 (Wk 2)",
       "biggest_win_game_points": 35.05
     },
     {
@@ -854,7 +854,7 @@
       "move": 4,
       "move_label": "\u21914",
       "move_dir": "up",
-      "biggest_win": "vs Baylor Bears (N), 17-16 (Wk 1)",
+      "biggest_win": "vs #71 Baylor Bears (N), 17-16 (Wk 1)",
       "biggest_win_game_points": 29.8
     },
     {
@@ -868,7 +868,7 @@
       "move": 18,
       "move_label": "\u219118",
       "move_dir": "up",
-      "biggest_win": "@ Purdue Boilermakers, 38-36 (Wk 2)",
+      "biggest_win": "@ #70 Purdue Boilermakers, 38-36 (Wk 2)",
       "biggest_win_game_points": 35.45
     },
     {
@@ -882,7 +882,7 @@
       "move": -10,
       "move_label": "\u219310",
       "move_dir": "down",
-      "biggest_win": "@ Stanford Cardinal, 45-6 (Wk 1)",
+      "biggest_win": "@ #68 Stanford Cardinal, 45-6 (Wk 1)",
       "biggest_win_game_points": 45.67
     },
     {
@@ -896,7 +896,7 @@
       "move": 18,
       "move_label": "\u219118",
       "move_dir": "up",
-      "biggest_win": "vs Oklahoma State Cowboys, 24-10 (Wk 1)",
+      "biggest_win": "vs #33 Oklahoma State Cowboys, 24-10 (Wk 1)",
       "biggest_win_game_points": 40.62
     },
     {
@@ -910,7 +910,7 @@
       "move": 32,
       "move_label": "\u219132",
       "move_dir": "up",
-      "biggest_win": "@ UConn Huskies, 38-14 (Wk 2)",
+      "biggest_win": "@ #77 UConn Huskies, 38-14 (Wk 2)",
       "biggest_win_game_points": 43.53
     },
     {
@@ -924,8 +924,8 @@
       "move": 27,
       "move_label": "\u219127",
       "move_dir": "up",
-      "biggest_win": "@ Army Black Knights, 28-24 (Wk 2)",
-      "biggest_win_game_points": 34.49
+      "biggest_win": "vs #78 Florida International Panthers, 19-9 (Wk 1)",
+      "biggest_win_game_points": 28.24
     },
     {
       "rank": 18,
@@ -938,7 +938,7 @@
       "move": -7,
       "move_label": "\u21937",
       "move_dir": "down",
-      "biggest_win": "vs Louisville Cardinals (N), 41-38 (Wk 1)",
+      "biggest_win": "vs #66 Louisville Cardinals (N), 41-38 (Wk 1)",
       "biggest_win_game_points": 31.41
     },
     {
@@ -952,7 +952,7 @@
       "move": 22,
       "move_label": "\u219122",
       "move_dir": "up",
-      "biggest_win": "vs UCF Knights, 12-7 (Wk 2)",
+      "biggest_win": "vs #67 UCF Knights, 12-7 (Wk 2)",
       "biggest_win_game_points": 28.3
     },
     {
@@ -966,7 +966,7 @@
       "move": -8,
       "move_label": "\u21938",
       "move_dir": "down",
-      "biggest_win": "vs North Texas Mean Green, 52-16 (Wk 1)",
+      "biggest_win": "vs #61 North Texas Mean Green, 52-16 (Wk 1)",
       "biggest_win_game_points": 36.91
     },
     {
@@ -980,7 +980,7 @@
       "move": 40,
       "move_label": "\u219140",
       "move_dir": "up",
-      "biggest_win": "@ Kansas Jayhawks, 38-21 (Wk 2)",
+      "biggest_win": "@ #85 Kansas Jayhawks, 38-21 (Wk 2)",
       "biggest_win_game_points": 39.18
     },
     {
@@ -994,7 +994,7 @@
       "move": -14,
       "move_label": "\u219314",
       "move_dir": "down",
-      "biggest_win": "@ Air Force Falcons, 38-32 (Wk 2)",
+      "biggest_win": "@ #91 Air Force Falcons, 38-32 (Wk 2)",
       "biggest_win_game_points": 33.86
     },
     {
@@ -1008,8 +1008,8 @@
       "move": 6,
       "move_label": "\u21916",
       "move_dir": "up",
-      "biggest_win": "vs Eastern Michigan Eagles, 35-7 (Wk 2)",
-      "biggest_win_game_points": 26.34
+      "biggest_win": "vs #93 Toledo Rockets, 30-20 (Wk 1)",
+      "biggest_win_game_points": 26.23
     },
     {
       "rank": 24,
@@ -1022,7 +1022,7 @@
       "move": -21,
       "move_label": "\u219321",
       "move_dir": "down",
-      "biggest_win": "@ Florida State Seminoles, 27-24 (Wk 1)",
+      "biggest_win": "@ #59 Florida State Seminoles, 27-24 (Wk 1)",
       "biggest_win_game_points": 40.27
     },
     {
@@ -1036,7 +1036,7 @@
       "move": -5,
       "move_label": "\u21935",
       "move_dir": "down",
-      "biggest_win": "vs NC State Wolfpack, 34-8 (Wk 1)",
+      "biggest_win": "vs #72 NC State Wolfpack, 34-8 (Wk 1)",
       "biggest_win_game_points": 33.04
     },
     {

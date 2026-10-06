@@ -1,29 +1,29 @@
 rank,team,record,score,ap_rank,prev_rank,move,move_label,biggest_win,biggest_win_game_points,id
-1,USC Trojans,2-0,117.23,19,,,NR,"vs San José State Spartans, 42-26 (Wk 1)",68.24,30
-2,Memphis Tigers,2-0,97.48,,,,NR,"@ UNLV Rebels, 27-21 (Wk 1)",43.56,235
-3,SMU Mustangs,1-0,90.28,24,,,NR,"@ Florida State Seminoles, 27-24 (Wk 1)",43.63,2567
-4,Miami Hurricanes,1-0,81.84,4,,,NR,"@ Stanford Cardinal, 45-6 (Wk 1)",41.41,2390
-5,UCLA Bruins,1-0,71.53,21,,,NR,"@ California Golden Bears, 45-24 (Wk 1)",34.08,26
-6,Notre Dame Fighting Irish,1-0,71.42,3,,,NR,"vs Wisconsin Badgers (N), 41-13 (Wk 1)",31.18,87
-7,San José State Spartans,1-1,70.92,,,,NR,"@ Eastern Michigan Eagles, 27-21 (Wk 1)",41.3,23
-8,North Dakota State Bison,2-0,70.92,,,,NR,"vs Jacksonville State Gamecocks, 33-7 (Wk 1)",27.95,2449
-9,Massachusetts Minutemen,1-0,67.66,,,,NR,"@ Rutgers Scarlet Knights, 37-21 (Wk 1)",34.83,113
-10,Colorado Buffaloes,1-0,66.43,,,,NR,"@ Georgia Tech Yellow Jackets, 14-13 (Wk 1)",30.34,38
-11,Ole Miss Rebels,1-0,66.2,9,,,NR,"vs Louisville Cardinals (N), 41-38 (Wk 1)",26.87,145
-12,Indiana Hoosiers,1-0,66.04,7,,,NR,"vs North Texas Mean Green, 52-16 (Wk 1)",25.62,84
-13,LSU Tigers,1-0,64.76,10,,,NR,"vs Clemson Tigers, 51-10 (Wk 1)",25.42,99
-14,Alabama Crimson Tide,1-0,64.6,6,,,NR,"vs East Carolina Pirates, 48-10 (Wk 1)",25.3,333
-15,Oregon Ducks,1-0,64.5,13,,,NR,"vs Boise State Broncos, 34-27 (Wk 1)",23.37,2483
-16,Auburn Tigers,1-0,64.49,,,,NR,"vs Baylor Bears (N), 17-16 (Wk 1)",26.23,2
-17,Illinois Fighting Illini,1-0,64.24,,,,NR,"vs UAB Blazers, 42-23 (Wk 1)",25.73,356
-18,Iowa Hawkeyes,1-0,64.01,20,,,NR,"vs Northern Illinois Huskies, 40-0 (Wk 1)",25.1,2294
-19,Penn State Nittany Lions,1-0,63.82,,,,NR,"vs Marshall Thundering Herd, 45-0 (Wk 1)",24.68,213
-20,Virginia Cavaliers,1-0,63.81,,,,NR,"vs NC State Wolfpack, 34-8 (Wk 1)",27.23,258
-21,North Carolina Tar Heels,1-0,63.79,,,,NR,"vs TCU Horned Frogs (N), 15-10 (Wk 1)",26.84,153
-22,Cincinnati Bearcats,1-0,63.61,,,,NR,"vs Boston College Eagles, 34-15 (Wk 1)",26.58,2132
-23,Washington Huskies,1-0,63.41,,,,NR,"vs Washington State Cougars, 24-10 (Wk 1)",24.12,264
-24,Ohio State Buckeyes,1-0,63.41,5,,,NR,"vs Ball State Cardinals, 56-3 (Wk 1)",23.08,194
-25,Nebraska Cornhuskers,1-0,63.02,,,,NR,"vs Ohio Bobcats, 49-21 (Wk 1)",24.97,158
+1,USC Trojans,2-0,117.23,19,,,NR,"vs #7 San José State Spartans, 42-26 (Wk 1)",68.24,30
+2,Memphis Tigers,2-0,97.48,,,,NR,"@ #49 UNLV Rebels, 27-21 (Wk 1)",43.56,235
+3,SMU Mustangs,1-0,90.28,24,,,NR,"@ #45 Florida State Seminoles, 27-24 (Wk 1)",43.63,2567
+4,Miami Hurricanes,1-0,81.84,4,,,NR,"@ #90 Stanford Cardinal, 45-6 (Wk 1)",41.41,2390
+5,UCLA Bruins,1-0,71.53,21,,,NR,"@ #115 California Golden Bears, 45-24 (Wk 1)",34.08,26
+6,Notre Dame Fighting Irish,1-0,71.42,3,,,NR,"vs #104 Wisconsin Badgers (N), 41-13 (Wk 1)",31.18,87
+7,San José State Spartans,1-1,70.92,,,,NR,"@ #62 Eastern Michigan Eagles, 27-21 (Wk 1)",41.3,23
+8,North Dakota State Bison,2-0,70.92,,,,NR,"vs #100 Jacksonville State Gamecocks, 33-7 (Wk 1)",27.95,2449
+9,Massachusetts Minutemen,1-0,67.66,,,,NR,"@ #98 Rutgers Scarlet Knights, 37-21 (Wk 1)",34.83,113
+10,Colorado Buffaloes,1-0,66.43,,,,NR,"@ #94 Georgia Tech Yellow Jackets, 14-13 (Wk 1)",30.34,38
+11,Ole Miss Rebels,1-0,66.2,9,,,NR,"vs #92 Louisville Cardinals (N), 41-38 (Wk 1)",26.87,145
+12,Indiana Hoosiers,1-0,66.04,7,,,NR,"vs #119 North Texas Mean Green, 52-16 (Wk 1)",25.62,84
+13,LSU Tigers,1-0,64.76,10,,,NR,"vs #120 Clemson Tigers, 51-10 (Wk 1)",25.42,99
+14,Alabama Crimson Tide,1-0,64.6,6,,,NR,"vs #121 East Carolina Pirates, 48-10 (Wk 1)",25.3,333
+15,Oregon Ducks,1-0,64.5,13,,,NR,"vs #101 Boise State Broncos, 34-27 (Wk 1)",23.37,2483
+16,Auburn Tigers,1-0,64.49,,,,NR,"vs #91 Baylor Bears (N), 17-16 (Wk 1)",26.23,2
+17,Illinois Fighting Illini,1-0,64.24,,,,NR,"vs #112 UAB Blazers, 42-23 (Wk 1)",25.73,356
+18,Iowa Hawkeyes,1-0,64.01,20,,,NR,"vs #122 Northern Illinois Huskies, 40-0 (Wk 1)",25.1,2294
+19,Penn State Nittany Lions,1-0,63.82,,,,NR,"vs #125 Marshall Thundering Herd, 45-0 (Wk 1)",24.68,213
+20,Virginia Cavaliers,1-0,63.81,,,,NR,"vs #110 NC State Wolfpack, 34-8 (Wk 1)",27.23,258
+21,North Carolina Tar Heels,1-0,63.79,,,,NR,"vs #95 TCU Horned Frogs (N), 15-10 (Wk 1)",26.84,153
+22,Cincinnati Bearcats,1-0,63.61,,,,NR,"vs #102 Boston College Eagles, 34-15 (Wk 1)",26.58,2132
+23,Washington Huskies,1-0,63.41,,,,NR,"vs #114 Washington State Cougars, 24-10 (Wk 1)",24.12,264
+24,Ohio State Buckeyes,1-0,63.41,5,,,NR,"vs #134 Ball State Cardinals, 56-3 (Wk 1)",23.08,194
+25,Nebraska Cornhuskers,1-0,63.02,,,,NR,"vs #123 Ohio Bobcats, 49-21 (Wk 1)",24.97,158
 26,Oklahoma Sooners,1-0,62.86,,,,NR,,,201
 27,Texas A&M Aggies,1-0,62.23,,,,NR,,,245
 28,Texas Longhorns,1-0,62.21,1,,,NR,,,251

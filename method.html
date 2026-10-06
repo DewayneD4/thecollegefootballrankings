@@ -162,11 +162,12 @@ way they can pad raw scoring averages.</p>
 <strong>not</strong> the optimization target.</p>
 
 <h2>9. Biggest Win (site display)</h2>
-<p>On the current-season Top 25, <strong>Biggest Win</strong> is the team’s single victory with the
-highest model <em>game_points</em> when all games through the ranking week are re-valued at the
-<strong>final converged</strong> opponent strengths (same formulas as the weekly team sheets:
-opponent factor, margin, location, FCS discount, quality-win bonus, and T25 win boost).
-Ties go to the better-ranked opponent, then the later week. Losses are ignored.</p>
+<p>On the current-season Top 25, <strong>Biggest Win</strong> is the win against the
+<strong>highest-quality opponent</strong> through the ranking week, measured by that opponent’s
+<strong>final converged model rank</strong> on the same board (rank 1 = best). Ties break to the
+higher model <em>game_points</em> for that game, then the later week. This prefers who you beat
+(e.g. Ohio State over a blowout of a weaker FBS foe), not margin. FCS / non-FBS foes sort last.
+Label format: <code>vs #12 Opponent, 24-23 (Wk 2)</code>.</p>
 
 <h2>10. Limitations</h2>
 <ul class="tight">
