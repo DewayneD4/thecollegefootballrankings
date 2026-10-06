@@ -22,7 +22,22 @@
       "prev_rank": 3,
       "move": 2,
       "move_label": "\u21912",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "@ Mississippi State Bulldogs, 56-23 (Wk 5)",
+      "biggest_win_game_points": 89.48,
+      "biggest_win_detail": {
+        "opponent": "Mississippi State Bulldogs",
+        "opp_id": "344",
+        "location": "A",
+        "score": "56-23",
+        "us": 56,
+        "them": 23,
+        "week": 5,
+        "game_points": 89.48,
+        "opp_model_rank": 5,
+        "notes": "road win; quality win; T25 #5 \u00d71.15",
+        "label": "@ Mississippi State Bulldogs, 56-23 (Wk 5)"
+      }
     },
     {
       "rank": 2,
@@ -34,7 +49,22 @@
       "prev_rank": 4,
       "move": 2,
       "move_label": "\u21912",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "vs Wisconsin Badgers (N), 41-13 (Wk 1)",
+      "biggest_win_game_points": 68.08,
+      "biggest_win_detail": {
+        "opponent": "Wisconsin Badgers",
+        "opp_id": "275",
+        "location": "N",
+        "score": "41-13",
+        "us": 41,
+        "them": 13,
+        "week": 1,
+        "game_points": 68.08,
+        "opp_model_rank": 22,
+        "notes": "quality win; T25 #21 \u00d71.04",
+        "label": "vs Wisconsin Badgers (N), 41-13 (Wk 1)"
+      }
     },
     {
       "rank": 3,
@@ -46,7 +76,22 @@
       "prev_rank": 1,
       "move": -2,
       "move_label": "\u21932",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": "@ Tennessee Volunteers, 20-17 (Wk 4)",
+      "biggest_win_game_points": 61.89,
+      "biggest_win_detail": {
+        "opponent": "Tennessee Volunteers",
+        "opp_id": "2633",
+        "location": "A",
+        "score": "20-17",
+        "us": 20,
+        "them": 17,
+        "week": 4,
+        "game_points": 61.89,
+        "opp_model_rank": 19,
+        "notes": "road win; quality win; T25 #22 \u00d71.03",
+        "label": "@ Tennessee Volunteers, 20-17 (Wk 4)"
+      }
     },
     {
       "rank": 4,
@@ -58,7 +103,22 @@
       "prev_rank": 8,
       "move": 4,
       "move_label": "\u21914",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "@ Wake Forest Demon Deacons, 33-20 (Wk 3)",
+      "biggest_win_game_points": 64.71,
+      "biggest_win_detail": {
+        "opponent": "Wake Forest Demon Deacons",
+        "opp_id": "154",
+        "location": "A",
+        "score": "33-20",
+        "us": 33,
+        "them": 20,
+        "week": 3,
+        "game_points": 64.71,
+        "opp_model_rank": 29,
+        "notes": "road win; quality win",
+        "label": "@ Wake Forest Demon Deacons, 33-20 (Wk 3)"
+      }
     },
     {
       "rank": 5,
@@ -70,7 +130,22 @@
       "prev_rank": 5,
       "move": 0,
       "move_label": "\u2014",
-      "move_dir": "same"
+      "move_dir": "same",
+      "biggest_win": "@ Minnesota Golden Gophers, 38-13 (Wk 2)",
+      "biggest_win_game_points": 67.62,
+      "biggest_win_detail": {
+        "opponent": "Minnesota Golden Gophers",
+        "opp_id": "135",
+        "location": "A",
+        "score": "38-13",
+        "us": 38,
+        "them": 13,
+        "week": 2,
+        "game_points": 67.62,
+        "opp_model_rank": 35,
+        "notes": "road win; quality win",
+        "label": "@ Minnesota Golden Gophers, 38-13 (Wk 2)"
+      }
     },
     {
       "rank": 6,
@@ -82,7 +157,22 @@
       "prev_rank": 32,
       "move": 26,
       "move_label": "\u219126",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "vs Florida Gators, 45-17 (Wk 5)",
+      "biggest_win_game_points": 74.69,
+      "biggest_win_detail": {
+        "opponent": "Florida Gators",
+        "opp_id": "57",
+        "location": "H",
+        "score": "45-17",
+        "us": 45,
+        "them": 17,
+        "week": 5,
+        "game_points": 74.69,
+        "opp_model_rank": 9,
+        "notes": "quality win; T25 #9 \u00d71.12",
+        "label": "vs Florida Gators, 45-17 (Wk 5)"
+      }
     },
     {
       "rank": 7,
@@ -94,7 +184,22 @@
       "prev_rank": 9,
       "move": 2,
       "move_label": "\u21912",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "@ Arkansas Razorbacks, 45-17 (Wk 3)",
+      "biggest_win_game_points": 44.72,
+      "biggest_win_detail": {
+        "opponent": "Arkansas Razorbacks",
+        "opp_id": "8",
+        "location": "A",
+        "score": "45-17",
+        "us": 45,
+        "them": 17,
+        "week": 3,
+        "game_points": 44.72,
+        "opp_model_rank": 77,
+        "notes": "road win",
+        "label": "@ Arkansas Razorbacks, 45-17 (Wk 3)"
+      }
     },
     {
       "rank": 8,
@@ -106,7 +211,22 @@
       "prev_rank": 15,
       "move": 7,
       "move_label": "\u21917",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "vs Houston Cougars, 28-26 (Wk 3)",
+      "biggest_win_game_points": 52.55,
+      "biggest_win_detail": {
+        "opponent": "Houston Cougars",
+        "opp_id": "248",
+        "location": "H",
+        "score": "28-26",
+        "us": 28,
+        "them": 26,
+        "week": 3,
+        "game_points": 52.55,
+        "opp_model_rank": 24,
+        "notes": "quality win; T25 #20 \u00d71.05",
+        "label": "vs Houston Cougars, 28-26 (Wk 3)"
+      }
     },
     {
       "rank": 9,
@@ -118,7 +238,22 @@
       "prev_rank": 2,
       "move": -7,
       "move_label": "\u21937",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": "vs Ole Miss Rebels, 52-28 (Wk 4)",
+      "biggest_win_game_points": 61.37,
+      "biggest_win_detail": {
+        "opponent": "Ole Miss Rebels",
+        "opp_id": "145",
+        "location": "H",
+        "score": "52-28",
+        "us": 52,
+        "them": 28,
+        "week": 4,
+        "game_points": 61.37,
+        "opp_model_rank": 21,
+        "notes": "quality win; T25 #24 \u00d71.02",
+        "label": "vs Ole Miss Rebels, 52-28 (Wk 4)"
+      }
     },
     {
       "rank": 10,
@@ -130,7 +265,22 @@
       "prev_rank": 13,
       "move": 3,
       "move_label": "\u21913",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "vs Fresno State Bulldogs, 39-0 (Wk 1)",
+      "biggest_win_game_points": 42.72,
+      "biggest_win_detail": {
+        "opponent": "Fresno State Bulldogs",
+        "opp_id": "278",
+        "location": "H",
+        "score": "39-0",
+        "us": 39,
+        "them": 0,
+        "week": 1,
+        "game_points": 42.72,
+        "opp_model_rank": 42,
+        "notes": "",
+        "label": "vs Fresno State Bulldogs, 39-0 (Wk 1)"
+      }
     },
     {
       "rank": 11,
@@ -142,7 +292,22 @@
       "prev_rank": 16,
       "move": 5,
       "move_label": "\u21915",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "@ Virginia Tech Hokies, 35-33 (Wk 5)",
+      "biggest_win_game_points": 56.52,
+      "biggest_win_detail": {
+        "opponent": "Virginia Tech Hokies",
+        "opp_id": "259",
+        "location": "A",
+        "score": "35-33",
+        "us": 35,
+        "them": 33,
+        "week": 5,
+        "game_points": 56.52,
+        "opp_model_rank": 36,
+        "notes": "road win; quality win",
+        "label": "@ Virginia Tech Hokies, 35-33 (Wk 5)"
+      }
     },
     {
       "rank": 12,
@@ -154,7 +319,22 @@
       "prev_rank": 25,
       "move": 13,
       "move_label": "\u219113",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "@ Iowa Hawkeyes, 31-14 (Wk 5)",
+      "biggest_win_game_points": 64.85,
+      "biggest_win_detail": {
+        "opponent": "Iowa Hawkeyes",
+        "opp_id": "2294",
+        "location": "A",
+        "score": "31-14",
+        "us": 31,
+        "them": 14,
+        "week": 5,
+        "game_points": 64.85,
+        "opp_model_rank": 33,
+        "notes": "road win; quality win",
+        "label": "@ Iowa Hawkeyes, 31-14 (Wk 5)"
+      }
     },
     {
       "rank": 13,
@@ -166,7 +346,22 @@
       "prev_rank": 18,
       "move": 5,
       "move_label": "\u21915",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "vs Northwestern Wildcats, 29-23 (Wk 4)",
+      "biggest_win_game_points": 38.29,
+      "biggest_win_detail": {
+        "opponent": "Northwestern Wildcats",
+        "opp_id": "77",
+        "location": "H",
+        "score": "29-23",
+        "us": 29,
+        "them": 23,
+        "week": 4,
+        "game_points": 38.29,
+        "opp_model_rank": 30,
+        "notes": "",
+        "label": "vs Northwestern Wildcats, 29-23 (Wk 4)"
+      }
     },
     {
       "rank": 14,
@@ -178,7 +373,22 @@
       "prev_rank": 10,
       "move": -4,
       "move_label": "\u21934",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": "@ USC Trojans, 41-27 (Wk 4)",
+      "biggest_win_game_points": 78.54,
+      "biggest_win_detail": {
+        "opponent": "USC Trojans",
+        "opp_id": "30",
+        "location": "A",
+        "score": "41-27",
+        "us": 41,
+        "them": 27,
+        "week": 4,
+        "game_points": 78.54,
+        "opp_model_rank": 10,
+        "notes": "road win; quality win; T25 #10 \u00d71.12",
+        "label": "@ USC Trojans, 41-27 (Wk 4)"
+      }
     },
     {
       "rank": 15,
@@ -190,7 +400,22 @@
       "prev_rank": 7,
       "move": -8,
       "move_label": "\u21938",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": "@ Maryland Terrapins, 54-3 (Wk 4)",
+      "biggest_win_game_points": 43.59,
+      "biggest_win_detail": {
+        "opponent": "Maryland Terrapins",
+        "opp_id": "120",
+        "location": "A",
+        "score": "54-3",
+        "us": 54,
+        "them": 3,
+        "week": 4,
+        "game_points": 43.59,
+        "opp_model_rank": 74,
+        "notes": "road win",
+        "label": "@ Maryland Terrapins, 54-3 (Wk 4)"
+      }
     },
     {
       "rank": 16,
@@ -202,7 +427,22 @@
       "prev_rank": 12,
       "move": -4,
       "move_label": "\u21934",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": "vs Texas A&M Aggies, 35-6 (Wk 4)",
+      "biggest_win_game_points": 44.02,
+      "biggest_win_detail": {
+        "opponent": "Texas A&M Aggies",
+        "opp_id": "245",
+        "location": "H",
+        "score": "35-6",
+        "us": 35,
+        "them": 6,
+        "week": 4,
+        "game_points": 44.02,
+        "opp_model_rank": 40,
+        "notes": "",
+        "label": "vs Texas A&M Aggies, 35-6 (Wk 4)"
+      }
     },
     {
       "rank": 17,
@@ -214,7 +454,22 @@
       "prev_rank": 23,
       "move": 6,
       "move_label": "\u21916",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "@ Michigan State Spartans, 31-13 (Wk 4)",
+      "biggest_win_game_points": 46.7,
+      "biggest_win_detail": {
+        "opponent": "Michigan State Spartans",
+        "opp_id": "127",
+        "location": "A",
+        "score": "31-13",
+        "us": 31,
+        "them": 13,
+        "week": 4,
+        "game_points": 46.7,
+        "opp_model_rank": 51,
+        "notes": "road win",
+        "label": "@ Michigan State Spartans, 31-13 (Wk 4)"
+      }
     },
     {
       "rank": 18,
@@ -226,7 +481,22 @@
       "prev_rank": 26,
       "move": 8,
       "move_label": "\u21918",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "vs Arizona Wildcats, 28-17 (Wk 2)",
+      "biggest_win_game_points": 39.95,
+      "biggest_win_detail": {
+        "opponent": "Arizona Wildcats",
+        "opp_id": "12",
+        "location": "H",
+        "score": "28-17",
+        "us": 28,
+        "them": 17,
+        "week": 2,
+        "game_points": 39.95,
+        "opp_model_rank": 32,
+        "notes": "",
+        "label": "vs Arizona Wildcats, 28-17 (Wk 2)"
+      }
     },
     {
       "rank": 19,
@@ -238,7 +508,22 @@
       "prev_rank": 35,
       "move": 16,
       "move_label": "\u219116",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "vs Auburn Tigers, 24-14 (Wk 5)",
+      "biggest_win_game_points": 41.04,
+      "biggest_win_detail": {
+        "opponent": "Auburn Tigers",
+        "opp_id": "2",
+        "location": "H",
+        "score": "24-14",
+        "us": 24,
+        "them": 14,
+        "week": 5,
+        "game_points": 41.04,
+        "opp_model_rank": 27,
+        "notes": "",
+        "label": "vs Auburn Tigers, 24-14 (Wk 5)"
+      }
     },
     {
       "rank": 20,
@@ -250,7 +535,22 @@
       "prev_rank": 29,
       "move": 9,
       "move_label": "\u21919",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "@ Texas A&M Aggies, 31-21 (Wk 3)",
+      "biggest_win_game_points": 59.44,
+      "biggest_win_detail": {
+        "opponent": "Texas A&M Aggies",
+        "opp_id": "245",
+        "location": "A",
+        "score": "31-21",
+        "us": 31,
+        "them": 21,
+        "week": 3,
+        "game_points": 59.44,
+        "opp_model_rank": 40,
+        "notes": "road win; quality win",
+        "label": "@ Texas A&M Aggies, 31-21 (Wk 3)"
+      }
     },
     {
       "rank": 21,
@@ -262,7 +562,22 @@
       "prev_rank": 11,
       "move": -10,
       "move_label": "\u219310",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": "vs LSU Tigers, 32-24 (Wk 3)",
+      "biggest_win_game_points": 59.92,
+      "biggest_win_detail": {
+        "opponent": "LSU Tigers",
+        "opp_id": "99",
+        "location": "H",
+        "score": "32-24",
+        "us": 32,
+        "them": 24,
+        "week": 3,
+        "game_points": 59.92,
+        "opp_model_rank": 16,
+        "notes": "quality win; T25 #16 \u00d71.07",
+        "label": "vs LSU Tigers, 32-24 (Wk 3)"
+      }
     },
     {
       "rank": 22,
@@ -274,7 +589,22 @@
       "prev_rank": 24,
       "move": 2,
       "move_label": "\u21912",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "@ Penn State Nittany Lions, 24-20 (Wk 4)",
+      "biggest_win_game_points": 55.71,
+      "biggest_win_detail": {
+        "opponent": "Penn State Nittany Lions",
+        "opp_id": "213",
+        "location": "A",
+        "score": "24-20",
+        "us": 24,
+        "them": 20,
+        "week": 4,
+        "game_points": 55.71,
+        "opp_model_rank": 43,
+        "notes": "road win; quality win",
+        "label": "@ Penn State Nittany Lions, 24-20 (Wk 4)"
+      }
     },
     {
       "rank": 23,
@@ -286,7 +616,22 @@
       "prev_rank": 6,
       "move": -17,
       "move_label": "\u219317",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": "vs Oregon Ducks, 39-31 (Wk 2)",
+      "biggest_win_game_points": 60.38,
+      "biggest_win_detail": {
+        "opponent": "Oregon Ducks",
+        "opp_id": "2483",
+        "location": "H",
+        "score": "39-31",
+        "us": 39,
+        "them": 31,
+        "week": 2,
+        "game_points": 60.38,
+        "opp_model_rank": 14,
+        "notes": "quality win; T25 #15 \u00d71.08",
+        "label": "vs Oregon Ducks, 39-31 (Wk 2)"
+      }
     },
     {
       "rank": 24,
@@ -298,7 +643,22 @@
       "prev_rank": 41,
       "move": 17,
       "move_label": "\u219117",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "vs UCF Knights, 27-17 (Wk 5)",
+      "biggest_win_game_points": 36.59,
+      "biggest_win_detail": {
+        "opponent": "UCF Knights",
+        "opp_id": "2116",
+        "location": "H",
+        "score": "27-17",
+        "us": 27,
+        "them": 17,
+        "week": 5,
+        "game_points": 36.59,
+        "opp_model_rank": 41,
+        "notes": "",
+        "label": "vs UCF Knights, 27-17 (Wk 5)"
+      }
     },
     {
       "rank": 25,
@@ -310,7 +670,22 @@
       "prev_rank": 14,
       "move": -11,
       "move_label": "\u219311",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": "@ Iowa State Cyclones, 31-17 (Wk 4)",
+      "biggest_win_game_points": 44.81,
+      "biggest_win_detail": {
+        "opponent": "Iowa State Cyclones",
+        "opp_id": "66",
+        "location": "A",
+        "score": "31-17",
+        "us": 31,
+        "them": 17,
+        "week": 4,
+        "game_points": 44.81,
+        "opp_model_rank": 53,
+        "notes": "road win",
+        "label": "@ Iowa State Cyclones, 31-17 (Wk 4)"
+      }
     }
   ],
   "rankings": [
@@ -324,7 +699,9 @@
       "prev_rank": 3,
       "move": 2,
       "move_label": "\u21912",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "@ Mississippi State Bulldogs, 56-23 (Wk 5)",
+      "biggest_win_game_points": 89.48
     },
     {
       "rank": 2,
@@ -336,7 +713,9 @@
       "prev_rank": 4,
       "move": 2,
       "move_label": "\u21912",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "vs Wisconsin Badgers (N), 41-13 (Wk 1)",
+      "biggest_win_game_points": 68.08
     },
     {
       "rank": 3,
@@ -348,7 +727,9 @@
       "prev_rank": 1,
       "move": -2,
       "move_label": "\u21932",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": "@ Tennessee Volunteers, 20-17 (Wk 4)",
+      "biggest_win_game_points": 61.89
     },
     {
       "rank": 4,
@@ -360,7 +741,9 @@
       "prev_rank": 8,
       "move": 4,
       "move_label": "\u21914",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "@ Wake Forest Demon Deacons, 33-20 (Wk 3)",
+      "biggest_win_game_points": 64.71
     },
     {
       "rank": 5,
@@ -372,7 +755,9 @@
       "prev_rank": 5,
       "move": 0,
       "move_label": "\u2014",
-      "move_dir": "same"
+      "move_dir": "same",
+      "biggest_win": "@ Minnesota Golden Gophers, 38-13 (Wk 2)",
+      "biggest_win_game_points": 67.62
     },
     {
       "rank": 6,
@@ -384,7 +769,9 @@
       "prev_rank": 32,
       "move": 26,
       "move_label": "\u219126",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "vs Florida Gators, 45-17 (Wk 5)",
+      "biggest_win_game_points": 74.69
     },
     {
       "rank": 7,
@@ -396,7 +783,9 @@
       "prev_rank": 9,
       "move": 2,
       "move_label": "\u21912",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "@ Arkansas Razorbacks, 45-17 (Wk 3)",
+      "biggest_win_game_points": 44.72
     },
     {
       "rank": 8,
@@ -408,7 +797,9 @@
       "prev_rank": 15,
       "move": 7,
       "move_label": "\u21917",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "vs Houston Cougars, 28-26 (Wk 3)",
+      "biggest_win_game_points": 52.55
     },
     {
       "rank": 9,
@@ -420,7 +811,9 @@
       "prev_rank": 2,
       "move": -7,
       "move_label": "\u21937",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": "vs Ole Miss Rebels, 52-28 (Wk 4)",
+      "biggest_win_game_points": 61.37
     },
     {
       "rank": 10,
@@ -432,7 +825,9 @@
       "prev_rank": 13,
       "move": 3,
       "move_label": "\u21913",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "vs Fresno State Bulldogs, 39-0 (Wk 1)",
+      "biggest_win_game_points": 42.72
     },
     {
       "rank": 11,
@@ -444,7 +839,9 @@
       "prev_rank": 16,
       "move": 5,
       "move_label": "\u21915",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "@ Virginia Tech Hokies, 35-33 (Wk 5)",
+      "biggest_win_game_points": 56.52
     },
     {
       "rank": 12,
@@ -456,7 +853,9 @@
       "prev_rank": 25,
       "move": 13,
       "move_label": "\u219113",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "@ Iowa Hawkeyes, 31-14 (Wk 5)",
+      "biggest_win_game_points": 64.85
     },
     {
       "rank": 13,
@@ -468,7 +867,9 @@
       "prev_rank": 18,
       "move": 5,
       "move_label": "\u21915",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "vs Northwestern Wildcats, 29-23 (Wk 4)",
+      "biggest_win_game_points": 38.29
     },
     {
       "rank": 14,
@@ -480,7 +881,9 @@
       "prev_rank": 10,
       "move": -4,
       "move_label": "\u21934",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": "@ USC Trojans, 41-27 (Wk 4)",
+      "biggest_win_game_points": 78.54
     },
     {
       "rank": 15,
@@ -492,7 +895,9 @@
       "prev_rank": 7,
       "move": -8,
       "move_label": "\u21938",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": "@ Maryland Terrapins, 54-3 (Wk 4)",
+      "biggest_win_game_points": 43.59
     },
     {
       "rank": 16,
@@ -504,7 +909,9 @@
       "prev_rank": 12,
       "move": -4,
       "move_label": "\u21934",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": "vs Texas A&M Aggies, 35-6 (Wk 4)",
+      "biggest_win_game_points": 44.02
     },
     {
       "rank": 17,
@@ -516,7 +923,9 @@
       "prev_rank": 23,
       "move": 6,
       "move_label": "\u21916",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "@ Michigan State Spartans, 31-13 (Wk 4)",
+      "biggest_win_game_points": 46.7
     },
     {
       "rank": 18,
@@ -528,7 +937,9 @@
       "prev_rank": 26,
       "move": 8,
       "move_label": "\u21918",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "vs Arizona Wildcats, 28-17 (Wk 2)",
+      "biggest_win_game_points": 39.95
     },
     {
       "rank": 19,
@@ -540,7 +951,9 @@
       "prev_rank": 35,
       "move": 16,
       "move_label": "\u219116",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "vs Auburn Tigers, 24-14 (Wk 5)",
+      "biggest_win_game_points": 41.04
     },
     {
       "rank": 20,
@@ -552,7 +965,9 @@
       "prev_rank": 29,
       "move": 9,
       "move_label": "\u21919",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "@ Texas A&M Aggies, 31-21 (Wk 3)",
+      "biggest_win_game_points": 59.44
     },
     {
       "rank": 21,
@@ -564,7 +979,9 @@
       "prev_rank": 11,
       "move": -10,
       "move_label": "\u219310",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": "vs LSU Tigers, 32-24 (Wk 3)",
+      "biggest_win_game_points": 59.92
     },
     {
       "rank": 22,
@@ -576,7 +993,9 @@
       "prev_rank": 24,
       "move": 2,
       "move_label": "\u21912",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "@ Penn State Nittany Lions, 24-20 (Wk 4)",
+      "biggest_win_game_points": 55.71
     },
     {
       "rank": 23,
@@ -588,7 +1007,9 @@
       "prev_rank": 6,
       "move": -17,
       "move_label": "\u219317",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": "vs Oregon Ducks, 39-31 (Wk 2)",
+      "biggest_win_game_points": 60.38
     },
     {
       "rank": 24,
@@ -600,7 +1021,9 @@
       "prev_rank": 41,
       "move": 17,
       "move_label": "\u219117",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": "vs UCF Knights, 27-17 (Wk 5)",
+      "biggest_win_game_points": 36.59
     },
     {
       "rank": 25,
@@ -612,7 +1035,9 @@
       "prev_rank": 14,
       "move": -11,
       "move_label": "\u219311",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": "@ Iowa State Cyclones, 31-17 (Wk 4)",
+      "biggest_win_game_points": 44.81
     },
     {
       "rank": 26,
@@ -624,7 +1049,9 @@
       "prev_rank": 27,
       "move": 1,
       "move_label": "\u21911",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 27,
@@ -636,7 +1063,9 @@
       "prev_rank": 19,
       "move": -8,
       "move_label": "\u21938",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 28,
@@ -648,7 +1077,9 @@
       "prev_rank": 28,
       "move": 0,
       "move_label": "\u2014",
-      "move_dir": "same"
+      "move_dir": "same",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 29,
@@ -660,7 +1091,9 @@
       "prev_rank": 30,
       "move": 1,
       "move_label": "\u21911",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 30,
@@ -672,7 +1105,9 @@
       "prev_rank": 51,
       "move": 21,
       "move_label": "\u219121",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 31,
@@ -684,7 +1119,9 @@
       "prev_rank": 34,
       "move": 3,
       "move_label": "\u21913",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 32,
@@ -696,7 +1133,9 @@
       "prev_rank": 52,
       "move": 20,
       "move_label": "\u219120",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 33,
@@ -708,7 +1147,9 @@
       "prev_rank": 17,
       "move": -16,
       "move_label": "\u219316",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 34,
@@ -720,7 +1161,9 @@
       "prev_rank": 21,
       "move": -13,
       "move_label": "\u219313",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 35,
@@ -732,7 +1175,9 @@
       "prev_rank": 42,
       "move": 7,
       "move_label": "\u21917",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 36,
@@ -744,7 +1189,9 @@
       "prev_rank": 20,
       "move": -16,
       "move_label": "\u219316",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 37,
@@ -756,7 +1203,9 @@
       "prev_rank": 47,
       "move": 10,
       "move_label": "\u219110",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 38,
@@ -768,7 +1217,9 @@
       "prev_rank": 54,
       "move": 16,
       "move_label": "\u219116",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 39,
@@ -780,7 +1231,9 @@
       "prev_rank": 22,
       "move": -17,
       "move_label": "\u219317",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 40,
@@ -792,7 +1245,9 @@
       "prev_rank": 48,
       "move": 8,
       "move_label": "\u21918",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 41,
@@ -804,7 +1259,9 @@
       "prev_rank": 38,
       "move": -3,
       "move_label": "\u21933",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 42,
@@ -816,7 +1273,9 @@
       "prev_rank": 56,
       "move": 14,
       "move_label": "\u219114",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 43,
@@ -828,7 +1287,9 @@
       "prev_rank": 37,
       "move": -6,
       "move_label": "\u21936",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 44,
@@ -840,7 +1301,9 @@
       "prev_rank": 53,
       "move": 9,
       "move_label": "\u21919",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 45,
@@ -852,7 +1315,9 @@
       "prev_rank": 82,
       "move": 37,
       "move_label": "\u219137",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 46,
@@ -864,7 +1329,9 @@
       "prev_rank": 31,
       "move": -15,
       "move_label": "\u219315",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 47,
@@ -876,7 +1343,9 @@
       "prev_rank": 46,
       "move": -1,
       "move_label": "\u21931",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 48,
@@ -888,7 +1357,9 @@
       "prev_rank": 43,
       "move": -5,
       "move_label": "\u21935",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 49,
@@ -900,7 +1371,9 @@
       "prev_rank": 85,
       "move": 36,
       "move_label": "\u219136",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 50,
@@ -912,7 +1385,9 @@
       "prev_rank": 39,
       "move": -11,
       "move_label": "\u219311",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 51,
@@ -924,7 +1399,9 @@
       "prev_rank": 49,
       "move": -2,
       "move_label": "\u21932",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 52,
@@ -936,7 +1413,9 @@
       "prev_rank": 40,
       "move": -12,
       "move_label": "\u219312",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 53,
@@ -948,7 +1427,9 @@
       "prev_rank": 75,
       "move": 22,
       "move_label": "\u219122",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 54,
@@ -960,7 +1441,9 @@
       "prev_rank": 63,
       "move": 9,
       "move_label": "\u21919",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 55,
@@ -972,7 +1455,9 @@
       "prev_rank": 44,
       "move": -11,
       "move_label": "\u219311",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 56,
@@ -984,7 +1469,9 @@
       "prev_rank": 33,
       "move": -23,
       "move_label": "\u219323",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 57,
@@ -996,7 +1483,9 @@
       "prev_rank": 66,
       "move": 9,
       "move_label": "\u21919",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 58,
@@ -1008,7 +1497,9 @@
       "prev_rank": 59,
       "move": 1,
       "move_label": "\u21911",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 59,
@@ -1020,7 +1511,9 @@
       "prev_rank": 61,
       "move": 2,
       "move_label": "\u21912",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 60,
@@ -1032,7 +1525,9 @@
       "prev_rank": 64,
       "move": 4,
       "move_label": "\u21914",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 61,
@@ -1044,7 +1539,9 @@
       "prev_rank": 45,
       "move": -16,
       "move_label": "\u219316",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 62,
@@ -1056,7 +1553,9 @@
       "prev_rank": 67,
       "move": 5,
       "move_label": "\u21915",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 63,
@@ -1068,7 +1567,9 @@
       "prev_rank": 83,
       "move": 20,
       "move_label": "\u219120",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 64,
@@ -1080,7 +1581,9 @@
       "prev_rank": 78,
       "move": 14,
       "move_label": "\u219114",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 65,
@@ -1092,7 +1595,9 @@
       "prev_rank": 36,
       "move": -29,
       "move_label": "\u219329",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 66,
@@ -1104,7 +1609,9 @@
       "prev_rank": 62,
       "move": -4,
       "move_label": "\u21934",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 67,
@@ -1116,7 +1623,9 @@
       "prev_rank": 94,
       "move": 27,
       "move_label": "\u219127",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 68,
@@ -1128,7 +1637,9 @@
       "prev_rank": 57,
       "move": -11,
       "move_label": "\u219311",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 69,
@@ -1140,7 +1651,9 @@
       "prev_rank": 88,
       "move": 19,
       "move_label": "\u219119",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 70,
@@ -1152,7 +1665,9 @@
       "prev_rank": 69,
       "move": -1,
       "move_label": "\u21931",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 71,
@@ -1164,7 +1679,9 @@
       "prev_rank": 81,
       "move": 10,
       "move_label": "\u219110",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 72,
@@ -1176,7 +1693,9 @@
       "prev_rank": 95,
       "move": 23,
       "move_label": "\u219123",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 73,
@@ -1188,7 +1707,9 @@
       "prev_rank": 50,
       "move": -23,
       "move_label": "\u219323",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 74,
@@ -1200,7 +1721,9 @@
       "prev_rank": 58,
       "move": -16,
       "move_label": "\u219316",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 75,
@@ -1212,7 +1735,9 @@
       "prev_rank": 70,
       "move": -5,
       "move_label": "\u21935",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 76,
@@ -1224,7 +1749,9 @@
       "prev_rank": 72,
       "move": -4,
       "move_label": "\u21934",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 77,
@@ -1236,7 +1763,9 @@
       "prev_rank": 55,
       "move": -22,
       "move_label": "\u219322",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 78,
@@ -1248,7 +1777,9 @@
       "prev_rank": 71,
       "move": -7,
       "move_label": "\u21937",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 79,
@@ -1260,7 +1791,9 @@
       "prev_rank": 107,
       "move": 28,
       "move_label": "\u219128",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 80,
@@ -1272,7 +1805,9 @@
       "prev_rank": 60,
       "move": -20,
       "move_label": "\u219320",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 81,
@@ -1284,7 +1819,9 @@
       "prev_rank": 74,
       "move": -7,
       "move_label": "\u21937",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 82,
@@ -1296,7 +1833,9 @@
       "prev_rank": 65,
       "move": -17,
       "move_label": "\u219317",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 83,
@@ -1308,7 +1847,9 @@
       "prev_rank": 68,
       "move": -15,
       "move_label": "\u219315",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 84,
@@ -1320,7 +1861,9 @@
       "prev_rank": 91,
       "move": 7,
       "move_label": "\u21917",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 85,
@@ -1332,7 +1875,9 @@
       "prev_rank": 109,
       "move": 24,
       "move_label": "\u219124",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 86,
@@ -1344,7 +1889,9 @@
       "prev_rank": 101,
       "move": 15,
       "move_label": "\u219115",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 87,
@@ -1356,7 +1903,9 @@
       "prev_rank": 99,
       "move": 12,
       "move_label": "\u219112",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 88,
@@ -1368,7 +1917,9 @@
       "prev_rank": 73,
       "move": -15,
       "move_label": "\u219315",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 89,
@@ -1380,7 +1931,9 @@
       "prev_rank": 76,
       "move": -13,
       "move_label": "\u219313",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 90,
@@ -1392,7 +1945,9 @@
       "prev_rank": 84,
       "move": -6,
       "move_label": "\u21936",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 91,
@@ -1404,7 +1959,9 @@
       "prev_rank": 89,
       "move": -2,
       "move_label": "\u21932",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 92,
@@ -1416,7 +1973,9 @@
       "prev_rank": 121,
       "move": 29,
       "move_label": "\u219129",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 93,
@@ -1428,7 +1987,9 @@
       "prev_rank": 113,
       "move": 20,
       "move_label": "\u219120",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 94,
@@ -1440,7 +2001,9 @@
       "prev_rank": 77,
       "move": -17,
       "move_label": "\u219317",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 95,
@@ -1452,7 +2015,9 @@
       "prev_rank": 102,
       "move": 7,
       "move_label": "\u21917",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 96,
@@ -1464,7 +2029,9 @@
       "prev_rank": 87,
       "move": -9,
       "move_label": "\u21939",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 97,
@@ -1476,7 +2043,9 @@
       "prev_rank": 79,
       "move": -18,
       "move_label": "\u219318",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 98,
@@ -1488,7 +2057,9 @@
       "prev_rank": 80,
       "move": -18,
       "move_label": "\u219318",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 99,
@@ -1500,7 +2071,9 @@
       "prev_rank": 93,
       "move": -6,
       "move_label": "\u21936",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 100,
@@ -1512,7 +2085,9 @@
       "prev_rank": 116,
       "move": 16,
       "move_label": "\u219116",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 101,
@@ -1524,7 +2099,9 @@
       "prev_rank": 100,
       "move": -1,
       "move_label": "\u21931",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 102,
@@ -1536,7 +2113,9 @@
       "prev_rank": 110,
       "move": 8,
       "move_label": "\u21918",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 103,
@@ -1548,7 +2127,9 @@
       "prev_rank": 86,
       "move": -17,
       "move_label": "\u219317",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 104,
@@ -1560,7 +2141,9 @@
       "prev_rank": 97,
       "move": -7,
       "move_label": "\u21937",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 105,
@@ -1572,7 +2155,9 @@
       "prev_rank": 96,
       "move": -9,
       "move_label": "\u21939",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 106,
@@ -1584,7 +2169,9 @@
       "prev_rank": 117,
       "move": 11,
       "move_label": "\u219111",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 107,
@@ -1596,7 +2183,9 @@
       "prev_rank": 104,
       "move": -3,
       "move_label": "\u21933",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 108,
@@ -1608,7 +2197,9 @@
       "prev_rank": 90,
       "move": -18,
       "move_label": "\u219318",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 109,
@@ -1620,7 +2211,9 @@
       "prev_rank": 92,
       "move": -17,
       "move_label": "\u219317",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 110,
@@ -1632,7 +2225,9 @@
       "prev_rank": 103,
       "move": -7,
       "move_label": "\u21937",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 111,
@@ -1644,7 +2239,9 @@
       "prev_rank": 98,
       "move": -13,
       "move_label": "\u219313",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 112,
@@ -1656,7 +2253,9 @@
       "prev_rank": 105,
       "move": -7,
       "move_label": "\u21937",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 113,
@@ -1668,7 +2267,9 @@
       "prev_rank": 108,
       "move": -5,
       "move_label": "\u21935",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 114,
@@ -1680,7 +2281,9 @@
       "prev_rank": 111,
       "move": -3,
       "move_label": "\u21933",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 115,
@@ -1692,7 +2295,9 @@
       "prev_rank": 106,
       "move": -9,
       "move_label": "\u21939",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 116,
@@ -1704,7 +2309,9 @@
       "prev_rank": 114,
       "move": -2,
       "move_label": "\u21932",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 117,
@@ -1716,7 +2323,9 @@
       "prev_rank": 112,
       "move": -5,
       "move_label": "\u21935",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 118,
@@ -1728,7 +2337,9 @@
       "prev_rank": 129,
       "move": 11,
       "move_label": "\u219111",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 119,
@@ -1740,7 +2351,9 @@
       "prev_rank": 115,
       "move": -4,
       "move_label": "\u21934",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 120,
@@ -1752,7 +2365,9 @@
       "prev_rank": 123,
       "move": 3,
       "move_label": "\u21913",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 121,
@@ -1764,7 +2379,9 @@
       "prev_rank": 124,
       "move": 3,
       "move_label": "\u21913",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 122,
@@ -1776,7 +2393,9 @@
       "prev_rank": 128,
       "move": 6,
       "move_label": "\u21916",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 123,
@@ -1788,7 +2407,9 @@
       "prev_rank": 126,
       "move": 3,
       "move_label": "\u21913",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 124,
@@ -1800,7 +2421,9 @@
       "prev_rank": 120,
       "move": -4,
       "move_label": "\u21934",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 125,
@@ -1812,7 +2435,9 @@
       "prev_rank": 122,
       "move": -3,
       "move_label": "\u21933",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 126,
@@ -1824,7 +2449,9 @@
       "prev_rank": 127,
       "move": 1,
       "move_label": "\u21911",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 127,
@@ -1836,7 +2463,9 @@
       "prev_rank": 119,
       "move": -8,
       "move_label": "\u21938",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 128,
@@ -1848,7 +2477,9 @@
       "prev_rank": 118,
       "move": -10,
       "move_label": "\u219310",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 129,
@@ -1860,7 +2491,9 @@
       "prev_rank": 125,
       "move": -4,
       "move_label": "\u21934",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 130,
@@ -1872,7 +2505,9 @@
       "prev_rank": 138,
       "move": 8,
       "move_label": "\u21918",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 131,
@@ -1884,7 +2519,9 @@
       "prev_rank": 130,
       "move": -1,
       "move_label": "\u21931",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 132,
@@ -1896,7 +2533,9 @@
       "prev_rank": 135,
       "move": 3,
       "move_label": "\u21913",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 133,
@@ -1908,7 +2547,9 @@
       "prev_rank": 136,
       "move": 3,
       "move_label": "\u21913",
-      "move_dir": "up"
+      "move_dir": "up",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 134,
@@ -1920,7 +2561,9 @@
       "prev_rank": 133,
       "move": -1,
       "move_label": "\u21931",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 135,
@@ -1932,7 +2575,9 @@
       "prev_rank": 134,
       "move": -1,
       "move_label": "\u21931",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 136,
@@ -1944,7 +2589,9 @@
       "prev_rank": 131,
       "move": -5,
       "move_label": "\u21935",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 137,
@@ -1956,7 +2603,9 @@
       "prev_rank": 132,
       "move": -5,
       "move_label": "\u21935",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     },
     {
       "rank": 138,
@@ -1968,7 +2617,9 @@
       "prev_rank": 137,
       "move": -1,
       "move_label": "\u21931",
-      "move_dir": "down"
+      "move_dir": "down",
+      "biggest_win": null,
+      "biggest_win_game_points": null
     }
   ],
   "disagreements": [

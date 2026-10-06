@@ -154,3 +154,8 @@ footer.site {
 }
 .move-legend { font-size: 0.85rem; color: var(--muted); margin: 0.5rem 0 1rem; }
 .subnav-decade { margin-top: 2.5rem; }
+
+td.bw { font-size: 0.82rem; max-width: 16rem; line-height: 1.3; color: #333; }
+@media (max-width: 900px) {
+  td.bw { max-width: 11rem; }
+}

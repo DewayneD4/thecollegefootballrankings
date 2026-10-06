@@ -161,7 +161,14 @@ way they can pad raw scoring averages.</p>
 <p>Weights were kept modest to reduce single-year overfitting. Early-season agreement was
 <strong>not</strong> the optimization target.</p>
 
-<h2>9. Limitations</h2>
+<h2>9. Biggest Win (site display)</h2>
+<p>On the current-season Top 25, <strong>Biggest Win</strong> is the team’s single victory with the
+highest model <em>game_points</em> when all games through the ranking week are re-valued at the
+<strong>final converged</strong> opponent strengths (same formulas as the weekly team sheets:
+opponent factor, margin, location, FCS discount, quality-win bonus, and T25 win boost).
+Ties go to the better-ranked opponent, then the later week. Losses are ignored.</p>
+
+<h2>10. Limitations</h2>
 <ul class="tight">
   <li><strong>Early season noise</strong> — few games, large prior influence, volatile opponent estimates. Week 1–4 Spearman vs AP can be low or negative even when late-season agreement is strong.</li>
   <li><strong>2020</strong> — pandemic schedules and missing ESPN team-stats; treat midseason metrics with caution.</li>
