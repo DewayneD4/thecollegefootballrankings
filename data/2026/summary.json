@@ -1,11 +1,11 @@
 {
   "season": 2026,
-  "latest_week": 5,
-  "label": "2026 Week 5",
+  "latest_week": 6,
+  "label": "2026 Week 6",
   "ap_week": 6,
-  "n_games": 390,
+  "n_games": 391,
   "overlap_top25": 22,
-  "spearman_ap25": 0.5892307692307692,
+  "spearman_ap25": 0.5792307692307693,
   "model_1": "Alabama Crimson Tide",
   "ap_1": "Texas",
   "weeks": [
@@ -69,7 +69,17 @@
       "ap_1": "Texas",
       "ap_week": 6,
       "n_games": 390
+    },
+    {
+      "week": 6,
+      "label": "2026 Week 6",
+      "overlap_top25": 22,
+      "spearman_ap25": 0.5792307692307693,
+      "model_1": "Alabama Crimson Tide",
+      "ap_1": "Texas",
+      "ap_week": 6,
+      "n_games": 391
     }
   ],
-  "updated": "2026-10-06"
+  "updated": "2026-10-07"
 }

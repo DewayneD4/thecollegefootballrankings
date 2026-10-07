@@ -1,26 +1,26 @@
 rank,team,record,score,ap_rank,prev_rank,move,move_label,biggest_win,biggest_win_game_points,id
-1,Alabama Crimson Tide,5-0,99.38,6,3,2,↑2,"@ #5 Mississippi State Bulldogs, 56-23 (Wk 5)",89.48,333
-2,Notre Dame Fighting Irish,5-0,87.32,3,4,2,↑2,"vs #22 Wisconsin Badgers (N), 41-13 (Wk 1)",68.55,87
-3,Texas Longhorns,4-0,85.93,1,1,-2,↓2,"vs #12 Ohio State Buckeyes, 24-23 (Wk 2)",58.71,251
-4,Miami Hurricanes,5-0,80.63,4,8,4,↑4,"@ #29 Wake Forest Demon Deacons, 33-20 (Wk 3)",64.69,2390
-5,Mississippi State Bulldogs,4-1,80.31,17,5,0,—,"vs #6 Missouri Tigers, 31-24 (Wk 4)",65.79,344
-6,Missouri Tigers,4-1,77.53,14,32,26,↑26,"vs #9 Florida Gators, 45-17 (Wk 5)",74.65,142
-7,Georgia Bulldogs,5-0,76.29,2,9,2,↑2,"vs #47 Oklahoma Sooners, 41-13 (Wk 4)",39.97,61
-8,Texas Tech Red Raiders,5-0,75.77,11,15,7,↑7,"vs #24 Houston Cougars, 28-26 (Wk 3)",52.16,2641
-9,Florida Gators,4-1,73.91,16,2,-7,↓7,"vs #21 Ole Miss Rebels, 52-28 (Wk 4)",60.89,57
-10,USC Trojans,5-1,73.72,19,13,3,↑3,"vs #42 Fresno State Bulldogs, 39-0 (Wk 1)",42.72,30
-11,Pittsburgh Panthers,5-0,73.61,25,16,5,↑5,"@ #36 Virginia Tech Hokies, 35-33 (Wk 5)",56.52,221
-12,Ohio State Buckeyes,4-1,72.72,5,25,13,↑13,"@ #33 Iowa Hawkeyes, 31-14 (Wk 5)",64.85,194
-13,Indiana Hoosiers,5-0,72.54,7,18,5,↑5,"vs #30 Northwestern Wildcats, 29-23 (Wk 4)",38.29,84
-14,Oregon Ducks,3-1,72.18,13,10,-4,↓4,"@ #10 USC Trojans, 41-27 (Wk 4)",78.54,2483
-15,UCLA Bruins,4-0,71.02,21,7,-8,↓8,"@ #74 Maryland Terrapins, 54-3 (Wk 4)",43.59,26
-16,LSU Tigers,4-1,69.88,10,12,-4,↓4,"vs #40 Texas A&M Aggies, 35-6 (Wk 4)",44.02,99
-17,Nebraska Cornhuskers,5-0,69.43,,23,6,↑6,"@ #51 Michigan State Spartans, 31-13 (Wk 4)",46.7,158
-18,BYU Cougars,4-0,68.61,8,26,8,↑8,"vs #32 Arizona Wildcats, 28-17 (Wk 2)",39.95,252
-19,Tennessee Volunteers,4-1,68.12,15,34,15,↑15,"vs #27 Auburn Tigers, 24-14 (Wk 5)",41.05,2633
-20,Kentucky Wildcats,4-1,67.84,,29,9,↑9,"@ #40 Texas A&M Aggies, 31-21 (Wk 3)",59.44,96
-21,Ole Miss Rebels,3-1,66.96,9,11,-10,↓10,"vs #16 LSU Tigers, 32-24 (Wk 3)",59.9,145
-22,Wisconsin Badgers,4-1,66.71,,24,2,↑2,"@ #43 Penn State Nittany Lions, 24-20 (Wk 4)",55.73,275
-23,Oklahoma State Cowboys,3-1,66.63,18,6,-17,↓17,"vs #14 Oregon Ducks, 39-31 (Wk 2)",60.37,197
-24,Houston Cougars,4-1,66.18,22,41,17,↑17,"vs #41 UCF Knights, 27-17 (Wk 5)",36.59,248
-25,Utah Utes,4-0,65.74,12,14,-11,↓11,"@ #53 Iowa State Cyclones, 31-17 (Wk 4)",44.81,254
+1,Alabama Crimson Tide,5-0,99.38,6,1,0,—,"@ #4 Mississippi State Bulldogs, 56-23 (Wk 5)",89.54,333
+2,Notre Dame Fighting Irish,5-0,87.16,3,2,0,—,"vs #22 Wisconsin Badgers (N), 41-13 (Wk 1)",68.54,87
+3,Texas Longhorns,4-0,85.8,1,3,0,—,"vs #12 Ohio State Buckeyes, 24-23 (Wk 2)",58.64,251
+4,Mississippi State Bulldogs,4-1,80.6,17,5,1,↑1,"vs #6 Missouri Tigers, 31-24 (Wk 4)",66.48,344
+5,Miami Hurricanes,5-0,80.54,4,4,-1,↓1,"@ #29 Wake Forest Demon Deacons, 33-20 (Wk 3)",64.7,2390
+6,Missouri Tigers,4-1,77.87,14,6,0,—,"vs #9 Florida Gators, 45-17 (Wk 5)",74.64,142
+7,Georgia Bulldogs,5-0,76.17,2,7,0,—,"vs #47 Oklahoma Sooners, 41-13 (Wk 4)",39.89,61
+8,Texas Tech Red Raiders,5-0,75.76,11,8,0,—,"vs #24 Houston Cougars, 28-26 (Wk 3)",52.17,2641
+9,Florida Gators,4-1,73.96,16,9,0,—,"vs #21 Ole Miss Rebels, 52-28 (Wk 4)",60.82,57
+10,USC Trojans,5-1,73.68,19,10,0,—,"vs #42 Fresno State Bulldogs, 39-0 (Wk 1)",42.74,30
+11,Pittsburgh Panthers,5-0,73.6,25,11,0,—,"@ #36 Virginia Tech Hokies, 35-33 (Wk 5)",56.51,221
+12,Ohio State Buckeyes,4-1,72.57,5,12,0,—,"@ #33 Iowa Hawkeyes, 31-14 (Wk 5)",64.82,194
+13,Indiana Hoosiers,5-0,72.44,7,13,0,—,"vs #30 Northwestern Wildcats, 29-23 (Wk 4)",38.29,84
+14,Oregon Ducks,3-1,72.13,13,14,0,—,"@ #10 USC Trojans, 41-27 (Wk 4)",78.52,2483
+15,UCLA Bruins,4-0,71.02,21,15,0,—,"@ #74 Maryland Terrapins, 54-3 (Wk 4)",43.47,26
+16,LSU Tigers,4-1,69.81,10,16,0,—,"vs #40 Texas A&M Aggies, 35-6 (Wk 4)",43.95,99
+17,Nebraska Cornhuskers,5-0,69.42,,17,0,—,"@ #51 Michigan State Spartans, 31-13 (Wk 4)",46.7,158
+18,BYU Cougars,4-0,68.59,8,18,0,—,"vs #32 Arizona Wildcats, 28-17 (Wk 2)",39.96,252
+19,Tennessee Volunteers,4-1,67.94,15,19,0,—,"vs #27 Auburn Tigers, 24-14 (Wk 5)",40.82,2633
+20,Kentucky Wildcats,4-1,67.82,,20,0,—,"@ #40 Texas A&M Aggies, 31-21 (Wk 3)",59.38,96
+21,Ole Miss Rebels,3-1,66.89,9,21,0,—,"vs #16 LSU Tigers, 32-24 (Wk 3)",59.85,145
+22,Wisconsin Badgers,4-1,66.69,,22,0,—,"@ #43 Penn State Nittany Lions, 24-20 (Wk 4)",55.69,275
+23,Oklahoma State Cowboys,3-1,66.68,18,23,0,—,"vs #14 Oregon Ducks, 39-31 (Wk 2)",60.32,197
+24,Houston Cougars,4-1,66.19,22,24,0,—,"vs #41 UCF Knights, 27-17 (Wk 5)",36.6,248
+25,Utah Utes,4-0,65.83,12,25,0,—,"@ #53 Iowa State Cyclones, 31-17 (Wk 4)",44.82,254

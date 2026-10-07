@@ -4,10 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Method · Defoor Ratings</title>
-  <link rel="icon" href="/favicon.ico" sizes="any">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
-  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <meta name="description" content="Defoor Ratings — algorithmic FBS college football rankings with Model vs AP side-by-side boards. thecollegefootballrankings.com" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
@@ -24,20 +21,13 @@
 
 <main class="wrap">
 
-<h1>How Defoor Ratings works</h1>
-
-<div class="ok-note">
-<strong>Current rules:</strong> Preseason board = AFCA Coaches Poll Top 25
-(opening Coaches poll if ESPN preseason unavailable). After Week 1, Defoor Ratings runs in full with the Coaches poll as a prior.
-Biggest Win (2026) = highest-quality opponent (best Defoor Ratings rank). Weights = late-tuned config.
-</div>
-
-<p class="lede">An in-depth, code-faithful description of <strong>Defoor Ratings</strong>: iterative
+<h1>How the ranking algorithm works</h1>
+<p class="lede">An in-depth, code-faithful description of the FBS ranking system: iterative
 game points, opponent-adjusted offense/defense, schedule strength, and how weekly
 revaluation works. Weights below match the current late-season-tuned <code>config.yaml</code>.</p>
 
 <h2>1. Motivation and design goals</h2>
-<p>Human polls (AP, Coaches) blend résumé, eye test, and narrative. Defoor Ratings aims to be
+<p>Human polls (AP, Coaches) blend résumé, eye test, and narrative. This model aims to be
 <strong>comparable to those polls late in the season</strong> while remaining fully
 algorithmic and reproducible. Design priorities:</p>
 <ul class="tight">
@@ -54,14 +44,14 @@ algorithmic and reproducible. Design priorities:</p>
   <li>FBS team list and conference membership</li>
   <li>Weekly scoreboards (regular season + postseason bowls / playoff)</li>
   <li>Team season statistics (points, yards, etc.) when the endpoint exists</li>
-  <li>AP Top 25 (and Coaches when available) for comparison — not used as inputs to Defoor Ratings except the <em>preseason</em> AP prior</li>
+  <li>AP Top 25 (and Coaches when available) for comparison — not used as model inputs except the <em>preseason</em> AP prior</li>
 </ul>
 <p>No CollegeFootballData API key is required. If ESPN lacks team-stats for a season/team
-(notably parts of <strong>2020</strong>), Defoor Ratings falls back to empty YPP metrics and
+(notably parts of <strong>2020</strong>), the model falls back to empty YPP metrics and
 game-derived scoring averages.</p>
 
 <h2>3. Weekly snapshot and retroactive revaluation</h2>
-<p>For any week <em>W</em>, Defoor Ratings uses <strong>only games completed through week W</strong>
+<p>For any week <em>W</em>, the model uses <strong>only games completed through week W</strong>
 (plus postseason games for the final ranking). It then runs an iterative fixed-point
 procedure: opponent strengths are re-estimated until ratings stabilize. That means a Week 3
 win over a team that later proves elite is re-valued upward as the season progresses — the
@@ -95,7 +85,7 @@ opp_factor(r_opp) = 0.45 + 1.1 · σ( opp_strength_scale · r_opp )<br>
   <li><strong>Home / away</strong> — small location bumps on the multiplier; home advantage also shifts the opponent’s perceived rating by home_adv/10 (home_adv = 2.5).</li>
   <li><strong>FCS</strong> — wins vs FCS × 0.15; losses vs FCS × 1.85.</li>
   <li><strong>Quality win bonus</strong> — extra points when beating an FBS foe at/above the 75% rating percentile (bonus base 10.0).</li>
-  <li><strong>T25 win boost (wins only)</strong> — if the opponent’s <em>current Defoor Ratings rank</em> is in the top 25, multiply <em>win</em> points by a linear factor from 1+0.18 at #1 down to 1+0.01 at #25. Losses are never scaled up by this factor.</li>
+  <li><strong>T25 win boost (wins only)</strong> — if the opponent’s <em>current model rank</em> is in the top 25, multiply <em>win</em> points by a linear factor from 1+0.18 at #1 down to 1+0.01 at #25. Losses are never scaled up by this factor.</li>
   <li><strong>Quality-loss discount</strong> — when losing to a Top-25 or top-quartile foe, multiply the (negative) loss points by 0.7 so tough losses hurt less than ugly losses.</li>
 </ul>
 
@@ -160,7 +150,8 @@ way they can pad raw scoring averages.</p>
 <ol>
   <li><strong>Levers 1–4</strong> — raised SOS/conference role, stronger preseason prior through midseason,
     softened quality losses, tightened FCS cupcake wins. Snapshot: <code>config_before_levers_1_4.yaml</code>.</li>
-  <li><strong>Late-season tune (2016–2025)</strong> — optimized final and end-of-regular-season agreement with the AP (Spearman rank correlation and shared Top 25 membership), trained on 2016–19 and 2021–23 with 2024–25 held out, while protecting a high final #1 match rate.
+  <li><strong>Late-season tune (2016–2025)</strong> — optimized final + end-regular AP Spearman/overlap
+    (train 2016–19 + 2021–23; holdout 2024–25), protecting a high final #1 match rate.
     Snapshot before: <code>config_before_late_tune.yaml</code>. Details in
     <code>output/decade/late_tune_results.md</code>.</li>
 </ol>
@@ -169,24 +160,24 @@ way they can pad raw scoring averages.</p>
 
 <h2>9. Preseason = Coaches Poll</h2>
 <p>The <strong>preseason</strong> board sets ranks 1–25 equal to the <strong>AFCA Coaches Poll</strong>.
-After Week 1 games, Defoor Ratings runs in full with the Coaches poll as a decaying prior. Post–Week-1 boards are not forced to any poll.</p>
+After Week 1 games, the full model runs with Coaches as a decaying prior. Post–Week-1 boards are not forced to any poll.</p>
 
 <h2>10. Biggest Win (current season)</h2>
 <p>On the 2026 Top 25, <strong>Biggest Win</strong> is the win vs the highest-quality opponent
-(best/lowest converged Defoor Ratings rank that week). Ties → higher game_points, then later week.</p>
+(best/lowest converged model rank that week). Ties → higher game_points, then later week.</p>
 
 <h2>11. Limitations</h2>
 <ul class="tight">
   <li><strong>Early season noise</strong> — few games, large prior influence, volatile opponent estimates. Week 1–4 Spearman vs AP can be low or negative even when late-season agreement is strong.</li>
   <li><strong>2020</strong> — pandemic schedules and missing ESPN team-stats; treat midseason metrics with caution.</li>
-  <li><strong>Poll ≠ Defoor Ratings</strong> — AP voters weigh narrative, “looked good,” and conference reputation. Systematic disagreements (Defoor Ratings higher on tough-schedule teams, lower on soft undefeateds) are expected, not bugs.</li>
+  <li><strong>Poll ≠ algorithm</strong> — AP voters weigh narrative, “looked good,” and conference reputation. Systematic disagreements (model higher on tough-schedule teams, lower on soft undefeateds) are expected, not bugs.</li>
   <li><strong>No injury / market / advanced tracking inputs</strong> — only box scores, standings-derived averages, and preseason AP.</li>
   <li><strong>FCS and G5/P4</strong> — handled via multipliers and SOS, not a separate power-conference prior.</li>
 </ul>
 
 <footer class="site">
-  <p>Defoor Ratings — iterative opponent-adjusted FBS rankings compared with the Associated Press Top 25.
-  Data via ESPN public APIs. Generated 2026-10-06. Not affiliated with the AP or ESPN.</p>
+  <p><strong>Defoor Ratings</strong> — FBS iterative opponent-adjusted model with Associated Press Top 25 columns for reference.
+  Data via ESPN public APIs. Generated 2026-10-07. Not affiliated with the AP or ESPN.</p>
 </footer>
 </main>
 </body>
