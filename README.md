@@ -1,8 +1,8 @@
 # The College Football Rankings — static site
 
-Home (`index.html`) shows **current 2026** model Top 25.
+Home (`index.html`) shows the current **2026 Defoor Ratings** Top 25.
 
-Nav brand: **2026 CFB Rankings**.
+Nav brand: **Defoor Ratings**.
 
 ## Deploy
 
@@ -18,14 +18,14 @@ cd /workspace/cfb-rankings
 
 # CFB Rankings — static site
 
-Publish-ready HTML for the FBS ranking model and 2016–2025 week-by-week AP comparisons.
+Publish-ready HTML for Defoor Ratings and 2016–2025 week-by-week AP comparisons.
 
 ## Contents
 
 - `index.html` — overview and decade headline metrics
-- `method.html` — in-depth algorithm documentation
+- `method.html` — how Defoor Ratings works
 - `comparisons.html` — index of seasons
-- `seasons/YYYY.html` — full weekly Model vs AP for that year
+- `seasons/YYYY.html` — full weekly Defoor Ratings vs AP for that year
 - `data/` — JSON/CSV exports (per week + summaries)
 - `styles.css` — shared styles
 
@@ -57,7 +57,7 @@ python3 -m http.server 8080
 From the project root (`/workspace/cfb-rankings`):
 
 ```bash
-.venv/bin/python export_weekly_full.py   # full weekly Model vs AP → output/decade/weekly_full/
+.venv/bin/python export_weekly_full.py   # full weekly Defoor Ratings vs AP → output/decade/weekly_full/
 .venv/bin/python build_site.py           # rebuild site/ from exports + config.yaml
 ```
 
