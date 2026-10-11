@@ -118,23 +118,42 @@ od_sos_weight = 0.22
 the z-score of schedule-adjusted defensive values. Soft schedules cannot pad O/D ranks the
 way they can pad raw scoring averages.</p>
 
-<h2>6. Strength of schedule, record, H2H, preseason</h2>
+<h2>6. Strength of schedule, record, head-to-head, preseason</h2>
 <ul class="tight">
   <li><strong>SOS</strong> — mean of opponents’ ratings faced, blended with conference-mean rating:
     (1 − α)·opp_mean + α·conf_mean, α = conference_blend = <strong>0.45</strong>.
     SOS block weight in final blend: <strong>0.17</strong>.</li>
   <li><strong>Record blend</strong> — z-score of 1.0·W + (-0.9)·L, weight <strong>0.07</strong>.</li>
-  <li><strong>Head-to-head</strong> — after ratings converge, if two FBS teams are within
-    10.0 score points and have played, the winner gets a small bump
-    (3.0).</li>
-  <li><strong>Preseason prior</strong> — preseason AP ranks seed a decaying prior:
+  <li><strong>Head-to-head</strong> — if two FBS teams played each other, the winner has no more losses
+    than the loser, and their scores are within 10.0 points, the winner is ranked
+    directly above the loser (winner up to +3.0, loser up to −1.5,
+    larger when closer). Circular results (A beat B, B beat C, C beat A) are ignored.</li>
+  <li><strong>Preseason prior</strong> — preseason Coaches Poll ranks seed a decaying prior:
     decay = max(0, 1 − week / 12), scaled by weight 14.0
     (relative to a baseline of 12). Material early; near zero late.</li>
 </ul>
 
+<h2>6b. Bounty system</h2>
+<p>Every team carries a <strong>bounty</strong> that grows with each consecutive win:
+the 1st win in a streak adds 0.5 bounty points, each further win
+0.1 more (capped at 1.0 per win; wins over FCS teams count
+0.25×). The bounty counts toward the team's score while it keeps winning.</p>
+<ul class="tight">
+  <li><strong>Collecting a bounty</strong> — beat an <em>undefeated</em> team and you collect its whole
+    bounty as a permanent bonus. The beaten team loses its bounty and its streak resets.</li>
+  <li><strong>Rank bonus / penalty</strong> — when the loser already had a loss, the winner gets up to
+    3.0 points (more for beating a better-ranked team) and the loser loses up to
+    4.5 points (more for losing to a worse-ranked team). Unbeaten winners get this
+    bonus too. Ranks are the model's ranks before that game (previous week; preseason Coaches Poll for
+    Week 1); teams outside the top 50 and FCS teams count as unranked.</li>
+  <li>Any loss wipes a team's carried bounty. Losing to an FCS team costs the full penalty.</li>
+  <li>All bounty points are multiplied by 0.5 before being added to the score;
+    head-to-head ordering is applied afterwards.</li>
+</ul>
+
 <h2>7. Final score blend (current weights)</h2>
 <p>Component z-scores are blended into a rating, then mapped to a display score
-≈ 50 + 15·z(rating) (+ H2H):</p>
+≈ 50 + 15·z(rating), plus bounty points and head-to-head:</p>
 <table>
   <thead><tr><th>Block</th><th class="num">Weight</th><th>Notes</th></tr></thead>
   <tbody>
@@ -177,7 +196,7 @@ After Week 1 games, the full model runs with Coaches as a decaying prior. Post�
 
 <footer class="site">
   <p><strong>Defoor Ratings</strong> — FBS iterative opponent-adjusted model with Associated Press Top 25 columns for reference.
-  Data via ESPN public APIs. Generated 2026-10-07. Not affiliated with the AP or ESPN.</p>
+  Data via ESPN public APIs. Generated 2026-10-11. Not affiliated with the AP or ESPN.</p>
 </footer>
 </main>
 </body>
