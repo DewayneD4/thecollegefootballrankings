@@ -1,139 +1,139 @@
 rank,team,record,score,ap_rank,prev_rank,move,move_label,biggest_win,biggest_win_game_points,id
-1,USC Trojans,2-0,117.9,19,14,13,↑13,"vs #7 San José State Spartans, 42-26 (Wk 1)",68.24,30
-2,Memphis Tigers,2-0,97.99,,70,68,↑68,"@ #48 UNLV Rebels, 27-21 (Wk 1)",43.5,235
-3,SMU Mustangs,1-0,90.64,24,20,17,↑17,"@ #46 Florida State Seminoles, 27-24 (Wk 1)",43.52,2567
-4,Miami Hurricanes,1-0,82.38,3,7,3,↑3,"@ #90 Stanford Cardinal, 45-6 (Wk 1)",41.38,2390
-5,Notre Dame Fighting Irish,1-0,71.79,2,5,0,—,"vs #105 Wisconsin Badgers (N), 41-13 (Wk 1)",31.2,87
-6,UCLA Bruins,1-0,71.67,12,43,37,↑37,"@ #115 California Golden Bears, 45-24 (Wk 1)",34.08,26
-7,San José State Spartans,1-1,71.42,,117,110,↑110,"@ #62 Eastern Michigan Eagles, 27-21 (Wk 1)",41.3,23
-8,North Dakota State Bison,2-0,71.19,,122,114,↑114,"vs #100 Jacksonville State Gamecocks, 33-7 (Wk 1)",27.91,2449
-9,Massachusetts Minutemen,1-0,67.85,,97,88,↑88,"@ #98 Rutgers Scarlet Knights, 37-21 (Wk 1)",34.83,113
-10,Colorado Buffaloes,1-0,66.77,,45,35,↑35,"@ #94 Georgia Tech Yellow Jackets, 14-13 (Wk 1)",30.4,38
-11,Indiana Hoosiers,1-0,66.38,5,6,-5,↓5,"vs #119 North Texas Mean Green, 52-16 (Wk 1)",25.66,84
-12,Ole Miss Rebels,1-0,66.27,9,10,-2,↓2,"vs #92 Louisville Cardinals (N), 41-38 (Wk 1)",26.73,145
-13,LSU Tigers,1-0,65.08,22,13,0,—,"vs #120 Clemson Tigers, 51-10 (Wk 1)",25.6,99
-14,Alabama Crimson Tide,1-0,64.94,6,11,-3,↓3,"vs #121 East Carolina Pirates, 48-10 (Wk 1)",25.29,333
-15,Auburn Tigers,1-0,64.78,,29,14,↑14,"vs #91 Baylor Bears (N), 17-16 (Wk 1)",26.24,2
-16,Oregon Ducks,1-0,64.64,,2,-14,↓14,"vs #101 Boise State Broncos, 34-27 (Wk 1)",23.38,2483
-17,Illinois Fighting Illini,1-0,64.46,,40,23,↑23,"vs #111 UAB Blazers, 42-23 (Wk 1)",25.7,356
-18,Iowa Hawkeyes,1-0,64.45,17,22,4,↑4,"vs #122 Northern Illinois Huskies, 40-0 (Wk 1)",25.13,2294
-19,Penn State Nittany Lions,1-0,64.19,,17,-2,↓2,"vs #125 Marshall Thundering Herd, 45-0 (Wk 1)",24.71,213
-20,North Carolina Tar Heels,1-0,64.02,,57,37,↑37,"vs #95 TCU Horned Frogs (N), 15-10 (Wk 1)",26.85,153
-21,Virginia Cavaliers,1-0,64.0,,64,43,↑43,"vs #110 NC State Wolfpack, 34-8 (Wk 1)",27.16,258
-22,Cincinnati Bearcats,1-0,63.9,,54,32,↑32,"vs #103 Boston College Eagles, 34-15 (Wk 1)",26.58,2132
-23,Ohio State Buckeyes,1-0,63.63,4,1,-22,↓22,"vs #133 Ball State Cardinals, 56-3 (Wk 1)",23.06,194
-24,Washington Huskies,1-0,63.36,,19,-5,↓5,"vs #114 Washington State Cougars, 24-10 (Wk 1)",24.07,264
-25,Nebraska Cornhuskers,1-0,63.18,,36,11,↑11,"vs #123 Ohio Bobcats, 49-21 (Wk 1)",24.98,158
-26,Oklahoma Sooners,1-0,63.12,,9,-17,↓17,,,201
-27,Texas Longhorns,1-0,62.61,7,4,-23,↓23,,,251
-28,Michigan State Spartans,1-0,62.44,,34,6,↑6,,,127
-29,Texas A&M Aggies,1-0,62.4,,8,-21,↓21,,,245
-30,Houston Cougars,1-0,62.3,20,24,-6,↓6,,,248
-31,Wake Forest Demon Deacons,1-0,62.27,21,59,28,↑28,,,154
-32,Tulsa Golden Hurricane,1-0,61.9,,76,44,↑44,,,202
-33,Mississippi State Bulldogs,1-0,61.85,16,32,-1,↓1,,,344
-34,Duke Blue Devils,1-0,61.83,,60,26,↑26,,,150
-35,West Virginia Mountaineers,1-0,61.6,,46,11,↑11,,,277
-36,Florida Gators,1-0,61.54,,31,-5,↓5,,,57
-37,Michigan Wolverines,1-0,61.43,,16,-21,↓21,,,130
-38,New Mexico Lobos,1-0,60.69,,121,83,↑83,,,167
-39,Colorado State Rams,1-0,60.61,,109,70,↑70,,,36
-40,South Carolina Gamecocks,1-0,60.42,,30,-10,↓10,,,2579
-41,Nevada Wolf Pack,1-0,60.34,,116,75,↑75,,,2440
-42,Pittsburgh Panthers,1-0,60.24,,65,23,↑23,,,221
-43,James Madison Dukes,1-0,59.6,,125,82,↑82,,,256
-44,South Florida Bulls,1-0,59.23,,72,28,↑28,,,58
-45,Troy Trojans,1-0,57.23,,135,90,↑90,,,2653
-46,Florida State Seminoles,1-1,56.95,,68,22,↑22,,,52
-47,Georgia Bulldogs,1-0,56.53,1,3,-44,↓44,,,61
-48,UNLV Rebels,1-1,54.87,,119,71,↑71,,,2439
-49,Maryland Terrapins,1-0,54.68,,38,-11,↓11,,,120
-50,Virginia Tech Hokies,1-0,53.96,,58,8,↑8,,,259
-51,UConn Huskies,1-0,53.91,,26,-25,↓25,,,41
-52,BYU Cougars,1-0,53.73,8,15,-37,↓37,,,252
-53,Kansas State Wildcats,1-0,53.72,,51,-2,↓2,,,2306
-54,Minnesota Golden Gophers,1-0,53.57,,37,-17,↓17,,,135
-55,Tennessee Volunteers,1-0,53.42,14,18,-37,↓37,,,2633
-56,UCF Knights,1-0,53.33,,47,-9,↓9,,,2116
-57,Syracuse Orange,1-0,53.11,,62,5,↑5,,,183
-58,Arizona State Sun Devils,1-0,53.1,,50,-8,↓8,,,9
-59,Louisiana Tech Bulldogs,1-0,52.98,,134,75,↑75,,,2348
-60,Utah Utes,1-0,52.78,11,21,-39,↓39,,,254
-61,Missouri Tigers,1-0,52.34,13,25,-36,↓36,,,142
-62,Eastern Michigan Eagles,1-1,51.62,,98,36,↑36,,,2199
-63,Kansas Jayhawks,1-0,51.61,,53,-10,↓10,,,2305
-64,Army Black Knights,1-0,51.57,,78,14,↑14,,,349
-65,Kentucky Wildcats,1-0,51.32,15,33,-32,↓32,,,96
-66,App State Mountaineers,1-0,50.98,,127,61,↑61,,,2026
-67,Purdue Boilermakers,1-0,50.95,,41,-26,↓26,,,2509
-68,Georgia State Panthers,1-0,50.8,,126,58,↑58,,,2247
-69,Texas Tech Red Raiders,1-0,50.39,10,12,-57,↓57,,,2641
-70,Southern Miss Golden Eagles,1-0,50.38,,137,67,↑67,,,2572
-71,Northwestern Wildcats,1-0,50.31,25,39,-32,↓32,,,77
-72,Arizona Wildcats,1-0,50.01,,55,-17,↓17,,,12
-73,Vanderbilt Commodores,1-0,49.75,,27,-46,↓46,,,238
-74,Iowa State Cyclones,1-0,49.63,,52,-22,↓22,,,66
-75,Air Force Falcons,1-0,49.57,,120,45,↑45,,,2005
-76,Arkansas Razorbacks,1-0,49.19,,28,-48,↓48,,,8
-77,Georgia Southern Eagles,1-0,49.08,,129,52,↑52,,,290
-78,Kennesaw State Owls,1-0,48.89,,92,14,↑14,,,338
-79,Louisiana Ragin' Cajuns,1-0,48.88,,133,54,↑54,,,309
-80,UTSA Roadrunners,1-0,48.64,,71,-9,↓9,,,2636
-81,Rice Owls,1-0,48.47,,84,3,↑3,,,242
-82,Navy Midshipmen,1-0,48.46,,75,-7,↓7,,,2426
-83,Temple Owls,1-0,48.31,,85,2,↑2,,,218
-84,South Alabama Jaguars,1-0,48.27,,132,48,↑48,,,6
-85,Delaware Blue Hens,1-0,47.52,,88,3,↑3,,,48
-86,Old Dominion Monarchs,1-0,47.16,,131,45,↑45,,,295
-87,San Diego State Aztecs,1-0,46.64,,107,20,↑20,,,21
-88,Middle Tennessee Blue Raiders,1-0,46.3,,80,-8,↓8,,,2393
-89,Buffalo Bulls,1-0,43.18,,99,10,↑10,,,2084
-90,Stanford Cardinal,1-1,42.48,,67,-23,↓23,,,24
-91,Baylor Bears,0-1,40.59,,48,-43,↓43,,,239
-92,Louisville Cardinals,0-1,40.34,,69,-23,↓23,,,97
-93,Arkansas State Red Wolves,0-1,40.2,,136,43,↑43,,,2032
-94,Georgia Tech Yellow Jackets,0-1,39.9,,63,-31,↓31,,,59
-95,TCU Horned Frogs,0-1,39.49,,44,-51,↓51,,,2628
-96,Oklahoma State Cowboys,0-1,38.99,18,49,-47,↓47,,,197
-97,Coastal Carolina Chanticleers,0-1,38.9,,130,33,↑33,,,324
-98,Rutgers Scarlet Knights,0-1,38.43,,35,-63,↓63,,,164
-99,New Mexico State Aggies,1-1,38.14,,82,-17,↓17,,,166
-100,Jacksonville State Gamecocks,1-1,37.77,,90,-10,↓10,,,55
-101,Boise State Broncos,0-1,37.77,23,112,11,↑11,,,68
-102,Western Michigan Broncos,0-1,37.75,,95,-7,↓7,,,2711
-103,Boston College Eagles,0-1,37.73,,61,-42,↓42,,,103
-104,Liberty Flames,0-1,37.25,,83,-21,↓21,,,2335
-105,Wisconsin Badgers,0-1,37.21,,42,-63,↓63,,,275
-106,Toledo Rockets,0-1,36.94,,96,-10,↓10,,,2649
-107,Tulane Green Wave,0-1,36.8,,86,-21,↓21,,,2655
-108,Oregon State Beavers,0-1,36.66,,111,3,↑3,,,204
-109,Sacramento State Hornets,1-1,36.63,,106,-3,↓3,,,16
-110,NC State Wolfpack,0-1,36.41,,66,-44,↓44,,,152
-111,UAB Blazers,0-1,36.1,,77,-34,↓34,,,5
+1,USC Trojans,2-0,118.2,16,14,13,↑13,"vs #7 San José State Spartans, 42-26 (Wk 1)",68.27,30
+2,Memphis Tigers,2-0,97.81,,71,69,↑69,"@ #48 UNLV Rebels, 27-21 (Wk 1)",43.48,235
+3,SMU Mustangs,1-0,90.65,23,20,17,↑17,"@ #46 Florida State Seminoles, 27-24 (Wk 1)",43.56,2567
+4,Miami Hurricanes,1-0,82.49,1,7,3,↑3,"@ #90 Stanford Cardinal, 45-6 (Wk 1)",41.47,2390
+5,Notre Dame Fighting Irish,1-0,71.6,4,5,0,—,"vs #105 Wisconsin Badgers (N), 41-13 (Wk 1)",31.12,87
+6,UCLA Bruins,1-0,71.53,9,43,37,↑37,"@ #115 California Golden Bears, 45-24 (Wk 1)",34.02,26
+7,San José State Spartans,1-1,71.47,,118,111,↑111,"@ #64 Eastern Michigan Eagles, 27-21 (Wk 1)",41.23,23
+8,North Dakota State Bison,2-0,71.18,,122,114,↑114,"vs #100 Jacksonville State Gamecocks, 33-7 (Wk 1)",27.94,2449
+9,Massachusetts Minutemen,1-0,67.75,,99,90,↑90,"@ #98 Rutgers Scarlet Knights, 37-21 (Wk 1)",34.84,113
+10,Colorado Buffaloes,1-0,66.93,,53,43,↑43,"@ #94 Georgia Tech Yellow Jackets, 14-13 (Wk 1)",30.47,38
+11,Ole Miss Rebels,1-0,66.32,7,10,-1,↓1,"vs #92 Louisville Cardinals (N), 41-38 (Wk 1)",26.74,145
+12,Indiana Hoosiers,1-0,66.31,6,6,-6,↓6,"vs #118 North Texas Mean Green, 52-16 (Wk 1)",25.68,84
+13,LSU Tigers,1-0,65.06,18,13,0,—,"vs #120 Clemson Tigers, 51-10 (Wk 1)",25.61,99
+14,Alabama Crimson Tide,1-0,64.73,13,11,-3,↓3,"vs #121 East Carolina Pirates, 48-10 (Wk 1)",25.24,333
+15,Auburn Tigers,1-0,64.62,,29,14,↑14,"vs #91 Baylor Bears (N), 17-16 (Wk 1)",26.14,2
+16,Iowa Hawkeyes,1-0,64.48,15,22,6,↑6,"vs #122 Northern Illinois Huskies, 40-0 (Wk 1)",25.14,2294
+17,Illinois Fighting Illini,1-0,64.47,,40,23,↑23,"vs #111 UAB Blazers, 42-23 (Wk 1)",25.7,356
+18,Oregon Ducks,1-0,64.43,,2,-16,↓16,"vs #102 Boise State Broncos, 34-27 (Wk 1)",23.38,2483
+19,Cincinnati Bearcats,1-0,64.11,,54,35,↑35,"vs #101 Boston College Eagles, 34-15 (Wk 1)",26.61,2132
+20,Penn State Nittany Lions,1-0,64.09,,17,-3,↓3,"vs #125 Marshall Thundering Herd, 45-0 (Wk 1)",24.71,213
+21,Virginia Cavaliers,1-0,63.97,,56,35,↑35,"vs #110 NC State Wolfpack, 34-8 (Wk 1)",27.17,258
+22,North Carolina Tar Heels,1-0,63.93,,64,42,↑42,"vs #95 TCU Horned Frogs (N), 15-10 (Wk 1)",26.81,153
+23,Ohio State Buckeyes,1-0,63.55,3,1,-22,↓22,"vs #133 Ball State Cardinals, 56-3 (Wk 1)",23.09,194
+24,Washington Huskies,1-0,63.52,,19,-5,↓5,"vs #114 Washington State Cougars, 24-10 (Wk 1)",24.11,264
+25,Nebraska Cornhuskers,1-0,63.09,,42,17,↑17,"vs #123 Ohio Bobcats, 49-21 (Wk 1)",25.02,158
+26,Oklahoma Sooners,1-0,63.07,,9,-17,↓17,,,201
+27,Texas Longhorns,1-0,62.69,19,4,-23,↓23,,,251
+28,Texas A&M Aggies,1-0,62.52,,8,-20,↓20,,,245
+29,Michigan State Spartans,1-0,62.47,,35,6,↑6,,,127
+30,Houston Cougars,1-0,62.39,14,24,-6,↓6,,,248
+31,Wake Forest Demon Deacons,1-0,62.35,17,59,28,↑28,,,154
+32,Tulsa Golden Hurricane,1-0,62.03,,77,45,↑45,,,202
+33,Duke Blue Devils,1-0,61.77,,58,25,↑25,,,150
+34,West Virginia Mountaineers,1-0,61.74,,51,17,↑17,,,277
+35,Mississippi State Bulldogs,1-0,61.68,,31,-4,↓4,,,344
+36,Michigan Wolverines,1-0,61.43,,16,-20,↓20,,,130
+37,Florida Gators,1-0,61.38,20,32,-5,↓5,,,57
+38,Colorado State Rams,1-0,60.7,,123,85,↑85,,,36
+39,New Mexico Lobos,1-0,60.66,,121,82,↑82,,,167
+40,South Carolina Gamecocks,1-0,60.38,,30,-10,↓10,,,2579
+41,Pittsburgh Panthers,1-0,60.29,,65,24,↑24,,,221
+42,Nevada Wolf Pack,1-0,60.25,,116,74,↑74,,,2440
+43,James Madison Dukes,1-0,59.68,,125,82,↑82,,,256
+44,South Florida Bulls,1-0,59.17,,74,30,↑30,,,58
+45,Troy Trojans,1-0,57.11,,135,90,↑90,,,2653
+46,Florida State Seminoles,1-1,57.01,,63,17,↑17,,,52
+47,Georgia Bulldogs,1-0,56.52,5,3,-44,↓44,,,61
+48,UNLV Rebels,1-1,54.86,,117,69,↑69,,,2439
+49,Maryland Terrapins,1-0,54.69,,34,-15,↓15,,,120
+50,Virginia Tech Hokies,1-0,53.97,,60,10,↑10,,,259
+51,UConn Huskies,1-0,53.92,,26,-25,↓25,,,41
+52,Kansas State Wildcats,1-0,53.84,,50,-2,↓2,,,2306
+53,BYU Cougars,1-0,53.67,2,15,-38,↓38,,,252
+54,Minnesota Golden Gophers,1-0,53.56,,37,-17,↓17,,,135
+55,Tennessee Volunteers,1-0,53.37,11,18,-37,↓37,,,2633
+56,UCF Knights,1-0,53.35,,52,-4,↓4,,,2116
+57,Syracuse Orange,1-0,53.1,,67,10,↑10,,,183
+58,Arizona State Sun Devils,1-0,53.07,,47,-11,↓11,,,9
+59,Louisiana Tech Bulldogs,1-0,52.92,,133,74,↑74,,,2348
+60,Utah Utes,1-0,52.67,10,21,-39,↓39,,,254
+61,Missouri Tigers,1-0,52.3,22,25,-36,↓36,,,142
+62,Army Black Knights,1-0,51.68,,72,10,↑10,,,349
+63,Kansas Jayhawks,1-0,51.57,,44,-19,↓19,,,2305
+64,Eastern Michigan Eagles,1-1,51.53,,100,36,↑36,,,2199
+65,Kentucky Wildcats,1-0,51.23,12,33,-32,↓32,,,96
+66,App State Mountaineers,1-0,51.02,,126,60,↑60,,,2026
+67,Purdue Boilermakers,1-0,50.92,,41,-26,↓26,,,2509
+68,Georgia State Panthers,1-0,50.75,,127,59,↑59,,,2247
+69,Texas Tech Red Raiders,1-0,50.52,8,12,-57,↓57,,,2641
+70,Southern Miss Golden Eagles,1-0,50.34,,137,67,↑67,,,2572
+71,Northwestern Wildcats,1-0,50.18,24,36,-35,↓35,,,77
+72,Arizona Wildcats,1-0,50.05,25,55,-17,↓17,,,12
+73,Vanderbilt Commodores,1-0,49.8,,28,-45,↓45,,,238
+74,Air Force Falcons,1-0,49.66,,120,46,↑46,,,2005
+75,Iowa State Cyclones,1-0,49.65,,46,-29,↓29,,,66
+76,Arkansas Razorbacks,1-0,49.25,,27,-49,↓49,,,8
+77,Georgia Southern Eagles,1-0,49.05,,129,52,↑52,,,290
+78,Kennesaw State Owls,1-0,48.87,,91,13,↑13,,,338
+79,Louisiana Ragin' Cajuns,1-0,48.83,,132,53,↑53,,,309
+80,UTSA Roadrunners,1-0,48.69,,70,-10,↓10,,,2636
+81,Navy Midshipmen,1-0,48.62,,86,5,↑5,,,2426
+82,Rice Owls,1-0,48.49,,87,5,↑5,,,242
+83,Temple Owls,1-0,48.39,,85,2,↑2,,,218
+84,South Alabama Jaguars,1-0,48.28,,134,50,↑50,,,6
+85,Delaware Blue Hens,1-0,47.51,,92,7,↑7,,,48
+86,Old Dominion Monarchs,1-0,47.14,,131,45,↑45,,,295
+87,San Diego State Aztecs,1-0,46.71,,108,21,↑21,,,21
+88,Middle Tennessee Blue Raiders,1-0,46.38,,88,0,—,,,2393
+89,Buffalo Bulls,1-0,43.15,,97,8,↑8,,,2084
+90,Stanford Cardinal,1-1,42.57,,61,-29,↓29,,,24
+91,Baylor Bears,0-1,40.43,,48,-43,↓43,,,239
+92,Louisville Cardinals,0-1,40.36,,57,-35,↓35,,,97
+93,Arkansas State Red Wolves,0-1,40.03,,136,43,↑43,,,2032
+94,Georgia Tech Yellow Jackets,0-1,40.01,,62,-32,↓32,,,59
+95,TCU Horned Frogs,0-1,39.42,,45,-50,↓50,,,2628
+96,Oklahoma State Cowboys,0-1,39.12,,49,-47,↓47,,,197
+97,Coastal Carolina Chanticleers,0-1,39.0,,130,33,↑33,,,324
+98,Rutgers Scarlet Knights,0-1,38.43,,38,-60,↓60,,,164
+99,New Mexico State Aggies,1-1,38.14,,81,-18,↓18,,,166
+100,Jacksonville State Gamecocks,1-1,37.83,,90,-10,↓10,,,55
+101,Boston College Eagles,0-1,37.78,,69,-32,↓32,,,103
+102,Boise State Broncos,0-1,37.77,21,112,10,↑10,,,68
+103,Western Michigan Broncos,0-1,37.73,,95,-8,↓8,,,2711
+104,Liberty Flames,0-1,37.28,,83,-21,↓21,,,2335
+105,Wisconsin Badgers,0-1,37.1,,39,-66,↓66,,,275
+106,Toledo Rockets,0-1,36.98,,96,-10,↓10,,,2649
+107,Tulane Green Wave,0-1,36.8,,75,-32,↓32,,,2655
+108,Oregon State Beavers,0-1,36.76,,111,3,↑3,,,204
+109,Sacramento State Hornets,1-1,36.62,,106,-3,↓3,,,16
+110,NC State Wolfpack,0-1,36.42,,68,-42,↓42,,,152
+111,UAB Blazers,0-1,36.1,,78,-33,↓33,,,5
 112,Florida International Panthers,0-1,36.04,,89,-23,↓23,,,2229
-113,Wyoming Cowboys,0-1,35.7,,118,5,↑5,,,2751
-114,Washington State Cougars,0-1,35.44,,124,10,↑10,,,265
-115,California Golden Bears,0-1,35.26,,56,-59,↓59,,,25
-116,Fresno State Bulldogs,0-1,35.05,,110,-6,↓6,,,278
-117,Sam Houston Bearkats,0-1,34.78,,93,-24,↓24,,,2534
-118,Akron Zips,0-1,33.63,,104,-14,↓14,,,2006
-119,North Texas Mean Green,0-1,33.53,,73,-46,↓46,,,249
-120,Clemson Tigers,0-1,33.4,,23,-97,↓97,,,228
-121,East Carolina Pirates,0-1,32.74,,79,-42,↓42,,,151
-122,Northern Illinois Huskies,0-1,32.41,,113,-9,↓9,,,2459
-123,Ohio Bobcats,0-1,32.08,,94,-29,↓29,,,195
-124,Central Michigan Chippewas,0-1,31.78,,100,-24,↓24,,,2117
-125,Marshall Thundering Herd,0-1,31.47,,128,3,↑3,,,276
-126,Western Kentucky Hilltoppers,0-1,31.12,,81,-45,↓45,,,98
-127,UTEP Miners,0-1,30.0,,115,-12,↓12,,,2638
-128,Florida Atlantic Owls,0-1,29.43,,74,-54,↓54,,,2226
-129,UL Monroe Warhawks,0-1,29.42,,138,9,↑9,,,2433
-130,Miami (OH) RedHawks,0-1,28.71,,101,-29,↓29,,,193
-131,Missouri State Bears,0-1,28.58,,91,-40,↓40,,,2623
-132,Texas State Bobcats,0-1,28.12,,108,-24,↓24,,,326
-133,Ball State Cardinals,0-1,27.25,,105,-28,↓28,,,2050
-134,Kent State Golden Flashes,0-1,26.21,,103,-31,↓31,,,2309
-135,Charlotte 49ers,0-1,26.0,,87,-48,↓48,,,2429
-136,Bowling Green Falcons,0-1,23.35,,102,-34,↓34,,,189
-137,Utah State Aggies,0-1,22.3,,123,-14,↓14,,,328
-138,Hawai'i Rainbow Warriors,0-2,19.03,,114,-24,↓24,,,62
+113,Wyoming Cowboys,0-1,35.89,,119,6,↑6,,,2751
+114,Washington State Cougars,0-1,35.52,,124,10,↑10,,,265
+115,California Golden Bears,0-1,35.18,,66,-49,↓49,,,25
+116,Fresno State Bulldogs,0-1,34.96,,110,-6,↓6,,,278
+117,Sam Houston Bearkats,0-1,34.63,,93,-24,↓24,,,2534
+118,North Texas Mean Green,0-1,33.58,,73,-45,↓45,,,249
+119,Akron Zips,0-1,33.57,,105,-14,↓14,,,2006
+120,Clemson Tigers,0-1,33.42,,23,-97,↓97,,,228
+121,East Carolina Pirates,0-1,32.64,,76,-45,↓45,,,151
+122,Northern Illinois Huskies,0-1,32.43,,113,-9,↓9,,,2459
+123,Ohio Bobcats,0-1,32.17,,94,-29,↓29,,,195
+124,Central Michigan Chippewas,0-1,31.73,,101,-23,↓23,,,2117
+125,Marshall Thundering Herd,0-1,31.46,,128,3,↑3,,,276
+126,Western Kentucky Hilltoppers,0-1,31.02,,80,-46,↓46,,,98
+127,UTEP Miners,0-1,30.01,,115,-12,↓12,,,2638
+128,Florida Atlantic Owls,0-1,29.43,,79,-49,↓49,,,2226
+129,UL Monroe Warhawks,0-1,29.35,,138,9,↑9,,,2433
+130,Miami (OH) RedHawks,0-1,28.79,,98,-32,↓32,,,193
+131,Missouri State Bears,0-1,28.6,,82,-49,↓49,,,2623
+132,Texas State Bobcats,0-1,28.33,,109,-23,↓23,,,326
+133,Ball State Cardinals,0-1,27.32,,104,-29,↓29,,,2050
+134,Kent State Golden Flashes,0-1,26.1,,103,-31,↓31,,,2309
+135,Charlotte 49ers,0-1,26.07,,84,-51,↓51,,,2429
+136,Bowling Green Falcons,0-1,23.34,,102,-34,↓34,,,189
+137,Utah State Aggies,0-1,22.28,,107,-30,↓30,,,328
+138,Hawai'i Rainbow Warriors,0-2,18.98,,114,-24,↓24,,,62
