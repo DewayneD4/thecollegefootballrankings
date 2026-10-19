@@ -1,12 +1,12 @@
 {
   "season": 2026,
-  "latest_week": 6,
-  "label": "2026 Week 6",
+  "latest_week": 7,
+  "label": "2026 Week 7",
   "ap_week": 8,
-  "n_games": 448,
+  "n_games": 510,
   "overlap_top25": 20,
-  "spearman_ap25": 0.6015384615384615,
-  "model_1": "Georgia Bulldogs",
+  "spearman_ap25": 0.72,
+  "model_1": "Ohio State Buckeyes",
   "ap_1": "Miami",
   "weeks": [
     {
@@ -79,7 +79,17 @@
       "ap_1": "Miami",
       "ap_week": 8,
       "n_games": 448
+    },
+    {
+      "week": 7,
+      "label": "2026 Week 7",
+      "overlap_top25": 20,
+      "spearman_ap25": 0.72,
+      "model_1": "Ohio State Buckeyes",
+      "ap_1": "Miami",
+      "ap_week": 8,
+      "n_games": 510
     }
   ],
-  "updated": "2026-10-18"
+  "updated": "2026-10-19"
 }
