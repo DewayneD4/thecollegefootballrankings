@@ -1,12 +1,12 @@
 {
   "season": 2026,
-  "latest_week": 7,
-  "label": "2026 Week 7",
-  "ap_week": 8,
-  "n_games": 510,
-  "overlap_top25": 20,
-  "spearman_ap25": 0.72,
-  "model_1": "Ohio State Buckeyes",
+  "latest_week": 8,
+  "label": "2026 Week 8",
+  "ap_week": 9,
+  "n_games": 566,
+  "overlap_top25": 23,
+  "spearman_ap25": 0.7424504849784961,
+  "model_1": "Kentucky Wildcats",
   "ap_1": "Miami",
   "weeks": [
     {
@@ -23,73 +23,83 @@
     {
       "week": 1,
       "label": "2026 Week 1",
-      "overlap_top25": 11,
-      "spearman_ap25": 0.32615384615384607,
+      "overlap_top25": 9,
+      "spearman_ap25": 0.602808243503266,
       "model_1": "USC Trojans",
       "ap_1": "Miami",
-      "ap_week": 8,
+      "ap_week": 9,
       "n_games": 99
     },
     {
       "week": 2,
       "label": "2026 Week 2",
-      "overlap_top25": 12,
-      "spearman_ap25": 0.07461538461538461,
+      "overlap_top25": 11,
+      "spearman_ap25": 0.29274861091639154,
       "model_1": "USC Trojans",
       "ap_1": "Miami",
-      "ap_week": 8,
+      "ap_week": 9,
       "n_games": 185
     },
     {
       "week": 3,
       "label": "2026 Week 3",
-      "overlap_top25": 15,
-      "spearman_ap25": 0.3476923076923077,
+      "overlap_top25": 14,
+      "spearman_ap25": 0.4858626748848916,
       "model_1": "Alabama Crimson Tide",
       "ap_1": "Miami",
-      "ap_week": 8,
+      "ap_week": 9,
       "n_games": 260
     },
     {
       "week": 4,
       "label": "2026 Week 4",
       "overlap_top25": 15,
-      "spearman_ap25": 0.4053846153846154,
+      "spearman_ap25": 0.4327755417620768,
       "model_1": "Texas Longhorns",
       "ap_1": "Miami",
-      "ap_week": 8,
+      "ap_week": 9,
       "n_games": 331
     },
     {
       "week": 5,
       "label": "2026 Week 5",
-      "overlap_top25": 18,
-      "spearman_ap25": 0.45615384615384613,
+      "overlap_top25": 19,
+      "spearman_ap25": 0.48355453866216047,
       "model_1": "Alabama Crimson Tide",
       "ap_1": "Miami",
-      "ap_week": 8,
+      "ap_week": 9,
       "n_games": 390
     },
     {
       "week": 6,
       "label": "2026 Week 6",
       "overlap_top25": 20,
-      "spearman_ap25": 0.6015384615384615,
+      "spearman_ap25": 0.6589728915897223,
       "model_1": "Georgia Bulldogs",
       "ap_1": "Miami",
-      "ap_week": 8,
+      "ap_week": 9,
       "n_games": 448
     },
     {
       "week": 7,
       "label": "2026 Week 7",
       "overlap_top25": 20,
-      "spearman_ap25": 0.72,
+      "spearman_ap25": 0.6585882022192671,
       "model_1": "Ohio State Buckeyes",
       "ap_1": "Miami",
-      "ap_week": 8,
+      "ap_week": 9,
       "n_games": 510
+    },
+    {
+      "week": 8,
+      "label": "2026 Week 8",
+      "overlap_top25": 23,
+      "spearman_ap25": 0.7424504849784961,
+      "model_1": "Kentucky Wildcats",
+      "ap_1": "Miami",
+      "ap_week": 9,
+      "n_games": 566
     }
   ],
-  "updated": "2026-10-19"
+  "updated": "2026-10-25"
 }
