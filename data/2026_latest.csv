@@ -1,26 +1,26 @@
 rank,team,record,score,ap_rank,prev_rank,move,move_label,biggest_win,biggest_win_game_points,id
-1,Kentucky Wildcats,7-1,88.5,9,4,3,↑3,"vs #12 LSU Tigers, 35-34 (Wk 6)",63.83,96
-2,Georgia Bulldogs,6-1,88.19,3,5,3,↑3,"@ #3 Alabama Crimson Tide, 20-17 (Wk 6)",78.19,61
-3,Alabama Crimson Tide,6-2,88.18,10,6,3,↑3,"@ #1 Kentucky Wildcats, 45-17 (Wk 2)",91.86,333
-4,Florida Gators,5-2,85.55,17,10,6,↑6,"@ #5 Texas Longhorns, 27-24 (Wk 7)",76.95,57
-5,Texas Longhorns,5-2,85.54,11,13,8,↑8,"vs #6 Ohio State Buckeyes, 24-23 (Wk 2)",62.52,251
-6,Ohio State Buckeyes,6-1,85.34,2,1,-5,↓5,"@ #13 Indiana Hoosiers, 19-15 (Wk 7)",72.86,194
-7,Miami Hurricanes,7-0,84.84,1,9,2,↑2,"@ #17 Wake Forest Demon Deacons, 33-20 (Wk 3)",72.19,2390
-8,UCLA Bruins,7-0,81.99,7,8,0,—,"vs #25 Wisconsin Badgers, 17-7 (Wk 7)",39.69,26
-9,BYU Cougars,6-1,80.22,8,3,-6,↓6,"vs #14 Notre Dame Fighting Irish, 28-24 (Wk 7)",64.92,252
-10,Utah Utes,7-0,79.73,6,24,14,↑14,"vs #19 Houston Cougars, 21-13 (Wk 8)",60.31,254
-11,Ole Miss Rebels,5-2,79.51,12,7,-4,↓4,"vs #12 LSU Tigers, 32-24 (Wk 3)",68.17,145
-12,LSU Tigers,6-2,79.5,15,16,4,↑4,"vs #26 Mississippi State Bulldogs, 31-0 (Wk 7)",59.45,99
-13,Indiana Hoosiers,7-1,78.16,4,15,2,↑2,"vs #28 Northwestern Wildcats, 29-23 (Wk 4)",38.66,84
-14,Notre Dame Fighting Irish,6-1,77.7,5,12,-2,↓2,"vs #25 Wisconsin Badgers (N), 41-13 (Wk 1)",61.68,87
-15,Tennessee Volunteers,6-2,74.26,16,2,-13,↓13,"vs #3 Alabama Crimson Tide, 26-10 (Wk 7)",78.42,2633
-16,Texas Tech Red Raiders,6-1,71.49,13,11,-5,↓5,"vs #19 Houston Cougars, 28-26 (Wk 3)",57.03,2641
-17,Wake Forest Demon Deacons,6-1,71.32,14,17,0,—,"@ #52 Louisville Cardinals, 30-27 (Wk 4)",42.9,154
-18,Arizona Wildcats,6-1,70.46,22,30,12,↑12,"vs #34 Cincinnati Bearcats, 34-7 (Wk 5)",45.95,12
-19,Houston Cougars,6-2,70.2,18,14,-5,↓5,"vs #22 Oklahoma State Cowboys, 35-32 (Wk 7)",49.09,248
-20,Oklahoma Sooners,4-3,69.87,,39,19,↑19,"vs #5 Texas Longhorns (N), 27-24 (Wk 6)",71.49,201
-21,Missouri Tigers,5-2,69.35,23,21,0,—,"vs #4 Florida Gators, 45-17 (Wk 5)",73.92,142
-22,Oklahoma State Cowboys,5-2,67.86,24,22,0,—,"vs #37 Oregon Ducks, 39-31 (Wk 2)",39.06,197
-23,Boise State Broncos,6-1,66.94,20,26,3,↑3,"vs #48 Memphis Tigers, 38-20 (Wk 2)",39.86,68
-24,James Madison Dukes,7-1,66.25,,19,-5,↓5,"vs #38 Liberty Flames, 20-13 (Wk 1)",35.54,256
-25,Wisconsin Badgers,5-2,64.68,25,40,15,↑15,"vs #32 USC Trojans, 24-7 (Wk 8)",58.06,275
+1,Miami Hurricanes,8-0,89.49,1,7,6,↑6,"@ #14 Wake Forest Demon Deacons, 33-20 (Wk 3)",74.67,2390
+2,Georgia Bulldogs,7-1,89.49,2,2,0,—,"@ #6 Alabama Crimson Tide, 20-17 (Wk 6)",76.6,61
+3,Texas Longhorns,6-2,88.51,10,5,2,↑2,"vs #8 Ole Miss Rebels, 34-27 (Wk 8)",67.11,251
+4,Kentucky Wildcats,7-1,84.49,8,1,-3,↓3,"vs #13 LSU Tigers, 35-34 (Wk 6)",60.25,96
+5,Utah Utes,8-0,83.64,3,10,5,↑5,"vs #22 Houston Cougars, 21-13 (Wk 8)",55.51,254
+6,Alabama Crimson Tide,6-2,83.43,9,3,-3,↓3,"@ #4 Kentucky Wildcats, 45-17 (Wk 2)",88.28,333
+7,UCLA Bruins,8-0,83.08,5,8,1,↑1,"@ #24 Oregon Ducks, 17-15 (Wk 6)",62.44,26
+8,Ole Miss Rebels,6-2,82.29,12,11,3,↑3,"vs #13 LSU Tigers, 32-24 (Wk 3)",64.34,145
+9,Indiana Hoosiers,8-1,80.72,6,13,4,↑4,"vs #28 Minnesota Golden Gophers, 23-16 (Wk 9)",34.52,84
+10,BYU Cougars,7-1,77.98,7,9,-1,↓1,"vs #12 Notre Dame Fighting Irish, 28-24 (Wk 7)",62.65,252
+11,USC Trojans,7-2,76.98,18,32,21,↑21,"vs #15 Ohio State Buckeyes, 30-18 (Wk 9)",66.13,30
+12,Notre Dame Fighting Irish,7-1,75.46,4,14,2,↑2,"vs #37 Wisconsin Badgers (N), 41-13 (Wk 1)",48.92,87
+13,LSU Tigers,6-2,75.38,15,12,-1,↓1,"@ #38 Auburn Tigers, 38-17 (Wk 8)",65.59,99
+14,Wake Forest Demon Deacons,7-1,75.1,14,16,2,↑2,"@ #44 Louisville Cardinals, 30-27 (Wk 4)",54.7,154
+15,Ohio State Buckeyes,6-2,75.09,11,6,-9,↓9,"@ #9 Indiana Hoosiers, 19-15 (Wk 7)",73.44,194
+16,Texas Tech Red Raiders,7-1,74.79,13,17,1,↑1,"vs #22 Houston Cougars, 28-26 (Wk 3)",52.51,2641
+17,South Carolina Gamecocks,5-3,74.57,23,27,10,↑10,"vs #19 Tennessee Volunteers, 27-24 (Wk 8)",56.97,2579
+18,Missouri Tigers,6-2,73.18,19,21,3,↑3,"vs #21 Florida Gators, 45-17 (Wk 5)",68.94,142
+19,Tennessee Volunteers,6-2,71.48,16,15,-4,↓4,"vs #6 Alabama Crimson Tide, 26-10 (Wk 7)",76.38,2633
+20,Boise State Broncos,7-1,69.89,20,23,3,↑3,"vs #41 Memphis Tigers, 38-20 (Wk 2)",42.32,68
+21,Florida Gators,5-3,69.39,25,4,-17,↓17,"@ #3 Texas Longhorns, 27-24 (Wk 7)",77.62,57
+22,Houston Cougars,6-2,67.93,17,19,-3,↓3,"vs #23 Oklahoma State Cowboys, 35-32 (Wk 7)",36.77,248
+23,Oklahoma State Cowboys,5-3,66.81,,22,-1,↓1,"vs #24 Oregon Ducks, 39-31 (Wk 2)",55.97,197
+24,Oregon Ducks,5-3,66.8,,37,13,↑13,"@ #11 USC Trojans, 41-27 (Wk 4)",76.88,2483
+25,Iowa Hawkeyes,6-2,66.58,21,43,18,↑18,"@ #29 Michigan Wolverines, 20-19 (Wk 4)",52.78,2294
