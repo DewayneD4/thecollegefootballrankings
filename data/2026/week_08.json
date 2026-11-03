@@ -3,7 +3,7 @@
   "week": 8,
   "label": "2026 Week 8",
   "n_games": 566,
-  "iters": 26,
+  "iters": 27,
   "ap_week": 10,
   "ap_season": 2026,
   "has_ap": true,
@@ -267,7 +267,7 @@
       "move_label": "\u219114",
       "move_dir": "up",
       "biggest_win": "vs #19 Houston Cougars, 21-13 (Wk 8)",
-      "biggest_win_game_points": 60.31,
+      "biggest_win_game_points": 60.32,
       "biggest_win_detail": {
         "opponent": "Houston Cougars",
         "opp_id": "248",
@@ -276,7 +276,7 @@
         "us": 21,
         "them": 13,
         "week": 8,
-        "game_points": 60.31,
+        "game_points": 60.32,
         "opp_model_rank": 19,
         "notes": "quality win; T25 #16 \u00d71.07",
         "label": "vs #19 Houston Cougars, 21-13 (Wk 8)"
@@ -584,7 +584,7 @@
       "id": "197",
       "team": "Oklahoma State Cowboys",
       "record": "5-2",
-      "score": 67.84,
+      "score": 67.85,
       "ap_rank": null,
       "prev_rank": 22,
       "move": 0,
@@ -827,7 +827,7 @@
       "move_label": "\u219114",
       "move_dir": "up",
       "biggest_win": "vs #19 Houston Cougars, 21-13 (Wk 8)",
-      "biggest_win_game_points": 60.31
+      "biggest_win_game_points": 60.32
     },
     {
       "rank": 11,
@@ -988,7 +988,7 @@
       "id": "197",
       "team": "Oklahoma State Cowboys",
       "record": "5-2",
-      "score": 67.84,
+      "score": 67.85,
       "ap_rank": null,
       "prev_rank": 22,
       "move": 0,

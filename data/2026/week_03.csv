@@ -8,7 +8,7 @@ rank,team,record,score,ap_rank,prev_rank,move,move_label,biggest_win,biggest_win
 7,Miami Hurricanes,3-0,80.13,1,14,7,↑7,"@ #41 Wake Forest Demon Deacons, 33-20 (Wk 3)",61.29,2390
 8,Florida Gators,3-0,79.36,25,29,21,↑21,"@ #27 Auburn Tigers, 44-39 (Wk 3)",59.94,57
 9,Virginia Tech Hokies,3-0,75.73,,36,27,↑27,"@ #25 Maryland Terrapins, 35-26 (Wk 3)",62.72,259
-10,UCLA Bruins,3-0,75.2,5,2,-8,↓8,"@ #60 California Golden Bears, 45-24 (Wk 1)",48.24,26
+10,UCLA Bruins,3-0,75.19,5,2,-8,↓8,"@ #60 California Golden Bears, 45-24 (Wk 1)",48.24,26
 11,Duke Blue Devils,3-0,74.81,,4,-7,↓7,"@ #56 Illinois Fighting Illini, 31-27 (Wk 2)",41.39,150
 12,Michigan Wolverines,3-0,73.4,,11,-1,↓1,"vs #28 Oklahoma Sooners, 17-10 (Wk 2)",39.87,130
 13,Penn State Nittany Lions,3-0,73.34,,6,-7,↓7,"vs #63 Marshall Thundering Herd, 45-0 (Wk 1)",35.33,213
@@ -51,14 +51,14 @@ rank,team,record,score,ap_rank,prev_rank,move,move_label,biggest_win,biggest_win
 50,SMU Mustangs,2-1,54.87,,24,-26,↓26,,,2567
 51,UConn Huskies,2-1,54.72,,75,24,↑24,,,41
 52,Virginia Cavaliers,2-1,53.94,,25,-27,↓27,,,258
-53,North Carolina Tar Heels,2-1,53.78,,38,-15,↓15,,,153
+53,North Carolina Tar Heels,2-1,53.79,,38,-15,↓15,,,153
 54,South Carolina Gamecocks,2-1,53.73,23,41,-13,↓13,,,2579
 55,Houston Cougars,2-1,53.52,17,50,-5,↓5,,,248
 56,Illinois Fighting Illini,2-1,53.13,,48,-8,↓8,,,356
 57,Fresno State Bulldogs,2-1,53.09,,79,22,↑22,,,278
 58,Memphis Tigers,3-1,52.89,,34,-24,↓24,,,235
 59,Baylor Bears,2-1,52.25,,71,12,↑12,,,239
-60,California Golden Bears,2-1,51.79,,47,-13,↓13,,,25
+60,California Golden Bears,2-1,51.78,,47,-13,↓13,,,25
 61,Massachusetts Minutemen,3-0,51.12,,56,-5,↓5,,,113
 62,Arizona State Sun Devils,2-1,50.94,,83,21,↑21,,,9
 63,Marshall Thundering Herd,2-1,50.34,,87,24,↑24,,,276

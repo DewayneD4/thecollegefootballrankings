@@ -34,7 +34,7 @@ rank,team,record,score,ap_rank,prev_rank,move,move_label,biggest_win,biggest_win
 33,Iowa Hawkeyes,4-1,63.01,21,15,-18,↓18,,,2294
 34,Minnesota Golden Gophers,4-1,62.93,,42,8,↑8,,,135
 35,Duke Blue Devils,4-0,62.23,,22,-13,↓13,,,150
-36,Virginia Tech Hokies,4-1,61.15,,20,-16,↓16,,,259
+36,Virginia Tech Hokies,4-1,61.14,,20,-16,↓16,,,259
 37,Auburn Tigers,3-2,60.96,,21,-16,↓16,,,2
 38,SMU Mustangs,4-1,60.24,,48,10,↑10,,,2567
 39,Cincinnati Bearcats,4-1,59.42,,19,-20,↓20,,,2132
@@ -97,7 +97,7 @@ rank,team,record,score,ap_rank,prev_rank,move,move_label,biggest_win,biggest_win
 96,Illinois Fighting Illini,2-3,39.71,,69,-27,↓27,,,356
 97,Eastern Michigan Eagles,3-3,39.25,,120,23,↑23,,,2199
 98,Troy Trojans,2-2,39.23,,99,1,↑1,,,2653
-99,San Diego State Aztecs,2-3,38.8,,115,16,↑16,,,21
+99,San Diego State Aztecs,2-3,38.79,,115,16,↑16,,,21
 100,California Golden Bears,2-3,38.53,,78,-22,↓22,,,25
 101,Temple Owls,2-3,38.1,,118,17,↑17,,,218
 102,Miami (OH) RedHawks,2-3,38.02,,85,-17,↓17,,,193
@@ -105,7 +105,7 @@ rank,team,record,score,ap_rank,prev_rank,move,move_label,biggest_win,biggest_win
 104,Florida International Panthers,2-2,37.73,,98,-6,↓6,,,2229
 105,East Carolina Pirates,2-2,37.39,,97,-8,↓8,,,151
 106,Colorado State Rams,2-3,35.73,,91,-15,↓15,,,36
-107,Georgia Southern Eagles,2-3,34.73,,119,12,↑12,,,290
+107,Georgia Southern Eagles,2-3,34.74,,119,12,↑12,,,290
 108,Texas State Bobcats,2-3,33.74,,83,-25,↓25,,,326
 109,Arkansas State Red Wolves,2-3,33.69,,103,-6,↓6,,,2032
 110,Wyoming Cowboys,2-3,32.33,,107,-3,↓3,,,2751

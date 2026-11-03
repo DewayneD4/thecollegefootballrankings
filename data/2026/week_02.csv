@@ -63,7 +63,7 @@ rank,team,record,score,ap_rank,prev_rank,move,move_label,biggest_win,biggest_win
 62,Boston College Eagles,1-1,50.03,,101,39,↑39,,,103
 63,Troy Trojans,2-0,49.33,,46,-17,↓17,,,2653
 64,Tulane Green Wave,1-1,48.96,,107,43,↑43,,,2655
-65,Clemson Tigers,1-1,48.74,,120,55,↑55,,,228
+65,Clemson Tigers,1-1,48.75,,120,55,↑55,,,228
 66,Louisville Cardinals,1-1,47.49,,92,26,↑26,,,97
 67,Stanford Cardinal,1-1,47.19,,90,23,↑23,,,24
 68,UCF Knights,1-1,47.14,,56,-12,↓12,,,2116
@@ -106,9 +106,9 @@ rank,team,record,score,ap_rank,prev_rank,move,move_label,biggest_win,biggest_win
 105,Navy Midshipmen,1-1,38.17,,82,-23,↓23,,,2426
 106,Southern Miss Golden Eagles,1-1,38.01,,70,-36,↓36,,,2572
 107,Akron Zips,1-1,37.82,,119,12,↑12,,,2006
-108,Georgia Southern Eagles,1-1,37.35,,77,-31,↓31,,,290
+108,Georgia Southern Eagles,1-1,37.36,,77,-31,↓31,,,290
 109,Kennesaw State Owls,1-1,36.91,,78,-31,↓31,,,338
-110,Wyoming Cowboys,1-1,35.96,,113,3,↑3,,,2751
+110,Wyoming Cowboys,1-1,35.95,,113,3,↑3,,,2751
 111,Middle Tennessee Blue Raiders,1-1,35.2,,88,-23,↓23,,,2393
 112,Rice Owls,1-1,34.76,,80,-32,↓32,,,242
 113,Eastern Michigan Eagles,1-2,34.52,,63,-50,↓50,,,2199
