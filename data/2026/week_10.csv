@@ -1,0 +1,139 @@
+rank,team,record,score,ap_rank,prev_rank,move,move_label,biggest_win,biggest_win_game_points,id
+1,Georgia Bulldogs,8-1,98.63,1,1,0,—,"@ #4 Alabama Crimson Tide, 20-17 (Wk 6)",77.91,61
+2,Texas Longhorns,7-2,90.71,8,3,1,↑1,"@ #3 Tennessee Volunteers, 20-17 (Wk 4)",72.66,251
+3,Tennessee Volunteers,7-2,89.83,9,19,16,↑16,"vs #4 Alabama Crimson Tide, 26-10 (Wk 7)",78.27,2633
+4,Alabama Crimson Tide,7-2,89.82,7,6,2,↑2,"@ #9 Kentucky Wildcats, 45-17 (Wk 2)",84.38,333
+5,Notre Dame Fighting Irish,8-1,88.53,3,12,7,↑7,"vs #8 Miami Hurricanes, 31-24 (Wk 10)",68.41,87
+6,UCLA Bruins,9-0,87.79,4,7,1,↑1,"@ #12 Oregon Ducks, 17-15 (Wk 6)",69.93,26
+7,Utah Utes,9-0,86.45,2,5,-2,↓2,"vs #16 BYU Cougars, 28-20 (Wk 10)",57.76,254
+8,Miami Hurricanes,8-1,81.16,5,2,-6,↓6,"@ #17 Wake Forest Demon Deacons, 33-20 (Wk 3)",72.72,2390
+9,Kentucky Wildcats,7-2,78.97,13,4,-5,↓5,"@ #11 South Carolina Gamecocks, 35-34 (Wk 5)",64.49,96
+10,Ole Miss Rebels,6-3,76.9,19,8,-2,↓2,"vs #19 LSU Tigers, 32-24 (Wk 3)",60.66,145
+11,South Carolina Gamecocks,6-3,76.37,20,17,6,↑6,"vs #3 Tennessee Volunteers, 27-24 (Wk 8)",63.54,2579
+12,Oregon Ducks,6-3,75.88,18,24,12,↑12,"@ #15 USC Trojans, 41-27 (Wk 4)",74.19,2483
+13,Indiana Hoosiers,8-1,75.35,6,9,-4,↓4,"vs #39 North Texas Mean Green, 52-16 (Wk 1)",40.87,84
+14,Texas Tech Red Raiders,8-1,74.82,10,16,2,↑2,"vs #20 Houston Cougars, 28-26 (Wk 3)",54.01,2641
+15,USC Trojans,7-2,73.14,15,11,-4,↓4,"vs #23 Ohio State Buckeyes, 30-18 (Wk 9)",63.8,30
+16,BYU Cougars,7-2,72.48,12,10,-6,↓6,"vs #5 Notre Dame Fighting Irish, 28-24 (Wk 7)",67.52,252
+17,Wake Forest Demon Deacons,8-1,72.0,11,14,-3,↓3,"@ #42 Louisville Cardinals, 30-27 (Wk 4)",56.13,154
+18,Boise State Broncos,8-1,70.43,17,20,2,↑2,"vs #47 Memphis Tigers, 38-20 (Wk 2)",40.88,68
+19,LSU Tigers,6-3,69.91,24,13,-6,↓6,"@ #32 Auburn Tigers, 38-17 (Wk 8)",67.84,99
+20,Houston Cougars,7-2,69.58,14,22,2,↑2,"vs #30 Oklahoma State Cowboys, 35-32 (Wk 7)",49.57,248
+21,Oklahoma Sooners,5-4,69.09,,30,9,↑9,"vs #2 Texas Longhorns (N), 27-24 (Wk 6)",71.71,201
+22,Iowa Hawkeyes,7-2,69.03,16,25,3,↑3,"vs #33 Wisconsin Badgers, 30-0 (Wk 9)",44.41,2294
+23,Ohio State Buckeyes,6-3,68.96,21,15,-8,↓8,"@ #13 Indiana Hoosiers, 19-15 (Wk 7)",70.19,194
+24,New Mexico Lobos,8-1,67.07,23,26,2,↑2,"vs #35 North Dakota State Bison, 21-16 (Wk 8)",36.34,167
+25,Missouri Tigers,6-3,66.61,,18,-7,↓7,"vs #28 Florida Gators, 45-17 (Wk 5)",62.31,142
+26,Duke Blue Devils,7-2,65.47,,32,6,↑6,,,150
+27,Liberty Flames,8-1,64.41,,31,4,↑4,,,2335
+28,Florida Gators,5-4,63.67,,21,-7,↓7,,,57
+29,James Madison Dukes,8-2,63.59,,34,5,↑5,,,256
+30,Oklahoma State Cowboys,6-3,62.36,,23,-7,↓7,,,197
+31,Arizona Wildcats,7-2,61.99,22,27,-4,↓4,,,12
+32,Auburn Tigers,5-4,60.92,,38,6,↑6,,,2
+33,Wisconsin Badgers,6-3,60.82,,37,4,↑4,,,275
+34,Pittsburgh Panthers,6-3,60.08,,36,2,↑2,,,221
+35,North Dakota State Bison,7-2,59.5,,39,4,↑4,,,2449
+36,SMU Mustangs,7-2,59.38,25,53,17,↑17,,,2567
+37,Illinois Fighting Illini,6-3,58.95,,55,18,↑18,,,356
+38,Louisiana Tech Bulldogs,7-2,58.92,,42,4,↑4,,,2348
+39,North Texas Mean Green,7-2,58.11,,50,11,↑11,,,249
+40,Baylor Bears,6-3,57.72,,49,9,↑9,,,239
+41,Northwestern Wildcats,6-3,57.31,,35,-6,↓6,,,77
+42,Louisville Cardinals,6-3,57.2,,44,2,↑2,,,97
+43,Virginia Tech Hokies,6-3,57.01,,40,-3,↓3,,,259
+44,Clemson Tigers,6-3,57.0,,46,2,↑2,,,228
+45,North Carolina Tar Heels,5-4,56.99,,47,2,↑2,,,153
+46,Minnesota Golden Gophers,5-4,56.52,,28,-18,↓18,,,135
+47,Memphis Tigers,7-2,56.21,,41,-6,↓6,,,235
+48,UTSA Roadrunners,7-2,54.53,,33,-15,↓15,,,2636
+49,Air Force Falcons,7-2,54.39,,54,5,↑5,,,2005
+50,Ohio Bobcats,7-2,52.8,,61,11,↑11,,,195
+51,Jacksonville State Gamecocks,7-2,52.78,,62,11,↑11,,,55
+52,UCF Knights,5-4,52.73,,58,6,↑6,,,2116
+53,Toledo Rockets,7-2,52.66,,57,4,↑4,,,2649
+54,West Virginia Mountaineers,5-4,52.48,,51,-3,↓3,,,277
+55,Vanderbilt Commodores,4-5,51.61,,96,41,↑41,,,238
+56,Mississippi State Bulldogs,4-5,51.6,,43,-13,↓13,,,344
+57,Michigan Wolverines,5-4,50.9,,29,-28,↓28,,,130
+58,Cincinnati Bearcats,5-4,50.49,,52,-6,↓6,,,2132
+59,Wyoming Cowboys,6-3,50.36,,72,13,↑13,,,2751
+60,Penn State Nittany Lions,5-4,49.46,,64,4,↑4,,,213
+61,Washington Huskies,5-4,48.75,,48,-13,↓13,,,264
+62,Texas A&M Aggies,4-5,48.1,,60,-2,↓2,,,245
+63,South Florida Bulls,6-3,47.73,,56,-7,↓7,,,58
+64,Arizona State Sun Devils,5-4,47.61,,67,3,↑3,,,9
+65,Nebraska Cornhuskers,5-4,47.3,,59,-6,↓6,,,158
+66,Louisiana Ragin' Cajuns,6-3,47.07,,68,2,↑2,,,309
+67,Western Michigan Broncos,6-3,46.97,,75,8,↑8,,,2711
+68,Buffalo Bulls,6-3,46.96,,79,11,↑11,,,2084
+69,Georgia Southern Eagles,5-4,46.34,,82,13,↑13,,,290
+70,Florida State Seminoles,4-5,45.28,,84,14,↑14,,,52
+71,Fresno State Bulldogs,5-4,45.07,,63,-8,↓8,,,278
+72,Texas State Bobcats,5-4,44.99,,85,13,↑13,,,326
+73,Florida Atlantic Owls,6-3,43.81,,88,15,↑15,,,2226
+74,Army Black Knights,5-4,43.39,,66,-8,↓8,,,349
+75,Georgia State Panthers,5-4,43.37,,100,25,↑25,,,2247
+76,Virginia Cavaliers,4-5,42.82,,99,23,↑23,,,258
+77,Syracuse Orange,4-5,42.81,,45,-32,↓32,,,183
+78,App State Mountaineers,5-4,42.65,,65,-13,↓13,,,2026
+79,Marshall Thundering Herd,5-4,42.4,,70,-9,↓9,,,276
+80,Tulsa Golden Hurricane,5-4,42.32,,94,14,↑14,,,202
+81,TCU Horned Frogs,4-5,41.99,,76,-5,↓5,,,2628
+82,Iowa State Cyclones,4-5,41.88,,71,-11,↓11,,,66
+83,Miami (OH) RedHawks,5-4,41.22,,69,-14,↓14,,,193
+84,UNLV Rebels,5-4,40.2,,74,-10,↓10,,,2439
+85,Kansas State Wildcats,4-5,39.29,,73,-12,↓12,,,2306
+86,UAB Blazers,5-4,39.26,,95,9,↑9,,,5
+87,Middle Tennessee Blue Raiders,5-4,38.98,,86,-1,↓1,,,2393
+88,Michigan State Spartans,3-6,38.82,,104,16,↑16,,,127
+89,Maryland Terrapins,3-6,37.63,,112,23,↑23,,,120
+90,Purdue Boilermakers,3-6,37.62,,81,-9,↓9,,,2509
+91,Oregon State Beavers,5-4,37.02,,78,-13,↓13,,,204
+92,Boston College Eagles,4-5,36.85,,80,-12,↓12,,,103
+93,Stanford Cardinal,4-5,36.24,,98,5,↑5,,,24
+94,NC State Wolfpack,4-5,36.02,,77,-17,↓17,,,152
+95,Tulane Green Wave,4-5,35.95,,83,-12,↓12,,,2655
+96,Utah State Aggies,4-5,35.4,,107,11,↑11,,,328
+97,San José State Spartans,5-5,35.33,,102,5,↑5,,,23
+98,East Carolina Pirates,5-4,35.28,,103,5,↑5,,,151
+99,UConn Huskies,4-5,35.12,,87,-12,↓12,,,41
+100,Arkansas Razorbacks,3-6,35.07,,89,-11,↓11,,,8
+101,Troy Trojans,4-5,33.73,,90,-11,↓11,,,2653
+102,South Alabama Jaguars,4-5,33.71,,91,-11,↓11,,,6
+103,Massachusetts Minutemen,5-4,33.46,,106,3,↑3,,,113
+104,Colorado Buffaloes,3-6,32.87,,93,-11,↓11,,,38
+105,Arkansas State Red Wolves,4-5,32.7,,92,-13,↓13,,,2032
+106,Central Michigan Chippewas,4-5,31.89,,121,15,↑15,,,2117
+107,Delaware Blue Hens,4-5,31.56,,97,-10,↓10,,,48
+108,Florida International Panthers,4-5,31.18,,113,5,↑5,,,2229
+109,Kansas Jayhawks,3-6,29.59,,105,-4,↓4,,,2305
+110,Navy Midshipmen,3-6,29.47,,123,13,↑13,,,2426
+111,San Diego State Aztecs,4-5,28.76,,115,4,↑4,,,21
+112,California Golden Bears,3-6,28.75,,109,-3,↓3,,,25
+113,Nevada Wolf Pack,3-6,26.15,,101,-12,↓12,,,2440
+114,Coastal Carolina Chanticleers,3-6,26.11,,110,-4,↓4,,,324
+115,Rutgers Scarlet Knights,2-7,25.36,,108,-7,↓7,,,164
+116,Southern Miss Golden Eagles,3-6,24.88,,116,0,—,,,2572
+117,Hawai'i Rainbow Warriors,3-6,24.42,,126,9,↑9,,,62
+118,Eastern Michigan Eagles,4-6,23.92,,111,-7,↓7,,,2199
+119,New Mexico State Aggies,3-6,23.59,,118,-1,↓1,,,166
+120,Western Kentucky Hilltoppers,3-6,23.58,,119,-1,↓1,,,98
+121,Missouri State Bears,3-6,23.57,,120,-1,↓1,,,2623
+122,Kennesaw State Owls,3-6,23.56,,125,3,↑3,,,338
+123,Kent State Golden Flashes,3-6,23.11,,127,4,↑4,,,2309
+124,Ball State Cardinals,3-6,23.1,,117,-7,↓7,,,2050
+125,Colorado State Rams,3-6,22.72,,114,-11,↓11,,,36
+126,Old Dominion Monarchs,3-7,21.37,,128,2,↑2,,,295
+127,Georgia Tech Yellow Jackets,2-7,20.49,,122,-5,↓5,,,59
+128,Temple Owls,2-7,19.58,,124,-4,↓4,,,218
+129,UL Monroe Warhawks,2-7,17.46,,130,1,↑1,,,2433
+130,Bowling Green Falcons,2-7,15.56,,129,-1,↓1,,,189
+131,Washington State Cougars,1-8,11.45,,136,5,↑5,,,265
+132,Sam Houston Bearkats,1-8,9.6,,131,-1,↓1,,,2534
+133,Sacramento State Hornets,2-8,9.12,,134,1,↑1,,,16
+134,UTEP Miners,1-8,8.89,,132,-2,↓2,,,2638
+135,Charlotte 49ers,1-8,8.57,,135,0,—,,,2429
+136,Rice Owls,1-8,7.85,,133,-3,↓3,,,242
+137,Akron Zips,1-8,7.75,,137,0,—,,,2006
+138,Northern Illinois Huskies,0-9,3.47,,138,0,—,,,2459
