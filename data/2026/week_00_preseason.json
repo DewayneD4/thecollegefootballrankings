@@ -1707,6 +1707,20 @@
     },
     {
       "rank": 95,
+      "id": "195",
+      "team": "Ohio Bobcats",
+      "record": "0-0",
+      "score": 34.0,
+      "ap_rank": null,
+      "prev_rank": null,
+      "move": null,
+      "move_label": "NR",
+      "move_dir": "new",
+      "biggest_win": null,
+      "biggest_win_game_points": null
+    },
+    {
+      "rank": 96,
       "id": "2711",
       "team": "Western Michigan Broncos",
       "record": "0-0",
@@ -1720,23 +1734,9 @@
       "biggest_win_game_points": null
     },
     {
-      "rank": 96,
+      "rank": 97,
       "id": "2084",
       "team": "Buffalo Bulls",
-      "record": "0-0",
-      "score": 34.0,
-      "ap_rank": null,
-      "prev_rank": null,
-      "move": null,
-      "move_label": "NR",
-      "move_dir": "new",
-      "biggest_win": null,
-      "biggest_win_game_points": null
-    },
-    {
-      "rank": 97,
-      "id": "195",
-      "team": "Ohio Bobcats",
       "record": "0-0",
       "score": 34.0,
       "ap_rank": null,

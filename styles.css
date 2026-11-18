@@ -159,3 +159,17 @@ td.bw { font-size: 0.82rem; max-width: 16rem; line-height: 1.3; color: #333; }
 @media (max-width: 900px) {
   td.bw { max-width: 11rem; }
 }
+
+/* conference standings page */
+.conf-block { margin: 1.6rem 0 2.2rem; }
+.conf-block h2 { margin-bottom: 0.35rem; }
+.conf-meta { font-size: 0.9rem; color: var(--muted); margin: 0.2rem 0 0.7rem; }
+table.conf td.pct { font-weight: 700; }
+table.conf tr.div-row td { background: #f3f1ec; font-weight: 700; color: var(--accent2);
+  font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; }
+table.conf tr.elim td { color: #9a9a9a; }
+table.conf tr.clinched td.team { font-weight: 700; }
+.ccg-bar { display: inline-block; height: 0.55rem; background: var(--accent2); border-radius: 3px;
+  vertical-align: middle; margin-right: 0.35rem; opacity: 0.75; }
+.clinch-mark { color: var(--good); font-weight: 700; }
+.table-scroll { overflow-x: auto; }
