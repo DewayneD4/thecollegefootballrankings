@@ -241,6 +241,74 @@ details.full-rank > summary { cursor: pointer; font-weight: 700; color: var(--ac
   .rcard .sub .bw .sep { display: none; }
 }
 
+/* conference standings panels + team cards (conferences page) */
+.conf-panel { background: #faf8f4; border: 1px solid var(--border); border-radius: 16px;
+  padding: 1rem 1.1rem 1.1rem; margin: 1.4rem 0 1.8rem; box-shadow: 0 1px 3px rgba(0,0,0,0.04); scroll-margin-top: 1rem; }
+.conf-panel .conf-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.2rem 0.8rem;
+  border-bottom: 2px solid var(--border); padding-bottom: 0.55rem; margin-bottom: 0.6rem; }
+.conf-panel .conf-head h2 { margin: 0; font-size: 1.35rem; }
+.conf-panel .conf-head .conf-tag { font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em;
+  color: var(--muted); background: #efece5; border-radius: 999px; padding: 0.12rem 0.55rem; }
+.conf-panel .conf-meta { flex-basis: 100%; margin: 0.15rem 0 0; font-size: 0.86rem; }
+.conf-panel .div-label { font-size: 0.74rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.1em;
+  color: var(--accent2); margin: 0.9rem 0 0.1rem 0.2rem; display: flex; align-items: center; gap: 0.5rem; }
+.conf-panel .div-label::after { content: ""; flex: 1; height: 1px; background: var(--border); }
+.conf-panel .rank-cards { gap: 0.45rem; }
+.ccard { overflow: visible; }
+.ccard:hover, .ccard:focus-within { transform: none; }
+.ccard::after { border-radius: 0 11px 11px 0; }
+.ccard-row, .ccols { display: grid; grid-template-columns: 1.3rem 2.3rem 38px minmax(0,1fr) 3.6rem 3.6rem 5.2rem 4.4rem;
+  align-items: center; gap: 0.7rem; padding: 0.5rem 1.1rem 0.5rem 0.6rem; }
+.ccard.indep .ccard-row, .ccols.indep { grid-template-columns: 1.3rem 2.3rem 38px minmax(0,1fr) 3.6rem 4.4rem; }
+.ccols { padding-top: 0; padding-bottom: 0.15rem; font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.07em;
+  color: var(--muted); font-weight: 700; border-left: 7px solid transparent; }
+.ccols span { text-align: right; } .ccols span.l { text-align: left; }
+.ccard .pos { font-family: var(--mono); font-size: 0.8rem; color: var(--muted); text-align: right; font-weight: 700; }
+.ccard .rk { width: 2.2rem; height: 2.2rem; font-size: 0.9rem; }
+.ccard .logo { width: 38px; height: 38px; } .ccard .logo img { width: 34px; height: 34px; }
+.ccard .main { line-height: 1.25; }
+.conf-panel .ccols { display: none; }
+.ccard .nshort { display: none; }
+.ccard .tn-wrap { display: inline; position: relative; }
+.ccard a.tname { display: inline; text-decoration: none; color: var(--ink); font-size: 1.02rem; }
+.ccard a.tname:hover { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.ccard a.tname:focus-visible { outline: 2px solid var(--accent2); outline-offset: 2px; border-radius: 3px; }
+.ccard .tname.plain { display: inline; }
+.ccard .tip-trigger.tip-i { text-decoration: none; display: inline-grid; place-items: center; width: 1.15rem; height: 1.15rem;
+  margin-left: 0.3rem; border-radius: 50%; border: 1.5px solid #8a96a8; color: #5d6b80; font-size: 0.7rem; font-weight: 800;
+  font-family: var(--sans); line-height: 1; vertical-align: 0.12em; cursor: help; background: #fff; }
+.ccard .tip-trigger.tip-i:hover, .ccard .tipwrap.open .tip-trigger.tip-i { background: #1e3a5f; border-color: #1e3a5f; color: #fff; }
+.ccard .tip { font-size: 0.82rem; }
+.ccard .clinch { display: inline-block; margin-left: 0.35rem; font-size: 0.68rem; font-weight: 800; text-transform: uppercase;
+  letter-spacing: 0.05em; color: var(--good); background: #e8f5ee; border-radius: 999px; padding: 0.08rem 0.45rem; vertical-align: 0.15em; }
+.ccard .stat b { font-size: 0.95rem; }
+.ccard .stat.ccg .bar { display: block; height: 4px; border-radius: 2px; background: #ece8df; margin: 0.2rem 0 0.1rem auto; width: 4.6rem; overflow: hidden; }
+.ccard .stat.ccg .bar i { display: block; height: 100%; background: var(--tc); border-radius: 2px; margin-left: auto; }
+.ccard.elim { opacity: 0.6; background-image: none; }
+.ccard.elim .logo img { filter: grayscale(1); }
+.ccard.elim .rk { background: #9a9a9a; color: #fff; }
+.ccard.champ { box-shadow: 0 0 0 2px var(--tc), 0 6px 16px rgba(0,0,0,0.08); }
+@media (max-width: 680px) {
+  .conf-panel { padding: 0.8rem 0.6rem 0.8rem; border-radius: 14px; }
+  .conf-panel .conf-head { padding: 0 0.3rem 0.5rem; }
+  .ccard-row, .ccols { grid-template-columns: 2rem 32px minmax(0,1fr) 3.9rem 3.3rem; gap: 0.5rem; padding: 0.5rem 0.7rem 0.5rem 0.45rem; }
+  .ccard.indep .ccard-row, .ccols.indep { grid-template-columns: 2rem 32px minmax(0,1fr) 3.3rem; }
+  .ccard .pos, .ccols .pos, .ccard .stat.crec, .ccard .stat.orec, .ccols .crec, .ccols .orec { display: none; }
+  .ccard.indep .stat.orec { display: block; } .ccols.indep .orec { display: inline; }
+  .ccard.indep .stat.rating, .ccols.indep .rating { display: none; }
+  .ccard .rk { width: 1.95rem; height: 1.95rem; font-size: 0.8rem; }
+  .ccard .logo { width: 32px; height: 32px; } .ccard .logo img { width: 30px; height: 30px; }
+  .ccard a.tname { font-size: 0.95rem; }
+  .ccard .stat.ccg .bar { width: 3.4rem; }
+  .ccard .clinch { font-size: 0.6rem; padding: 0.05rem 0.35rem; }
+  .ccard .sub .st { display: none; }
+  .ccard .nfull { display: none; } .ccard .nshort { display: inline; }
+  .ccard .sub .m-only .dot-end { display: none; }
+  .ccard .stat small { display: none; }
+  .conf-panel .ccols { display: grid; }
+  .ccard-row { padding-top: 0.45rem; padding-bottom: 0.45rem; }
+}
+
 /* team pages */
 .crumbs { font-size: 0.9rem; margin: 0.2rem 0 0.8rem; }
 .team-hero { display: flex; gap: 1.2rem; align-items: center; padding: 1.2rem 1.4rem; border-radius: 16px;
