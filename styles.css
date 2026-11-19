@@ -279,6 +279,20 @@ details.full-rank > summary { cursor: pointer; font-weight: 700; color: var(--ac
   font-family: var(--sans); line-height: 1; vertical-align: 0.12em; cursor: help; background: #fff; }
 .ccard .tip-trigger.tip-i:hover, .ccard .tipwrap.open .tip-trigger.tip-i { background: #1e3a5f; border-color: #1e3a5f; color: #fff; }
 .ccard .tip { font-size: 0.82rem; }
+.ccard .tip.tip-wide { max-width: min(30rem, calc(100vw - 16px)); max-height: min(70vh, 34rem); overflow-y: auto;
+  overscroll-behavior: contain; padding: 0.6rem 0.8rem 0.55rem; }
+.tipwrap.hold .tip { display: block; }
+.ccard .tip .th { font-weight: 800; margin-top: 0.5rem; padding-top: 0.4rem; border-top: 1px solid rgba(255,255,255,0.18);
+  font-size: 0.76rem; text-transform: uppercase; letter-spacing: 0.06em; color: #fff; }
+.ccard .tip .th .pp { text-transform: none; letter-spacing: 0; }
+.ccard .tip .pp { display: inline-block; background: rgba(255,255,255,0.16); border-radius: 4px; padding: 0 0.3rem;
+  font-family: var(--mono); font-size: 0.74rem; font-weight: 700; margin-right: 0.15rem; }
+.ccard .tip .tli { position: relative; padding-left: 0.85rem; margin-top: 0.18rem; }
+.ccard .tip .tli::before { content: "•"; position: absolute; left: 0.1rem; top: 0; opacity: 0.8; }
+.ccard .tip .tli.tbl::before { content: ""; }
+.ccard .tip em.tb { font-style: italic; color: #cfe0f5; }
+.ccard .tip .tmore { margin-top: 0.3rem; color: #cfe0f5; font-size: 0.76rem; }
+.ccard .tip .tfoot { margin-top: 0.45rem; font-size: 0.7rem; color: #b7c6da; line-height: 1.3; }
 .ccard .clinch { display: inline-block; margin-left: 0.35rem; font-size: 0.68rem; font-weight: 800; text-transform: uppercase;
   letter-spacing: 0.05em; color: var(--good); background: #e8f5ee; border-radius: 999px; padding: 0.08rem 0.45rem; vertical-align: 0.15em; }
 .ccard .stat b { font-size: 0.95rem; }

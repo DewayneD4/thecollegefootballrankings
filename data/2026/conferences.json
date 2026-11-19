@@ -2,7 +2,7 @@
  "season": 2026,
  "through_week": 11,
  "label": "2026 Week 11",
- "generated": "2026-11-19T19:13:19+00:00",
+ "generated": "2026-11-19T19:56:14+00:00",
  "generated_date": "2026-11-19",
  "n_sims": 20000,
  "seed": 20261,
@@ -83,7 +83,37 @@
      "path": [
       "Clinches with a win vs Georgia Tech (Nov 21).",
       "If it loses: 91%."
-     ]
+     ],
+     "path_detail": {
+      "kind": "destiny",
+      "heading": "Ways in after a loss",
+      "path": null,
+      "scenarios": [
+       {
+        "p": 0.234701,
+        "q": 1.0,
+        "conds": [
+         "Wake Forest beats Georgia Tech (Nov 21) but loses to Duke (Nov 27)"
+        ],
+        "text": "Wake Forest beats Georgia Tech (Nov 21) but loses to Duke (Nov 27)",
+        "p_txt": "23%",
+        "tb_txt": "via tiebreaker in 64% of outcomes"
+       },
+       {
+        "p": 0.12127,
+        "q": 1.0,
+        "conds": [
+         "Wake Forest beats Duke (Nov 27) but loses to Georgia Tech (Nov 21)"
+        ],
+        "text": "Wake Forest beats Duke (Nov 27) but loses to Georgia Tech (Nov 21)",
+        "p_txt": "12%",
+        "tb_txt": "via tiebreaker in 64% of outcomes"
+       }
+      ],
+      "more": 0,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "97",
@@ -108,7 +138,53 @@
      "path": [
       "Beats Pittsburgh: 5% to make it.",
       "Needs Georgia Tech to beat Wake Forest (Nov 21) and Duke to beat Wake Forest (Nov 27): 100% if both."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.030599,
+       "q": 1.0,
+       "conds": [
+        "Louisville beats Pittsburgh (Nov 21)",
+        "Wake Forest loses to Georgia Tech (Nov 21) and Duke (Nov 27)"
+       ],
+       "text": "Louisville beats Pittsburgh (Nov 21); Wake Forest loses to Georgia Tech (Nov 21) and Duke (Nov 27)",
+       "p_txt": "3.1%",
+       "tb_txt": ""
+      },
+      "scenarios": [
+       {
+        "p": 0.011253,
+        "q": 1.0,
+        "conds": [
+         "Duke beats Clemson (Nov 20)",
+         "Wake Forest loses to Georgia Tech (Nov 21) and Duke (Nov 27)",
+         "NC State loses to Florida State (Nov 21)",
+         "SMU loses to Stanford (Nov 27)"
+        ],
+        "text": "Duke beats Clemson (Nov 20); Wake Forest loses to Georgia Tech (Nov 21) and Duke (Nov 27); NC State loses to Florida State (Nov 21); SMU loses to Stanford (Nov 27)",
+        "p_txt": "1.1%",
+        "tb_txt": "via tiebreaker in 36% of outcomes"
+       },
+       {
+        "p": 0.01125,
+        "q": 1.0,
+        "conds": [
+         "Duke beats Clemson (Nov 20)",
+         "Wake Forest loses to Georgia Tech (Nov 21) and Duke (Nov 27)",
+         "SMU loses to Stanford (Nov 27)",
+         "NC State loses to North Carolina (Nov 28)"
+        ],
+        "text": "Duke beats Clemson (Nov 20); Wake Forest loses to Georgia Tech (Nov 21) and Duke (Nov 27); SMU loses to Stanford (Nov 27); NC State loses to North Carolina (Nov 28)",
+        "p_txt": "1.1%",
+        "tb_txt": "via tiebreaker in 36% of outcomes"
+       }
+      ],
+      "more": 0,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "2567",
@@ -181,7 +257,30 @@
      "path": [
       "Wins out: <1% to make it.",
       "Any loss and it's out."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.000261,
+       "q": 1.0,
+       "conds": [
+        "Duke beats Clemson (Nov 20) and Wake Forest (Nov 27)",
+        "Wake Forest loses to Georgia Tech (Nov 21)",
+        "Florida State loses to NC State (Nov 21)",
+        "Louisville loses to Pittsburgh (Nov 21)",
+        "SMU loses to Stanford (Nov 27)",
+        "North Carolina loses to NC State (Nov 28)"
+       ],
+       "text": "Duke beats Clemson (Nov 20) and Wake Forest (Nov 27); Wake Forest loses to Georgia Tech (Nov 21); Florida State loses to NC State (Nov 21); Louisville loses to Pittsburgh (Nov 21); SMU loses to Stanford (Nov 27); North Carolina loses to NC State (Nov 28)",
+       "p_txt": "<0.1%",
+       "tb_txt": "via tiebreaker"
+      },
+      "scenarios": [],
+      "more": 0,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "52",
@@ -494,7 +593,71 @@
       "Wins out: 85% to make it.",
       "If Tulane beats North Texas (Nov 21): 100%, else 73%.",
       "If UAB beats UTSA (Nov 21): 100%, else 74%."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.263762,
+       "q": 1.0,
+       "conds": [
+        "Memphis beats Navy (Nov 21) and Temple (Nov 27)",
+        "North Texas loses to Tulane (Nov 21)"
+       ],
+       "text": "Memphis beats Navy (Nov 21) and Temple (Nov 27); North Texas loses to Tulane (Nov 21)",
+       "p_txt": "26%",
+       "tb_txt": ""
+      },
+      "scenarios": [
+       {
+        "p": 0.259999,
+        "q": 1.0,
+        "conds": [
+         "Memphis beats Navy (Nov 21) and Temple (Nov 27)",
+         "UTSA loses to UAB (Nov 21)"
+        ],
+        "text": "Memphis beats Navy (Nov 21) and Temple (Nov 27); UTSA loses to UAB (Nov 21)",
+        "p_txt": "26%",
+        "tb_txt": ""
+       },
+       {
+        "p": 0.179562,
+        "q": 1.0,
+        "conds": [
+         "Memphis beats Navy (Nov 21) and Temple (Nov 27)",
+         "UTSA loses to Tulsa (Nov 27)"
+        ],
+        "text": "Memphis beats Navy (Nov 21) and Temple (Nov 27); UTSA loses to Tulsa (Nov 27)",
+        "p_txt": "18%",
+        "tb_txt": ""
+       },
+       {
+        "p": 0.177101,
+        "q": 1.0,
+        "conds": [
+         "Memphis beats Navy (Nov 21) and Temple (Nov 27)",
+         "North Texas loses to UAB (Nov 28)"
+        ],
+        "text": "Memphis beats Navy (Nov 21) and Temple (Nov 27); North Texas loses to UAB (Nov 28)",
+        "p_txt": "18%",
+        "tb_txt": ""
+       },
+       {
+        "p": 0.115489,
+        "q": 1.0,
+        "conds": [
+         "Memphis beats Temple (Nov 27)",
+         "North Texas loses to Tulane (Nov 21) and UAB (Nov 28)"
+        ],
+        "text": "Memphis beats Temple (Nov 27); North Texas loses to Tulane (Nov 21) and UAB (Nov 28)",
+        "p_txt": "12%",
+        "tb_txt": "via tiebreaker in 25% of outcomes"
+       }
+      ],
+      "more": 3,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "2636",
@@ -519,7 +682,67 @@
      "path": [
       "Controls its own destiny: win out and it's in.",
       "If it loses: 33%; best help: Navy over Memphis (Nov 21) (62%)."
-     ]
+     ],
+     "path_detail": {
+      "kind": "destiny",
+      "heading": "Ways in after a loss",
+      "path": null,
+      "scenarios": [
+       {
+        "p": 0.04801,
+        "q": 1.0,
+        "conds": [
+         "UTSA beats UAB (Nov 21) but loses to Tulsa (Nov 27)",
+         "Memphis beats Temple (Nov 27) but loses to Navy (Nov 21)"
+        ],
+        "text": "UTSA beats UAB (Nov 21) but loses to Tulsa (Nov 27); Memphis beats Temple (Nov 27) but loses to Navy (Nov 21)",
+        "p_txt": "4.8%",
+        "tb_txt": "via tiebreaker in 96% of outcomes"
+       },
+       {
+        "p": 0.03981,
+        "q": 1.0,
+        "conds": [
+         "UTSA beats Tulsa (Nov 27) but loses to UAB (Nov 21)",
+         "East Carolina loses to Army (Nov 21)",
+         "Memphis beats Temple (Nov 27) but loses to Navy (Nov 21)",
+         "UAB loses to North Texas (Nov 28)"
+        ],
+        "text": "UTSA beats Tulsa (Nov 27) but loses to UAB (Nov 21); East Carolina loses to Army (Nov 21); Memphis beats Temple (Nov 27) but loses to Navy (Nov 21); UAB loses to North Texas (Nov 28)",
+        "p_txt": "4%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.028503,
+        "q": 1.0,
+        "conds": [
+         "UTSA beats Tulsa (Nov 27) but loses to UAB (Nov 21)",
+         "East Carolina loses to Army (Nov 21)",
+         "Memphis loses to Navy (Nov 21)",
+         "North Texas loses to Tulane (Nov 21)"
+        ],
+        "text": "UTSA beats Tulsa (Nov 27) but loses to UAB (Nov 21); East Carolina loses to Army (Nov 21); Memphis loses to Navy (Nov 21); North Texas loses to Tulane (Nov 21)",
+        "p_txt": "2.9%",
+        "tb_txt": "via tiebreaker in 97% of outcomes"
+       },
+       {
+        "p": 0.025257,
+        "q": 1.0,
+        "conds": [
+         "UTSA beats Tulsa (Nov 27) but loses to UAB (Nov 21)",
+         "Memphis beats Temple (Nov 27) but loses to Navy (Nov 21)",
+         "East Carolina loses to Florida Atlantic (Nov 28)",
+         "UAB loses to North Texas (Nov 28)"
+        ],
+        "text": "UTSA beats Tulsa (Nov 27) but loses to UAB (Nov 21); Memphis beats Temple (Nov 27) but loses to Navy (Nov 21); East Carolina loses to Florida Atlantic (Nov 28); UAB loses to North Texas (Nov 28)",
+        "p_txt": "2.5%",
+        "tb_txt": "via tiebreaker"
+       }
+      ],
+      "more": 18,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "249",
@@ -544,7 +767,68 @@
      "path": [
       "Controls its own destiny: win out and it's in.",
       "If it loses: 22%; best help: Navy over Memphis (Nov 21) (47%)."
-     ]
+     ],
+     "path_detail": {
+      "kind": "destiny",
+      "heading": "Ways in after a loss",
+      "path": null,
+      "scenarios": [
+       {
+        "p": 0.034268,
+        "q": 1.0,
+        "conds": [
+         "North Texas beats UAB (Nov 28) but loses to Tulane (Nov 21)",
+         "Army loses to East Carolina (Nov 21)",
+         "Memphis loses to Navy (Nov 21)"
+        ],
+        "text": "North Texas beats UAB (Nov 28) but loses to Tulane (Nov 21); Army loses to East Carolina (Nov 21); Memphis loses to Navy (Nov 21)",
+        "p_txt": "3.4%",
+        "tb_txt": "via tiebreaker in 89% of outcomes"
+       },
+       {
+        "p": 0.027084,
+        "q": 1.0,
+        "conds": [
+         "North Texas beats UAB (Nov 28) but loses to Tulane (Nov 21)",
+         "Army loses to East Carolina (Nov 21)",
+         "UTSA loses to UAB (Nov 21)",
+         "Florida Atlantic loses to East Carolina (Nov 28)"
+        ],
+        "text": "North Texas beats UAB (Nov 28) but loses to Tulane (Nov 21); Army loses to East Carolina (Nov 21); UTSA loses to UAB (Nov 21); Florida Atlantic loses to East Carolina (Nov 28)",
+        "p_txt": "2.7%",
+        "tb_txt": "via tiebreaker in 99% of outcomes"
+       },
+       {
+        "p": 0.024752,
+        "q": 1.0,
+        "conds": [
+         "North Texas beats UAB (Nov 28) but loses to Tulane (Nov 21)",
+         "Memphis loses to Navy (Nov 21)",
+         "Army loses to Rice (Nov 28)"
+        ],
+        "text": "North Texas beats UAB (Nov 28) but loses to Tulane (Nov 21); Memphis loses to Navy (Nov 21); Army loses to Rice (Nov 28)",
+        "p_txt": "2.5%",
+        "tb_txt": "via tiebreaker in 81% of outcomes"
+       },
+       {
+        "p": 0.01644,
+        "q": 1.0,
+        "conds": [
+         "North Texas beats UAB (Nov 28) but loses to Tulane (Nov 21)",
+         "Army loses to East Carolina (Nov 21)",
+         "UTSA loses to Tulsa (Nov 27)",
+         "Memphis beats Temple (Nov 27)",
+         "Florida Atlantic loses to East Carolina (Nov 28)"
+        ],
+        "text": "North Texas beats UAB (Nov 28) but loses to Tulane (Nov 21); Army loses to East Carolina (Nov 21); UTSA loses to Tulsa (Nov 27); Memphis beats Temple (Nov 27); Florida Atlantic loses to East Carolina (Nov 28)",
+        "p_txt": "1.6%",
+        "tb_txt": "via tiebreaker"
+       }
+      ],
+      "more": 32,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "151",
@@ -569,7 +853,41 @@
      "path": [
       "Wins out: 2% to make it.",
       "Needs Temple to beat Memphis (Nov 27): 13% if so."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.002384,
+       "q": 1.0,
+       "conds": [
+        "East Carolina beats Army (Nov 21) and Florida Atlantic (Nov 28)",
+        "Memphis loses to Navy (Nov 21) and Temple (Nov 27)",
+        "UTSA loses to UAB (Nov 21)",
+        "UAB loses to North Texas (Nov 28)"
+       ],
+       "text": "East Carolina beats Army (Nov 21) and Florida Atlantic (Nov 28); Memphis loses to Navy (Nov 21) and Temple (Nov 27); UTSA loses to UAB (Nov 21); UAB loses to North Texas (Nov 28)",
+       "p_txt": "0.2%",
+       "tb_txt": "via tiebreaker in 70% of outcomes"
+      },
+      "scenarios": [
+       {
+        "p": 0.001022,
+        "q": 1.0,
+        "conds": [
+         "East Carolina beats Army (Nov 21) and Florida Atlantic (Nov 28)",
+         "Memphis loses to Navy (Nov 21) and Temple (Nov 27)",
+         "North Texas loses to Tulane (Nov 21) and UAB (Nov 28)"
+        ],
+        "text": "East Carolina beats Army (Nov 21) and Florida Atlantic (Nov 28); Memphis loses to Navy (Nov 21) and Temple (Nov 27); North Texas loses to Tulane (Nov 21) and UAB (Nov 28)",
+        "p_txt": "0.1%",
+        "tb_txt": "via tiebreaker in 30% of outcomes"
+       }
+      ],
+      "more": 6,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "349",
@@ -595,7 +913,81 @@
       "Wins out: 29% to make it.",
       "If Tulane beats North Texas (Nov 21): 58%, else 5%.",
       "If Tulsa beats UTSA (Nov 27): 46%, else 21%."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.067083,
+       "q": 1.0,
+       "conds": [
+        "Army beats East Carolina (Nov 21) and Rice (Nov 28)",
+        "North Texas loses to Tulane (Nov 21)",
+        "UTSA loses to UAB (Nov 21)",
+        "UAB loses to North Texas (Nov 28)"
+       ],
+       "text": "Army beats East Carolina (Nov 21) and Rice (Nov 28); North Texas loses to Tulane (Nov 21); UTSA loses to UAB (Nov 21); UAB loses to North Texas (Nov 28)",
+       "p_txt": "6.7%",
+       "tb_txt": "via tiebreaker in 99% of outcomes"
+      },
+      "scenarios": [
+       {
+        "p": 0.049479,
+        "q": 1.0,
+        "conds": [
+         "Army beats East Carolina (Nov 21) and Rice (Nov 28)",
+         "Memphis loses to Navy (Nov 21)",
+         "North Texas loses to Tulane (Nov 21)",
+         "UAB loses to North Texas (Nov 28)"
+        ],
+        "text": "Army beats East Carolina (Nov 21) and Rice (Nov 28); Memphis loses to Navy (Nov 21); North Texas loses to Tulane (Nov 21); UAB loses to North Texas (Nov 28)",
+        "p_txt": "4.9%",
+        "tb_txt": "via tiebreaker in 98% of outcomes"
+       },
+       {
+        "p": 0.046329,
+        "q": 1.0,
+        "conds": [
+         "Army beats East Carolina (Nov 21) and Rice (Nov 28)",
+         "North Texas loses to Tulane (Nov 21)",
+         "UTSA loses to Tulsa (Nov 27)",
+         "UAB loses to North Texas (Nov 28)"
+        ],
+        "text": "Army beats East Carolina (Nov 21) and Rice (Nov 28); North Texas loses to Tulane (Nov 21); UTSA loses to Tulsa (Nov 27); UAB loses to North Texas (Nov 28)",
+        "p_txt": "4.6%",
+        "tb_txt": "via tiebreaker in 98% of outcomes"
+       },
+       {
+        "p": 0.018625,
+        "q": 1.0,
+        "conds": [
+         "Army beats East Carolina (Nov 21) and Rice (Nov 28)",
+         "North Texas loses to Tulane (Nov 21)",
+         "Memphis loses to Temple (Nov 27)",
+         "UAB loses to North Texas (Nov 28)"
+        ],
+        "text": "Army beats East Carolina (Nov 21) and Rice (Nov 28); North Texas loses to Tulane (Nov 21); Memphis loses to Temple (Nov 27); UAB loses to North Texas (Nov 28)",
+        "p_txt": "1.9%",
+        "tb_txt": "via tiebreaker in 96% of outcomes"
+       },
+       {
+        "p": 0.004078,
+        "q": 1.0,
+        "conds": [
+         "Army beats East Carolina (Nov 21) and Rice (Nov 28)",
+         "Memphis loses to Navy (Nov 21) and Temple (Nov 27)",
+         "UTSA loses to Tulsa (Nov 27)",
+         "UAB loses to North Texas (Nov 28)"
+        ],
+        "text": "Army beats East Carolina (Nov 21) and Rice (Nov 28); Memphis loses to Navy (Nov 21) and Temple (Nov 27); UTSA loses to Tulsa (Nov 27); UAB loses to North Texas (Nov 28)",
+        "p_txt": "0.4%",
+        "tb_txt": "via tiebreaker in 56% of outcomes"
+       }
+      ],
+      "more": 29,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "5",
@@ -621,7 +1013,75 @@
       "Wins out: 81% to make it.",
       "If North Texas beats Tulane (Nov 21): 99%, else 56%.",
       "If East Carolina beats Army (Nov 21): 96%, else 73%."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.049393,
+       "q": 1.0,
+       "conds": [
+        "UAB beats UTSA (Nov 21) and North Texas (Nov 28)",
+        "Rice loses to Temple (Nov 19)",
+        "Tulane loses to North Texas (Nov 21)"
+       ],
+       "text": "UAB beats UTSA (Nov 21) and North Texas (Nov 28); Rice loses to Temple (Nov 19); Tulane loses to North Texas (Nov 21)",
+       "p_txt": "4.9%",
+       "tb_txt": "via tiebreaker"
+      },
+      "scenarios": [
+       {
+        "p": 0.047413,
+        "q": 1.0,
+        "conds": [
+         "UAB beats UTSA (Nov 21) and North Texas (Nov 28)",
+         "Tulane loses to North Texas (Nov 21) and South Florida (Nov 28)"
+        ],
+        "text": "UAB beats UTSA (Nov 21) and North Texas (Nov 28); Tulane loses to North Texas (Nov 21) and South Florida (Nov 28)",
+        "p_txt": "4.7%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.042103,
+        "q": 1.0,
+        "conds": [
+         "UAB beats UTSA (Nov 21) and North Texas (Nov 28)",
+         "Tulane loses to North Texas (Nov 21)",
+         "Florida Atlantic loses to East Carolina (Nov 28)"
+        ],
+        "text": "UAB beats UTSA (Nov 21) and North Texas (Nov 28); Tulane loses to North Texas (Nov 21); Florida Atlantic loses to East Carolina (Nov 28)",
+        "p_txt": "4.2%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.033872,
+        "q": 1.0,
+        "conds": [
+         "UAB beats UTSA (Nov 21) and North Texas (Nov 28)",
+         "Tulane loses to North Texas (Nov 21)",
+         "Florida Atlantic loses to South Florida (Nov 21)"
+        ],
+        "text": "UAB beats UTSA (Nov 21) and North Texas (Nov 28); Tulane loses to North Texas (Nov 21); Florida Atlantic loses to South Florida (Nov 21)",
+        "p_txt": "3.4%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.026459,
+        "q": 1.0,
+        "conds": [
+         "UAB beats UTSA (Nov 21) and North Texas (Nov 28)",
+         "Army loses to East Carolina (Nov 21)",
+         "Memphis beats Navy (Nov 21) and Temple (Nov 27)"
+        ],
+        "text": "UAB beats UTSA (Nov 21) and North Texas (Nov 28); Army loses to East Carolina (Nov 21); Memphis beats Navy (Nov 21) and Temple (Nov 27)",
+        "p_txt": "2.6%",
+        "tb_txt": "via tiebreaker in 94% of outcomes"
+       }
+      ],
+      "more": 12,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "202",
@@ -646,7 +1106,33 @@
      "path": [
       "Wins out: <1% to make it.",
       "Any loss and it's out."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 1.4e-05,
+       "q": 1.0,
+       "conds": [
+        "Tulsa beats Charlotte (Nov 21) and UTSA (Nov 27)",
+        "East Carolina loses to Army (Nov 21) and Florida Atlantic (Nov 28)",
+        "Memphis loses to Navy (Nov 21) and Temple (Nov 27)",
+        "Florida Atlantic beats South Florida (Nov 21)",
+        "UTSA loses to UAB (Nov 21)",
+        "Navy loses to Charlotte (Nov 28)",
+        "Army loses to Rice (Nov 28)",
+        "Tulane beats South Florida (Nov 28)",
+        "UAB loses to North Texas (Nov 28)"
+       ],
+       "text": "Tulsa beats Charlotte (Nov 21) and UTSA (Nov 27); East Carolina loses to Army (Nov 21) and Florida Atlantic (Nov 28); Memphis loses to Navy (Nov 21) and Temple (Nov 27); Florida Atlantic beats South Florida (Nov 21); UTSA loses to UAB (Nov 21); Navy loses to Charlotte (Nov 28); Army loses to Rice (Nov 28); Tulane beats South Florida (Nov 28); UAB loses to North Texas (Nov 28)",
+       "p_txt": "<0.1%",
+       "tb_txt": "via tiebreaker"
+      },
+      "scenarios": [],
+      "more": 11,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "2226",
@@ -671,7 +1157,31 @@
      "path": [
       "Wins out: <1% to make it.",
       "Any loss and it's out."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.000154,
+       "q": 1.0,
+       "conds": [
+        "Florida Atlantic beats South Florida (Nov 21) and East Carolina (Nov 28)",
+        "Army loses to East Carolina (Nov 21)",
+        "Memphis loses to Navy (Nov 21) and Temple (Nov 27)",
+        "Tulsa beats Charlotte (Nov 21)",
+        "UTSA loses to UAB (Nov 21) and Tulsa (Nov 27)",
+        "Tulane loses to South Florida (Nov 28)",
+        "UAB loses to North Texas (Nov 28)"
+       ],
+       "text": "Florida Atlantic beats South Florida (Nov 21) and East Carolina (Nov 28); Army loses to East Carolina (Nov 21); Memphis loses to Navy (Nov 21) and Temple (Nov 27); Tulsa beats Charlotte (Nov 21); UTSA loses to UAB (Nov 21) and Tulsa (Nov 27); Tulane loses to South Florida (Nov 28); UAB loses to North Texas (Nov 28)",
+       "p_txt": "<0.1%",
+       "tb_txt": "via tiebreaker"
+      },
+      "scenarios": [],
+      "more": 26,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "2655",
@@ -696,7 +1206,33 @@
      "path": [
       "Wins out: <1% to make it.",
       "Any loss and it's out."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 1.4e-05,
+       "q": 1.0,
+       "conds": [
+        "Tulane beats North Texas (Nov 21) and South Florida (Nov 28)",
+        "Temple loses to Rice (Nov 19)",
+        "East Carolina loses to Army (Nov 21)",
+        "Memphis loses to Navy (Nov 21) and Temple (Nov 27)",
+        "Tulsa beats Charlotte (Nov 21) but loses to UTSA (Nov 27)",
+        "Florida Atlantic loses to South Florida (Nov 21)",
+        "UAB loses to UTSA (Nov 21)",
+        "Army loses to Rice (Nov 28)",
+        "North Texas loses to UAB (Nov 28)"
+       ],
+       "text": "Tulane beats North Texas (Nov 21) and South Florida (Nov 28); Temple loses to Rice (Nov 19); East Carolina loses to Army (Nov 21); Memphis loses to Navy (Nov 21) and Temple (Nov 27); Tulsa beats Charlotte (Nov 21) but loses to UTSA (Nov 27); Florida Atlantic loses to South Florida (Nov 21); UAB loses to UTSA (Nov 21); Army loses to Rice (Nov 28); North Texas loses to UAB (Nov 28)",
+       "p_txt": "<0.1%",
+       "tb_txt": "via tiebreaker"
+      },
+      "scenarios": [],
+      "more": 18,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "58",
@@ -864,7 +1400,49 @@
      "path": [
       "Clinches with a win vs TCU (Nov 21).",
       "If it loses: 97%."
-     ]
+     ],
+     "path_detail": {
+      "kind": "destiny",
+      "heading": "Ways in after a loss",
+      "path": null,
+      "scenarios": [
+       {
+        "p": 0.171454,
+        "q": 1.0,
+        "conds": [
+         "Utah beats West Virginia (Nov 27) but loses to TCU (Nov 21)"
+        ],
+        "text": "Utah beats West Virginia (Nov 27) but loses to TCU (Nov 21)",
+        "p_txt": "17%",
+        "tb_txt": ""
+       },
+       {
+        "p": 0.12328,
+        "q": 1.0,
+        "conds": [
+         "Utah beats TCU (Nov 21) but loses to West Virginia (Nov 27)"
+        ],
+        "text": "Utah beats TCU (Nov 21) but loses to West Virginia (Nov 27)",
+        "p_txt": "12%",
+        "tb_txt": ""
+       },
+       {
+        "p": 0.102322,
+        "q": 1.0,
+        "conds": [
+         "Utah loses to TCU (Nov 21)",
+         "Baylor loses to Texas Tech (Nov 21)",
+         "Texas Tech beats TCU (Nov 26)"
+        ],
+        "text": "Utah loses to TCU (Nov 21); Baylor loses to Texas Tech (Nov 21); Texas Tech beats TCU (Nov 26)",
+        "p_txt": "10%",
+        "tb_txt": "via tiebreaker in 9.6% of outcomes"
+       }
+      ],
+      "more": 0,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "2641",
@@ -889,7 +1467,61 @@
      "path": [
       "Controls its own destiny: win out and it's in.",
       "If it loses: 35%; best help: Kansas over BYU (Nov 21) (88%)."
-     ]
+     ],
+     "path_detail": {
+      "kind": "destiny",
+      "heading": "Ways in after a loss",
+      "path": null,
+      "scenarios": [
+       {
+        "p": 0.077417,
+        "q": 1.0,
+        "conds": [
+         "Texas Tech beats TCU (Nov 26) but loses to Baylor (Nov 21)",
+         "BYU loses to Kansas (Nov 21)"
+        ],
+        "text": "Texas Tech beats TCU (Nov 26) but loses to Baylor (Nov 21); BYU loses to Kansas (Nov 21)",
+        "p_txt": "7.7%",
+        "tb_txt": ""
+       },
+       {
+        "p": 0.05968,
+        "q": 1.0,
+        "conds": [
+         "Texas Tech beats TCU (Nov 26) but loses to Baylor (Nov 21)",
+         "BYU loses to Cincinnati (Nov 28)"
+        ],
+        "text": "Texas Tech beats TCU (Nov 26) but loses to Baylor (Nov 21); BYU loses to Cincinnati (Nov 28)",
+        "p_txt": "6%",
+        "tb_txt": ""
+       },
+       {
+        "p": 0.024442,
+        "q": 1.0,
+        "conds": [
+         "Texas Tech beats Baylor (Nov 21) but loses to TCU (Nov 26)",
+         "BYU loses to Kansas (Nov 21)"
+        ],
+        "text": "Texas Tech beats Baylor (Nov 21) but loses to TCU (Nov 26); BYU loses to Kansas (Nov 21)",
+        "p_txt": "2.4%",
+        "tb_txt": ""
+       },
+       {
+        "p": 0.018843,
+        "q": 1.0,
+        "conds": [
+         "Texas Tech beats Baylor (Nov 21) but loses to TCU (Nov 26)",
+         "BYU loses to Cincinnati (Nov 28)"
+        ],
+        "text": "Texas Tech beats Baylor (Nov 21) but loses to TCU (Nov 26); BYU loses to Cincinnati (Nov 28)",
+        "p_txt": "1.9%",
+        "tb_txt": ""
+       }
+      ],
+      "more": 0,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "252",
@@ -915,7 +1547,38 @@
       "Wins out: 49% to make it.",
       "If Baylor beats Texas Tech (Nov 21): 100%, else 16%.",
       "If TCU beats Texas Tech (Nov 26): 100%, else 39%."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.244555,
+       "q": 1.0,
+       "conds": [
+        "BYU beats Kansas (Nov 21) and Cincinnati (Nov 28)",
+        "Texas Tech loses to Baylor (Nov 21)"
+       ],
+       "text": "BYU beats Kansas (Nov 21) and Cincinnati (Nov 28); Texas Tech loses to Baylor (Nov 21)",
+       "p_txt": "24%",
+       "tb_txt": "via tiebreaker in 83% of outcomes"
+      },
+      "scenarios": [
+       {
+        "p": 0.105571,
+        "q": 1.0,
+        "conds": [
+         "BYU beats Kansas (Nov 21) and Cincinnati (Nov 28)",
+         "Texas Tech loses to TCU (Nov 26)"
+        ],
+        "text": "BYU beats Kansas (Nov 21) and Cincinnati (Nov 28); Texas Tech loses to TCU (Nov 26)",
+        "p_txt": "11%",
+        "tb_txt": "via tiebreaker in 61% of outcomes"
+       }
+      ],
+      "more": 0,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "12",
@@ -940,7 +1603,31 @@
      "path": [
       "Wins out: <1% to make it.",
       "Any loss and it's out."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.000557,
+       "q": 1.0,
+       "conds": [
+        "Arizona beats Kansas State (Nov 21) and Arizona State (Nov 28)",
+        "BYU beats Kansas (Nov 21) but loses to Cincinnati (Nov 28)",
+        "Houston beats West Virginia (Nov 21)",
+        "Texas Tech loses to Baylor (Nov 21) and TCU (Nov 26)",
+        "Oklahoma State loses to Arizona State (Nov 21)",
+        "Kansas State loses to Iowa State (Nov 28)",
+        "Baylor loses to Houston (Nov 28)"
+       ],
+       "text": "Arizona beats Kansas State (Nov 21) and Arizona State (Nov 28); BYU beats Kansas (Nov 21) but loses to Cincinnati (Nov 28); Houston beats West Virginia (Nov 21); Texas Tech loses to Baylor (Nov 21) and TCU (Nov 26); Oklahoma State loses to Arizona State (Nov 21); Kansas State loses to Iowa State (Nov 28); Baylor loses to Houston (Nov 28)",
+       "p_txt": "<0.1%",
+       "tb_txt": "via tiebreaker"
+      },
+      "scenarios": [],
+      "more": 26,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "9",
@@ -989,7 +1676,42 @@
      "path": [
       "Wins out: <1% to make it.",
       "Any loss and it's out."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.000333,
+       "q": 1.0,
+       "conds": [
+        "Baylor beats Texas Tech (Nov 21) and Houston (Nov 28)",
+        "BYU loses to Kansas (Nov 21) and Cincinnati (Nov 28)",
+        "Texas Tech loses to TCU (Nov 26)",
+        "Arizona loses to Arizona State (Nov 28)"
+       ],
+       "text": "Baylor beats Texas Tech (Nov 21) and Houston (Nov 28); BYU loses to Kansas (Nov 21) and Cincinnati (Nov 28); Texas Tech loses to TCU (Nov 26); Arizona loses to Arizona State (Nov 28)",
+       "p_txt": "<0.1%",
+       "tb_txt": "via tiebreaker"
+      },
+      "scenarios": [
+       {
+        "p": 0.000333,
+        "q": 1.0,
+        "conds": [
+         "Baylor beats Texas Tech (Nov 21) and Houston (Nov 28)",
+         "BYU loses to Kansas (Nov 21) and Cincinnati (Nov 28)",
+         "Arizona loses to Kansas State (Nov 21)",
+         "Texas Tech loses to TCU (Nov 26)"
+        ],
+        "text": "Baylor beats Texas Tech (Nov 21) and Houston (Nov 28); BYU loses to Kansas (Nov 21) and Cincinnati (Nov 28); Arizona loses to Kansas State (Nov 21); Texas Tech loses to TCU (Nov 26)",
+        "p_txt": "<0.1%",
+        "tb_txt": "via tiebreaker"
+       }
+      ],
+      "more": 6,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "248",
@@ -1014,7 +1736,29 @@
      "path": [
       "Wins out: 1% to make it.",
       "Any loss and it's out."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.000811,
+       "q": 1.0,
+       "conds": [
+        "Houston beats West Virginia (Nov 21) and Baylor (Nov 28)",
+        "BYU beats Cincinnati (Nov 28) but loses to Kansas (Nov 21)",
+        "Texas Tech loses to Baylor (Nov 21) and TCU (Nov 26)",
+        "Oklahoma State loses to Arizona State (Nov 21)",
+        "Arizona loses to Arizona State (Nov 28)"
+       ],
+       "text": "Houston beats West Virginia (Nov 21) and Baylor (Nov 28); BYU beats Cincinnati (Nov 28) but loses to Kansas (Nov 21); Texas Tech loses to Baylor (Nov 21) and TCU (Nov 26); Oklahoma State loses to Arizona State (Nov 21); Arizona loses to Arizona State (Nov 28)",
+       "p_txt": "<0.1%",
+       "tb_txt": "via tiebreaker"
+      },
+      "scenarios": [],
+      "more": 32,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "197",
@@ -1278,7 +2022,37 @@
      "path": [
       "Clinches with a win vs Michigan (Nov 21).",
       "If it loses: 92%."
-     ]
+     ],
+     "path_detail": {
+      "kind": "destiny",
+      "heading": "Ways in after a loss",
+      "path": null,
+      "scenarios": [
+       {
+        "p": 0.203302,
+        "q": 1.0,
+        "conds": [
+         "UCLA beats Michigan (Nov 21) but loses to USC (Nov 28)"
+        ],
+        "text": "UCLA beats Michigan (Nov 21) but loses to USC (Nov 28)",
+        "p_txt": "20%",
+        "tb_txt": ""
+       },
+       {
+        "p": 0.165873,
+        "q": 1.0,
+        "conds": [
+         "UCLA beats USC (Nov 28) but loses to Michigan (Nov 21)"
+        ],
+        "text": "UCLA beats USC (Nov 28) but loses to Michigan (Nov 21)",
+        "p_txt": "17%",
+        "tb_txt": ""
+       }
+      ],
+      "more": 0,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "84",
@@ -1303,7 +2077,67 @@
      "path": [
       "Controls its own destiny: win out and it's in.",
       "If it loses: 16%; best help: Michigan State over Oregon (Nov 20) (36%)."
-     ]
+     ],
+     "path_detail": {
+      "kind": "destiny",
+      "heading": "Ways in after a loss",
+      "path": null,
+      "scenarios": [
+       {
+        "p": 0.012006,
+        "q": 1.0,
+        "conds": [
+         "Indiana beats Purdue (Nov 27) but loses to Washington (Nov 21)",
+         "Oregon loses to Michigan State (Nov 20)",
+         "Ohio State loses to Nebraska (Nov 21)",
+         "Iowa loses to Illinois (Nov 21)"
+        ],
+        "text": "Indiana beats Purdue (Nov 27) but loses to Washington (Nov 21); Oregon loses to Michigan State (Nov 20); Ohio State loses to Nebraska (Nov 21); Iowa loses to Illinois (Nov 21)",
+        "p_txt": "1.2%",
+        "tb_txt": ""
+       },
+       {
+        "p": 0.011544,
+        "q": 1.0,
+        "conds": [
+         "Indiana beats Purdue (Nov 27) but loses to Washington (Nov 21)",
+         "Ohio State loses to Nebraska (Nov 21)",
+         "Iowa loses to Illinois (Nov 21)",
+         "Oregon loses to Washington (Nov 27)"
+        ],
+        "text": "Indiana beats Purdue (Nov 27) but loses to Washington (Nov 21); Ohio State loses to Nebraska (Nov 21); Iowa loses to Illinois (Nov 21); Oregon loses to Washington (Nov 27)",
+        "p_txt": "1.2%",
+        "tb_txt": ""
+       },
+       {
+        "p": 0.008506,
+        "q": 1.0,
+        "conds": [
+         "Indiana beats Purdue (Nov 27) but loses to Washington (Nov 21)",
+         "Iowa loses to Illinois (Nov 21)",
+         "UCLA loses to Michigan (Nov 21) and USC (Nov 28)"
+        ],
+        "text": "Indiana beats Purdue (Nov 27) but loses to Washington (Nov 21); Iowa loses to Illinois (Nov 21); UCLA loses to Michigan (Nov 21) and USC (Nov 28)",
+        "p_txt": "0.9%",
+        "tb_txt": "via tiebreaker in 80% of outcomes"
+       },
+       {
+        "p": 0.006788,
+        "q": 1.0,
+        "conds": [
+         "Indiana beats Purdue (Nov 27) but loses to Washington (Nov 21)",
+         "Ohio State loses to Nebraska (Nov 21)",
+         "UCLA loses to Michigan (Nov 21) and USC (Nov 28)"
+        ],
+        "text": "Indiana beats Purdue (Nov 27) but loses to Washington (Nov 21); Ohio State loses to Nebraska (Nov 21); UCLA loses to Michigan (Nov 21) and USC (Nov 28)",
+        "p_txt": "0.7%",
+        "tb_txt": "via tiebreaker in 77% of outcomes"
+       }
+      ],
+      "more": 11,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "194",
@@ -1329,7 +2163,81 @@
       "Wins out: 26% to make it.",
       "If Washington beats Indiana (Nov 21): 61%, else 8%.",
       "If Purdue beats Indiana (Nov 27): 61%, else 21%."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.063659,
+       "q": 1.0,
+       "conds": [
+        "Ohio State beats Nebraska (Nov 21) and Michigan (Nov 28)",
+        "Illinois loses to Iowa (Nov 21)",
+        "Indiana loses to Washington (Nov 21)",
+        "Iowa beats Nebraska (Nov 27)"
+       ],
+       "text": "Ohio State beats Nebraska (Nov 21) and Michigan (Nov 28); Illinois loses to Iowa (Nov 21); Indiana loses to Washington (Nov 21); Iowa beats Nebraska (Nov 27)",
+       "p_txt": "6.4%",
+       "tb_txt": "via tiebreaker"
+      },
+      "scenarios": [
+       {
+        "p": 0.0274,
+        "q": 1.0,
+        "conds": [
+         "Ohio State beats Nebraska (Nov 21) and Michigan (Nov 28)",
+         "Oregon loses to Michigan State (Nov 20)",
+         "Indiana loses to Washington (Nov 21)",
+         "UCLA beats Michigan (Nov 21)"
+        ],
+        "text": "Ohio State beats Nebraska (Nov 21) and Michigan (Nov 28); Oregon loses to Michigan State (Nov 20); Indiana loses to Washington (Nov 21); UCLA beats Michigan (Nov 21)",
+        "p_txt": "2.7%",
+        "tb_txt": "via tiebreaker in 93% of outcomes"
+       },
+       {
+        "p": 0.026345,
+        "q": 1.0,
+        "conds": [
+         "Ohio State beats Nebraska (Nov 21) and Michigan (Nov 28)",
+         "Indiana loses to Washington (Nov 21)",
+         "UCLA beats Michigan (Nov 21)",
+         "Oregon loses to Washington (Nov 27)"
+        ],
+        "text": "Ohio State beats Nebraska (Nov 21) and Michigan (Nov 28); Indiana loses to Washington (Nov 21); UCLA beats Michigan (Nov 21); Oregon loses to Washington (Nov 27)",
+        "p_txt": "2.6%",
+        "tb_txt": "via tiebreaker in 93% of outcomes"
+       },
+       {
+        "p": 0.026077,
+        "q": 1.0,
+        "conds": [
+         "Ohio State beats Nebraska (Nov 21) and Michigan (Nov 28)",
+         "Oregon loses to Michigan State (Nov 20)",
+         "Indiana loses to Washington (Nov 21)",
+         "USC loses to UCLA (Nov 28)"
+        ],
+        "text": "Ohio State beats Nebraska (Nov 21) and Michigan (Nov 28); Oregon loses to Michigan State (Nov 20); Indiana loses to Washington (Nov 21); USC loses to UCLA (Nov 28)",
+        "p_txt": "2.6%",
+        "tb_txt": "via tiebreaker in 93% of outcomes"
+       },
+       {
+        "p": 0.025073,
+        "q": 1.0,
+        "conds": [
+         "Ohio State beats Nebraska (Nov 21) and Michigan (Nov 28)",
+         "Indiana loses to Washington (Nov 21)",
+         "Oregon loses to Washington (Nov 27)",
+         "USC loses to UCLA (Nov 28)"
+        ],
+        "text": "Ohio State beats Nebraska (Nov 21) and Michigan (Nov 28); Indiana loses to Washington (Nov 21); Oregon loses to Washington (Nov 27); USC loses to UCLA (Nov 28)",
+        "p_txt": "2.5%",
+        "tb_txt": "via tiebreaker in 93% of outcomes"
+       }
+      ],
+      "more": 2,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "2483",
@@ -1355,7 +2263,77 @@
       "Wins out: 35% to make it.",
       "If Washington beats Indiana (Nov 21): 82%, else 10%.",
       "If Purdue beats Indiana (Nov 27): 84%, else 29%."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.100409,
+       "q": 1.0,
+       "conds": [
+        "Oregon beats Michigan State (Nov 20) and Washington (Nov 27)",
+        "Iowa loses to Illinois (Nov 21)",
+        "Indiana loses to Washington (Nov 21)"
+       ],
+       "text": "Oregon beats Michigan State (Nov 20) and Washington (Nov 27); Iowa loses to Illinois (Nov 21); Indiana loses to Washington (Nov 21)",
+       "p_txt": "10%",
+       "tb_txt": "via tiebreaker in 94% of outcomes"
+      },
+      "scenarios": [
+       {
+        "p": 0.071399,
+        "q": 1.0,
+        "conds": [
+         "Oregon beats Michigan State (Nov 20) and Washington (Nov 27)",
+         "Ohio State loses to Nebraska (Nov 21)",
+         "Indiana beats Purdue (Nov 27) but loses to Washington (Nov 21)"
+        ],
+        "text": "Oregon beats Michigan State (Nov 20) and Washington (Nov 27); Ohio State loses to Nebraska (Nov 21); Indiana beats Purdue (Nov 27) but loses to Washington (Nov 21)",
+        "p_txt": "7.1%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.059117,
+        "q": 1.0,
+        "conds": [
+         "Oregon beats Michigan State (Nov 20) and Washington (Nov 27)",
+         "Ohio State loses to Nebraska (Nov 21)",
+         "Indiana loses to Washington (Nov 21)",
+         "USC loses to UCLA (Nov 28)"
+        ],
+        "text": "Oregon beats Michigan State (Nov 20) and Washington (Nov 27); Ohio State loses to Nebraska (Nov 21); Indiana loses to Washington (Nov 21); USC loses to UCLA (Nov 28)",
+        "p_txt": "5.9%",
+        "tb_txt": "via tiebreaker in 93% of outcomes"
+       },
+       {
+        "p": 0.051648,
+        "q": 1.0,
+        "conds": [
+         "Oregon beats Michigan State (Nov 20) and Washington (Nov 27)",
+         "Indiana loses to Washington (Nov 21)",
+         "Iowa loses to Nebraska (Nov 27)"
+        ],
+        "text": "Oregon beats Michigan State (Nov 20) and Washington (Nov 27); Indiana loses to Washington (Nov 21); Iowa loses to Nebraska (Nov 27)",
+        "p_txt": "5.2%",
+        "tb_txt": "via tiebreaker in 94% of outcomes"
+       },
+       {
+        "p": 0.039338,
+        "q": 1.0,
+        "conds": [
+         "Oregon beats Michigan State (Nov 20) and Washington (Nov 27)",
+         "Indiana beats Purdue (Nov 27) but loses to Washington (Nov 21)",
+         "Ohio State loses to Michigan (Nov 28)"
+        ],
+        "text": "Oregon beats Michigan State (Nov 20) and Washington (Nov 27); Indiana beats Purdue (Nov 27) but loses to Washington (Nov 21); Ohio State loses to Michigan (Nov 28)",
+        "p_txt": "3.9%",
+        "tb_txt": "via tiebreaker"
+       }
+      ],
+      "more": 5,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "2294",
@@ -1381,7 +2359,88 @@
       "Wins out: 8% to make it.",
       "If Washington beats Indiana (Nov 21): 19%, else 2%.",
       "If Washington beats Oregon (Nov 27): 16%, else 5%."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.008136,
+       "q": 1.0,
+       "conds": [
+        "Iowa beats Illinois (Nov 21) and Nebraska (Nov 27)",
+        "Ohio State loses to Nebraska (Nov 21)",
+        "Indiana loses to Washington (Nov 21)",
+        "UCLA beats Michigan (Nov 21)",
+        "Oregon loses to Washington (Nov 27)"
+       ],
+       "text": "Iowa beats Illinois (Nov 21) and Nebraska (Nov 27); Ohio State loses to Nebraska (Nov 21); Indiana loses to Washington (Nov 21); UCLA beats Michigan (Nov 21); Oregon loses to Washington (Nov 27)",
+       "p_txt": "0.8%",
+       "tb_txt": "via tiebreaker in 89% of outcomes"
+      },
+      "scenarios": [
+       {
+        "p": 0.007744,
+        "q": 1.0,
+        "conds": [
+         "Iowa beats Illinois (Nov 21) and Nebraska (Nov 27)",
+         "Ohio State loses to Nebraska (Nov 21)",
+         "Indiana loses to Washington (Nov 21)",
+         "Oregon loses to Washington (Nov 27)",
+         "USC loses to UCLA (Nov 28)"
+        ],
+        "text": "Iowa beats Illinois (Nov 21) and Nebraska (Nov 27); Ohio State loses to Nebraska (Nov 21); Indiana loses to Washington (Nov 21); Oregon loses to Washington (Nov 27); USC loses to UCLA (Nov 28)",
+        "p_txt": "0.8%",
+        "tb_txt": "via tiebreaker in 89% of outcomes"
+       },
+       {
+        "p": 0.005597,
+        "q": 1.0,
+        "conds": [
+         "Iowa beats Illinois (Nov 21) and Nebraska (Nov 27)",
+         "Oregon loses to Michigan State (Nov 20)",
+         "Ohio State loses to Nebraska (Nov 21)",
+         "Indiana loses to Washington (Nov 21)",
+         "UCLA beats Michigan (Nov 21)",
+         "Wisconsin beats Minnesota (Nov 27)"
+        ],
+        "text": "Iowa beats Illinois (Nov 21) and Nebraska (Nov 27); Oregon loses to Michigan State (Nov 20); Ohio State loses to Nebraska (Nov 21); Indiana loses to Washington (Nov 21); UCLA beats Michigan (Nov 21); Wisconsin beats Minnesota (Nov 27)",
+        "p_txt": "0.6%",
+        "tb_txt": "via tiebreaker in 89% of outcomes"
+       },
+       {
+        "p": 0.005326,
+        "q": 1.0,
+        "conds": [
+         "Iowa beats Illinois (Nov 21) and Nebraska (Nov 27)",
+         "Oregon loses to Michigan State (Nov 20)",
+         "Ohio State loses to Nebraska (Nov 21)",
+         "Indiana loses to Washington (Nov 21)",
+         "Wisconsin beats Minnesota (Nov 27)",
+         "USC loses to UCLA (Nov 28)"
+        ],
+        "text": "Iowa beats Illinois (Nov 21) and Nebraska (Nov 27); Oregon loses to Michigan State (Nov 20); Ohio State loses to Nebraska (Nov 21); Indiana loses to Washington (Nov 21); Wisconsin beats Minnesota (Nov 27); USC loses to UCLA (Nov 28)",
+        "p_txt": "0.5%",
+        "tb_txt": "via tiebreaker in 89% of outcomes"
+       },
+       {
+        "p": 0.004483,
+        "q": 1.0,
+        "conds": [
+         "Iowa beats Illinois (Nov 21) and Nebraska (Nov 27)",
+         "Indiana loses to Washington (Nov 21)",
+         "UCLA beats Michigan (Nov 21)",
+         "Oregon loses to Washington (Nov 27)",
+         "Ohio State loses to Michigan (Nov 28)"
+        ],
+        "text": "Iowa beats Illinois (Nov 21) and Nebraska (Nov 27); Indiana loses to Washington (Nov 21); UCLA beats Michigan (Nov 21); Oregon loses to Washington (Nov 27); Ohio State loses to Michigan (Nov 28)",
+        "p_txt": "0.4%",
+        "tb_txt": "via tiebreaker in 89% of outcomes"
+       }
+      ],
+      "more": 9,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "30",
@@ -1406,7 +2465,31 @@
      "path": [
       "Wins out: <1% to make it.",
       "Any loss and it's out."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 9.2e-05,
+       "q": 1.0,
+       "conds": [
+        "USC beats Maryland (Nov 21) and UCLA (Nov 28)",
+        "Ohio State beats Michigan (Nov 28) but loses to Nebraska (Nov 21)",
+        "Iowa beats Nebraska (Nov 27) but loses to Illinois (Nov 21)",
+        "Indiana loses to Washington (Nov 21) and Purdue (Nov 27)",
+        "UCLA beats Michigan (Nov 21)",
+        "Wisconsin beats Minnesota (Nov 27)",
+        "Oregon loses to Washington (Nov 27)"
+       ],
+       "text": "USC beats Maryland (Nov 21) and UCLA (Nov 28); Ohio State beats Michigan (Nov 28) but loses to Nebraska (Nov 21); Iowa beats Nebraska (Nov 27) but loses to Illinois (Nov 21); Indiana loses to Washington (Nov 21) and Purdue (Nov 27); UCLA beats Michigan (Nov 21); Wisconsin beats Minnesota (Nov 27); Oregon loses to Washington (Nov 27)",
+       "p_txt": "<0.1%",
+       "tb_txt": "via tiebreaker"
+      },
+      "scenarios": [],
+      "more": 39,
+      "capped": true,
+      "approx": false
+     }
     },
     {
      "id": "356",
@@ -1431,7 +2514,32 @@
      "path": [
       "Wins out: <1% to make it.",
       "Any loss and it's out."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 8.6e-05,
+       "q": 1.0,
+       "conds": [
+        "Illinois beats Iowa (Nov 21) and Northwestern (Nov 28)",
+        "Oregon loses to Michigan State (Nov 20)",
+        "Ohio State beats Michigan (Nov 28) but loses to Nebraska (Nov 21)",
+        "Wisconsin beats Purdue (Nov 21) and Minnesota (Nov 27)",
+        "Indiana loses to Washington (Nov 21) and Purdue (Nov 27)",
+        "UCLA beats Michigan (Nov 21)",
+        "Iowa beats Nebraska (Nov 27)",
+        "USC loses to UCLA (Nov 28)"
+       ],
+       "text": "Illinois beats Iowa (Nov 21) and Northwestern (Nov 28); Oregon loses to Michigan State (Nov 20); Ohio State beats Michigan (Nov 28) but loses to Nebraska (Nov 21); Wisconsin beats Purdue (Nov 21) and Minnesota (Nov 27); Indiana loses to Washington (Nov 21) and Purdue (Nov 27); UCLA beats Michigan (Nov 21); Iowa beats Nebraska (Nov 27); USC loses to UCLA (Nov 28)",
+       "p_txt": "<0.1%",
+       "tb_txt": "via tiebreaker"
+      },
+      "scenarios": [],
+      "more": 39,
+      "capped": true,
+      "approx": false
+     }
     },
     {
      "id": "275",
@@ -1455,7 +2563,31 @@
      "eliminated": false,
      "path": [
       "Needs to win out plus a lot of help (<1%)."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 1.3e-05,
+       "q": 1.0,
+       "conds": [
+        "Wisconsin beats Purdue (Nov 21) and Minnesota (Nov 27)",
+        "Oregon loses to Michigan State (Nov 20) and Washington (Nov 27)",
+        "Ohio State loses to Nebraska (Nov 21)",
+        "Iowa loses to Illinois (Nov 21) and Nebraska (Nov 27)",
+        "Indiana loses to Washington (Nov 21) and Purdue (Nov 27)",
+        "Illinois loses to Northwestern (Nov 28)",
+        "USC loses to UCLA (Nov 28)"
+       ],
+       "text": "Wisconsin beats Purdue (Nov 21) and Minnesota (Nov 27); Oregon loses to Michigan State (Nov 20) and Washington (Nov 27); Ohio State loses to Nebraska (Nov 21); Iowa loses to Illinois (Nov 21) and Nebraska (Nov 27); Indiana loses to Washington (Nov 21) and Purdue (Nov 27); Illinois loses to Northwestern (Nov 28); USC loses to UCLA (Nov 28)",
+       "p_txt": "<0.1%",
+       "tb_txt": "via tiebreaker"
+      },
+      "scenarios": [],
+      "more": 8,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "135",
@@ -1767,7 +2899,63 @@
      "path": [
       "Clinches with a win vs Missouri State (Nov 21).",
       "If it loses: 89%; best help: Liberty over Missouri State (Nov 28) (91%)."
-     ]
+     ],
+     "path_detail": {
+      "kind": "destiny",
+      "heading": "Ways in after a loss",
+      "path": null,
+      "scenarios": [
+       {
+        "p": 0.375908,
+        "q": 1.0,
+        "conds": [
+         "Jacksonville State beats Missouri State (Nov 21) but loses to Delaware (Nov 28)"
+        ],
+        "text": "Jacksonville State beats Missouri State (Nov 21) but loses to Delaware (Nov 28)",
+        "p_txt": "38%",
+        "tb_txt": ""
+       },
+       {
+        "p": 0.118816,
+        "q": 1.0,
+        "conds": [
+         "Jacksonville State beats Delaware (Nov 28) but loses to Missouri State (Nov 21)"
+        ],
+        "text": "Jacksonville State beats Delaware (Nov 28) but loses to Missouri State (Nov 21)",
+        "p_txt": "12%",
+        "tb_txt": ""
+       },
+       {
+        "p": 0.03061,
+        "q": 1.0,
+        "conds": [
+         "Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28)",
+         "Western Kentucky loses to Liberty (Nov 21)",
+         "Delaware loses to New Mexico State (Nov 21)",
+         "Missouri State loses to Liberty (Nov 28)"
+        ],
+        "text": "Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28); Western Kentucky loses to Liberty (Nov 21); Delaware loses to New Mexico State (Nov 21); Missouri State loses to Liberty (Nov 28)",
+        "p_txt": "3.1%",
+        "tb_txt": "via tiebreaker in 64% of outcomes"
+       },
+       {
+        "p": 0.018726,
+        "q": 1.0,
+        "conds": [
+         "Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28)",
+         "Middle Tennessee beats Sam Houston (Nov 21) and New Mexico State (Nov 28)",
+         "Delaware loses to New Mexico State (Nov 21)",
+         "Missouri State loses to Liberty (Nov 28)"
+        ],
+        "text": "Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28); Middle Tennessee beats Sam Houston (Nov 21) and New Mexico State (Nov 28); Delaware loses to New Mexico State (Nov 21); Missouri State loses to Liberty (Nov 28)",
+        "p_txt": "1.9%",
+        "tb_txt": "via tiebreaker"
+       }
+      ],
+      "more": 4,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "2393",
@@ -1792,7 +2980,86 @@
      "path": [
       "Wins out: 5% to make it.",
       "Needs Missouri State to beat Jacksonville State (Nov 21) and Delaware to beat Jacksonville State (Nov 28): 44% if both."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.018232,
+       "q": 1.0,
+       "conds": [
+        "Middle Tennessee beats Sam Houston (Nov 21) and New Mexico State (Nov 28)",
+        "Western Kentucky loses to Liberty (Nov 21)",
+        "Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28)",
+        "Delaware beats New Mexico State (Nov 21)",
+        "Kennesaw State loses to Western Kentucky (Nov 28)"
+       ],
+       "text": "Middle Tennessee beats Sam Houston (Nov 21) and New Mexico State (Nov 28); Western Kentucky loses to Liberty (Nov 21); Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28); Delaware beats New Mexico State (Nov 21); Kennesaw State loses to Western Kentucky (Nov 28)",
+       "p_txt": "1.8%",
+       "tb_txt": "via tiebreaker"
+      },
+      "scenarios": [
+       {
+        "p": 0.015884,
+        "q": 1.0,
+        "conds": [
+         "Middle Tennessee beats Sam Houston (Nov 21) and New Mexico State (Nov 28)",
+         "Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28)",
+         "Delaware beats New Mexico State (Nov 21)",
+         "Kennesaw State loses to Western Kentucky (Nov 28)",
+         "Missouri State loses to Liberty (Nov 28)"
+        ],
+        "text": "Middle Tennessee beats Sam Houston (Nov 21) and New Mexico State (Nov 28); Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28); Delaware beats New Mexico State (Nov 21); Kennesaw State loses to Western Kentucky (Nov 28); Missouri State loses to Liberty (Nov 28)",
+        "p_txt": "1.6%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.007621,
+        "q": 1.0,
+        "conds": [
+         "Middle Tennessee beats Sam Houston (Nov 21) and New Mexico State (Nov 28)",
+         "Western Kentucky loses to Liberty (Nov 21)",
+         "Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28)",
+         "Kennesaw State loses to Western Kentucky (Nov 28)",
+         "Liberty loses to Missouri State (Nov 28)"
+        ],
+        "text": "Middle Tennessee beats Sam Houston (Nov 21) and New Mexico State (Nov 28); Western Kentucky loses to Liberty (Nov 21); Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28); Kennesaw State loses to Western Kentucky (Nov 28); Liberty loses to Missouri State (Nov 28)",
+        "p_txt": "0.8%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.00362,
+        "q": 1.0,
+        "conds": [
+         "Middle Tennessee beats Sam Houston (Nov 21) and New Mexico State (Nov 28)",
+         "Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28)",
+         "Delaware loses to New Mexico State (Nov 21)",
+         "Kennesaw State loses to Western Kentucky (Nov 28)",
+         "Liberty loses to Missouri State (Nov 28)"
+        ],
+        "text": "Middle Tennessee beats Sam Houston (Nov 21) and New Mexico State (Nov 28); Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28); Delaware loses to New Mexico State (Nov 21); Kennesaw State loses to Western Kentucky (Nov 28); Liberty loses to Missouri State (Nov 28)",
+        "p_txt": "0.4%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.002621,
+        "q": 1.0,
+        "conds": [
+         "Middle Tennessee beats Sam Houston (Nov 21) and New Mexico State (Nov 28)",
+         "Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28)",
+         "Delaware loses to New Mexico State (Nov 21)",
+         "Kennesaw State loses to Florida International (Nov 21)",
+         "Liberty loses to Missouri State (Nov 28)"
+        ],
+        "text": "Middle Tennessee beats Sam Houston (Nov 21) and New Mexico State (Nov 28); Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28); Delaware loses to New Mexico State (Nov 21); Kennesaw State loses to Florida International (Nov 21); Liberty loses to Missouri State (Nov 28)",
+        "p_txt": "0.3%",
+        "tb_txt": "via tiebreaker"
+       }
+      ],
+      "more": 2,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "338",
@@ -1817,7 +3084,57 @@
      "path": [
       "Wins out: 4% to make it.",
       "Needs Missouri State to beat Jacksonville State (Nov 21): 16% if so."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.003685,
+       "q": 1.0,
+       "conds": [
+        "Kennesaw State beats Florida International (Nov 21) and Western Kentucky (Nov 28)",
+        "Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28)",
+        "Middle Tennessee loses to Sam Houston (Nov 21)",
+        "Delaware beats New Mexico State (Nov 21)",
+        "Missouri State loses to Liberty (Nov 28)"
+       ],
+       "text": "Kennesaw State beats Florida International (Nov 21) and Western Kentucky (Nov 28); Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28); Middle Tennessee loses to Sam Houston (Nov 21); Delaware beats New Mexico State (Nov 21); Missouri State loses to Liberty (Nov 28)",
+       "p_txt": "0.4%",
+       "tb_txt": "via tiebreaker"
+      },
+      "scenarios": [
+       {
+        "p": 0.003473,
+        "q": 1.0,
+        "conds": [
+         "Kennesaw State beats Florida International (Nov 21) and Western Kentucky (Nov 28)",
+         "Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28)",
+         "Middle Tennessee beats Sam Houston (Nov 21) and New Mexico State (Nov 28)",
+         "Liberty loses to Missouri State (Nov 28)"
+        ],
+        "text": "Kennesaw State beats Florida International (Nov 21) and Western Kentucky (Nov 28); Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28); Middle Tennessee beats Sam Houston (Nov 21) and New Mexico State (Nov 28); Liberty loses to Missouri State (Nov 28)",
+        "p_txt": "0.3%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.002737,
+        "q": 1.0,
+        "conds": [
+         "Kennesaw State beats Florida International (Nov 21) and Western Kentucky (Nov 28)",
+         "Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28)",
+         "Delaware beats New Mexico State (Nov 21)",
+         "Middle Tennessee loses to New Mexico State (Nov 28)",
+         "Missouri State loses to Liberty (Nov 28)"
+        ],
+        "text": "Kennesaw State beats Florida International (Nov 21) and Western Kentucky (Nov 28); Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28); Delaware beats New Mexico State (Nov 21); Middle Tennessee loses to New Mexico State (Nov 28); Missouri State loses to Liberty (Nov 28)",
+        "p_txt": "0.3%",
+        "tb_txt": "via tiebreaker"
+       }
+      ],
+      "more": 0,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "48",
@@ -1843,7 +3160,81 @@
       "Wins out: 9% to make it.",
       "Needs Missouri State to beat Jacksonville State (Nov 21): 39% if so.",
       "If Sam Houston beats Middle Tennessee (Nov 21): 18%, else 4%."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.012398,
+       "q": 1.0,
+       "conds": [
+        "Delaware beats New Mexico State (Nov 21) and Jacksonville State (Nov 28)",
+        "Jacksonville State loses to Missouri State (Nov 21)",
+        "Middle Tennessee loses to Sam Houston (Nov 21)",
+        "Kennesaw State loses to Western Kentucky (Nov 28)"
+       ],
+       "text": "Delaware beats New Mexico State (Nov 21) and Jacksonville State (Nov 28); Jacksonville State loses to Missouri State (Nov 21); Middle Tennessee loses to Sam Houston (Nov 21); Kennesaw State loses to Western Kentucky (Nov 28)",
+       "p_txt": "1.2%",
+       "tb_txt": "via tiebreaker"
+      },
+      "scenarios": [
+       {
+        "p": 0.009209,
+        "q": 1.0,
+        "conds": [
+         "Delaware beats New Mexico State (Nov 21) and Jacksonville State (Nov 28)",
+         "Jacksonville State loses to Missouri State (Nov 21)",
+         "Kennesaw State loses to Western Kentucky (Nov 28)",
+         "Middle Tennessee loses to New Mexico State (Nov 28)"
+        ],
+        "text": "Delaware beats New Mexico State (Nov 21) and Jacksonville State (Nov 28); Jacksonville State loses to Missouri State (Nov 21); Kennesaw State loses to Western Kentucky (Nov 28); Middle Tennessee loses to New Mexico State (Nov 28)",
+        "p_txt": "0.9%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.008977,
+        "q": 1.0,
+        "conds": [
+         "Delaware beats New Mexico State (Nov 21) and Jacksonville State (Nov 28)",
+         "Jacksonville State loses to Missouri State (Nov 21)",
+         "Middle Tennessee loses to Sam Houston (Nov 21)",
+         "Kennesaw State loses to Florida International (Nov 21)"
+        ],
+        "text": "Delaware beats New Mexico State (Nov 21) and Jacksonville State (Nov 28); Jacksonville State loses to Missouri State (Nov 21); Middle Tennessee loses to Sam Houston (Nov 21); Kennesaw State loses to Florida International (Nov 21)",
+        "p_txt": "0.9%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.006668,
+        "q": 1.0,
+        "conds": [
+         "Delaware beats New Mexico State (Nov 21) and Jacksonville State (Nov 28)",
+         "Jacksonville State loses to Missouri State (Nov 21)",
+         "Kennesaw State loses to Florida International (Nov 21)",
+         "Middle Tennessee loses to New Mexico State (Nov 28)"
+        ],
+        "text": "Delaware beats New Mexico State (Nov 21) and Jacksonville State (Nov 28); Jacksonville State loses to Missouri State (Nov 21); Kennesaw State loses to Florida International (Nov 21); Middle Tennessee loses to New Mexico State (Nov 28)",
+        "p_txt": "0.7%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.005159,
+        "q": 1.0,
+        "conds": [
+         "Delaware beats New Mexico State (Nov 21) and Jacksonville State (Nov 28)",
+         "Jacksonville State loses to Missouri State (Nov 21)",
+         "Middle Tennessee loses to Sam Houston (Nov 21)",
+         "Liberty loses to Missouri State (Nov 28)"
+        ],
+        "text": "Delaware beats New Mexico State (Nov 21) and Jacksonville State (Nov 28); Jacksonville State loses to Missouri State (Nov 21); Middle Tennessee loses to Sam Houston (Nov 21); Liberty loses to Missouri State (Nov 28)",
+        "p_txt": "0.5%",
+        "tb_txt": "via tiebreaker"
+       }
+      ],
+      "more": 1,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "98",
@@ -1868,7 +3259,42 @@
      "path": [
       "Wins out: 2% to make it.",
       "Needs Missouri State to beat Jacksonville State (Nov 21): 10% if so."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.001166,
+       "q": 1.0,
+       "conds": [
+        "Western Kentucky beats Liberty (Nov 21) and Kennesaw State (Nov 28)",
+        "Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28)",
+        "Middle Tennessee loses to Sam Houston (Nov 21)",
+        "Delaware loses to New Mexico State (Nov 21)"
+       ],
+       "text": "Western Kentucky beats Liberty (Nov 21) and Kennesaw State (Nov 28); Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28); Middle Tennessee loses to Sam Houston (Nov 21); Delaware loses to New Mexico State (Nov 21)",
+       "p_txt": "0.1%",
+       "tb_txt": "via tiebreaker"
+      },
+      "scenarios": [
+       {
+        "p": 0.000866,
+        "q": 1.0,
+        "conds": [
+         "Western Kentucky beats Liberty (Nov 21) and Kennesaw State (Nov 28)",
+         "Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28)",
+         "Delaware loses to New Mexico State (Nov 21)",
+         "Middle Tennessee loses to New Mexico State (Nov 28)"
+        ],
+        "text": "Western Kentucky beats Liberty (Nov 21) and Kennesaw State (Nov 28); Jacksonville State loses to Missouri State (Nov 21) and Delaware (Nov 28); Delaware loses to New Mexico State (Nov 21); Middle Tennessee loses to New Mexico State (Nov 28)",
+        "p_txt": "<0.1%",
+        "tb_txt": "via tiebreaker"
+       }
+      ],
+      "more": 0,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "2623",
@@ -1894,7 +3320,72 @@
       "Wins out: 11% to make it.",
       "Needs Delaware to beat Jacksonville State (Nov 28): 22% if so.",
       "If New Mexico State beats Delaware (Nov 21): 23%, else 2%."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.003114,
+       "q": 1.0,
+       "conds": [
+        "Missouri State beats Jacksonville State (Nov 21) and Liberty (Nov 28)",
+        "Western Kentucky loses to Liberty (Nov 21)",
+        "Middle Tennessee loses to Sam Houston (Nov 21)",
+        "Delaware loses to New Mexico State (Nov 21)",
+        "Jacksonville State loses to Delaware (Nov 28)"
+       ],
+       "text": "Missouri State beats Jacksonville State (Nov 21) and Liberty (Nov 28); Western Kentucky loses to Liberty (Nov 21); Middle Tennessee loses to Sam Houston (Nov 21); Delaware loses to New Mexico State (Nov 21); Jacksonville State loses to Delaware (Nov 28)",
+       "p_txt": "0.3%",
+       "tb_txt": "via tiebreaker"
+      },
+      "scenarios": [
+       {
+        "p": 0.002313,
+        "q": 1.0,
+        "conds": [
+         "Missouri State beats Jacksonville State (Nov 21) and Liberty (Nov 28)",
+         "Western Kentucky loses to Liberty (Nov 21)",
+         "Delaware loses to New Mexico State (Nov 21)",
+         "Middle Tennessee loses to New Mexico State (Nov 28)",
+         "Jacksonville State loses to Delaware (Nov 28)"
+        ],
+        "text": "Missouri State beats Jacksonville State (Nov 21) and Liberty (Nov 28); Western Kentucky loses to Liberty (Nov 21); Delaware loses to New Mexico State (Nov 21); Middle Tennessee loses to New Mexico State (Nov 28); Jacksonville State loses to Delaware (Nov 28)",
+        "p_txt": "0.2%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.001469,
+        "q": 1.0,
+        "conds": [
+         "Missouri State beats Jacksonville State (Nov 21) and Liberty (Nov 28)",
+         "Middle Tennessee loses to Sam Houston (Nov 21)",
+         "Delaware loses to New Mexico State (Nov 21)",
+         "Western Kentucky loses to Kennesaw State (Nov 28)",
+         "Jacksonville State loses to Delaware (Nov 28)"
+        ],
+        "text": "Missouri State beats Jacksonville State (Nov 21) and Liberty (Nov 28); Middle Tennessee loses to Sam Houston (Nov 21); Delaware loses to New Mexico State (Nov 21); Western Kentucky loses to Kennesaw State (Nov 28); Jacksonville State loses to Delaware (Nov 28)",
+        "p_txt": "0.1%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.001091,
+        "q": 1.0,
+        "conds": [
+         "Missouri State beats Jacksonville State (Nov 21) and Liberty (Nov 28)",
+         "Delaware loses to New Mexico State (Nov 21)",
+         "Western Kentucky loses to Kennesaw State (Nov 28)",
+         "Middle Tennessee loses to New Mexico State (Nov 28)",
+         "Jacksonville State loses to Delaware (Nov 28)"
+        ],
+        "text": "Missouri State beats Jacksonville State (Nov 21) and Liberty (Nov 28); Delaware loses to New Mexico State (Nov 21); Western Kentucky loses to Kennesaw State (Nov 28); Middle Tennessee loses to New Mexico State (Nov 28); Jacksonville State loses to Delaware (Nov 28)",
+        "p_txt": "0.1%",
+        "tb_txt": "via tiebreaker"
+       }
+      ],
+      "more": 1,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "2229",
@@ -2015,7 +3506,73 @@
       "Beats Akron: 84% to make it.",
       "If Ohio beats Toledo (Nov 27): 100%, else 66%.",
       "If Miami (OH) beats Western Michigan (Nov 24): 100%, else 76%."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.409041,
+       "q": 1.0,
+       "conds": [
+        "Buffalo beats Akron (Nov 27)",
+        "Toledo loses to Ohio (Nov 27)"
+       ],
+       "text": "Buffalo beats Akron (Nov 27); Toledo loses to Ohio (Nov 27)",
+       "p_txt": "41%",
+       "tb_txt": "via tiebreaker in 66% of outcomes"
+      },
+      "scenarios": [
+       {
+        "p": 0.267972,
+        "q": 1.0,
+        "conds": [
+         "Buffalo beats Akron (Nov 27)",
+         "Western Michigan loses to Miami (OH) (Nov 24)"
+        ],
+        "text": "Buffalo beats Akron (Nov 27); Western Michigan loses to Miami (OH) (Nov 24)",
+        "p_txt": "27%",
+        "tb_txt": ""
+       },
+       {
+        "p": 0.209734,
+        "q": 1.0,
+        "conds": [
+         "Buffalo beats Akron (Nov 27)",
+         "Ball State loses to Central Michigan (Nov 28)",
+         "Massachusetts loses to Bowling Green (Nov 28)"
+        ],
+        "text": "Buffalo beats Akron (Nov 27); Ball State loses to Central Michigan (Nov 28); Massachusetts loses to Bowling Green (Nov 28)",
+        "p_txt": "21%",
+        "tb_txt": "via tiebreaker in 61% of outcomes"
+       },
+       {
+        "p": 0.151449,
+        "q": 1.0,
+        "conds": [
+         "Buffalo beats Akron (Nov 27)",
+         "Eastern Michigan loses to Kent State (Nov 24)",
+         "Ball State loses to Central Michigan (Nov 28)"
+        ],
+        "text": "Buffalo beats Akron (Nov 27); Eastern Michigan loses to Kent State (Nov 24); Ball State loses to Central Michigan (Nov 28)",
+        "p_txt": "15%",
+        "tb_txt": "via tiebreaker in 61% of outcomes"
+       },
+       {
+        "p": 0.121918,
+        "q": 1.0,
+        "conds": [
+         "Buffalo beats Akron (Nov 27)",
+         "Toledo loses to Bowling Green (Nov 20)"
+        ],
+        "text": "Buffalo beats Akron (Nov 27); Toledo loses to Bowling Green (Nov 20)",
+        "p_txt": "12%",
+        "tb_txt": "via tiebreaker in 34% of outcomes"
+       }
+      ],
+      "more": 5,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "2711",
@@ -2041,7 +3598,74 @@
       "Beats Miami (OH): 61% to make it.",
       "If Toledo beats Ohio (Nov 27): 100%, else 23%.",
       "If Akron beats Buffalo (Nov 27): 100%, else 49%."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.313954,
+       "q": 1.0,
+       "conds": [
+        "Western Michigan beats Miami (OH) (Nov 24)",
+        "Ohio loses to Toledo (Nov 27)"
+       ],
+       "text": "Western Michigan beats Miami (OH) (Nov 24); Ohio loses to Toledo (Nov 27)",
+       "p_txt": "31%",
+       "tb_txt": "via tiebreaker in 66% of outcomes"
+      },
+      "scenarios": [
+       {
+        "p": 0.142902,
+        "q": 1.0,
+        "conds": [
+         "Western Michigan beats Miami (OH) (Nov 24)",
+         "Buffalo loses to Akron (Nov 27)"
+        ],
+        "text": "Western Michigan beats Miami (OH) (Nov 24); Buffalo loses to Akron (Nov 27)",
+        "p_txt": "14%",
+        "tb_txt": ""
+       },
+       {
+        "p": 0.061863,
+        "q": 1.0,
+        "conds": [
+         "Buffalo loses to Akron (Nov 27)",
+         "Toledo loses to Ohio (Nov 27)",
+         "Ball State loses to Central Michigan (Nov 28)"
+        ],
+        "text": "Buffalo loses to Akron (Nov 27); Toledo loses to Ohio (Nov 27); Ball State loses to Central Michigan (Nov 28)",
+        "p_txt": "6.2%",
+        "tb_txt": "via tiebreaker in 34% of outcomes"
+       },
+       {
+        "p": 0.033847,
+        "q": 1.0,
+        "conds": [
+         "Toledo loses to Bowling Green (Nov 20)",
+         "Buffalo loses to Akron (Nov 27)"
+        ],
+        "text": "Toledo loses to Bowling Green (Nov 20); Buffalo loses to Akron (Nov 27)",
+        "p_txt": "3.4%",
+        "tb_txt": "via tiebreaker in 34% of outcomes"
+       },
+       {
+        "p": 0.026121,
+        "q": 1.0,
+        "conds": [
+         "Toledo loses to Bowling Green (Nov 20)",
+         "Kent State loses to Eastern Michigan (Nov 24)",
+         "Ohio loses to Toledo (Nov 27)",
+         "Ball State loses to Central Michigan (Nov 28)"
+        ],
+        "text": "Toledo loses to Bowling Green (Nov 20); Kent State loses to Eastern Michigan (Nov 24); Ohio loses to Toledo (Nov 27); Ball State loses to Central Michigan (Nov 28)",
+        "p_txt": "2.6%",
+        "tb_txt": "via tiebreaker in 34% of outcomes"
+       }
+      ],
+      "more": 3,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "195",
@@ -2092,7 +3716,75 @@
       "Wins out: 82% to make it.",
       "If Ball State beats Central Michigan (Nov 28): 100%, else 66%.",
       "If Miami (OH) beats Western Michigan (Nov 24): 100%, else 72%."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.183476,
+       "q": 1.0,
+       "conds": [
+        "Toledo beats Bowling Green (Nov 20) and Ohio (Nov 27)",
+        "Central Michigan loses to Ball State (Nov 28)"
+       ],
+       "text": "Toledo beats Bowling Green (Nov 20) and Ohio (Nov 27); Central Michigan loses to Ball State (Nov 28)",
+       "p_txt": "18%",
+       "tb_txt": "via tiebreaker in 51% of outcomes"
+      },
+      "scenarios": [
+       {
+        "p": 0.137987,
+        "q": 1.0,
+        "conds": [
+         "Toledo beats Bowling Green (Nov 20) and Ohio (Nov 27)",
+         "Western Michigan loses to Miami (OH) (Nov 24)"
+        ],
+        "text": "Toledo beats Bowling Green (Nov 20) and Ohio (Nov 27); Western Michigan loses to Miami (OH) (Nov 24)",
+        "p_txt": "14%",
+        "tb_txt": ""
+       },
+       {
+        "p": 0.132051,
+        "q": 1.0,
+        "conds": [
+         "Toledo beats Bowling Green (Nov 20) and Ohio (Nov 27)",
+         "Kent State loses to Eastern Michigan (Nov 24)",
+         "Bowling Green loses to Massachusetts (Nov 28)"
+        ],
+        "text": "Toledo beats Bowling Green (Nov 20) and Ohio (Nov 27); Kent State loses to Eastern Michigan (Nov 24); Bowling Green loses to Massachusetts (Nov 28)",
+        "p_txt": "13%",
+        "tb_txt": "via tiebreaker in 51% of outcomes"
+       },
+       {
+        "p": 0.087579,
+        "q": 1.0,
+        "conds": [
+         "Toledo beats Bowling Green (Nov 20) and Ohio (Nov 27)",
+         "Buffalo loses to Akron (Nov 27)"
+        ],
+        "text": "Toledo beats Bowling Green (Nov 20) and Ohio (Nov 27); Buffalo loses to Akron (Nov 27)",
+        "p_txt": "8.8%",
+        "tb_txt": ""
+       },
+       {
+        "p": 0.037552,
+        "q": 1.0,
+        "conds": [
+         "Toledo beats Ohio (Nov 27)",
+         "Kent State loses to Eastern Michigan (Nov 24)",
+         "Western Michigan loses to Miami (OH) (Nov 24)",
+         "Buffalo beats Akron (Nov 27)",
+         "Central Michigan loses to Ball State (Nov 28)"
+        ],
+        "text": "Toledo beats Ohio (Nov 27); Kent State loses to Eastern Michigan (Nov 24); Western Michigan loses to Miami (OH) (Nov 24); Buffalo beats Akron (Nov 27); Central Michigan loses to Ball State (Nov 28)",
+        "p_txt": "3.8%",
+        "tb_txt": "via tiebreaker in 16% of outcomes"
+       }
+      ],
+      "more": 4,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "193",
@@ -2118,7 +3810,58 @@
       "Beats Western Michigan: 9% to make it.",
       "If Akron beats Buffalo (Nov 27): 41%, else 1%.",
       "Needs Toledo to beat Ohio (Nov 27): 19% if so."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.029984,
+       "q": 1.0,
+       "conds": [
+        "Miami (OH) beats Western Michigan (Nov 24)",
+        "Toledo beats Bowling Green (Nov 20)",
+        "Buffalo loses to Akron (Nov 27)",
+        "Ohio loses to Toledo (Nov 27)"
+       ],
+       "text": "Miami (OH) beats Western Michigan (Nov 24); Toledo beats Bowling Green (Nov 20); Buffalo loses to Akron (Nov 27); Ohio loses to Toledo (Nov 27)",
+       "p_txt": "3%",
+       "tb_txt": "via tiebreaker"
+      },
+      "scenarios": [
+       {
+        "p": 0.006872,
+        "q": 1.0,
+        "conds": [
+         "Miami (OH) beats Western Michigan (Nov 24)",
+         "Eastern Michigan loses to Kent State (Nov 24)",
+         "Buffalo loses to Akron (Nov 27)",
+         "Ohio loses to Toledo (Nov 27)",
+         "Ball State loses to Central Michigan (Nov 28)"
+        ],
+        "text": "Miami (OH) beats Western Michigan (Nov 24); Eastern Michigan loses to Kent State (Nov 24); Buffalo loses to Akron (Nov 27); Ohio loses to Toledo (Nov 27); Ball State loses to Central Michigan (Nov 28)",
+        "p_txt": "0.7%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.002503,
+        "q": 1.0,
+        "conds": [
+         "Miami (OH) beats Western Michigan (Nov 24)",
+         "Toledo loses to Bowling Green (Nov 20)",
+         "Eastern Michigan loses to Kent State (Nov 24)",
+         "Ohio loses to Toledo (Nov 27)",
+         "Ball State loses to Central Michigan (Nov 28)",
+         "Bowling Green loses to Massachusetts (Nov 28)"
+        ],
+        "text": "Miami (OH) beats Western Michigan (Nov 24); Toledo loses to Bowling Green (Nov 20); Eastern Michigan loses to Kent State (Nov 24); Ohio loses to Toledo (Nov 27); Ball State loses to Central Michigan (Nov 28); Bowling Green loses to Massachusetts (Nov 28)",
+        "p_txt": "0.3%",
+        "tb_txt": "via tiebreaker"
+       }
+      ],
+      "more": 0,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "189",
@@ -2358,7 +4101,66 @@
      "path": [
       "Controls its own destiny: beat New Mexico (Nov 20) and it's in.",
       "If it loses: 45%; best help: San Jos\u00e9 State over North Dakota State (Nov 27) (99%)."
-     ]
+     ],
+     "path_detail": {
+      "kind": "destiny",
+      "heading": "Ways in after a loss",
+      "path": null,
+      "scenarios": [
+       {
+        "p": 0.140584,
+        "q": 1.0,
+        "conds": [
+         "Wyoming loses to New Mexico (Nov 20)",
+         "Air Force beats UTEP (Nov 20)",
+         "North Dakota State loses to San Jos\u00e9 State (Nov 27)"
+        ],
+        "text": "Wyoming loses to New Mexico (Nov 20); Air Force beats UTEP (Nov 20); North Dakota State loses to San Jos\u00e9 State (Nov 27)",
+        "p_txt": "14%",
+        "tb_txt": "via tiebreaker in 62% of outcomes"
+       },
+       {
+        "p": 0.095152,
+        "q": 1.0,
+        "conds": [
+         "Wyoming loses to New Mexico (Nov 20)",
+         "North Dakota State loses to San Jos\u00e9 State (Nov 27)",
+         "Air Force loses to New Mexico (Nov 27)"
+        ],
+        "text": "Wyoming loses to New Mexico (Nov 20); North Dakota State loses to San Jos\u00e9 State (Nov 27); Air Force loses to New Mexico (Nov 27)",
+        "p_txt": "9.5%",
+        "tb_txt": "via tiebreaker in 38% of outcomes"
+       },
+       {
+        "p": 0.071834,
+        "q": 1.0,
+        "conds": [
+         "Wyoming loses to New Mexico (Nov 20)",
+         "UNLV loses to San Jos\u00e9 State (Nov 21)",
+         "North Dakota State loses to San Jos\u00e9 State (Nov 27)"
+        ],
+        "text": "Wyoming loses to New Mexico (Nov 20); UNLV loses to San Jos\u00e9 State (Nov 21); North Dakota State loses to San Jos\u00e9 State (Nov 27)",
+        "p_txt": "7.2%",
+        "tb_txt": "via tiebreaker in 35% of outcomes"
+       },
+       {
+        "p": 0.06342,
+        "q": 1.0,
+        "conds": [
+         "Wyoming loses to New Mexico (Nov 20)",
+         "Air Force beats UTEP (Nov 20)",
+         "UNLV beats San Jos\u00e9 State (Nov 21) and Nevada (Nov 28)",
+         "New Mexico loses to Air Force (Nov 27)"
+        ],
+        "text": "Wyoming loses to New Mexico (Nov 20); Air Force beats UTEP (Nov 20); UNLV beats San Jos\u00e9 State (Nov 21) and Nevada (Nov 28); New Mexico loses to Air Force (Nov 27)",
+        "p_txt": "6.3%",
+        "tb_txt": "via tiebreaker"
+       }
+      ],
+      "more": 6,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "167",
@@ -2383,7 +4185,65 @@
      "path": [
       "Controls its own destiny: win out and it's in.",
       "If it loses: 27%; best help: San Jos\u00e9 State over UNLV (Nov 21) (43%)."
-     ]
+     ],
+     "path_detail": {
+      "kind": "destiny",
+      "heading": "Ways in after a loss",
+      "path": null,
+      "scenarios": [
+       {
+        "p": 0.080186,
+        "q": 1.0,
+        "conds": [
+         "New Mexico beats Wyoming (Nov 20) but loses to Air Force (Nov 27)",
+         "North Dakota State beats Northern Illinois (Nov 21)",
+         "UNLV loses to San Jos\u00e9 State (Nov 21)"
+        ],
+        "text": "New Mexico beats Wyoming (Nov 20) but loses to Air Force (Nov 27); North Dakota State beats Northern Illinois (Nov 21); UNLV loses to San Jos\u00e9 State (Nov 21)",
+        "p_txt": "8%",
+        "tb_txt": "via tiebreaker in 97% of outcomes"
+       },
+       {
+        "p": 0.058467,
+        "q": 1.0,
+        "conds": [
+         "New Mexico beats Wyoming (Nov 20) but loses to Air Force (Nov 27)",
+         "UNLV loses to San Jos\u00e9 State (Nov 21)",
+         "North Dakota State beats San Jos\u00e9 State (Nov 27)"
+        ],
+        "text": "New Mexico beats Wyoming (Nov 20) but loses to Air Force (Nov 27); UNLV loses to San Jos\u00e9 State (Nov 21); North Dakota State beats San Jos\u00e9 State (Nov 27)",
+        "p_txt": "5.8%",
+        "tb_txt": "via tiebreaker in 99% of outcomes"
+       },
+       {
+        "p": 0.051671,
+        "q": 1.0,
+        "conds": [
+         "New Mexico beats Wyoming (Nov 20) but loses to Air Force (Nov 27)",
+         "North Dakota State beats Northern Illinois (Nov 21)",
+         "UNLV loses to Nevada (Nov 28)"
+        ],
+        "text": "New Mexico beats Wyoming (Nov 20) but loses to Air Force (Nov 27); North Dakota State beats Northern Illinois (Nov 21); UNLV loses to Nevada (Nov 28)",
+        "p_txt": "5.2%",
+        "tb_txt": "via tiebreaker in 97% of outcomes"
+       },
+       {
+        "p": 0.047466,
+        "q": 1.0,
+        "conds": [
+         "New Mexico beats Air Force (Nov 27) but loses to Wyoming (Nov 20)",
+         "UNLV loses to San Jos\u00e9 State (Nov 21)",
+         "North Dakota State loses to San Jos\u00e9 State (Nov 27)"
+        ],
+        "text": "New Mexico beats Air Force (Nov 27) but loses to Wyoming (Nov 20); UNLV loses to San Jos\u00e9 State (Nov 21); North Dakota State loses to San Jos\u00e9 State (Nov 27)",
+        "p_txt": "4.7%",
+        "tb_txt": ""
+       }
+      ],
+      "more": 9,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "2449",
@@ -2408,7 +4268,43 @@
      "path": [
       "Controls its own destiny: win out and it's in.",
       "If it loses: 1%; best help: UTEP over Air Force (Nov 20) (11%)."
-     ]
+     ],
+     "path_detail": {
+      "kind": "destiny",
+      "heading": "Ways in after a loss",
+      "path": null,
+      "scenarios": [
+       {
+        "p": 0.002565,
+        "q": 1.0,
+        "conds": [
+         "North Dakota State beats Northern Illinois (Nov 21) but loses to San Jos\u00e9 State (Nov 27)",
+         "Air Force loses to UTEP (Nov 20)",
+         "New Mexico loses to Wyoming (Nov 20) and Air Force (Nov 27)",
+         "UNLV loses to San Jos\u00e9 State (Nov 21)"
+        ],
+        "text": "North Dakota State beats Northern Illinois (Nov 21) but loses to San Jos\u00e9 State (Nov 27); Air Force loses to UTEP (Nov 20); New Mexico loses to Wyoming (Nov 20) and Air Force (Nov 27); UNLV loses to San Jos\u00e9 State (Nov 21)",
+        "p_txt": "0.3%",
+        "tb_txt": ""
+       },
+       {
+        "p": 0.001653,
+        "q": 1.0,
+        "conds": [
+         "North Dakota State beats Northern Illinois (Nov 21) but loses to San Jos\u00e9 State (Nov 27)",
+         "Air Force loses to UTEP (Nov 20)",
+         "New Mexico loses to Wyoming (Nov 20) and Air Force (Nov 27)",
+         "UNLV loses to Nevada (Nov 28)"
+        ],
+        "text": "North Dakota State beats Northern Illinois (Nov 21) but loses to San Jos\u00e9 State (Nov 27); Air Force loses to UTEP (Nov 20); New Mexico loses to Wyoming (Nov 20) and Air Force (Nov 27); UNLV loses to Nevada (Nov 28)",
+        "p_txt": "0.2%",
+        "tb_txt": ""
+       }
+      ],
+      "more": 2,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "2005",
@@ -2434,7 +4330,76 @@
       "Wins out: 26% to make it.",
       "If San Jos\u00e9 State beats North Dakota State (Nov 27): 72%, else 5%.",
       "If Northern Illinois beats North Dakota State (Nov 21): 79%, else 22%."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.058338,
+       "q": 1.0,
+       "conds": [
+        "Air Force beats UTEP (Nov 20) and New Mexico (Nov 27)",
+        "New Mexico loses to Wyoming (Nov 20)",
+        "North Dakota State loses to San Jos\u00e9 State (Nov 27)"
+       ],
+       "text": "Air Force beats UTEP (Nov 20) and New Mexico (Nov 27); New Mexico loses to Wyoming (Nov 20); North Dakota State loses to San Jos\u00e9 State (Nov 27)",
+       "p_txt": "5.8%",
+       "tb_txt": "via tiebreaker in 38% of outcomes"
+      },
+      "scenarios": [
+       {
+        "p": 0.042329,
+        "q": 1.0,
+        "conds": [
+         "Air Force beats UTEP (Nov 20) and New Mexico (Nov 27)",
+         "UNLV beats San Jos\u00e9 State (Nov 21) and Nevada (Nov 28)",
+         "North Dakota State loses to San Jos\u00e9 State (Nov 27)"
+        ],
+        "text": "Air Force beats UTEP (Nov 20) and New Mexico (Nov 27); UNLV beats San Jos\u00e9 State (Nov 21) and Nevada (Nov 28); North Dakota State loses to San Jos\u00e9 State (Nov 27)",
+        "p_txt": "4.2%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.012613,
+        "q": 1.0,
+        "conds": [
+         "Air Force beats UTEP (Nov 20) and New Mexico (Nov 27)",
+         "New Mexico loses to Wyoming (Nov 20)",
+         "North Dakota State loses to Northern Illinois (Nov 21)"
+        ],
+        "text": "Air Force beats UTEP (Nov 20) and New Mexico (Nov 27); New Mexico loses to Wyoming (Nov 20); North Dakota State loses to Northern Illinois (Nov 21)",
+        "p_txt": "1.3%",
+        "tb_txt": "via tiebreaker in 38% of outcomes"
+       },
+       {
+        "p": 0.009152,
+        "q": 1.0,
+        "conds": [
+         "Air Force beats UTEP (Nov 20) and New Mexico (Nov 27)",
+         "North Dakota State loses to Northern Illinois (Nov 21)",
+         "UNLV beats San Jos\u00e9 State (Nov 21) and Nevada (Nov 28)"
+        ],
+        "text": "Air Force beats UTEP (Nov 20) and New Mexico (Nov 27); North Dakota State loses to Northern Illinois (Nov 21); UNLV beats San Jos\u00e9 State (Nov 21) and Nevada (Nov 28)",
+        "p_txt": "0.9%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.005487,
+        "q": 1.0,
+        "conds": [
+         "Air Force beats UTEP (Nov 20) and New Mexico (Nov 27)",
+         "North Dakota State loses to Northern Illinois (Nov 21) and San Jos\u00e9 State (Nov 27)",
+         "UNLV beats Nevada (Nov 28)"
+        ],
+        "text": "Air Force beats UTEP (Nov 20) and New Mexico (Nov 27); North Dakota State loses to Northern Illinois (Nov 21) and San Jos\u00e9 State (Nov 27); UNLV beats Nevada (Nov 28)",
+        "p_txt": "0.5%",
+        "tb_txt": "via tiebreaker in 76% of outcomes"
+       }
+      ],
+      "more": 3,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "2439",
@@ -2460,7 +4425,81 @@
       "Wins out: 14% to make it.",
       "If San Jos\u00e9 State beats North Dakota State (Nov 27): 34%, else 4%.",
       "If UTEP beats Air Force (Nov 20): 39%, else 11%."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.03849,
+       "q": 1.0,
+       "conds": [
+        "UNLV beats San Jos\u00e9 State (Nov 21) and Nevada (Nov 28)",
+        "New Mexico loses to Wyoming (Nov 20)",
+        "North Dakota State loses to San Jos\u00e9 State (Nov 27)",
+        "Air Force loses to New Mexico (Nov 27)"
+       ],
+       "text": "UNLV beats San Jos\u00e9 State (Nov 21) and Nevada (Nov 28); New Mexico loses to Wyoming (Nov 20); North Dakota State loses to San Jos\u00e9 State (Nov 27); Air Force loses to New Mexico (Nov 27)",
+       "p_txt": "3.8%",
+       "tb_txt": "via tiebreaker"
+      },
+      "scenarios": [
+       {
+        "p": 0.008322,
+        "q": 1.0,
+        "conds": [
+         "UNLV beats San Jos\u00e9 State (Nov 21) and Nevada (Nov 28)",
+         "New Mexico loses to Wyoming (Nov 20)",
+         "North Dakota State loses to Northern Illinois (Nov 21)",
+         "Air Force loses to New Mexico (Nov 27)"
+        ],
+        "text": "UNLV beats San Jos\u00e9 State (Nov 21) and Nevada (Nov 28); New Mexico loses to Wyoming (Nov 20); North Dakota State loses to Northern Illinois (Nov 21); Air Force loses to New Mexico (Nov 27)",
+        "p_txt": "0.8%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.006461,
+        "q": 1.0,
+        "conds": [
+         "UNLV beats San Jos\u00e9 State (Nov 21) and Nevada (Nov 28)",
+         "Air Force loses to UTEP (Nov 20)",
+         "Wyoming loses to New Mexico (Nov 20)",
+         "New Mexico loses to Air Force (Nov 27)"
+        ],
+        "text": "UNLV beats San Jos\u00e9 State (Nov 21) and Nevada (Nov 28); Air Force loses to UTEP (Nov 20); Wyoming loses to New Mexico (Nov 20); New Mexico loses to Air Force (Nov 27)",
+        "p_txt": "0.6%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.005794,
+        "q": 1.0,
+        "conds": [
+         "UNLV beats San Jos\u00e9 State (Nov 21) and Nevada (Nov 28)",
+         "Air Force loses to UTEP (Nov 20)",
+         "New Mexico loses to Wyoming (Nov 20)",
+         "North Dakota State loses to San Jos\u00e9 State (Nov 27)"
+        ],
+        "text": "UNLV beats San Jos\u00e9 State (Nov 21) and Nevada (Nov 28); Air Force loses to UTEP (Nov 20); New Mexico loses to Wyoming (Nov 20); North Dakota State loses to San Jos\u00e9 State (Nov 27)",
+        "p_txt": "0.6%",
+        "tb_txt": "via tiebreaker in 61% of outcomes"
+       },
+       {
+        "p": 0.004313,
+        "q": 1.0,
+        "conds": [
+         "UNLV beats San Jos\u00e9 State (Nov 21) and Nevada (Nov 28)",
+         "Air Force loses to UTEP (Nov 20)",
+         "North Dakota State loses to San Jos\u00e9 State (Nov 27)",
+         "New Mexico loses to Air Force (Nov 27)"
+        ],
+        "text": "UNLV beats San Jos\u00e9 State (Nov 21) and Nevada (Nov 28); Air Force loses to UTEP (Nov 20); North Dakota State loses to San Jos\u00e9 State (Nov 27); New Mexico loses to Air Force (Nov 27)",
+        "p_txt": "0.4%",
+        "tb_txt": "via tiebreaker in 48% of outcomes"
+       }
+      ],
+      "more": 2,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "2440",
@@ -2845,7 +4884,65 @@
      "path": [
       "Controls its own destiny: beat South Carolina (Nov 21) and it's in.",
       "If it loses: 96%; best help: Oklahoma over Texas A&M (Nov 21) (98%)."
-     ]
+     ],
+     "path_detail": {
+      "kind": "destiny",
+      "heading": "Ways in after a loss",
+      "path": null,
+      "scenarios": [
+       {
+        "p": 0.229751,
+        "q": 1.0,
+        "conds": [
+         "Georgia loses to South Carolina (Nov 21)",
+         "Oklahoma beats Texas A&M (Nov 21)",
+         "Mississippi State loses to Ole Miss (Nov 27)"
+        ],
+        "text": "Georgia loses to South Carolina (Nov 21); Oklahoma beats Texas A&M (Nov 21); Mississippi State loses to Ole Miss (Nov 27)",
+        "p_txt": "23%",
+        "tb_txt": "via tiebreaker in 77% of outcomes"
+       },
+       {
+        "p": 0.134044,
+        "q": 1.0,
+        "conds": [
+         "Georgia loses to South Carolina (Nov 21)",
+         "Kentucky loses to Missouri (Nov 21)",
+         "Mississippi State loses to Ole Miss (Nov 27)"
+        ],
+        "text": "Georgia loses to South Carolina (Nov 21); Kentucky loses to Missouri (Nov 21); Mississippi State loses to Ole Miss (Nov 27)",
+        "p_txt": "13%",
+        "tb_txt": "via tiebreaker in 77% of outcomes"
+       },
+       {
+        "p": 0.132688,
+        "q": 1.0,
+        "conds": [
+         "Georgia loses to South Carolina (Nov 21)",
+         "Oklahoma beats Texas A&M (Nov 21)",
+         "Kentucky loses to Missouri (Nov 21)"
+        ],
+        "text": "Georgia loses to South Carolina (Nov 21); Oklahoma beats Texas A&M (Nov 21); Kentucky loses to Missouri (Nov 21)",
+        "p_txt": "13%",
+        "tb_txt": "via tiebreaker in 77% of outcomes"
+       },
+       {
+        "p": 0.108369,
+        "q": 1.0,
+        "conds": [
+         "Georgia loses to South Carolina (Nov 21)",
+         "Mississippi State loses to Ole Miss (Nov 27)",
+         "LSU loses to Arkansas (Nov 27)"
+        ],
+        "text": "Georgia loses to South Carolina (Nov 21); Mississippi State loses to Ole Miss (Nov 27); LSU loses to Arkansas (Nov 27)",
+        "p_txt": "11%",
+        "tb_txt": "via tiebreaker in 77% of outcomes"
+       }
+      ],
+      "more": 7,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "333",
@@ -2871,7 +4968,80 @@
       "Beats Auburn: 30% to make it.",
       "If Mississippi State beats Ole Miss (Nov 27): 49%, else 25%.",
       "If LSU beats Arkansas (Nov 27): 38%, else 16%."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.068145,
+       "q": 1.0,
+       "conds": [
+        "Alabama beats Auburn (Nov 27)",
+        "Tennessee beats LSU (Nov 21) and Vanderbilt (Nov 27)",
+        "Texas beats Arkansas (Nov 21) and Texas A&M (Nov 27)",
+        "Georgia beats South Carolina (Nov 21)",
+        "Missouri loses to Kentucky (Nov 21)",
+        "Arkansas loses to LSU (Nov 27)"
+       ],
+       "text": "Alabama beats Auburn (Nov 27); Tennessee beats LSU (Nov 21) and Vanderbilt (Nov 27); Texas beats Arkansas (Nov 21) and Texas A&M (Nov 27); Georgia beats South Carolina (Nov 21); Missouri loses to Kentucky (Nov 21); Arkansas loses to LSU (Nov 27)",
+       "p_txt": "6.8%",
+       "tb_txt": "via tiebreaker"
+      },
+      "scenarios": [
+       {
+        "p": 0.041584,
+        "q": 1.0,
+        "conds": [
+         "Alabama beats Auburn (Nov 27)",
+         "Tennessee loses to LSU (Nov 21)",
+         "Texas loses to Texas A&M (Nov 27)"
+        ],
+        "text": "Alabama beats Auburn (Nov 27); Tennessee loses to LSU (Nov 21); Texas loses to Texas A&M (Nov 27)",
+        "p_txt": "4.2%",
+        "tb_txt": ""
+       },
+       {
+        "p": 0.03916,
+        "q": 1.0,
+        "conds": [
+         "Alabama beats Auburn (Nov 27)",
+         "Tennessee beats LSU (Nov 21) and Vanderbilt (Nov 27)",
+         "Texas beats Arkansas (Nov 21) and Texas A&M (Nov 27)",
+         "Ole Miss loses to Mississippi State (Nov 27)",
+         "Arkansas loses to LSU (Nov 27)"
+        ],
+        "text": "Alabama beats Auburn (Nov 27); Tennessee beats LSU (Nov 21) and Vanderbilt (Nov 27); Texas beats Arkansas (Nov 21) and Texas A&M (Nov 27); Ole Miss loses to Mississippi State (Nov 27); Arkansas loses to LSU (Nov 27)",
+        "p_txt": "3.9%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.037355,
+        "q": 1.0,
+        "conds": [
+         "Alabama beats Auburn (Nov 27)",
+         "Texas loses to Texas A&M (Nov 27)",
+         "Tennessee loses to Vanderbilt (Nov 27)"
+        ],
+        "text": "Alabama beats Auburn (Nov 27); Texas loses to Texas A&M (Nov 27); Tennessee loses to Vanderbilt (Nov 27)",
+        "p_txt": "3.7%",
+        "tb_txt": ""
+       },
+       {
+        "p": 0.037241,
+        "q": 1.0,
+        "conds": [
+         "Tennessee beats Vanderbilt (Nov 27) but loses to LSU (Nov 21)",
+         "Texas beats Arkansas (Nov 21) but loses to Texas A&M (Nov 27)"
+        ],
+        "text": "Tennessee beats Vanderbilt (Nov 27) but loses to LSU (Nov 21); Texas beats Arkansas (Nov 21) but loses to Texas A&M (Nov 27)",
+        "p_txt": "3.7%",
+        "tb_txt": "via tiebreaker in 22% of outcomes"
+       }
+      ],
+      "more": 24,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "251",
@@ -2897,7 +5067,80 @@
       "Wins out: 66% to make it.",
       "If Vanderbilt beats Tennessee (Nov 27): 99%, else 56%.",
       "If LSU beats Tennessee (Nov 21): 97%, else 55%."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.169113,
+       "q": 1.0,
+       "conds": [
+        "Texas beats Arkansas (Nov 21) and Texas A&M (Nov 27)",
+        "Vanderbilt loses to Florida (Nov 21)",
+        "Oklahoma beats Texas A&M (Nov 21)",
+        "Kentucky loses to Missouri (Nov 21)",
+        "Mississippi State loses to Ole Miss (Nov 27)"
+       ],
+       "text": "Texas beats Arkansas (Nov 21) and Texas A&M (Nov 27); Vanderbilt loses to Florida (Nov 21); Oklahoma beats Texas A&M (Nov 21); Kentucky loses to Missouri (Nov 21); Mississippi State loses to Ole Miss (Nov 27)",
+       "p_txt": "17%",
+       "tb_txt": "via tiebreaker in 90% of outcomes"
+      },
+      "scenarios": [
+       {
+        "p": 0.116079,
+        "q": 1.0,
+        "conds": [
+         "Texas beats Arkansas (Nov 21) and Texas A&M (Nov 27)",
+         "Tennessee loses to LSU (Nov 21)",
+         "Georgia beats South Carolina (Nov 21)"
+        ],
+        "text": "Texas beats Arkansas (Nov 21) and Texas A&M (Nov 27); Tennessee loses to LSU (Nov 21); Georgia beats South Carolina (Nov 21)",
+        "p_txt": "12%",
+        "tb_txt": "via tiebreaker in 78% of outcomes"
+       },
+       {
+        "p": 0.115731,
+        "q": 1.0,
+        "conds": [
+         "Texas beats Arkansas (Nov 21) and Texas A&M (Nov 27)",
+         "Tennessee loses to LSU (Nov 21)",
+         "Oklahoma beats Texas A&M (Nov 21)",
+         "Mississippi State loses to Ole Miss (Nov 27)"
+        ],
+        "text": "Texas beats Arkansas (Nov 21) and Texas A&M (Nov 27); Tennessee loses to LSU (Nov 21); Oklahoma beats Texas A&M (Nov 21); Mississippi State loses to Ole Miss (Nov 27)",
+        "p_txt": "12%",
+        "tb_txt": "via tiebreaker in 78% of outcomes"
+       },
+       {
+        "p": 0.10506,
+        "q": 1.0,
+        "conds": [
+         "Texas beats Arkansas (Nov 21) and Texas A&M (Nov 27)",
+         "Vanderbilt loses to Florida (Nov 21)",
+         "Mississippi State loses to Ole Miss (Nov 27)",
+         "Tennessee loses to Vanderbilt (Nov 27)"
+        ],
+        "text": "Texas beats Arkansas (Nov 21) and Texas A&M (Nov 27); Vanderbilt loses to Florida (Nov 21); Mississippi State loses to Ole Miss (Nov 27); Tennessee loses to Vanderbilt (Nov 27)",
+        "p_txt": "11%",
+        "tb_txt": "via tiebreaker in 78% of outcomes"
+       },
+       {
+        "p": 0.104272,
+        "q": 1.0,
+        "conds": [
+         "Texas beats Arkansas (Nov 21) and Texas A&M (Nov 27)",
+         "Georgia beats South Carolina (Nov 21)",
+         "Tennessee loses to Vanderbilt (Nov 27)"
+        ],
+        "text": "Texas beats Arkansas (Nov 21) and Texas A&M (Nov 27); Georgia beats South Carolina (Nov 21); Tennessee loses to Vanderbilt (Nov 27)",
+        "p_txt": "10%",
+        "tb_txt": "via tiebreaker in 78% of outcomes"
+       }
+      ],
+      "more": 16,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "2633",
@@ -2923,7 +5166,78 @@
       "Wins out: 51% to make it.",
       "If Texas A&M beats Texas (Nov 27): 100%, else 38%.",
       "If Arkansas beats Texas (Nov 21): 100%, else 46%."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.120814,
+       "q": 1.0,
+       "conds": [
+        "Tennessee beats LSU (Nov 21) and Vanderbilt (Nov 27)",
+        "Texas loses to Texas A&M (Nov 27)"
+       ],
+       "text": "Tennessee beats LSU (Nov 21) and Vanderbilt (Nov 27); Texas loses to Texas A&M (Nov 27)",
+       "p_txt": "12%",
+       "tb_txt": "via tiebreaker in 78% of outcomes"
+      },
+      "scenarios": [
+       {
+        "p": 0.08617,
+        "q": 1.0,
+        "conds": [
+         "Tennessee beats LSU (Nov 21) and Vanderbilt (Nov 27)",
+         "Georgia loses to South Carolina (Nov 21)",
+         "Missouri loses to Kentucky (Nov 21)",
+         "Alabama beats Auburn (Nov 27)"
+        ],
+        "text": "Tennessee beats LSU (Nov 21) and Vanderbilt (Nov 27); Georgia loses to South Carolina (Nov 21); Missouri loses to Kentucky (Nov 21); Alabama beats Auburn (Nov 27)",
+        "p_txt": "8.6%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.071994,
+        "q": 1.0,
+        "conds": [
+         "Tennessee beats LSU (Nov 21) and Vanderbilt (Nov 27)",
+         "Missouri loses to Kentucky (Nov 21)",
+         "Mississippi State loses to Ole Miss (Nov 27)",
+         "Alabama beats Auburn (Nov 27)",
+         "LSU loses to Arkansas (Nov 27)"
+        ],
+        "text": "Tennessee beats LSU (Nov 21) and Vanderbilt (Nov 27); Missouri loses to Kentucky (Nov 21); Mississippi State loses to Ole Miss (Nov 27); Alabama beats Auburn (Nov 27); LSU loses to Arkansas (Nov 27)",
+        "p_txt": "7.2%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.056577,
+        "q": 1.0,
+        "conds": [
+         "Tennessee beats LSU (Nov 21) and Vanderbilt (Nov 27)",
+         "Texas loses to Arkansas (Nov 21)"
+        ],
+        "text": "Tennessee beats LSU (Nov 21) and Vanderbilt (Nov 27); Texas loses to Arkansas (Nov 21)",
+        "p_txt": "5.7%",
+        "tb_txt": "via tiebreaker in 78% of outcomes"
+       },
+       {
+        "p": 0.032989,
+        "q": 1.0,
+        "conds": [
+         "Tennessee beats LSU (Nov 21) and Vanderbilt (Nov 27)",
+         "Oklahoma loses to Texas A&M (Nov 21)",
+         "Georgia loses to South Carolina (Nov 21)",
+         "Alabama beats Auburn (Nov 27)"
+        ],
+        "text": "Tennessee beats LSU (Nov 21) and Vanderbilt (Nov 27); Oklahoma loses to Texas A&M (Nov 21); Georgia loses to South Carolina (Nov 21); Alabama beats Auburn (Nov 27)",
+        "p_txt": "3.3%",
+        "tb_txt": "via tiebreaker"
+       }
+      ],
+      "more": 11,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "96",
@@ -2972,7 +5286,44 @@
      "path": [
       "Wins out: 1% to make it.",
       "Any loss and it's out."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.001492,
+       "q": 1.0,
+       "conds": [
+        "Oklahoma beats Texas A&M (Nov 21) and Missouri (Nov 28)",
+        "Vanderbilt loses to Florida (Nov 21)",
+        "Tennessee loses to LSU (Nov 21)",
+        "Texas beats Texas A&M (Nov 27) but loses to Arkansas (Nov 21)",
+        "Alabama loses to Auburn (Nov 27)"
+       ],
+       "text": "Oklahoma beats Texas A&M (Nov 21) and Missouri (Nov 28); Vanderbilt loses to Florida (Nov 21); Tennessee loses to LSU (Nov 21); Texas beats Texas A&M (Nov 27) but loses to Arkansas (Nov 21); Alabama loses to Auburn (Nov 27)",
+       "p_txt": "0.1%",
+       "tb_txt": "via tiebreaker"
+      },
+      "scenarios": [
+       {
+        "p": 0.00134,
+        "q": 1.0,
+        "conds": [
+         "Oklahoma beats Texas A&M (Nov 21) and Missouri (Nov 28)",
+         "Vanderbilt loses to Florida (Nov 21)",
+         "Texas beats Texas A&M (Nov 27) but loses to Arkansas (Nov 21)",
+         "Alabama loses to Auburn (Nov 27)",
+         "Tennessee loses to Vanderbilt (Nov 27)"
+        ],
+        "text": "Oklahoma beats Texas A&M (Nov 21) and Missouri (Nov 28); Vanderbilt loses to Florida (Nov 21); Texas beats Texas A&M (Nov 27) but loses to Arkansas (Nov 21); Alabama loses to Auburn (Nov 27); Tennessee loses to Vanderbilt (Nov 27)",
+        "p_txt": "0.1%",
+        "tb_txt": "via tiebreaker"
+       }
+      ],
+      "more": 6,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "57",
@@ -3263,7 +5614,64 @@
      "path": [
       "Controls its own destiny: win out and it's in.",
       "If it loses: 17%; best help: Coastal Carolina over James Madison (Nov 28) (85%)."
-     ]
+     ],
+     "path_detail": {
+      "kind": "destiny",
+      "heading": "Ways in after a loss",
+      "path": null,
+      "scenarios": [
+       {
+        "p": 0.062049,
+        "q": 1.0,
+        "conds": [
+         "Georgia Southern beats Troy (Nov 21) but loses to Louisiana Tech (Nov 28)",
+         "James Madison loses to Coastal Carolina (Nov 28)"
+        ],
+        "text": "Georgia Southern beats Troy (Nov 21) but loses to Louisiana Tech (Nov 28); James Madison loses to Coastal Carolina (Nov 28)",
+        "p_txt": "6.2%",
+        "tb_txt": ""
+       },
+       {
+        "p": 0.040123,
+        "q": 1.0,
+        "conds": [
+         "Georgia Southern beats Louisiana Tech (Nov 28) but loses to Troy (Nov 21)",
+         "James Madison loses to Coastal Carolina (Nov 28)"
+        ],
+        "text": "Georgia Southern beats Louisiana Tech (Nov 28) but loses to Troy (Nov 21); James Madison loses to Coastal Carolina (Nov 28)",
+        "p_txt": "4%",
+        "tb_txt": ""
+       },
+       {
+        "p": 0.018163,
+        "q": 1.0,
+        "conds": [
+         "Georgia Southern loses to Troy (Nov 21) and Louisiana Tech (Nov 28)",
+         "UL Monroe loses to App State (Nov 21)",
+         "South Alabama loses to App State (Nov 27)",
+         "James Madison loses to Coastal Carolina (Nov 28)"
+        ],
+        "text": "Georgia Southern loses to Troy (Nov 21) and Louisiana Tech (Nov 28); UL Monroe loses to App State (Nov 21); South Alabama loses to App State (Nov 27); James Madison loses to Coastal Carolina (Nov 28)",
+        "p_txt": "1.8%",
+        "tb_txt": "via tiebreaker"
+       },
+       {
+        "p": 0.011209,
+        "q": 1.0,
+        "conds": [
+         "Georgia Southern loses to Troy (Nov 21) and Louisiana Tech (Nov 28)",
+         "Louisiana loses to Coastal Carolina (Nov 21)",
+         "James Madison loses to Coastal Carolina (Nov 28)"
+        ],
+        "text": "Georgia Southern loses to Troy (Nov 21) and Louisiana Tech (Nov 28); Louisiana loses to Coastal Carolina (Nov 21); James Madison loses to Coastal Carolina (Nov 28)",
+        "p_txt": "1.1%",
+        "tb_txt": "via tiebreaker"
+       }
+      ],
+      "more": 0,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "256",
@@ -3289,7 +5697,50 @@
       "Beats Coastal Carolina: 72% to make it.",
       "If Louisiana Tech beats Georgia Southern (Nov 28): 100%, else 40%.",
       "If Troy beats Georgia Southern (Nov 21): 100%, else 53%."
-     ]
+     ],
+     "path_detail": {
+      "kind": "chase",
+      "heading": "Other ways in",
+      "path": {
+       "p": 0.417075,
+       "q": 1.0,
+       "conds": [
+        "James Madison beats Coastal Carolina (Nov 28)",
+        "Georgia Southern loses to Louisiana Tech (Nov 28)"
+       ],
+       "text": "James Madison beats Coastal Carolina (Nov 28); Georgia Southern loses to Louisiana Tech (Nov 28)",
+       "p_txt": "42%",
+       "tb_txt": "via tiebreaker in 58% of outcomes"
+      },
+      "scenarios": [
+       {
+        "p": 0.330859,
+        "q": 1.0,
+        "conds": [
+         "James Madison beats Coastal Carolina (Nov 28)",
+         "Georgia Southern loses to Troy (Nov 21)"
+        ],
+        "text": "James Madison beats Coastal Carolina (Nov 28); Georgia Southern loses to Troy (Nov 21)",
+        "p_txt": "33%",
+        "tb_txt": "via tiebreaker in 48% of outcomes"
+       },
+       {
+        "p": 0.081609,
+        "q": 1.0,
+        "conds": [
+         "Coastal Carolina loses to Louisiana (Nov 21)",
+         "Georgia Southern loses to Troy (Nov 21) and Louisiana Tech (Nov 28)",
+         "App State loses to South Alabama (Nov 27)"
+        ],
+        "text": "Coastal Carolina loses to Louisiana (Nov 21); Georgia Southern loses to Troy (Nov 21) and Louisiana Tech (Nov 28); App State loses to South Alabama (Nov 27)",
+        "p_txt": "8.2%",
+        "tb_txt": "via tiebreaker in 20% of outcomes"
+       }
+      ],
+      "more": 0,
+      "capped": false,
+      "approx": false
+     }
     },
     {
      "id": "2026",
