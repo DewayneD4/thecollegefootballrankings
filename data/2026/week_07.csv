@@ -7,7 +7,7 @@ rank,team,record,score,ap_rank,prev_rank,move,move_label,biggest_win,biggest_win
 6,Alabama Crimson Tide,5-2,83.44,7,2,-4,↓4,"@ #4 Kentucky Wildcats, 45-17 (Wk 2)",90.04,333
 7,Ole Miss Rebels,5-1,82.95,25,15,8,↑8,"vs #16 LSU Tigers, 32-24 (Wk 3)",61.61,145
 8,UCLA Bruins,6-0,82.8,4,5,-3,↓3,"@ #23 Oregon Ducks, 17-15 (Wk 6)",63.06,26
-9,Miami Hurricanes,6-0,82.04,5,7,-2,↓2,"@ #17 Wake Forest Demon Deacons, 33-20 (Wk 3)",73.84,2390
+9,Miami Hurricanes,6-0,82.05,5,7,-2,↓2,"@ #17 Wake Forest Demon Deacons, 33-20 (Wk 3)",73.85,2390
 10,Florida Gators,5-2,81.68,23,25,15,↑15,"vs #7 Ole Miss Rebels, 52-28 (Wk 4)",76.84,57
 11,Texas Tech Red Raiders,6-0,78.99,11,9,-2,↓2,"vs #14 Houston Cougars, 28-26 (Wk 3)",59.97,2641
 12,Notre Dame Fighting Irish,6-1,77.84,3,3,-9,↓9,"@ #27 North Carolina Tar Heels, 37-26 (Wk 5)",61.01,87
@@ -23,8 +23,8 @@ rank,team,record,score,ap_rank,prev_rank,move,move_label,biggest_win,biggest_win
 22,Oklahoma State Cowboys,4-2,70.28,,16,-6,↓6,"vs #23 Oregon Ducks, 39-31 (Wk 2)",56.8,197
 23,Oregon Ducks,4-2,70.27,14,22,-1,↓1,"@ #18 USC Trojans, 41-27 (Wk 4)",73.61,2483
 24,Utah Utes,6-0,70.07,2,23,-1,↓1,"@ #64 Iowa State Cyclones, 31-17 (Wk 4)",41.46,254
-25,Auburn Tigers,4-2,68.24,,39,14,↑14,"@ #5 Georgia Bulldogs, 27-24 (Wk 7)",76.25,2
-26,Boise State Broncos,5-1,66.48,15,19,-7,↓7,,,68
+25,Auburn Tigers,4-2,68.23,,39,14,↑14,"@ #5 Georgia Bulldogs, 27-24 (Wk 7)",76.25,2
+26,Boise State Broncos,5-1,66.49,15,19,-7,↓7,,,68
 27,North Carolina Tar Heels,4-2,66.05,,41,14,↑14,,,153
 28,Iowa Hawkeyes,5-1,65.47,13,26,-2,↓2,,,2294
 29,North Dakota State Bison,6-1,64.64,,34,5,↑5,,,2449
@@ -40,7 +40,7 @@ rank,team,record,score,ap_rank,prev_rank,move,move_label,biggest_win,biggest_win
 39,Oklahoma Sooners,3-3,58.64,,29,-10,↓10,,,201
 40,Wisconsin Badgers,4-2,57.56,,31,-9,↓9,,,275
 41,South Carolina Gamecocks,3-3,57.39,,37,-4,↓4,,,2579
-42,Liberty Flames,5-1,55.52,22,38,-4,↓4,,,2335
+42,Liberty Flames,5-1,55.51,22,38,-4,↓4,,,2335
 43,North Texas Mean Green,4-2,55.45,,45,2,↑2,,,249
 44,Cincinnati Bearcats,4-2,55.21,,43,-1,↓1,,,2132
 45,Memphis Tigers,5-2,54.85,24,33,-12,↓12,,,235
@@ -51,7 +51,7 @@ rank,team,record,score,ap_rank,prev_rank,move,move_label,biggest_win,biggest_win
 50,Duke Blue Devils,4-2,53.46,,42,-8,↓8,,,150
 51,Louisville Cardinals,4-3,53.43,21,62,11,↑11,,,97
 52,Oregon State Beavers,5-2,53.09,,55,3,↑3,,,204
-53,Clemson Tigers,4-2,53.03,,40,-13,↓13,,,228
+53,Clemson Tigers,4-2,53.02,,40,-13,↓13,,,228
 54,South Florida Bulls,5-2,52.92,,58,4,↑4,,,58
 55,Louisiana Tech Bulldogs,4-2,52.19,,63,8,↑8,,,2348
 56,Kansas State Wildcats,4-2,51.04,,68,12,↑12,,,2306
@@ -61,29 +61,29 @@ rank,team,record,score,ap_rank,prev_rank,move,move_label,biggest_win,biggest_win
 60,South Alabama Jaguars,4-2,49.53,,66,6,↑6,,,6
 61,Toledo Rockets,5-2,49.33,,74,13,↑13,,,2649
 62,Ohio Bobcats,5-2,49.28,,69,7,↑7,,,195
-63,Western Michigan Broncos,5-2,49.14,,71,8,↑8,,,2711
+63,Western Michigan Broncos,5-2,49.16,,71,8,↑8,,,2711
 64,Iowa State Cyclones,3-3,48.82,,67,3,↑3,,,66
 65,West Virginia Mountaineers,4-3,48.81,,84,19,↑19,,,277
 66,Louisiana Ragin' Cajuns,5-2,48.47,,81,15,↑15,,,309
 67,Jacksonville State Gamecocks,5-2,48.45,,80,13,↑13,,,55
-68,TCU Horned Frogs,3-3,48.01,,99,31,↑31,,,2628
+68,TCU Horned Frogs,3-3,48.0,,99,31,↑31,,,2628
 69,Fresno State Bulldogs,4-3,46.56,,57,-12,↓12,,,278
 70,Virginia Cavaliers,4-3,46.16,,54,-16,↓16,,,258
 71,UNLV Rebels,4-3,46.12,,50,-21,↓21,,,2439
 72,Illinois Fighting Illini,3-3,46.0,,72,0,—,,,356
 73,Miami (OH) RedHawks,4-3,45.48,,76,3,↑3,,,193
 74,Boston College Eagles,3-3,45.36,,102,28,↑28,,,103
-75,Florida Atlantic Owls,4-2,45.33,,56,-19,↓19,,,2226
+75,Florida Atlantic Owls,4-2,45.34,,56,-19,↓19,,,2226
 76,App State Mountaineers,4-2,45.2,,83,7,↑7,,,2026
 77,Georgia State Panthers,4-2,45.06,,59,-18,↓18,,,2247
 78,Purdue Boilermakers,3-4,44.79,,47,-31,↓31,,,2509
 79,Tulsa Golden Hurricane,4-3,44.41,,87,8,↑8,,,202
 80,Penn State Nittany Lions,3-4,44.36,,65,-15,↓15,,,213
 81,Arkansas Razorbacks,3-4,44.0,,104,23,↑23,,,8
-82,Florida State Seminoles,3-4,43.98,,79,-3,↓3,,,52
-83,NC State Wolfpack,3-3,42.6,,61,-22,↓22,,,152
-84,Florida International Panthers,3-3,42.58,,89,5,↑5,,,2229
-85,Buffalo Bulls,4-3,42.57,,107,22,↑22,,,2084
+82,Florida State Seminoles,3-4,43.97,,79,-3,↓3,,,52
+83,Florida International Panthers,3-3,42.62,,89,6,↑6,,,2229
+84,Buffalo Bulls,4-3,42.61,,107,23,↑23,,,2084
+85,NC State Wolfpack,3-3,42.6,,61,-24,↓24,,,152
 86,Arizona State Sun Devils,3-3,42.47,,70,-16,↓16,,,9
 87,UConn Huskies,3-3,42.45,,77,-10,↓10,,,41
 88,Wyoming Cowboys,4-3,42.33,,93,5,↑5,,,2751
@@ -95,27 +95,27 @@ rank,team,record,score,ap_rank,prev_rank,move,move_label,biggest_win,biggest_win
 94,Texas State Bobcats,3-3,39.03,,109,15,↑15,,,326
 95,Vanderbilt Commodores,3-4,39.01,,60,-35,↓35,,,238
 96,Marshall Thundering Herd,3-3,38.75,,105,9,↑9,,,276
-97,Massachusetts Minutemen,4-3,38.04,,88,-9,↓9,,,113
-98,Rutgers Scarlet Knights,2-4,38.03,,116,18,↑18,,,164
+97,Massachusetts Minutemen,4-3,38.03,,88,-9,↓9,,,113
+98,Rutgers Scarlet Knights,2-4,38.02,,116,18,↑18,,,164
 99,Georgia Southern Eagles,3-4,37.79,,108,9,↑9,,,290
 100,Middle Tennessee Blue Raiders,3-3,36.56,,113,13,↑13,,,2393
-101,Stanford Cardinal,3-4,35.35,,110,9,↑9,,,24
+101,Stanford Cardinal,3-4,35.34,,110,9,↑9,,,24
 102,Michigan State Spartans,2-5,35.06,,100,-2,↓2,,,127
 103,Eastern Michigan Eagles,4-4,34.81,,95,-8,↓8,,,2199
 104,East Carolina Pirates,3-3,34.75,,98,-6,↓6,,,151
 105,Syracuse Orange,2-4,34.51,,75,-30,↓30,,,183
 106,Kansas Jayhawks,2-4,34.38,,101,-5,↓5,,,2305
-107,Troy Trojans,3-3,34.19,,96,-11,↓11,,,2653
+107,Troy Trojans,3-3,34.18,,96,-11,↓11,,,2653
 108,Maryland Terrapins,2-5,33.32,,97,-11,↓11,,,120
 109,Georgia Tech Yellow Jackets,2-4,33.05,,103,-6,↓6,,,59
 110,San Diego State Aztecs,3-4,32.1,,119,9,↑9,,,21
 111,Arkansas State Red Wolves,3-4,32.05,,118,7,↑7,,,2032
 112,Navy Midshipmen,2-4,31.91,,86,-26,↓26,,,2426
-113,New Mexico State Aggies,2-4,30.33,,121,8,↑8,,,166
-114,Nevada Wolf Pack,2-4,30.32,,114,0,—,,,2440
-115,Western Kentucky Hilltoppers,3-4,30.31,,124,9,↑9,,,98
-116,Utah State Aggies,2-4,29.99,,115,-1,↓1,,,328
-117,Central Michigan Chippewas,3-4,29.62,,92,-25,↓25,,,2117
+113,New Mexico State Aggies,2-4,30.32,,121,8,↑8,,,166
+114,Nevada Wolf Pack,2-4,30.31,,114,0,—,,,2440
+115,Western Kentucky Hilltoppers,3-4,30.3,,124,9,↑9,,,98
+116,Utah State Aggies,2-4,29.98,,115,-1,↓1,,,328
+117,Central Michigan Chippewas,3-4,29.63,,92,-25,↓25,,,2117
 118,Temple Owls,2-5,28.98,,112,-6,↓6,,,218
 119,Delaware Blue Hens,2-4,28.12,,111,-8,↓8,,,48
 120,Colorado State Rams,2-4,27.78,,91,-29,↓29,,,36
@@ -128,12 +128,12 @@ rank,team,record,score,ap_rank,prev_rank,move,move_label,biggest_win,biggest_win
 127,Sam Houston Bearkats,1-5,20.41,,123,-4,↓4,,,2534
 128,Kennesaw State Owls,1-5,20.23,,125,-3,↓3,,,338
 129,Southern Miss Golden Eagles,1-5,19.66,,127,-2,↓2,,,2572
-130,Hawai'i Rainbow Warriors,1-6,17.81,,128,-2,↓2,,,62
+130,Hawai'i Rainbow Warriors,1-6,17.8,,128,-2,↓2,,,62
 131,Charlotte 49ers,1-6,15.72,,138,7,↑7,,,2429
 132,Washington State Cougars,1-6,15.55,,130,-2,↓2,,,265
-133,Rice Owls,1-6,15.08,,131,-2,↓2,,,242
+133,Rice Owls,1-6,15.07,,131,-2,↓2,,,242
 134,UTEP Miners,1-6,14.37,,133,-1,↓1,,,2638
-135,Akron Zips,1-6,14.05,,132,-3,↓3,,,2006
+135,Akron Zips,1-6,14.09,,132,-3,↓3,,,2006
 136,Sacramento State Hornets,1-6,13.49,,134,-2,↓2,,,16
 137,Northern Illinois Huskies,0-6,12.85,,135,-2,↓2,,,2459
 138,UL Monroe Warhawks,0-6,11.77,,137,-1,↓1,,,2433

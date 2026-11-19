@@ -114,7 +114,7 @@
       "week": 10,
       "label": "2026 Week 10",
       "overlap_top25": 20,
-      "spearman_ap25": 0.7730769230769231,
+      "spearman_ap25": 0.7707692307692308,
       "model_1": "Georgia Bulldogs",
       "ap_1": "Georgia",
       "ap_week": 12,
@@ -131,5 +131,5 @@
       "n_games": 752
     }
   ],
-  "updated": "2026-11-18"
+  "updated": "2026-11-19"
 }
